@@ -12,7 +12,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
@@ -25,16 +25,33 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Configure git
+        run: |
+          git config user.name "AI Daily Bot"
+          git config user.email "bot@ai-daily.local"
+
       - name: Fetch and score articles
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
         run: python scripts/fetch.py
 
-      - name: Commit and push
+      - name: Commit articles
         run: |
-          git config user.name "AI Daily Bot"
-          git config user.email "bot@ai-daily.local"
           git add docs/data/articles.json
           git diff --quiet --cached || git commit -m "update $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Summarize newly selected papers
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
+          PUSH_EACH: "1"
+        run: python scripts/summarize.py
+
+      - name: Commit summaries
+        if: always()
+        run: |
+          git add docs/data/summaries
+          git diff --quiet --cached || git commit -m "summaries $(date -u +%Y-%m-%d)"
+          git push || true
