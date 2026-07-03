@@ -1,0 +1,37 @@
+{
+  "titleCn": "GraphStory：通过基于事件的叙事编辑实现协作故事写作",
+  "overview": "...",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "..."
+    },
+    {
+      "heading": "相关工作",
+      "summary": "..."
+    },
+    {
+      "heading": "系统设计",
+      "summary": "..."
+    },
+    {
+      "heading": "用户研究",
+      "summary": "..."
+    },
+    {
+      "heading": "结果与讨论",
+      "summary": "..."
+    },
+    {
+      "heading": "结论",
+      "summary": "..."
+    }
+  ],
+  "id": "2606.16102",
+  "title": "Scaling Instruction-Following in Multi-Agent Cooperative Environments",
+  "url": "https://arxiv.org/abs/2606.16102",
+  "source": "arXiv cs.AI",
+  "date": "2026-06-25",
+  "hasFullText": true,
+  "generatedAt": "2026-07-03T20:45:14.859177+08:00"
+}
