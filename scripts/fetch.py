@@ -175,24 +175,34 @@ def score_articles(articles):
                 },
                 json={
                     "model": MINIMAX_MODEL,
-                    "max_tokens": 400,
+                    "max_tokens": 4096,
                     "messages": [{"role": "user", "content": prompt}],
                 },
                 timeout=60,
             )
             response.raise_for_status()
             result = response.json()
-            print(f"  [DEBUG] API 原始响应键: {list(result.keys())}")
-            print(f"  [DEBUG] API 原始响应: {json.dumps(result, ensure_ascii=False)[:500]}")
 
-            # 兼容 Anthropic 格式和 OpenAI 格式
+            # 兼容 MiniMax extended thinking: content 数组中可能有 thinking 和 text 两种元素
             content = ""
             if "content" in result and isinstance(result["content"], list):
-                content = result["content"][0].get("text", "")
+                for block in result["content"]:
+                    if isinstance(block, dict) and "text" in block:
+                        content = block["text"]
+                        break
+                    elif isinstance(block, str):
+                        content = block
+                        break
+                # 如果只有 thinking 没有 text，从 thinking 中提取
+                if not content:
+                    for block in result["content"]:
+                        if isinstance(block, dict) and "thinking" in block:
+                            content = block["thinking"]
+                            break
             elif "choices" in result:
                 content = result["choices"][0].get("message", {}).get("content", "")
 
-            print(f"  [DEBUG] 解析内容: {content[:300]}")
+            print(f"  [DEBUG] 解析内容: {content[:200]}")
 
             json_match = re.search(r"\[.*\]", content, re.DOTALL)
             if json_match:
