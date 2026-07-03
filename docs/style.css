@@ -261,6 +261,14 @@ header {
 .source-tag[data-cat="论文"]     { background: var(--cat-paper-bg); color: var(--cat-paper); }
 .source-tag[data-cat="中文资讯"] { background: var(--cat-cn-bg); color: var(--cat-cn); }
 
+.article-date-tag {
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 11px;
+  background: #f1f5f9;
+  color: var(--text-2);
+}
+
 .article-arrow {
   color: var(--text-3);
   flex-shrink: 0;
