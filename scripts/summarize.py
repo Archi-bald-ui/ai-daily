@@ -19,6 +19,9 @@ MINIMAX_API_URL = os.environ.get(
 )
 MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "")
 MINIMAX_MODEL = os.environ.get("MINIMAX_MODEL", "MiniMax-M2.7")
+# 是否抓取 arXiv 真实全文。默认关闭：demo 数据的 arXiv 编号为占位，
+# 抓真实全文会得到无关论文，导致摘要与标题不符，故基于标题生成。
+USE_FULLTEXT = os.environ.get("USE_FULLTEXT", "0") == "1"
 CST = timezone(timedelta(hours=8))
 
 ROOT = Path(__file__).parent.parent
@@ -171,8 +174,8 @@ def main():
 
         print(f"📄 {pid} — {a['title'][:50]}")
         try:
-            body = fetch_paper_text(pid)
-            print(f"   正文 {len(body)} 字" if body else "   未获取到正文，基于标题生成")
+            body = fetch_paper_text(pid) if USE_FULLTEXT else ""
+            print(f"   正文 {len(body)} 字" if body else "   基于标题生成")
             result = summarize(a["title"], a["source"], body)
             result.update(
                 {
