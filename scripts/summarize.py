@@ -9,6 +9,7 @@ import os
 import re
 import json
 import time
+import subprocess
 import requests
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -52,15 +53,14 @@ def html_to_text(html):
 
 def fetch_paper_text(pid):
     """尝试抓取 arXiv 正文，成功返回文本，失败返回空串"""
-    for url in (f"https://arxiv.org/html/{pid}", f"https://ar5iv.labs.arxiv.org/html/{pid}"):
-        try:
-            r = requests.get(url, timeout=30, headers=UA)
-            if r.status_code == 200 and len(r.text) > 3000:
-                text = html_to_text(r.text)
-                if len(text) > 1500:
-                    return text[:9000]
-        except Exception:
-            pass
+    try:
+        r = requests.get(f"https://arxiv.org/html/{pid}", timeout=20, headers=UA)
+        if r.status_code == 200 and len(r.text) > 3000:
+            text = html_to_text(r.text)
+            if len(text) > 1500:
+                return text[:9000]
+    except Exception:
+        pass
     return ""
 
 
@@ -128,7 +128,7 @@ def summarize(title, source, body):
         },
         json={
             "model": MINIMAX_MODEL,
-            "max_tokens": 8000,
+            "max_tokens": 4096,
             "messages": [{"role": "user", "content": prompt}],
         },
         timeout=120,
@@ -139,6 +139,18 @@ def summarize(title, source, body):
     if not m:
         raise ValueError("未匹配到JSON")
     return json.loads(m.group())
+
+
+def git_push(path, msg):
+    """每生成一篇立即提交，避免任务被超时取消时丢失进度"""
+    if os.environ.get("PUSH_EACH") != "1":
+        return
+    try:
+        subprocess.run(["git", "add", str(path)], check=True)
+        subprocess.run(["git", "commit", "-m", msg], check=True)
+        subprocess.run(["git", "push"], check=True)
+    except Exception as e:
+        print(f"   ⚠ push 失败: {e}")
 
 
 def main():
@@ -176,6 +188,7 @@ def main():
             json.dump(result, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
             done += 1
             print(f"   ✓ 已保存 {len(result.get('sections', []))} 节")
+            git_push(out, f"summary: {pid}")
         except Exception as e:
             print(f"   ✗ 失败: {e}")
         time.sleep(1)
