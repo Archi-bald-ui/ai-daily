@@ -128,7 +128,7 @@ def summarize(title, source, body):
         },
         json={
             "model": MINIMAX_MODEL,
-            "max_tokens": 4096,
+            "max_tokens": 8000,
             "messages": [{"role": "user", "content": prompt}],
         },
         timeout=120,
