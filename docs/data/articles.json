@@ -1,0 +1,109 @@
+{
+  "lastUpdated": "2026-07-02T08:03:00+08:00",
+  "articles": [
+    {
+      "title": "Claude Sonnet 5 发布：推理能力大幅提升",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "score": 10,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "OpenAI 发布 GPT-5.5 Turbo，上下文窗口扩展至 500K",
+      "url": "https://openai.com/blog/gpt-5-5-turbo",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "score": 9,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Google DeepMind 开源 Gemma 3 模型家族",
+      "url": "https://blog.google/technology/ai/gemma-3",
+      "source": "Google AI",
+      "category": "技术博客",
+      "score": 8,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "花旗等企业限制员工使用旗舰 AI 模型以控制成本",
+      "url": "https://www.theverge.com/2026/7/2/ai-cost-control",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "score": 8,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率",
+      "url": "https://techcrunch.com/2026/07/02/fable-5-rli",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "score": 7,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "OpenAI 拟向特朗普政府提供 5% 股份",
+      "url": "https://arstechnica.com/ai/2026/07/openai-government-stake",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "score": 7,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Scaling Laws for Language Model Agents in Complex Environments",
+      "url": "https://arxiv.org/abs/2607.00001",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "score": 9,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "ReasonFlow: Chain-of-Thought Distillation for Small Models",
+      "url": "https://arxiv.org/abs/2607.00042",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "score": 8,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Claude Code 负责人承认留有后门，明日回滚",
+      "url": "https://www.jiqizhixin.com/articles/2026-07-02-claude-code",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "score": 8,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "大模型成本失控：企业 AI 月账单翻三倍",
+      "url": "https://www.qbitai.com/2026/07/ai-cost-crisis",
+      "source": "量子位",
+      "category": "中文资讯",
+      "score": 7,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "HuggingFace 推出 SmolAgent 2.0 框架",
+      "url": "https://huggingface.co/blog/smolagent-2",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "score": 8,
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Meta 发布 Llama 4 Scout 开源模型",
+      "url": "https://www.theverge.com/2026/7/1/llama-4-scout",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "score": 9,
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Visual Reasoning Without Vision: Text-Only Models Beat Multimodal on VQA",
+      "url": "https://arxiv.org/abs/2606.99001",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "score": 8,
+      "date": "2026-07-01"
+    }
+  ]
+}

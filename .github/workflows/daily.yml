@@ -1,0 +1,40 @@
+name: Daily AI News Fetch
+
+on:
+  schedule:
+    # 每天 8:00 CST = 0:00 UTC
+    - cron: "3 0 * * *"
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and score articles
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
+        run: python scripts/fetch.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "AI Daily Bot"
+          git config user.email "bot@ai-daily.local"
+          git add docs/data/articles.json
+          git diff --quiet --cached || git commit -m "update $(date -u +%Y-%m-%d)"
+          git push
