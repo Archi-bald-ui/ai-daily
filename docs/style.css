@@ -144,6 +144,7 @@ header {
   justify-content: center;
   gap: 16px;
   padding: 18px 0 8px;
+  position: relative;
 }
 
 .date-nav button {
@@ -164,6 +165,19 @@ header {
   background: var(--primary-light);
   color: var(--primary);
   border-color: var(--primary);
+}
+
+.date-pick-btn {
+  margin-left: 4px;
+}
+
+.date-picker-hidden {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
 }
 
 #current-date {
