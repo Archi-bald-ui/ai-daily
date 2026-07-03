@@ -132,6 +132,18 @@
       }
     });
 
+    const datePicker = $("#date-picker");
+    $("#pick-date").addEventListener("click", () => {
+      datePicker.value = formatDate(currentDate);
+      datePicker.showPicker();
+    });
+    datePicker.addEventListener("change", (e) => {
+      if (e.target.value) {
+        currentDate = parseDate(e.target.value);
+        render();
+      }
+    });
+
     document.addEventListener("keydown", (e) => {
       if (e.target.tagName === "INPUT") return;
       if (e.key === "ArrowLeft") $("#prev-date").click();
