@@ -182,9 +182,17 @@ def score_articles(articles):
             )
             response.raise_for_status()
             result = response.json()
-            content = result.get("content", [{}])[0].get("text", "")
+            print(f"  [DEBUG] API 原始响应键: {list(result.keys())}")
+            print(f"  [DEBUG] API 原始响应: {json.dumps(result, ensure_ascii=False)[:500]}")
 
-            print(f"  [DEBUG] API 响应: {content[:300]}")
+            # 兼容 Anthropic 格式和 OpenAI 格式
+            content = ""
+            if "content" in result and isinstance(result["content"], list):
+                content = result["content"][0].get("text", "")
+            elif "choices" in result:
+                content = result["choices"][0].get("message", {}).get("content", "")
+
+            print(f"  [DEBUG] 解析内容: {content[:300]}")
 
             json_match = re.search(r"\[.*\]", content, re.DOTALL)
             if json_match:
