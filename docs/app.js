@@ -39,22 +39,28 @@
     const dateStr = formatDate(currentDate);
     $("#current-date").textContent = formatDateDisplay(currentDate);
 
-    let filtered = allArticles.filter((a) => a.date === dateStr);
+    let filtered;
+
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = allArticles.filter(
+        (a) =>
+          a.title.toLowerCase().includes(q) ||
+          a.source.toLowerCase().includes(q) ||
+          a.category.toLowerCase().includes(q)
+      );
+    } else {
+      filtered = allArticles.filter((a) => a.date === dateStr);
+    }
 
     if (currentCategory !== "all") {
       filtered = filtered.filter((a) => a.category === currentCategory);
     }
 
-    if (searchQuery) {
-      const q = searchQuery.toLowerCase();
-      filtered = filtered.filter(
-        (a) =>
-          a.title.toLowerCase().includes(q) ||
-          a.source.toLowerCase().includes(q)
-      );
-    }
-
-    filtered.sort((a, b) => (b.score || 0) - (a.score || 0));
+    filtered.sort((a, b) => {
+      if (a.date !== b.date) return b.date.localeCompare(a.date);
+      return (b.score || 0) - (a.score || 0);
+    });
 
     const container = $("#articles");
     const empty = $("#empty-state");
@@ -82,6 +88,7 @@
           <div class="article-meta">
             <span class="source-tag" data-cat="${escapeAttr(article.category)}">${escapeHtml(article.source)}</span>
             <span>${escapeHtml(article.category)}</span>
+            ${searchQuery ? `<span class="article-date-tag">${article.date.slice(5)}</span>` : ""}
           </div>
         </div>
         <svg class="article-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
