@@ -16,7 +16,7 @@ MINIMAX_API_URL = os.environ.get(
 )
 MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "")
 MINIMAX_MODEL = os.environ.get("MINIMAX_MODEL", "MiniMax-M2.7")
-SCORE_THRESHOLD = 7
+SCORE_THRESHOLD = 6
 MAX_PER_CATEGORY = 3
 CST = timezone(timedelta(hours=8))
 DATA_KEEP_DAYS = 30
@@ -184,6 +184,8 @@ def score_articles(articles):
             result = response.json()
             content = result.get("content", [{}])[0].get("text", "")
 
+            print(f"  [DEBUG] API 响应: {content[:300]}")
+
             json_match = re.search(r"\[.*\]", content, re.DOTALL)
             if json_match:
                 scores = json.loads(json_match.group())
@@ -191,11 +193,13 @@ def score_articles(articles):
                     idx = item.get("index", 0) - 1
                     if 0 <= idx < len(batch):
                         batch[idx]["score"] = max(1, min(10, item.get("score", 5)))
+                print(f"  ✓ 批次 {i // 8 + 1} 评分完成: {[a.get('score', '?') for a in batch]}")
+            else:
+                print(f"  ⚠ 批次 {i // 8 + 1} 未匹配到JSON数组")
 
             for a in batch:
                 a.setdefault("score", 5)
             scored.extend(batch)
-            print(f"  ✓ 批次 {i // 8 + 1} 评分完成")
 
         except Exception as e:
             print(f"  ✗ 批次 {i // 8 + 1} 评分失败: {e}")
