@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-07-03T12:45:46.244981+08:00",
+  "lastUpdated": "2026-07-03T18:09:50.247234+08:00",
   "articles": [
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "url": "https://arxiv.org/abs/2607.01306",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+      "url": "https://arxiv.org/abs/2607.01366",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "The Wiola Architecture for Efficient Small Language Models",
+      "url": "https://arxiv.org/abs/2607.01394",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 8
+    },
     {
       "title": "Claude Sonnet 5 发布：推理能力大幅提升",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
@@ -24,6 +64,14 @@
       "category": "论文",
       "score": 9,
       "date": "2026-07-02"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-02",
+      "score": 9
     },
     {
       "title": "Google DeepMind 开源 Gemma 3 模型家族",
@@ -56,6 +104,22 @@
       "category": "中文资讯",
       "score": 8,
       "date": "2026-07-02"
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-02",
+      "score": 8
+    },
+    {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-02",
+      "score": 8
     },
     {
       "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率",
@@ -104,6 +168,30 @@
       "category": "论文",
       "score": 8,
       "date": "2026-07-01"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-01",
+      "score": 8
+    },
+    {
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-01",
+      "score": 8
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-01",
+      "score": 7
     }
   ]
 }
