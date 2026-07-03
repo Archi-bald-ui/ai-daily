@@ -80,21 +80,26 @@
   function renderCard(article) {
     const scoreClass =
       article.score >= 10 ? "s10" : article.score >= 9 ? "s9" : "";
+    const isPaper = article.category === "论文";
+    const pid = isPaper ? paperId(article.url) : "";
     return `
-      <a class="article-card" href="${escapeAttr(article.url)}" target="_blank" rel="noopener noreferrer">
+      <div class="article-card">
         <div class="article-score ${scoreClass}">${article.score || "-"}</div>
-        <div class="article-info">
-          <div class="article-title">${escapeHtml(article.title)}</div>
-          <div class="article-meta">
-            <span class="source-tag" data-cat="${escapeAttr(article.category)}">${escapeHtml(article.source)}</span>
-            <span>${escapeHtml(article.category)}</span>
-            ${searchQuery ? `<span class="article-date-tag">${article.date.slice(5)}</span>` : ""}
+        <a class="article-main" href="${escapeAttr(article.url)}" target="_blank" rel="noopener noreferrer">
+          <div class="article-info">
+            <div class="article-title">${escapeHtml(article.title)}</div>
+            <div class="article-meta">
+              <span class="source-tag" data-cat="${escapeAttr(article.category)}">${escapeHtml(article.source)}</span>
+              <span>${escapeHtml(article.category)}</span>
+              ${searchQuery ? `<span class="article-date-tag">${article.date.slice(5)}</span>` : ""}
+            </div>
           </div>
-        </div>
-        <svg class="article-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="m9 18 6-6-6-6"/>
-        </svg>
-      </a>`;
+          <svg class="article-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="m9 18 6-6-6-6"/>
+          </svg>
+        </a>
+        ${isPaper ? `<button class="summary-btn" data-id="${escapeAttr(pid)}" data-title="${escapeAttr(article.title)}">📄 中文摘要</button>` : ""}
+      </div>`;
   }
 
   // ── Events ──
@@ -148,7 +153,83 @@
       if (e.target.tagName === "INPUT") return;
       if (e.key === "ArrowLeft") $("#prev-date").click();
       if (e.key === "ArrowRight") $("#next-date").click();
+      if (e.key === "Escape") closeReader();
     });
+
+    // 论文中文摘要按钮
+    $("#articles").addEventListener("click", (e) => {
+      const btn = e.target.closest(".summary-btn");
+      if (!btn) return;
+      e.preventDefault();
+      openSummary(btn.dataset.id, btn.dataset.title);
+    });
+
+    $(".reader-close").addEventListener("click", closeReader);
+    $(".reader-backdrop").addEventListener("click", closeReader);
+  }
+
+  // ── 论文摘要阅读器 ──
+  function paperId(url) {
+    const m = url.match(/(\d{4}\.\d{4,5})/);
+    return m ? m[1] : encodeURIComponent(url.replace(/\/$/, "").split("/").pop());
+  }
+
+  async function openSummary(id, title) {
+    const modal = $("#reader-modal");
+    const content = $("#reader-content");
+    modal.style.display = "block";
+    document.body.style.overflow = "hidden";
+    content.innerHTML = `
+      <div class="reader-loading">
+        <div class="spinner"></div>
+        <p>正在读取摘要...</p>
+      </div>`;
+
+    try {
+      const resp = await fetch(`data/summaries/${id}.json`);
+      if (!resp.ok) throw new Error("not found");
+      const data = await resp.json();
+      content.innerHTML = renderReader(data, title);
+    } catch {
+      content.innerHTML = `
+        <div class="reader-empty">
+          <div class="empty-icon">🕐</div>
+          <p>该论文的中文摘要尚未生成</p>
+          <p class="empty-hint">摘要由后台定时批量生成，请稍后再来查看</p>
+        </div>`;
+    }
+  }
+
+  function renderReader(data, fallbackTitle) {
+    const sections = (data.sections || [])
+      .map(
+        (s) => `
+        <section class="reader-section">
+          <h3>${escapeHtml(s.heading || "")}</h3>
+          <p>${escapeHtml(s.summary || "")}</p>
+        </section>`
+      )
+      .join("");
+    const meta = [data.source, data.date, data.hasFullText ? "基于全文" : "基于标题"]
+      .filter(Boolean)
+      .join(" · ");
+    return `
+      <article class="reader-doc">
+        <div class="reader-head">
+          <h2>${escapeHtml(data.titleCn || fallbackTitle || "")}</h2>
+          <p class="reader-en">${escapeHtml(data.title || fallbackTitle || "")}</p>
+          <p class="reader-meta">${escapeHtml(meta)}</p>
+          ${data.url ? `<a class="reader-origin" href="${escapeAttr(data.url)}" target="_blank" rel="noopener noreferrer">查看原文 →</a>` : ""}
+        </div>
+        ${data.overview ? `<div class="reader-overview"><h3>概述</h3><p>${escapeHtml(data.overview)}</p></div>` : ""}
+        ${sections}
+      </article>`;
+  }
+
+  function closeReader() {
+    const modal = $("#reader-modal");
+    if (modal) modal.style.display = "none";
+    document.body.style.overflow = "";
   }
 
   // ── Helpers ──
