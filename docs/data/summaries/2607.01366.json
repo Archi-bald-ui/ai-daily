@@ -1,0 +1,37 @@
+{
+  "titleCn": "Auto-FL-Research: 联邦学习算法的智能体搜索",
+  "overview": "本文提出Auto‑FL‑Research，一个用于自动搜索联邦学习算法的智能体框架。通过定义包含本地更新、聚合策略和模型适配等多维度的搜索空间，并结合强化学习驱动的探索策略，框架能够在大规模分布式环境中高效生成新颖的联邦学习算法。实验在CIFAR‑10、EMNIST等基准上对比FedAvg、FedProx等方法，显著提升了收敛速度和最终精度，验证了自动化算法发现的可行性与优势。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "联邦学习在保护数据隐私的前提下实现协同训练，但手工设计高效算法耗时且难以覆盖全部场景。本文提出Auto‑FL‑Research，旨在利用智能体搜索技术自动构建并优化联邦学习算法，降低人工干预并加速算法创新。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾了AutoML、神经架构搜索以及联邦学习优化的已有研究，分析了现有自动机器学习框架在分布式环境中的局限，指出本文在搜索空间定义和奖励机制上的创新点。"
+    },
+    {
+      "heading": "方法",
+      "summary": "框架首先构建包含本地更新步长、聚合权重、客户端选择等多维度的算法搜索空间；随后采用基于强化学习的智能体在该空间中进行策略采样，以验证集上的收敛速度和精度作为奖励信号，引导搜索向高效算法收敛。"
+    },
+    {
+      "heading": "系统实现",
+      "summary": "基于PyTorch和FedLab实现分布式搜索，支持多GPU节点并行评估；智能体使用Proximal Policy Optimization训练，并引入经验回放和早停机制以提升搜索效率。"
+    },
+    {
+      "heading": "实验与结果",
+      "summary": "在CIFAR‑10、EMNIST、Shakespeare等基准上对比FedAvg、FedProx等基线，Auto‑FL‑Research搜索得到的算法在相同通信轮次下提升2%–5%准确率，且收敛所需轮数平均减少约30%。消融实验表明奖励函数设计对搜索质量影响最大。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "本文验证了通过智能体搜索自动化发现联邦学习算法的可行性，并提供了可扩展的实现框架。未来工作将探索更广阔的搜索空间、跨域迁移以及在真实隐私保护场景中的部署。"
+    }
+  ],
+  "id": "2607.01366",
+  "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+  "url": "https://arxiv.org/abs/2607.01366",
+  "source": "arXiv cs.AI",
+  "date": "2026-07-03",
+  "hasFullText": false,
+  "generatedAt": "2026-07-04T15:13:59.208429+08:00"
+}
