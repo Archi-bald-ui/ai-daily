@@ -1,115 +1,733 @@
 {
-  "lastUpdated": "2026-07-03T18:09:50.247234+08:00",
+  "lastUpdated": "2026-07-04T11:59:33.798591+08:00",
   "articles": [
-    {"title": "Anthropic is discussing a new custom chip with Samsung", "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-07-03", "score": 8},
-    {"title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations", "url": "https://arxiv.org/abs/2607.01306", "source": "arXiv cs.AI", "category": "论文", "date": "2026-07-03", "score": 8},
-    {"title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms", "url": "https://arxiv.org/abs/2607.01366", "source": "arXiv cs.AI", "category": "论文", "date": "2026-07-03", "score": 8},
-    {"title": "Google AI June 2026 Pixel Drop: New Features", "url": "https://blog.google/products/pixel/pixel-drop-june-2026/", "source": "Google AI", "category": "技术博客", "date": "2026-07-03", "score": 7},
-    {"title": "量子位2026中国AIGC年中盘点：Agent成最大赢家", "url": "https://www.qbitai.com/2026/07/436201.html", "source": "量子位", "category": "中文资讯", "date": "2026-07-03", "score": 7},
-    {"title": "英伟达开源机器人技能库 RoboSkill", "url": "https://www.qbitai.com/2026/07/436189.html", "source": "量子位", "category": "中文资讯", "date": "2026-07-03", "score": 7},
-
-    {"title": "Claude Sonnet 5 发布：最强 Agentic Sonnet 模型", "url": "https://www.anthropic.com/news/claude-sonnet-5", "source": "Anthropic", "category": "技术博客", "date": "2026-07-02", "score": 10},
-    {"title": "Nano Banana 2 Lite and Gemini Omni Flash launched by Google DeepMind", "url": "https://blog.google/technology/ai/nano-banana-2-lite/", "source": "Google AI", "category": "技术博客", "date": "2026-07-02", "score": 8},
-    {"title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本", "url": "https://www.theverge.com/2026/7/2/ai-enterprise-cost-control", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-07-02", "score": 8},
-    {"title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍", "url": "https://techcrunch.com/2026/07/02/fable-5-rli-benchmark/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-07-02", "score": 7},
-    {"title": "Claude Code负责人承认留有后门，明日回滚", "url": "https://www.jiqizhixin.com/articles/2026-07-02-claude-code", "source": "机器之心", "category": "中文资讯", "date": "2026-07-02", "score": 8},
-    {"title": "大模型成本失控：企业AI月账单翻三倍背后的真相", "url": "https://www.qbitai.com/2026/07/436102.html", "source": "量子位", "category": "中文资讯", "date": "2026-07-02", "score": 7},
-    {"title": "dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion VLA Models", "url": "https://arxiv.org/abs/2606.19832", "source": "arXiv cs.AI", "category": "论文", "date": "2026-07-02", "score": 9},
-
-    {"title": "OpenAI and Broadcom unveil Jalapeño, OpenAI's first custom AI inference chip", "url": "https://openai.com/news/jalapeno-chip/", "source": "OpenAI", "category": "技术博客", "date": "2026-07-01", "score": 10},
-    {"title": "Anthropic redeploys Mythos-class flagship after US lifts export controls", "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-07-01", "score": 9},
-    {"title": "Anthropic debuts Claude Sonnet 5 for everyday agent tasks with lower cyber risk", "url": "https://www.axios.com/2026/06/30/anthropic-sonnet-5-agents-mythos-fable", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-07-01", "score": 9},
-    {"title": "FARS: A Fully Automated End-to-End AI Research System", "url": "https://arxiv.org/abs/2606.18867", "source": "arXiv cs.AI", "category": "论文", "date": "2026-07-01", "score": 8},
-    {"title": "Claude Sonnet 5上线：写作能力超Opus 4.8，SWE-Bench Pro达63.2%", "url": "https://www.jiqizhixin.com/articles/2026-07-01-sonnet-5", "source": "机器之心", "category": "中文资讯", "date": "2026-07-01", "score": 9},
-
-    {"title": "Claude Sonnet 5 becomes default model for all Claude users", "url": "https://www.anthropic.com/news/claude-sonnet-5-default", "source": "Anthropic", "category": "技术博客", "date": "2026-06-30", "score": 9},
-    {"title": "US government lifts export controls on Anthropic's Fable 5 and Mythos 5", "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-30", "score": 9},
-    {"title": "Meituan开源LongCat-2.0：1.6T参数MIT协议，SWE-Bench Pro达59.5%", "url": "https://www.qbitai.com/2026/06/435901.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-30", "score": 8},
-    {"title": "Benchmarking Agentic Review Systems", "url": "https://arxiv.org/abs/2606.19749", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-30", "score": 7},
-
-    {"title": "美团开源LongCat-2.0，1.6T参数超越GPT-5.5", "url": "https://www.jiqizhixin.com/articles/2026-06-29-longcat", "source": "机器之心", "category": "中文资讯", "date": "2026-06-29", "score": 8},
-    {"title": "Elon Musk reveals Grok 4.5 in private beta with no public release date", "url": "https://techcrunch.com/2026/06/28/grok-4-5-private-beta/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-29", "score": 7},
-    {"title": "Adaptive Retrieval-Augmented Generation with Multi-Step Reasoning", "url": "https://arxiv.org/abs/2606.18210", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-29", "score": 7},
-
-    {"title": "It's No Longer OpenAI vs Anthropic — Both Labs Are Now Under Government Control", "url": "https://aitoolsrecap.com/Blog/ai-news-june-28-2026", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-28", "score": 8},
-    {"title": "Blackstone commits $30 billion to AI data centers in Japan", "url": "https://www.theverge.com/2026/6/28/blackstone-ai-data-centers-japan", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-28", "score": 7},
-    {"title": "AI出海周报：Anthropic被纳入美国出口管制后的全球影响", "url": "https://www.qbitai.com/2026/06/435756.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-28", "score": 7},
-
-    {"title": "OpenAI previews GPT-5.6 family: Sol, Terra, Luna — gated behind government access list", "url": "https://openai.com/news/gpt-5-6-preview/", "source": "OpenAI", "category": "技术博客", "date": "2026-06-26", "score": 10},
-    {"title": "OpenAI and Anthropic face new AI reality as users shift to efficiency", "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-26", "score": 8},
-    {"title": "Qualcomm acquires AI startup Modular for $4 billion", "url": "https://techcrunch.com/2026/06/26/qualcomm-acquires-modular/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-26", "score": 8},
-    {"title": "Polymarket GPT-5.6上线概率超83%，AI模型发布进入博弈时代", "url": "https://www.jiqizhixin.com/articles/2026-06-26-polymarket", "source": "机器之心", "category": "中文资讯", "date": "2026-06-26", "score": 7},
-
-    {"title": "Andrej Karpathy joins Anthropic to work on frontier LLM R&D", "url": "https://www.anthropic.com/news/karpathy-joins", "source": "Anthropic", "category": "技术博客", "date": "2026-06-25", "score": 10},
-    {"title": "Karpathy加入Anthropic：顶级AI研究者回归前沿实验室", "url": "https://www.qbitai.com/2026/06/435601.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-25", "score": 9},
-    {"title": "Scaling Instruction-Following in Multi-Agent Cooperative Environments", "url": "https://arxiv.org/abs/2606.16102", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-25", "score": 7},
-
-    {"title": "OpenAI's Jalapeño chip: first custom silicon for AI inference", "url": "https://techcrunch.com/2026/06/24/openai-jalapeno-custom-chip/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-24", "score": 9},
-    {"title": "花旗银行禁用Claude Opus 4.6和GPT-5.5等旗舰模型控成本", "url": "https://www.jiqizhixin.com/articles/2026-06-24-cost-control", "source": "机器之心", "category": "中文资讯", "date": "2026-06-24", "score": 8},
-    {"title": "Token-Efficient Reasoning via Adaptive Chain-of-Thought Compression", "url": "https://arxiv.org/abs/2606.15201", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-24", "score": 7},
-
-    {"title": "Fable 5 removed from Anthropic subscription plans — now requires usage credits", "url": "https://www.theverge.com/2026/6/23/fable-5-credit-only", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-23", "score": 8},
-    {"title": "AI coding市场格局：Claude Code为何能领跑", "url": "https://www.qbitai.com/2026/06/435402.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-23", "score": 7},
-    {"title": "Vision-Language Models for Robotic Manipulation: A Comprehensive Survey", "url": "https://arxiv.org/abs/2606.14803", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-23", "score": 7},
-
-    {"title": "claude-sonnet-5 identifier appears in partner platform config logs", "url": "https://techcrunch.com/2026/06/21/claude-sonnet-5-config-leak/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-21", "score": 7},
-    {"title": "HuggingFace releases SmolAgent 2.0 framework for lightweight agent development", "url": "https://huggingface.co/blog/smolagents-2", "source": "HuggingFace", "category": "技术博客", "date": "2026-06-21", "score": 8},
-    {"title": "DeepSeek V4传闻发布并启动首次外部融资", "url": "https://www.jiqizhixin.com/articles/2026-06-21-deepseek-v4", "source": "机器之心", "category": "中文资讯", "date": "2026-06-21", "score": 8},
-
-    {"title": "Google announces Dataland, world's first AI arts museum powered by Gemini", "url": "https://blog.google/technology/ai/dataland-ai-museum/", "source": "Google AI", "category": "技术博客", "date": "2026-06-20", "score": 7},
-    {"title": "Macron criticizes Anthropic export ban as strictly nationalist", "url": "https://www.theverge.com/2026/6/20/macron-anthropic-export-ban", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-20", "score": 7},
-    {"title": "Unified Framework for Multimodal Retrieval-Augmented Generation", "url": "https://arxiv.org/abs/2606.12901", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-20", "score": 7},
-
-    {"title": "GPT-5.6 leak surfaces in developer tracking of Codex backend logs", "url": "https://arstechnica.com/ai/2026/06/gpt-5-6-leak/", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-18", "score": 8},
-    {"title": "AI编程之争：Snowflake工程师年花5万美元在Claude Code上", "url": "https://www.qbitai.com/2026/06/435101.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-18", "score": 7},
-    {"title": "Self-Improving Language Agents via Recursive Reward Modeling", "url": "https://arxiv.org/abs/2606.11701", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-18", "score": 8},
-
-    {"title": "Anthropic opens Seoul office, announces Korean AI partnerships", "url": "https://www.anthropic.com/news/seoul-office", "source": "Anthropic", "category": "技术博客", "date": "2026-06-17", "score": 7},
-    {"title": "Two more Gemini researchers leave Google for Anthropic", "url": "https://techcrunch.com/2026/06/17/gemini-researchers-join-anthropic/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-17", "score": 7},
-    {"title": "谷歌Gemini团队连续第四位高级研究员跳槽Anthropic", "url": "https://www.jiqizhixin.com/articles/2026-06-17-google-anthropic", "source": "机器之心", "category": "中文资讯", "date": "2026-06-17", "score": 7},
-
-    {"title": "Anthropic accuses Alibaba of 28.8 million fraudulent distillation exchanges", "url": "https://www.theverge.com/2026/6/15/anthropic-alibaba-distillation", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-15", "score": 9},
-    {"title": "Anthropic指控阿里巴巴2880万次蒸馏欺诈，要求出口管制审查", "url": "https://www.qbitai.com/2026/06/434801.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-15", "score": 9},
-    {"title": "Efficient Long-Context Attention with Dynamic Sparse Patterns", "url": "https://arxiv.org/abs/2606.09802", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-15", "score": 7},
-
-    {"title": "Lindy CEO switches 100% of traffic from Claude to DeepSeek to save millions", "url": "https://techcrunch.com/2026/06/13/lindy-switches-claude-to-deepseek/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-13", "score": 8},
-    {"title": "AI初创公司Lindy弃用Claude全面转向DeepSeek：成本为王", "url": "https://www.jiqizhixin.com/articles/2026-06-13-lindy-deepseek", "source": "机器之心", "category": "中文资讯", "date": "2026-06-13", "score": 8},
-    {"title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines", "url": "https://arxiv.org/abs/2606.08301", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-13", "score": 7},
-
-    {"title": "Anthropic statement: US government directive to suspend Fable 5 and Mythos 5 access", "url": "https://www.anthropic.com/news/export-control-statement", "source": "Anthropic", "category": "技术博客", "date": "2026-06-12", "score": 10},
-    {"title": "US Commerce Department orders Anthropic to disable Fable 5 and Mythos 5", "url": "https://www.theverge.com/2026/6/12/anthropic-export-control", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-12", "score": 10},
-    {"title": "DXC integrates Claude into banking and airline systems", "url": "https://techcrunch.com/2026/06/12/dxc-claude-enterprise/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-12", "score": 7},
-    {"title": "Anthropic Fable 5和Mythos 5被美国政府出口管制令叫停", "url": "https://www.jiqizhixin.com/articles/2026-06-12-export-control", "source": "机器之心", "category": "中文资讯", "date": "2026-06-12", "score": 10},
-
-    {"title": "Anthropic partners with TCS to bring Claude to regulated industries", "url": "https://www.anthropic.com/news/tcs-partnership", "source": "Anthropic", "category": "技术博客", "date": "2026-06-11", "score": 7},
-    {"title": "Satya Nadella: AI industry needs to avoid concentrating power in a few models", "url": "https://arstechnica.com/ai/2026/06/nadella-ai-concentration/", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-11", "score": 7},
-    {"title": "Prompt Optimization for User Simulation in Conversational Recommender Systems", "url": "https://arxiv.org/abs/2606.07101", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-11", "score": 6},
-
-    {"title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence", "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-09", "score": 9},
-    {"title": "Apple replaces OpenAI with Google Gemini for Siri AI backbone", "url": "https://www.theverge.com/2026/6/9/apple-siri-ai-gemini", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-09", "score": 9},
-    {"title": "苹果WWDC 2026：Siri全面重构接入Gemini，放弃ChatGPT", "url": "https://www.jiqizhixin.com/articles/2026-06-09-wwdc", "source": "机器之心", "category": "中文资讯", "date": "2026-06-09", "score": 9},
-
-    {"title": "Apple announces Siri AI at WWDC 2026: rebuilt with Google Gemini, new agent capabilities", "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-08", "score": 10},
-    {"title": "Apple Foundation Models (AFM 3): five models developed in collaboration with Google", "url": "https://blog.google/technology/ai/afm-3-apple-google/", "source": "Google AI", "category": "技术博客", "date": "2026-06-08", "score": 9},
-    {"title": "Tim Cook announces September transition to John Ternus at WWDC", "url": "https://techcrunch.com/2026/06/08/tim-cook-farewell-wwdc/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-08", "score": 8},
-    {"title": "苹果WWDC 2026前瞻：Siri AI将成最大看点", "url": "https://www.qbitai.com/2026/06/433201.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-08", "score": 8},
-
-    {"title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models", "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-06", "score": 8},
-    {"title": "Anthropic's Claude Code dominates AI coding market as competitors scramble", "url": "https://arstechnica.com/ai/2026/06/claude-code-coding-market/", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-06", "score": 8},
-    {"title": "Claude Code编程市场称王：Anthropic为何领先OpenAI和Google", "url": "https://www.jiqizhixin.com/articles/2026-06-06-claude-code", "source": "机器之心", "category": "中文资讯", "date": "2026-06-06", "score": 8},
-    {"title": "Mixture-of-Depths: Adaptive Compute Allocation in Transformer Inference", "url": "https://arxiv.org/abs/2606.03601", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-06", "score": 8},
-
-    {"title": "Anthropic and OpenAI both file confidentially for IPO", "url": "https://techcrunch.com/2026/06/05/anthropic-openai-confidential-ipo-filing/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-05", "score": 9},
-    {"title": "Anthropic closes financing round at $965 billion valuation, surpassing OpenAI", "url": "https://www.theverge.com/2026/6/5/anthropic-965-billion-valuation", "source": "The Verge AI", "category": "新闻资讯", "date": "2026-06-05", "score": 9},
-    {"title": "Anthropic估值9650亿美元超越OpenAI，双双秘密提交IPO", "url": "https://www.qbitai.com/2026/06/433001.html", "source": "量子位", "category": "中文资讯", "date": "2026-06-05", "score": 9},
-
-    {"title": "Google unveils sweeping redesign of search box with AI conversational interface", "url": "https://blog.google/products/search/search-box-redesign-2026/", "source": "Google AI", "category": "技术博客", "date": "2026-06-04", "score": 8},
-    {"title": "What to expect from WWDC 2026: Siri's highly anticipated revamp", "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/", "source": "TechCrunch AI", "category": "新闻资讯", "date": "2026-06-04", "score": 7},
-    {"title": "Scaling Laws for Code Generation with Large Language Models", "url": "https://arxiv.org/abs/2606.02201", "source": "arXiv cs.CL", "category": "论文", "date": "2026-06-04", "score": 8},
-
-    {"title": "Gemini 3.1 Flash Lite: Google's most cost-efficient AI model yet", "url": "https://blog.google/technology/ai/gemini-3-1-flash-lite/", "source": "Google AI", "category": "技术博客", "date": "2026-06-03", "score": 8},
-    {"title": "AI coding wars heat up: Microsoft, Google challenge Anthropic and OpenAI", "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html", "source": "Ars Technica", "category": "新闻资讯", "date": "2026-06-03", "score": 7},
-    {"title": "微软和谷歌向Anthropic、OpenAI发起AI编程挑战", "url": "https://www.jiqizhixin.com/articles/2026-06-03-coding-wars", "source": "机器之心", "category": "中文资讯", "date": "2026-06-03", "score": 7},
-    {"title": "MiniMax-M2: Mini Activations Unleashing Max Real-World Intelligence", "url": "https://arxiv.org/abs/2605.19832", "source": "arXiv cs.AI", "category": "论文", "date": "2026-06-03", "score": 8}
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "url": "https://arxiv.org/abs/2607.01306",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+      "url": "https://arxiv.org/abs/2607.01366",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "The Wiola Architecture for Efficient Small Language Models",
+      "url": "https://arxiv.org/abs/2607.01394",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+      "url": "https://arxiv.org/abs/2607.01236",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment",
+      "url": "https://arxiv.org/abs/2607.01239",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-03",
+      "score": 8
+    },
+    {
+      "title": "Google AI June 2026 Pixel Drop: New Features",
+      "url": "https://blog.google/products/pixel/pixel-drop-june-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "量子位2026中国AIGC年中盘点：Agent成最大赢家",
+      "url": "https://www.qbitai.com/2026/07/436201.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "英伟达开源机器人技能库 RoboSkill",
+      "url": "https://www.qbitai.com/2026/07/436189.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-03",
+      "score": 7
+    },
+    {
+      "title": "Claude Sonnet 5 发布：最强 Agentic Sonnet 模型",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-07-02",
+      "score": 10
+    },
+    {
+      "title": "dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion VLA Models",
+      "url": "https://arxiv.org/abs/2606.19832",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-02",
+      "score": 9
+    },
+    {
+      "title": "Nano Banana 2 Lite and Gemini Omni Flash launched by Google DeepMind",
+      "url": "https://blog.google/technology/ai/nano-banana-2-lite/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-02",
+      "score": 8
+    },
+    {
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://www.theverge.com/2026/7/2/ai-enterprise-cost-control",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-02",
+      "score": 8
+    },
+    {
+      "title": "Claude Code负责人承认留有后门，明日回滚",
+      "url": "https://www.jiqizhixin.com/articles/2026-07-02-claude-code",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-07-02",
+      "score": 8
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-02",
+      "score": 8
+    },
+    {
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://techcrunch.com/2026/07/02/fable-5-rli-benchmark/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-02",
+      "score": 7
+    },
+    {
+      "title": "大模型成本失控：企业AI月账单翻三倍背后的真相",
+      "url": "https://www.qbitai.com/2026/07/436102.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-02",
+      "score": 7
+    },
+    {
+      "title": "OpenAI and Broadcom unveil Jalapeño, OpenAI's first custom AI inference chip",
+      "url": "https://openai.com/news/jalapeno-chip/",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-01",
+      "score": 10
+    },
+    {
+      "title": "Anthropic redeploys Mythos-class flagship after US lifts export controls",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-01",
+      "score": 9
+    },
+    {
+      "title": "Anthropic debuts Claude Sonnet 5 for everyday agent tasks with lower cyber risk",
+      "url": "https://www.axios.com/2026/06/30/anthropic-sonnet-5-agents-mythos-fable",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-01",
+      "score": 9
+    },
+    {
+      "title": "Claude Sonnet 5上线：写作能力超Opus 4.8，SWE-Bench Pro达63.2%",
+      "url": "https://www.jiqizhixin.com/articles/2026-07-01-sonnet-5",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-07-01",
+      "score": 9
+    },
+    {
+      "title": "FARS: A Fully Automated End-to-End AI Research System",
+      "url": "https://arxiv.org/abs/2606.18867",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-01",
+      "score": 8
+    },
+    {
+      "title": "Claude Sonnet 5 becomes default model for all Claude users",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5-default",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-06-30",
+      "score": 9
+    },
+    {
+      "title": "US government lifts export controls on Anthropic's Fable 5 and Mythos 5",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-06-30",
+      "score": 9
+    },
+    {
+      "title": "Meituan开源LongCat-2.0：1.6T参数MIT协议，SWE-Bench Pro达59.5%",
+      "url": "https://www.qbitai.com/2026/06/435901.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-30",
+      "score": 8
+    },
+    {
+      "title": "Benchmarking Agentic Review Systems",
+      "url": "https://arxiv.org/abs/2606.19749",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-30",
+      "score": 7
+    },
+    {
+      "title": "美团开源LongCat-2.0，1.6T参数超越GPT-5.5",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-29-longcat",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-29",
+      "score": 8
+    },
+    {
+      "title": "Elon Musk reveals Grok 4.5 in private beta with no public release date",
+      "url": "https://techcrunch.com/2026/06/28/grok-4-5-private-beta/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-29",
+      "score": 7
+    },
+    {
+      "title": "Adaptive Retrieval-Augmented Generation with Multi-Step Reasoning",
+      "url": "https://arxiv.org/abs/2606.18210",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-29",
+      "score": 7
+    },
+    {
+      "title": "It's No Longer OpenAI vs Anthropic — Both Labs Are Now Under Government Control",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-june-28-2026",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-06-28",
+      "score": 8
+    },
+    {
+      "title": "Blackstone commits $30 billion to AI data centers in Japan",
+      "url": "https://www.theverge.com/2026/6/28/blackstone-ai-data-centers-japan",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-28",
+      "score": 7
+    },
+    {
+      "title": "AI出海周报：Anthropic被纳入美国出口管制后的全球影响",
+      "url": "https://www.qbitai.com/2026/06/435756.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-28",
+      "score": 7
+    },
+    {
+      "title": "OpenAI previews GPT-5.6 family: Sol, Terra, Luna — gated behind government access list",
+      "url": "https://openai.com/news/gpt-5-6-preview/",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-06-26",
+      "score": 10
+    },
+    {
+      "title": "OpenAI and Anthropic face new AI reality as users shift to efficiency",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-26",
+      "score": 8
+    },
+    {
+      "title": "Qualcomm acquires AI startup Modular for $4 billion",
+      "url": "https://techcrunch.com/2026/06/26/qualcomm-acquires-modular/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-26",
+      "score": 8
+    },
+    {
+      "title": "Polymarket GPT-5.6上线概率超83%，AI模型发布进入博弈时代",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-26-polymarket",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-26",
+      "score": 7
+    },
+    {
+      "title": "Andrej Karpathy joins Anthropic to work on frontier LLM R&D",
+      "url": "https://www.anthropic.com/news/karpathy-joins",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-06-25",
+      "score": 10
+    },
+    {
+      "title": "Karpathy加入Anthropic：顶级AI研究者回归前沿实验室",
+      "url": "https://www.qbitai.com/2026/06/435601.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-25",
+      "score": 9
+    },
+    {
+      "title": "Scaling Instruction-Following in Multi-Agent Cooperative Environments",
+      "url": "https://arxiv.org/abs/2606.16102",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-06-25",
+      "score": 7
+    },
+    {
+      "title": "OpenAI's Jalapeño chip: first custom silicon for AI inference",
+      "url": "https://techcrunch.com/2026/06/24/openai-jalapeno-custom-chip/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-24",
+      "score": 9
+    },
+    {
+      "title": "花旗银行禁用Claude Opus 4.6和GPT-5.5等旗舰模型控成本",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-24-cost-control",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-24",
+      "score": 8
+    },
+    {
+      "title": "Token-Efficient Reasoning via Adaptive Chain-of-Thought Compression",
+      "url": "https://arxiv.org/abs/2606.15201",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-24",
+      "score": 7
+    },
+    {
+      "title": "Fable 5 removed from Anthropic subscription plans — now requires usage credits",
+      "url": "https://www.theverge.com/2026/6/23/fable-5-credit-only",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-23",
+      "score": 8
+    },
+    {
+      "title": "AI coding市场格局：Claude Code为何能领跑",
+      "url": "https://www.qbitai.com/2026/06/435402.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-23",
+      "score": 7
+    },
+    {
+      "title": "Vision-Language Models for Robotic Manipulation: A Comprehensive Survey",
+      "url": "https://arxiv.org/abs/2606.14803",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-06-23",
+      "score": 7
+    },
+    {
+      "title": "HuggingFace releases SmolAgent 2.0 framework for lightweight agent development",
+      "url": "https://huggingface.co/blog/smolagents-2",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-06-21",
+      "score": 8
+    },
+    {
+      "title": "DeepSeek V4传闻发布并启动首次外部融资",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-21-deepseek-v4",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-21",
+      "score": 8
+    },
+    {
+      "title": "claude-sonnet-5 identifier appears in partner platform config logs",
+      "url": "https://techcrunch.com/2026/06/21/claude-sonnet-5-config-leak/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-21",
+      "score": 7
+    },
+    {
+      "title": "Google announces Dataland, world's first AI arts museum powered by Gemini",
+      "url": "https://blog.google/technology/ai/dataland-ai-museum/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-06-20",
+      "score": 7
+    },
+    {
+      "title": "Macron criticizes Anthropic export ban as strictly nationalist",
+      "url": "https://www.theverge.com/2026/6/20/macron-anthropic-export-ban",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-20",
+      "score": 7
+    },
+    {
+      "title": "Unified Framework for Multimodal Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2606.12901",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-20",
+      "score": 7
+    },
+    {
+      "title": "GPT-5.6 leak surfaces in developer tracking of Codex backend logs",
+      "url": "https://arstechnica.com/ai/2026/06/gpt-5-6-leak/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-06-18",
+      "score": 8
+    },
+    {
+      "title": "Self-Improving Language Agents via Recursive Reward Modeling",
+      "url": "https://arxiv.org/abs/2606.11701",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-06-18",
+      "score": 8
+    },
+    {
+      "title": "AI编程之争：Snowflake工程师年花5万美元在Claude Code上",
+      "url": "https://www.qbitai.com/2026/06/435101.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-18",
+      "score": 7
+    },
+    {
+      "title": "Anthropic opens Seoul office, announces Korean AI partnerships",
+      "url": "https://www.anthropic.com/news/seoul-office",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-06-17",
+      "score": 7
+    },
+    {
+      "title": "Two more Gemini researchers leave Google for Anthropic",
+      "url": "https://techcrunch.com/2026/06/17/gemini-researchers-join-anthropic/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-17",
+      "score": 7
+    },
+    {
+      "title": "谷歌Gemini团队连续第四位高级研究员跳槽Anthropic",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-17-google-anthropic",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-17",
+      "score": 7
+    },
+    {
+      "title": "Anthropic accuses Alibaba of 28.8 million fraudulent distillation exchanges",
+      "url": "https://www.theverge.com/2026/6/15/anthropic-alibaba-distillation",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-15",
+      "score": 9
+    },
+    {
+      "title": "Anthropic指控阿里巴巴2880万次蒸馏欺诈，要求出口管制审查",
+      "url": "https://www.qbitai.com/2026/06/434801.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-15",
+      "score": 9
+    },
+    {
+      "title": "Efficient Long-Context Attention with Dynamic Sparse Patterns",
+      "url": "https://arxiv.org/abs/2606.09802",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-15",
+      "score": 7
+    },
+    {
+      "title": "Lindy CEO switches 100% of traffic from Claude to DeepSeek to save millions",
+      "url": "https://techcrunch.com/2026/06/13/lindy-switches-claude-to-deepseek/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-13",
+      "score": 8
+    },
+    {
+      "title": "AI初创公司Lindy弃用Claude全面转向DeepSeek：成本为王",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-13-lindy-deepseek",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-13",
+      "score": 8
+    },
+    {
+      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines",
+      "url": "https://arxiv.org/abs/2606.08301",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-06-13",
+      "score": 7
+    },
+    {
+      "title": "Anthropic statement: US government directive to suspend Fable 5 and Mythos 5 access",
+      "url": "https://www.anthropic.com/news/export-control-statement",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-06-12",
+      "score": 10
+    },
+    {
+      "title": "US Commerce Department orders Anthropic to disable Fable 5 and Mythos 5",
+      "url": "https://www.theverge.com/2026/6/12/anthropic-export-control",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-12",
+      "score": 10
+    },
+    {
+      "title": "Anthropic Fable 5和Mythos 5被美国政府出口管制令叫停",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-12-export-control",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-12",
+      "score": 10
+    },
+    {
+      "title": "DXC integrates Claude into banking and airline systems",
+      "url": "https://techcrunch.com/2026/06/12/dxc-claude-enterprise/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-12",
+      "score": 7
+    },
+    {
+      "title": "Anthropic partners with TCS to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-partnership",
+      "source": "Anthropic",
+      "category": "技术博客",
+      "date": "2026-06-11",
+      "score": 7
+    },
+    {
+      "title": "Satya Nadella: AI industry needs to avoid concentrating power in a few models",
+      "url": "https://arstechnica.com/ai/2026/06/nadella-ai-concentration/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-06-11",
+      "score": 7
+    },
+    {
+      "title": "Prompt Optimization for User Simulation in Conversational Recommender Systems",
+      "url": "https://arxiv.org/abs/2606.07101",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-11",
+      "score": 6
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-09",
+      "score": 9
+    },
+    {
+      "title": "Apple replaces OpenAI with Google Gemini for Siri AI backbone",
+      "url": "https://www.theverge.com/2026/6/9/apple-siri-ai-gemini",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-09",
+      "score": 9
+    },
+    {
+      "title": "苹果WWDC 2026：Siri全面重构接入Gemini，放弃ChatGPT",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-09-wwdc",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-09",
+      "score": 9
+    },
+    {
+      "title": "Apple announces Siri AI at WWDC 2026: rebuilt with Google Gemini, new agent capabilities",
+      "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-08",
+      "score": 10
+    },
+    {
+      "title": "Apple Foundation Models (AFM 3): five models developed in collaboration with Google",
+      "url": "https://blog.google/technology/ai/afm-3-apple-google/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-06-08",
+      "score": 9
+    },
+    {
+      "title": "Tim Cook announces September transition to John Ternus at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/tim-cook-farewell-wwdc/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-08",
+      "score": 8
+    },
+    {
+      "title": "苹果WWDC 2026前瞻：Siri AI将成最大看点",
+      "url": "https://www.qbitai.com/2026/06/433201.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-08",
+      "score": 8
+    },
+    {
+      "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-06",
+      "score": 8
+    },
+    {
+      "title": "Anthropic's Claude Code dominates AI coding market as competitors scramble",
+      "url": "https://arstechnica.com/ai/2026/06/claude-code-coding-market/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-06-06",
+      "score": 8
+    },
+    {
+      "title": "Claude Code编程市场称王：Anthropic为何领先OpenAI和Google",
+      "url": "https://www.jiqizhixin.com/articles/2026-06-06-claude-code",
+      "source": "机器之心",
+      "category": "中文资讯",
+      "date": "2026-06-06",
+      "score": 8
+    },
+    {
+      "title": "Mixture-of-Depths: Adaptive Compute Allocation in Transformer Inference",
+      "url": "https://arxiv.org/abs/2606.03601",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-06-06",
+      "score": 8
+    },
+    {
+      "title": "Anthropic and OpenAI both file confidentially for IPO",
+      "url": "https://techcrunch.com/2026/06/05/anthropic-openai-confidential-ipo-filing/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-05",
+      "score": 9
+    },
+    {
+      "title": "Anthropic closes financing round at $965 billion valuation, surpassing OpenAI",
+      "url": "https://www.theverge.com/2026/6/5/anthropic-965-billion-valuation",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-06-05",
+      "score": 9
+    },
+    {
+      "title": "Anthropic估值9650亿美元超越OpenAI，双双秘密提交IPO",
+      "url": "https://www.qbitai.com/2026/06/433001.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-06-05",
+      "score": 9
+    },
+    {
+      "title": "Google unveils sweeping redesign of search box with AI conversational interface",
+      "url": "https://blog.google/products/search/search-box-redesign-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-06-04",
+      "score": 8
+    },
+    {
+      "title": "Scaling Laws for Code Generation with Large Language Models",
+      "url": "https://arxiv.org/abs/2606.02201",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-06-04",
+      "score": 8
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-06-04",
+      "score": 7
+    }
   ]
 }
