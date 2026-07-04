@@ -1,0 +1,37 @@
+{
+  "titleCn": "基于动态稀疏模式的高效长上下文注意力",
+  "overview": "针对 Transformer 在长序列上计算和存储代价呈二次方增长的问题，本文提出一种基于动态稀疏模式的注意力机制，通过门控网络在每层、每个头自适应选取稀疏的键值位置，实现 O(N log N) 复杂度，同时保持与全注意力的表现相当。实验在 Long Range Arena、WikiText‑103 等基准上验证了方法在延迟、显存和精度上的优势。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "章节介绍长序列 Transformer 面临的二次方计算和存储瓶颈，梳理现有稀疏、近似注意力的不足，并阐述提出动态稀疏模式以兼顾效率与表现的研究动机。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾稀疏注意力、线性注意力、局部窗口、Longformer 等代表性方法，分析它们在捕获长距离依赖和计算复杂度方面的权衡，为本文方案提供背景与比较。"
+    },
+    {
+      "heading": "方法",
+      "summary": "提出动态稀疏注意力模块，包含可学习的门控网络对每个 token 产生稀疏分布，随后使用 top‑k 选取关键键‑值对。章节详述稀疏模式的生成、训练目标以及复杂度从 O(N²) 到 O(N log N) 的理论分析。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "在 Long Range Arena、PG‑19、WikiText‑103 等标准长文本任务上评估；介绍实现细节、基线模型（Full‑Attention、Longformer 等）以及硬件平台与超参数配置。"
+    },
+    {
+      "heading": "实验结果与消融分析",
+      "summary": "实验表明动态稀疏注意力在保持相近或略高的准确率的同时，显著降低延迟和显存占用。消融实验揭示门控阈值、稀疏比例以及层级堆叠对性能和效率的影响。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结本研究在长上下文高效注意力方面的贡献，指出仍需在极端长序列或多模态场景进一步验证，并提出未来工作如自适应稀疏预算和硬件协同优化。"
+    }
+  ],
+  "id": "2606.09802",
+  "title": "Efficient Long-Context Attention with Dynamic Sparse Patterns",
+  "url": "https://arxiv.org/abs/2606.09802",
+  "source": "arXiv cs.CL",
+  "date": "2026-06-15",
+  "hasFullText": false,
+  "generatedAt": "2026-07-04T15:22:23.256071+08:00"
+}
