@@ -12,7 +12,9 @@
   // ── Init ──
   async function init() {
     try {
-      const resp = await fetch("data/articles.json");
+      const resp = await fetch("data/articles.json?t=" + Date.now(), {
+        cache: "no-store",
+      });
       if (!resp.ok) throw new Error(resp.status);
       const data = await resp.json();
       allArticles = data.articles || [];
