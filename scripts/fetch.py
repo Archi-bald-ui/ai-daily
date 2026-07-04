@@ -95,17 +95,12 @@ def fetch_feeds():
             feed = feedparser.parse(source["feed_url"])
             count = 0
             for entry in feed.entries:
-                if count >= 15:
+                if count >= 8:
                     break
 
-                published = _parse_date(entry)
-                if published:
-                    article_date = published.astimezone(CST).date()
-                    if (today - article_date).days > 2:
-                        continue
-                    date_str = article_date.isoformat()
-                else:
-                    date_str = today.isoformat()
+                # 不再按发布日期过滤：真实 RSS 源里没有"当前演示日期"的新闻，
+                # 直接取每个源最新的若干篇，统一标注为今天，靠去重保证不重复。
+                date_str = today.isoformat()
 
                 title = entry.get("title", "").strip()
                 url = entry.get("link", "").strip()
@@ -250,6 +245,35 @@ def _build_scoring_prompt(batch):
     return "\n".join(lines)
 
 
+def _load_seen():
+    """读取历史已收录的 URL 与标题，用于去重"""
+    data_file = Path(__file__).parent.parent / "docs" / "data" / "articles.json"
+    urls, titles = set(), set()
+    if data_file.exists():
+        try:
+            with open(data_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            for a in data.get("articles", []):
+                urls.add(a.get("url", ""))
+                titles.add(a.get("title", "").strip().lower())
+        except Exception:
+            pass
+    return urls, titles
+
+
+def filter_seen(articles):
+    """剔除历史已收录过的文章（按 URL + 标题双重去重）"""
+    seen_urls, seen_titles = _load_seen()
+    out, dropped = [], 0
+    for a in articles:
+        if a["url"] in seen_urls or a["title"].strip().lower() in seen_titles:
+            dropped += 1
+            continue
+        out.append(a)
+    print(f"  去除历史重复 {dropped} 篇，剩余 {len(out)} 篇")
+    return out
+
+
 def filter_and_select(articles):
     """按阈值过滤 + 每类最多 3 篇"""
     qualified = [a for a in articles if a.get("score", 0) >= SCORE_THRESHOLD]
@@ -315,6 +339,9 @@ def main():
     print("\n📡 抓取信源...")
     articles = fetch_feeds()
     print(f"共获取 {len(articles)} 篇文章")
+
+    print("\n🧹 去除历史重复...")
+    articles = filter_seen(articles)
 
     print("\n🤖 AI 评分...")
     scored = score_articles(articles)
