@@ -5,6 +5,7 @@ import os
 import re
 import json
 import time
+import html
 import feedparser
 import requests
 from datetime import datetime, timezone, timedelta
@@ -102,7 +103,7 @@ def fetch_feeds():
                 # 直接取每个源最新的若干篇，统一标注为今天，靠去重保证不重复。
                 date_str = today.isoformat()
 
-                title = entry.get("title", "").strip()
+                title = html.unescape(entry.get("title", "").strip())
                 url = entry.get("link", "").strip()
                 if not title or not url:
                     continue
