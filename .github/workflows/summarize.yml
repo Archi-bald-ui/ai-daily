@@ -2,6 +2,9 @@ name: Summarize Papers
 
 on:
   workflow_dispatch: # 手动触发，为尚无摘要的论文批量生成中文摘要
+  workflow_run:
+    workflows: ["Daily AI News Fetch"] # 每日抓取完成后自动接力生成摘要
+    types: [completed]
 
 permissions:
   contents: write
