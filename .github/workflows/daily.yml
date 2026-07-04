@@ -12,7 +12,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 12
 
     steps:
       - uses: actions/checkout@v4
@@ -36,22 +36,8 @@ jobs:
           MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
         run: python scripts/fetch.py
 
-      - name: Commit articles
+      - name: Commit and push
         run: |
           git add docs/data/articles.json
           git diff --quiet --cached || git commit -m "update $(date -u +%Y-%m-%d)"
           git push
-
-      - name: Summarize newly selected papers
-        env:
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
-          PUSH_EACH: "1"
-        run: python scripts/summarize.py
-
-      - name: Commit summaries
-        if: always()
-        run: |
-          git add docs/data/summaries
-          git diff --quiet --cached || git commit -m "summaries $(date -u +%Y-%m-%d)"
-          git push || true
