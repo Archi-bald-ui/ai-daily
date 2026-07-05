@@ -171,6 +171,35 @@ header {
   margin-left: 4px;
 }
 
+.toggle-all-btn {
+  margin-left: 8px;
+  width: auto !important;
+  padding: 0 14px;
+  height: 32px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.toggle-all-btn.active {
+  background: var(--primary) !important;
+  color: #fff !important;
+  border-color: var(--primary) !important;
+}
+
+.date-group-header {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-2);
+  margin: 18px 0 4px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.date-group-header:first-child {
+  margin-top: 0;
+}
+
 .date-picker-hidden {
   position: absolute;
   opacity: 0;
