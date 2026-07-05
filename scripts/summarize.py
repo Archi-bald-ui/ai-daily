@@ -122,26 +122,34 @@ def build_prompt(title, source, body):
 
 def summarize(title, source, body):
     prompt = build_prompt(title, source, body)
-    response = requests.post(
-        MINIMAX_API_URL,
-        headers={
-            "Content-Type": "application/json",
-            "x-api-key": MINIMAX_API_KEY,
-            "anthropic-version": "2023-06-01",
-        },
-        json={
-            "model": MINIMAX_MODEL,
-            "max_tokens": 5000,
-            "messages": [{"role": "user", "content": prompt}],
-        },
-        timeout=120,
-    )
-    response.raise_for_status()
-    content = parse_minimax_content(response.json())
-    m = re.search(r"\{.*\}", content, re.DOTALL)
-    if not m:
-        raise ValueError("未匹配到JSON")
-    return json.loads(m.group())
+    last_err = None
+    for attempt in range(3):
+        try:
+            response = requests.post(
+                MINIMAX_API_URL,
+                headers={
+                    "Content-Type": "application/json",
+                    "x-api-key": MINIMAX_API_KEY,
+                    "anthropic-version": "2023-06-01",
+                },
+                json={
+                    "model": MINIMAX_MODEL,
+                    "max_tokens": 5000,
+                    "messages": [{"role": "user", "content": prompt}],
+                },
+                timeout=120,
+            )
+            response.raise_for_status()
+            content = parse_minimax_content(response.json())
+            m = re.search(r"\{.*\}", content, re.DOTALL)
+            if not m:
+                raise ValueError("未匹配到JSON")
+            return json.loads(m.group())
+        except Exception as e:
+            last_err = e
+            print(f"   ↻ 第 {attempt + 1} 次失败: {e}")
+            time.sleep(3)
+    raise last_err
 
 
 def git_push(path, msg):
