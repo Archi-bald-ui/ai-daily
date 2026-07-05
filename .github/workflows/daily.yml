@@ -36,6 +36,12 @@ jobs:
           MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
         run: python scripts/fetch.py
 
+      - name: Translate titles
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL || 'MiniMax-M2.7' }}
+        run: python scripts/translate.py
+
       - name: Commit and push
         run: |
           git add docs/data/articles.json
