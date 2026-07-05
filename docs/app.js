@@ -5,6 +5,7 @@
   let currentCategory = "all";
   let currentDate = new Date();
   let searchQuery = "";
+  let showAllDates = false;
 
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => document.querySelectorAll(sel);
@@ -38,11 +39,14 @@
 
   // ── Render ──
   function render() {
-    const dateStr = formatDate(currentDate);
-    $("#current-date").textContent = formatDateDisplay(currentDate);
+    const grouped = showAllDates || !!searchQuery;
+    $("#current-date").textContent = showAllDates
+      ? "全部日期"
+      : formatDateDisplay(currentDate);
+    $("#toggle-all").classList.toggle("active", showAllDates);
+    $("#toggle-all").textContent = showAllDates ? "单日浏览" : "查看全部";
 
     let filtered;
-
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       filtered = allArticles.filter(
@@ -51,7 +55,10 @@
           a.source.toLowerCase().includes(q) ||
           a.category.toLowerCase().includes(q)
       );
+    } else if (showAllDates) {
+      filtered = allArticles.slice();
     } else {
+      const dateStr = formatDate(currentDate);
       filtered = allArticles.filter((a) => a.date === dateStr);
     }
 
@@ -74,9 +81,27 @@
       stats.textContent = "";
     } else {
       empty.style.display = "none";
-      stats.textContent = `共 ${filtered.length} 篇资讯`;
-      container.innerHTML = filtered.map(renderCard).join("");
+      const days = new Set(filtered.map((a) => a.date)).size;
+      stats.textContent = grouped
+        ? `共 ${filtered.length} 篇资讯 · ${days} 天`
+        : `共 ${filtered.length} 篇资讯`;
+      container.innerHTML = grouped
+        ? renderGrouped(filtered)
+        : filtered.map(renderCard).join("");
     }
+  }
+
+  function renderGrouped(articles) {
+    let html = "";
+    let lastDate = null;
+    for (const a of articles) {
+      if (a.date !== lastDate) {
+        html += `<div class="date-group-header">${formatDateDisplay(parseDate(a.date))}</div>`;
+        lastDate = a.date;
+      }
+      html += renderCard(a);
+    }
+    return html;
   }
 
   function renderCard(article) {
@@ -93,7 +118,6 @@
             <div class="article-meta">
               <span class="source-tag" data-cat="${escapeAttr(article.category)}">${escapeHtml(article.source)}</span>
               <span>${escapeHtml(article.category)}</span>
-              ${searchQuery ? `<span class="article-date-tag">${article.date.slice(5)}</span>` : ""}
             </div>
           </div>
           <svg class="article-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -125,11 +149,13 @@
     });
 
     $("#prev-date").addEventListener("click", () => {
+      showAllDates = false;
       currentDate.setDate(currentDate.getDate() - 1);
       render();
     });
 
     $("#next-date").addEventListener("click", () => {
+      showAllDates = false;
       const today = new Date();
       const next = new Date(currentDate);
       next.setDate(next.getDate() + 1);
@@ -139,6 +165,11 @@
       }
     });
 
+    $("#toggle-all").addEventListener("click", () => {
+      showAllDates = !showAllDates;
+      render();
+    });
+
     const datePicker = $("#date-picker");
     $("#pick-date").addEventListener("click", () => {
       datePicker.value = formatDate(currentDate);
@@ -146,6 +177,7 @@
     });
     datePicker.addEventListener("change", (e) => {
       if (e.target.value) {
+        showAllDates = false;
         currentDate = parseDate(e.target.value);
         render();
       }
