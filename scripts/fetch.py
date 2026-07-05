@@ -89,7 +89,8 @@ SOURCES = [
 def fetch_feeds():
     """抓取所有 RSS 源，返回文章列表"""
     articles = []
-    today = datetime.now(CST).date()
+    # 每天早上 8 点更新的是"前一天"的资讯，故统一标注为昨天。
+    publish_date = datetime.now(CST).date() - timedelta(days=1)
 
     for source in SOURCES:
         try:
@@ -100,8 +101,8 @@ def fetch_feeds():
                     break
 
                 # 不再按发布日期过滤：真实 RSS 源里没有"当前演示日期"的新闻，
-                # 直接取每个源最新的若干篇，统一标注为今天，靠去重保证不重复。
-                date_str = today.isoformat()
+                # 直接取每个源最新的若干篇，统一标注为前一天，靠去重保证不重复。
+                date_str = publish_date.isoformat()
 
                 title = html.unescape(entry.get("title", "").strip())
                 url = entry.get("link", "").strip()
