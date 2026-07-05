@@ -115,6 +115,7 @@
         <a class="article-main" href="${escapeAttr(article.url)}" target="_blank" rel="noopener noreferrer">
           <div class="article-info">
             <div class="article-title">${escapeHtml(article.title)}</div>
+            ${article.titleCn ? `<div class="article-title-cn">${escapeHtml(article.titleCn)}</div>` : ""}
             <div class="article-meta">
               <span class="source-tag" data-cat="${escapeAttr(article.category)}">${escapeHtml(article.source)}</span>
               <span>${escapeHtml(article.category)}</span>
