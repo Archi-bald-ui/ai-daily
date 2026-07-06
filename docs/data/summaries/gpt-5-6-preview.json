@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 预览 GPT-5.6 家族：Sol、Terra、Luna — 仅限政府访问名单",
+  "overview": "OpenAI 预告了 GPT-5.6 系列，推出 Sol、Terra、Luna 三款模型。这些模型在语言理解、推理和安全防护方面进一步提升，瞄准更高级的应用场景。为降低潜在风险，模型访问权限仅对政府机构登记名单开放，开启全新的受控发布模式。",
+  "sections": [
+    {
+      "heading": "GPT-5.6 系列及 Sol、Terra、Luna 预览",
+      "summary": "该系列包含三款新模型，分别针对不同任务进行优化，在性能和安全性上都有显著提升，旨在满足更复杂的语言和推理需求。"
+    },
+    {
+      "heading": "政府专属访问机制",
+      "summary": "为防止模型被滥用，OpenAI 将这些模型列为受限资源，仅向政府机构登记名单开放，形成受控发布的渠道。"
+    },
+    {
+      "heading": "对 AI 治理和安全的影响",
+      "summary": "此类受控发布模式预示着未来 AI 技术可能更倾向于分层授权，推动行业在安全合规方面制定更严格的标准。"
+    }
+  ],
+  "id": "gpt-5-6-preview",
+  "title": "OpenAI previews GPT-5.6 family: Sol, Terra, Luna — gated behind government access list",
+  "url": "https://openai.com/news/gpt-5-6-preview/",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-06-26",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:58:19.835597+08:00"
+}
