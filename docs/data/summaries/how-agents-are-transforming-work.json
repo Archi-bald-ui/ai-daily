@@ -1,0 +1,26 @@
+{
+  "titleCn": "代理如何改变工作",
+  "overview": "文章探讨了AI代理在工作场所的广泛应用，包括自动化重复任务、提升协作效率以及推动新型业务模式。重点分析了代理的自主决策能力、与现有系统的集成方式，并提醒在安全、伦理和治理方面需要做好相应准备。",
+  "sections": [
+    {
+      "heading": "自动化赋能工作流程",
+      "summary": "AI代理能够接管重复性高、规则明确的任务，让员工聚焦创造性和决策性工作，从而显著提升效率。"
+    },
+    {
+      "heading": "跨系统协作与集成",
+      "summary": "代理通过API和插件与现有企业系统无缝对接，形成统一的工作平台，实现信息流畅共享和业务联动。"
+    },
+    {
+      "heading": "安全、伦理与治理挑战",
+      "summary": "随着代理自主性提升，组织需制定明确的使用规范、监控机制和责任追溯体系，以防止风险和滥用。"
+    }
+  ],
+  "id": "how-agents-are-transforming-work",
+  "title": "How agents are transforming work",
+  "url": "https://openai.com/index/how-agents-are-transforming-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-04",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:48:41.114542+08:00"
+}
