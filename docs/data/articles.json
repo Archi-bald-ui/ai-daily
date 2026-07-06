@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T12:17:03.379072+08:00",
+  "lastUpdated": "2026-07-06T12:26:24.968635+08:00",
   "articles": [
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -9,6 +9,57 @@
       "date": "2026-07-05",
       "score": 8,
       "titleCn": "马克·扎克伯格告诉员工，AI 代理的进展并未如他所愿"
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-05",
+      "score": 8,
+      "titleCn": "深入了解 Genebench-Pro"
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-05",
+      "score": 8,
+      "titleCn": "正式推出 GeneBench-Pro"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-05",
+      "score": 8,
+      "titleCn": "Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI"
+    },
+    {
+      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-05",
+      "score": 8
+    },
+    {
+      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+      "url": "https://www.qbitai.com/2026/07/443339.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-05",
+      "score": 8
+    },
+    {
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-05",
+      "score": 8
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -54,6 +105,24 @@
       "date": "2026-07-05",
       "score": 7,
       "titleCn": "白宫大幅缩短淘汰易受量子攻击加密货币的期限"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-05",
+      "score": 7,
+      "titleCn": "Mistral AI 是什么？了解 OpenAI 竞争对手的全部信息"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-05",
+      "score": 6,
+      "titleCn": "亚马逊将停止接受 Mechanical Turk 的新客户"
     },
     {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -854,32 +923,6 @@
       "date": "2026-06-06",
       "score": 8,
       "titleCn": "Mixture-of-Depths：Transformer推理中的自适应计算分配"
-    },
-    {
-      "title": "Anthropic and OpenAI both file confidentially for IPO",
-      "url": "https://techcrunch.com/2026/06/05/anthropic-openai-confidential-ipo-filing/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-05",
-      "score": 9,
-      "titleCn": "Anthropic 与 OpenAI 双方均已保密提交 IPO 申请"
-    },
-    {
-      "title": "Anthropic closes financing round at $965 billion valuation, surpassing OpenAI",
-      "url": "https://www.theverge.com/2026/6/5/anthropic-965-billion-valuation",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-05",
-      "score": 9,
-      "titleCn": "Anthropic 以 9650 亿美元估值完成融资轮，超越 OpenAI"
-    },
-    {
-      "title": "Anthropic估值9650亿美元超越OpenAI，双双秘密提交IPO",
-      "url": "https://www.qbitai.com/2026/06/433001.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-05",
-      "score": 9
     }
   ]
 }
