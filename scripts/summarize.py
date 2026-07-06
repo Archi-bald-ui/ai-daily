@@ -31,12 +31,13 @@ SUMMARY_DIR = ROOT / "docs" / "data" / "summaries"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; AIDailyBot/1.0)"}
 
 
-def paper_id(url):
-    """从 arXiv URL 提取论文 id，如 2607.01306"""
+def summary_id(url):
+    """生成稳定的文件名 id：论文用 arXiv 编号，其余用末段 slug（与前端算法一致）"""
     m = re.search(r"(\d{4}\.\d{4,5})", url)
     if m:
         return m.group(1)
-    return re.sub(r"[^A-Za-z0-9._-]", "_", url.rstrip("/").split("/")[-1])
+    seg = re.sub(r"[#?].*$", "", url).rstrip("/").split("/")[-1]
+    return re.sub(r"[^a-z0-9]+", "-", seg.lower()).strip("-")[:80]
 
 
 def html_to_text(html):
@@ -88,7 +89,26 @@ def parse_minimax_content(result):
     return content
 
 
-def build_prompt(title, source, body):
+def build_prompt(title, source, body, brief=False):
+    if brief:
+        return "\n".join(
+            [
+                "你是AI资讯编辑。请对下面这篇技术博客/资讯生成一段简短的中文摘要，供读者快速了解要点。",
+                "",
+                f"标题：{title}",
+                f"来源：{source}",
+                "（无正文，请基于标题合理推断内容进行概括，不要编造具体数字。）",
+                "",
+                "要求：",
+                "1. titleCn：标题的中文翻译",
+                "2. overview：80-140字的中文摘要，讲清这篇讲了什么、有何看点",
+                "3. sections：2-3 个核心要点，每个 heading 为简短中文小标题，summary 为 40-70 字说明",
+                "",
+                "只返回如下JSON，不要任何多余内容：",
+                '{"titleCn":"...","overview":"...","sections":[{"heading":"...","summary":"..."}]}',
+            ]
+        )
+
     lines = [
         "你是AI论文翻译与解读专家。请对下面这篇论文生成结构化的中文摘要，供中文读者快速通读。",
         "",
@@ -120,8 +140,8 @@ def build_prompt(title, source, body):
     return "\n".join(lines)
 
 
-def summarize(title, source, body):
-    prompt = build_prompt(title, source, body)
+def summarize(title, source, body, brief=False):
+    prompt = build_prompt(title, source, body, brief)
     last_err = None
     for attempt in range(3):
         try:
@@ -170,27 +190,31 @@ def main():
         return
 
     data = json.load(open(ARTICLES_FILE, encoding="utf-8"))
-    papers = [a for a in data["articles"] if a.get("category") == "论文"]
+    targets = [
+        a for a in data["articles"] if a.get("category") in ("论文", "技术博客")
+    ]
     SUMMARY_DIR.mkdir(parents=True, exist_ok=True)
 
     done = 0
-    for a in papers:
-        pid = paper_id(a["url"])
+    for a in targets:
+        pid = summary_id(a["url"])
         out = SUMMARY_DIR / f"{pid}.json"
         if out.exists():
             continue
 
+        brief = a.get("category") == "技术博客"
         print(f"📄 {pid} — {a['title'][:50]}")
         try:
-            body = fetch_paper_text(pid) if USE_FULLTEXT else ""
+            body = fetch_paper_text(pid) if (USE_FULLTEXT and not brief) else ""
             print(f"   正文 {len(body)} 字" if body else "   基于标题生成")
-            result = summarize(a["title"], a["source"], body)
+            result = summarize(a["title"], a["source"], body, brief)
             result.update(
                 {
                     "id": pid,
                     "title": a["title"],
                     "url": a["url"],
                     "source": a["source"],
+                    "category": a.get("category", ""),
                     "date": a.get("date", ""),
                     "hasFullText": bool(body),
                     "generatedAt": datetime.now(CST).isoformat(),
