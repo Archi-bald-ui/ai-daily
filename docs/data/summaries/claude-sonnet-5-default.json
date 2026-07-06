@@ -1,0 +1,26 @@
+{
+  "titleCn": "Claude Sonnet 5 成为所有 Claude 用户的默认模型",
+  "overview": "Anthropic 宣布将 Claude Sonnet 5 设为所有用户的默认模型，意味着平台默认推理能力、响应速度和新增的多模态功能将直接惠及每位用户，并提供更长的上下文窗口和增强的多语言支持，标志着产品成熟度和生态布局进入新阶段。",
+  "sections": [
+    {
+      "heading": "默认模型切换",
+      "summary": "已取代原有默认版本，成为所有用户在平台上的默认推理模型，提升了默认使用体验，并为后续功能升级奠定基础。"
+    },
+    {
+      "heading": "性能与功能提升",
+      "summary": "相较前代，在推理速度、上下文窗口和多模态交互方面实现显著提升，使对话更流畅、答案更准确，并增强安全性。"
+    },
+    {
+      "heading": "用户与生态影响",
+      "summary": "默认模型的升级使所有用户即刻受益，同时推动第三方开发者基于更强能力构建创新应用，提升整体生态竞争力。"
+    }
+  ],
+  "id": "claude-sonnet-5-default",
+  "title": "Claude Sonnet 5 becomes default model for all Claude users",
+  "url": "https://www.anthropic.com/news/claude-sonnet-5-default",
+  "source": "Anthropic",
+  "category": "技术博客",
+  "date": "2026-06-30",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:57:05.323592+08:00"
+}
