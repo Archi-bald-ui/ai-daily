@@ -1,0 +1,26 @@
+{
+  "titleCn": "预览 GPT‑5.6 Sol：下一代模型",
+  "overview": "OpenAI正式发布了GPT‑5.6Sol的预览版，展示了全新架构、显著提升的推理与多模态能力，并在算力效率和安全性方面实现突破。该模型被视为下一代语言模型的里程碑，旨在保持强大生成能力的同时，降低资源消耗并加强对有害输出的控制。",
+  "sections": [
+    {
+      "heading": "全新架构与性能提升",
+      "summary": "GPT‑5.6Sol采用全新设计，在模型规模、算力利用和推理速度上实现显著提升，号称超越前代数倍。"
+    },
+    {
+      "heading": "多模态与高级推理能力",
+      "summary": "新模型整合文本、图像、音频等模态，推理链更长、更连贯，能在复杂任务中保持上下文一致性。"
+    },
+    {
+      "heading": "效率与安全性并重",
+      "summary": "通过改进的训练技巧与硬件协同，模型在保持强大生成能力的同时，显著降低能耗并加入更细粒度的安全约束。"
+    }
+  ],
+  "id": "previewing-gpt-5-6-sol",
+  "title": "Previewing GPT-5.6 Sol: a next-generation model",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-04",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:47:20.368623+08:00"
+}
