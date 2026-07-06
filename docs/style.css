@@ -303,10 +303,7 @@ header {
   font-weight: 500;
   line-height: 1.5;
   margin-bottom: 4px;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  overflow-wrap: anywhere;
 }
 
 .article-title-cn {
@@ -314,10 +311,7 @@ header {
   color: var(--text-2);
   line-height: 1.5;
   margin-bottom: 6px;
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  overflow-wrap: anywhere;
 }
 
 .article-meta {
