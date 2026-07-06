@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 与博通推出 Jalapeño，首款定制 AI 推理芯片",
+  "overview": "OpenAI与博通联合推出首款定制AI推理芯片Jalapeño，专为语言模型等大模型优化，实现更高的算力密度和能效，显著降低部署成本并提升响应速度。此举标志着OpenAI在硬件自研方面迈出关键一步，也凸显AI行业对专用推理加速芯片的迫切需求。",
+  "sections": [
+    {
+      "heading": "合作与芯片命名",
+      "summary": "OpenAI与博通合作研发，以Jalapeño命名，体现轻量、强大且具辛辣感的定位。"
+    },
+    {
+      "heading": "定制推理芯片的技术优势",
+      "summary": "该芯片针对大模型推理进行专项优化，提供更高算力密度与能效，显著降低延迟和功耗，适配云端与边缘部署。"
+    },
+    {
+      "heading": "对AI产业的影响与前景",
+      "summary": "此举推动AI算力硬件多元化，促进自研芯片在推理阶段的普及，可能重塑芯片供应链并加剧行业竞争。"
+    }
+  ],
+  "id": "jalapeno-chip",
+  "title": "OpenAI and Broadcom unveil Jalapeño, OpenAI's first custom AI inference chip",
+  "url": "https://openai.com/news/jalapeno-chip/",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-01",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:55:08.448965+08:00"
+}
