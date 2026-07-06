@@ -1,0 +1,26 @@
+{
+  "titleCn": "HuggingFace 发布 SmolAgent 2.0 框架：轻量级智能体开发",
+  "overview": "HuggingFace 正式推出 SmolAgent 2.0，专为构建轻量级 AI 智能体设计的开发框架。新版在运行时资源占用、响应延迟以及易用性方面进行显著优化，并提供更丰富的预训练模型接口和跨平台部署方案，帮助开发者快速构建、调试和上线高效智能体应用。",
+  "sections": [
+    {
+      "heading": "轻量化核心设计",
+      "summary": "新版 SmolAgent 2.0 通过精简架构和高效调度算法，实现 CPU/内存占用大幅下降，端到端响应时延显著缩短，适合在边缘设备和资源受限环境中运行。"
+    },
+    {
+      "heading": "丰富模型接口与跨平台支持",
+      "summary": "提供统一的模型加载和推理接口，兼容 Transformers、Diffusers 等主流库，并支持在服务器、浏览器、移动端和嵌入式平台一键部署。"
+    },
+    {
+      "heading": "优化开发体验与调试",
+      "summary": "引入交互式日志、可视化链路追踪和一键基准测试套件，帮助开发者快速定位瓶颈并验证性能提升。"
+    }
+  ],
+  "id": "smolagents-2",
+  "title": "HuggingFace releases SmolAgent 2.0 framework for lightweight agent development",
+  "url": "https://huggingface.co/blog/smolagents-2",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-06-21",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T21:04:15.057296+08:00"
+}
