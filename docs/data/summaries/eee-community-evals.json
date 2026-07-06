@@ -1,0 +1,26 @@
+{
+  "titleCn": "在 Hugging Face 模型页面展示所有评估结果",
+  "overview": "Hugging Face 近期在模型页面推出全新功能，统一展示每个模型的所有评估结果。用户可以直接在同一页查看来自不同基准测试的指标，包括精度、推理速度、能耗等，并通过筛选和排序快速比较模型性能。此举帮助研究者和开发者更直观地评估模型，加速模型选择与复现。",
+  "sections": [
+    {
+      "heading": "统一评估结果展示",
+      "summary": "模型页面新增专门的评估板块，聚合所有公开基准的评测结果，用户无需跳转即可查看，并支持一键复制图表与数据。"
+    },
+    {
+      "heading": "多基准测试指标聚合",
+      "summary": "整合数十种公开基准，覆盖精度、推理速度、内存占用等多维度指标，支持按任务或模型类型过滤，以及自定义排序。"
+    },
+    {
+      "heading": "便捷筛选与排序",
+      "summary": "页面提供快速筛选栏，用户可按评估数据集、硬件环境或指标阈值筛选结果，并支持升序/降序排序以便比较。"
+    }
+  ],
+  "id": "eee-community-evals",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "url": "https://huggingface.co/blog/eee-community-evals",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:45:18.975504+08:00"
+}
