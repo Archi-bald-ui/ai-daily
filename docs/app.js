@@ -5,7 +5,7 @@
   let currentCategory = "all";
   let currentDate = new Date();
   let searchQuery = "";
-  let showAllDates = false;
+  let showAllDates = true;
 
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => document.querySelectorAll(sel);
@@ -107,8 +107,9 @@
   function renderCard(article) {
     const scoreClass =
       article.score >= 10 ? "s10" : article.score >= 9 ? "s9" : "";
-    const isPaper = article.category === "论文";
-    const pid = isPaper ? paperId(article.url) : "";
+    const hasSummary =
+      article.category === "论文" || article.category === "技术博客";
+    const sid = hasSummary ? summaryId(article.url) : "";
     return `
       <div class="article-card">
         <div class="article-score ${scoreClass}">${article.score || "-"}</div>
@@ -125,7 +126,7 @@
             <path d="m9 18 6-6-6-6"/>
           </svg>
         </a>
-        ${isPaper ? `<button class="summary-btn" data-id="${escapeAttr(pid)}" data-title="${escapeAttr(article.title)}">📄 中文摘要</button>` : ""}
+        ${hasSummary ? `<button class="summary-btn" data-id="${escapeAttr(sid)}" data-title="${escapeAttr(article.title)}">📄 中文摘要</button>` : ""}
       </div>`;
   }
 
@@ -204,9 +205,19 @@
   }
 
   // ── 论文摘要阅读器 ──
-  function paperId(url) {
+  function summaryId(url) {
     const m = url.match(/(\d{4}\.\d{4,5})/);
-    return m ? m[1] : encodeURIComponent(url.replace(/\/$/, "").split("/").pop());
+    if (m) return m[1];
+    const seg = url
+      .replace(/[#?].*$/, "")
+      .replace(/\/+$/, "")
+      .split("/")
+      .pop();
+    return (seg || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+      .slice(0, 80);
   }
 
   async function openSummary(id, title) {
