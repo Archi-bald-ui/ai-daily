@@ -1,0 +1,26 @@
+{
+  "titleCn": "Andrej Karpathy 加入 Anthropic 从事前沿大语言模型研发",
+  "overview": "著名深度学习研究员 Andrej Karpathy 宣布加入 AI 安全公司 Anthropic，将参与前沿大语言模型（LLM）的研发工作。Karpathy 曾在 OpenAI 与特斯拉等机构任职，拥有丰富的模型训练与系统优化经验，此次加盟被视为 Anthropic 在模型能力与安全性方面加速突破的关键一步。",
+  "sections": [
+    {
+      "heading": "Karpathy 的技术背景",
+      "summary": "Karpathy 是深度学习领域的知名专家，曾在 OpenAI 和特斯拉负责模型研发与系统优化，拥有大规模训练的实战经验。"
+    },
+    {
+      "heading": "Anthropic 的研发目标",
+      "summary": "Anthropic 以安全、可解释的 AI 为核心使命，致力于构建可靠且对齐人类价值的前沿语言模型。"
+    },
+    {
+      "heading": "合作的潜在影响",
+      "summary": "Karpathy 的加入有望提升 Anthropic 在模型规模、效率和安全对齐方面的研发速度，推动新一代 LLM 的技术突破。"
+    }
+  ],
+  "id": "karpathy-joins",
+  "title": "Andrej Karpathy joins Anthropic to work on frontier LLM R&D",
+  "url": "https://www.anthropic.com/news/karpathy-joins",
+  "source": "Anthropic",
+  "category": "技术博客",
+  "date": "2026-06-25",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T21:02:54.389941+08:00"
+}
