@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 NVIDIA NeMo AutoModel 加速 Transformer 微调",
+  "overview": "本文介绍 NVIDIA NeMo AutoModel 如何在 HuggingFace 生态下快速构建并微调 Transformer 模型。通过自动混合精度、弹性并行和高效数据加载等特性，大幅缩短训练时间并降低资源消耗，同时保持模型精度。",
+  "sections": [
+    {
+      "heading": "自动混合精度与并行策略",
+      "summary": "NeMo AutoModel 自动选择混合精度与弹性模型/数据并行，实现多 GPU 高效利用，显著提升训练吞吐量。"
+    },
+    {
+      "heading": "一键式超参搜索与调度",
+      "summary": "内置自动超参搜索框架，支持学习率、批量大小等关键参数智能调优，降低人工调参成本。"
+    },
+    {
+      "heading": "与 HuggingFace 生态无缝衔接",
+      "summary": "可直接加载 HF 模型库中的预训练权重，使用 NeMo 高效微调流程，实现快速实验和部署。"
+    }
+  ],
+  "id": "accelerating-fine-tuning-nvidia-nemo-automodel",
+  "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:46:23.487149+08:00"
+}
