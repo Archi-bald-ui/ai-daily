@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hugging Face 与 Cerebras 将 Gemma 4 带入实时语音 AI",
+  "overview": "Hugging Face 与 Cerebras 合作，将最新语音模型 Gemma 4 引入实时语音 AI 场景。利用 Cerebras 超大芯片的高带宽并行计算，实现毫秒级推理延迟，并简化在 Hugging Face 平台上的部署流程，助力开发者快速构建低延迟语音交互应用。",
+  "sections": [
+    {
+      "heading": "合作概览",
+      "summary": "Hugging Face 与 Cerebras 联手，将 Gemma 4 语音模型集成至实时 AI，提升部署便捷性与推理速度。"
+    },
+    {
+      "heading": "硬件加速优势",
+      "summary": "Cerebras 超大芯片提供高带宽并行计算，实现毫秒级延迟，满足对话交互的实时需求。"
+    },
+    {
+      "heading": "开发者生态",
+      "summary": "开发者可直接在 Hugging Face 平台调用 Gemma 4，享受一键部署和自动优化，降低入门门槛。"
+    }
+  ],
+  "id": "cerebras-gemma4-voice-ai",
+  "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+  "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:43:53.378992+08:00"
+}
