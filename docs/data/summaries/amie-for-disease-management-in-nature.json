@@ -1,0 +1,26 @@
+{
+  "titleCn": "新研究表明，我们的医疗 AI AMIE 可帮助管理健康状况",
+  "overview": "Google AI 公布其医疗 AI AMIE 的最新研究，展示该系统通过对话式交互帮助患者管理健康状况，包括疾病监测、用药提醒和生活方式建议。研究显示 AMIE 在多项评估中接近或匹敌临床医生水平，有望提升基层医疗效率并减轻医生负担。",
+  "sections": [
+    {
+      "heading": "AMIE 的技术原理",
+      "summary": "基于大规模语言模型，通过医学知识库和对话系统实现症状询问、风险评估和个性化建议。"
+    },
+    {
+      "heading": "临床应用场景",
+      "summary": "可用于慢病管理、健康监测、用药提醒及初步分诊，帮助患者在家中获取及时医学指导，并提供生活建议。"
+    },
+    {
+      "heading": "研究结果与前景",
+      "summary": "在多项评估中 AMIE 接近临床医生水平，安全性得到验证，未来有望在基层医疗中推广应用。"
+    }
+  ],
+  "id": "amie-for-disease-management-in-nature",
+  "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-04",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:49:35.693583+08:00"
+}
