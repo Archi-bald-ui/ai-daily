@@ -1,0 +1,26 @@
+{
+  "titleCn": "DiScoFormer：跨分布统一Transformer用于密度与分数估计",
+  "overview": "该文提出DiScoFormer，一种能够同时学习概率密度和分数函数的Transformer模型。通过共享骨干结构实现跨不同分布的通用建模，兼顾生成与判别任务。实验显示在同一模型下密度估计和分数匹配均达优异性能，展示了统一框架在生成模型中的潜力。",
+  "sections": [
+    {
+      "heading": "统一密度与分数建模",
+      "summary": "DiScoFormer利用单一Transformer同时预测概率密度和梯度分数，避免传统两套模型的结构冗余，简化训练流程。"
+    },
+    {
+      "heading": "跨分布泛化能力",
+      "summary": "模型设计支持在未见分布上进行密度和分数估计，展示了跨任务、跨数据集的迁移学习能力。"
+    },
+    {
+      "heading": "实验验证与性能提升",
+      "summary": "在多数据集上对比独立模型，DiScoFormer在密度估计似然和分数匹配的采样质量上均取得显著提升。"
+    }
+  ],
+  "id": "discoformer",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "url": "https://huggingface.co/blog/allenai/discoformer",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:45:34.511902+08:00"
+}
