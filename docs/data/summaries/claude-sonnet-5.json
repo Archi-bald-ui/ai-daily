@@ -1,0 +1,26 @@
+{
+  "titleCn": "Claude Sonnet 5 发布：最强 Agentic Sonnet 模型",
+  "overview": "Anthropic 发布 Claude Sonnet 5，定位于最强 Agentic Sonnet 模型。新版强化自主规划、长程推理和多步任务执行能力，集成更强工具调用与上下文记忆，并优化安全对齐，旨在推动 AI 从被动回答向主动代理转型。",
+  "sections": [
+    {
+      "heading": "全新 Agentic 能力提升",
+      "summary": "新版强化自主规划与长程推理，可在多步骤任务中实现更高自主决策，显著提升复杂场景下的任务完成率。"
+    },
+    {
+      "heading": "强化工具调用与上下文记忆",
+      "summary": "集成更强的工具调用接口与长期上下文记忆模块，使模型能够在长对话中持续利用外部资源，保持信息一致性。"
+    },
+    {
+      "heading": "安全对齐与产业适配",
+      "summary": "在模型训练中加入更严格的安全对齐机制，并通过企业级接口与部署方案，确保在高风险场景中可靠运行。"
+    }
+  ],
+  "id": "claude-sonnet-5",
+  "title": "Claude Sonnet 5 发布：最强 Agentic Sonnet 模型",
+  "url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "source": "Anthropic",
+  "category": "技术博客",
+  "date": "2026-07-02",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:52:06.838392+08:00"
+}
