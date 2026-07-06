@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google AI 2026 年 6 月 Pixel 更新：新功能",
+  "overview": "Google AI 于 2026 年 6 月推出 Pixel 更新，带来一系列基于本地 AI 的新功能。相机体验进一步提升，新增夜景增强和实时 HDR；语音助理引入生成式模型，支持更自然的对话和主动建议；同时强化隐私保护，所有处理均在设备上完成，帮助用户更安全地使用智能功能。",
+  "sections": [
+    {
+      "heading": "相机AI升级",
+      "summary": "通过改进的夜景模式和实时HDR，实现更低光环境下的细节保留与更自然的色彩表现，并提升拍摄速度。"
+    },
+    {
+      "heading": "生成式助理",
+      "summary": "新助理采用生成式模型，提供更连贯的对话和主动建议，能够在用户意图未明确时生成合适的操作选项。"
+    },
+    {
+      "heading": "隐私安全强化",
+      "summary": "全部AI运算在本地完成，新增细粒度权限控制，让用户更清晰地管理个人数据并防止意外泄露。"
+    }
+  ],
+  "id": "pixel-drop-june-2026",
+  "title": "Google AI June 2026 Pixel Drop: New Features",
+  "url": "https://blog.google/products/pixel/pixel-drop-june-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-03",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:50:33.459673+08:00"
+}
