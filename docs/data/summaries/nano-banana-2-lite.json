@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google DeepMind 推出 Nano Banana 2 Lite 与 Gemini Omni Flash",
+  "overview": "Google DeepMind 正式发布 Nano Banana 2 Lite 与 Gemini Omni Flash 两款新产品。前者是一款面向移动端的轻量级 AI 推理模型，主打低功耗和快速响应；后者是一款高速闪存技术，专为大规模 AI 计算优化，实现更快的模型加载和推理吞吐量。两者的组合有望推动边缘 AI 与数据中心的协同部署。",
+  "sections": [
+    {
+      "heading": "轻量级模型 Nano Banana 2 Lite",
+      "summary": "面向移动端的轻量化 AI 推理模型，通过模型压缩与硬件协同，实现更低的功耗与更快的响应速度，适合边缘端实时推理。"
+    },
+    {
+      "heading": "高速闪存 Gemini Omni Flash",
+      "summary": "专为大规模 AI 计算设计的闪存技术，提升模型加载速度与吞吐量，降低数据搬运瓶颈，支持高效推理与训练。"
+    },
+    {
+      "heading": "协同部署与生态影响",
+      "summary": "Lite 与 Flash 组合可在边缘设备与数据中心之间实现资源动态分配，提升 AI 系统的整体能效与可扩展性，推动新一代 AI 应用落地。"
+    }
+  ],
+  "id": "nano-banana-2-lite",
+  "title": "Nano Banana 2 Lite and Gemini Omni Flash launched by Google DeepMind",
+  "url": "https://blog.google/technology/ai/nano-banana-2-lite/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-02",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:53:23.661299+08:00"
+}
