@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 推出 GeneBench-Pro：基因模型评测新标准",
+  "overview": "GeneBench-Pro 是 OpenAI 最新发布的基因序列生成与理解模型评测框架，旨在提供多任务、多维度的大规模基准测试，帮助研究人员评估模型在基因注释、调控预测和序列生成等方面的能力。该平台整合了全新高质量基因数据集、细粒度评估指标以及公开排行榜，推动基因 AI 模型的标准化评估与社区协作。",
+  "sections": [
+    {
+      "heading": "多任务评测框架",
+      "summary": "GeneBench-Pro 支持基因注释、调控元件预测、序列生成等十余项核心任务，提供统一的评测流程与对比基线，方便模型之间直接横向比较。"
+    },
+    {
+      "heading": "全新高质量基因数据集",
+      "summary": "平台引入了覆盖多物种、多种实验验证的基因序列数据，兼顾真实生物实验噪声和标准格式，提升评测的实用性与可信度。"
+    },
+    {
+      "heading": "公开排行榜与社区协作",
+      "summary": "用户可通过平台提交模型成绩，实时更新排行榜，并参与评测任务的设计与指标优化，促进基因 AI 研究的开放共享。"
+    }
+  ],
+  "id": "introducing-genebench-pro",
+  "title": "Introducing GeneBench-Pro",
+  "url": "https://openai.com/index/introducing-genebench-pro",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:41:04.225323+08:00"
+}
