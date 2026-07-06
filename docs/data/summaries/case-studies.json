@@ -1,0 +1,26 @@
+{
+  "titleCn": "深入解析 Genebench-Pro",
+  "overview": "OpenAI 发布 Genebench-Pro 内部解析，深入介绍其在基因/生物科学领域的 AI 模型基准评测平台。该平台提供全面的评估框架与标准化测试集，帮助研究者衡量生成式 AI 在生物医学任务中的性能表现，推动 AI 在生命科学领域的应用发展。",
+  "sections": [
+    {
+      "heading": "专业基准评测体系",
+      "summary": "Genebench-Pro 提供针对基因数据的专项评测标准，涵盖序列生成、功能预测等核心任务，为 AI 模型在生物领域的表现提供客观衡量依据。"
+    },
+    {
+      "heading": "多维度评估指标",
+      "summary": "平台引入生物相关性、保真度、创新性等多维评估维度，不仅关注生成结果的准确性，还评估其在科学研究中的实用价值。"
+    },
+    {
+      "heading": "推动科研 AI 发展",
+      "summary": "通过开源评测工具与数据集，Genebench-Pro 降低生物 AI 研究的准入门槛，促进学术界与产业界在生命科学领域的协作创新。"
+    }
+  ],
+  "id": "case-studies",
+  "title": "Inside Genebench-Pro",
+  "url": "https://openai.com/index/genebench-pro/case-studies",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-05",
+  "hasFullText": false,
+  "generatedAt": "2026-07-06T20:38:38.010835+08:00"
+}
