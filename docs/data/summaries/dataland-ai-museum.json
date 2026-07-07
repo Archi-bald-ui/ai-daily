@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google 宣布 Dataland，首个由 Gemini 驱动的 AI 艺术博物馆",
+  "overview": "Google 近日发布 Dataland，号称全球首家 AI 艺术博物馆，核心由其最新多模态模型 Gemini 提供支持。博物馆通过生成式 AI 创作交互式装置、实时演绎艺术作品，观众可与 AI 共同创作、个性化定制展览内容，探索人工智能与人类创意的边界。",
+  "sections": [
+    {
+      "heading": "Gemini 赋能艺术创作",
+      "summary": "Gemini 模型的多模态能力让 AI 能够生成绘画、音乐、文字等跨媒体作品，为艺术家提供全新创作工具。"
+    },
+    {
+      "heading": "交互式沉浸展览",
+      "summary": "观众可以在沉浸式空间中与 AI 实时对话，共创艺术作品，体验动态生成的视觉与声音，实现个性化互动体验。"
+    },
+    {
+      "heading": "开放合作与公众参与",
+      "summary": "Dataland 向全球艺术家和机构开放 API，鼓励共同研发 AI 艺术项目，公众可在线提交创意并参与策展。"
+    }
+  ],
+  "id": "dataland-ai-museum",
+  "title": "Google announces Dataland, world's first AI arts museum powered by Gemini",
+  "url": "https://blog.google/technology/ai/dataland-ai-museum/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-06-20",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:27:05.655663+08:00"
+}
