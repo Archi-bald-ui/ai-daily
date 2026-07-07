@@ -1,0 +1,26 @@
+{
+  "titleCn": "核心转储流行病学：修复一个18年的Bug",
+  "overview": "文章利用大规模核心转储数据，对一个潜伏了18年的Bug进行流行病学分析，揭示其在多个版本和平台上的传播路径。作者详细阐述发现过程、根因定位、修复策略以及上线后的监控与回归验证，为长期维护大型代码库提供了实践经验。",
+  "sections": [
+    {
+      "heading": "Bug的发现与流行病学分析",
+      "summary": "通过收集多年积累的核心转储，团队对异常模式进行统计和聚类，定位出该Bug在不同平台和版本中的传播轨迹，呈现出明显的流行病学特征。"
+    },
+    {
+      "heading": "根因定位与修复思路",
+      "summary": "分析发现根本原因是内存初始化顺序错误导致的对象状态不一致，修复通过调整初始化顺序并加入防御性检查，防止同类缺陷再次出现。"
+    },
+    {
+      "heading": "验证、部署与持续监控",
+      "summary": "修复后在多个环境进行大规模回归测试，监控核心转储频率和异常分布，确认Bug彻底消除并形成长期监控机制，防止类似问题再次蔓延。"
+    }
+  ],
+  "id": "core-dump-epidemiology-data-infrastructure-bug",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-06",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:25:00.441234+08:00"
+}
