@@ -1,0 +1,26 @@
+{
+  "titleCn": "Anthropic与TCS合作，将Claude引入受监管行业",
+  "overview": "Anthropic宣布与印度IT服务巨头TCS达成战略合作，计划将旗下大语言模型Claude集成进TCS的企业级解决方案，帮助金融、医疗等受监管行业客户快速部署安全、可解释的AI能力，提升业务效率并满足合规要求。",
+  "sections": [
+    {
+      "heading": "合作背景与目标",
+      "summary": "Anthropic与TCS联手，旨在通过企业级AI服务，帮助受监管行业降低合规风险并加速数字化转型。"
+    },
+    {
+      "heading": "技术集成与合规优势",
+      "summary": "通过TCS的云平台和AI治理框架，Claude可实现安全部署、细粒度审计和可解释输出，满足金融与医疗等高合规要求。"
+    },
+    {
+      "heading": "市场影响与行业前景",
+      "summary": "合作有望把Claude的安全AI能力带入全球金融、保险和医疗等受监管市场，推动行业AI应用进入合规化、规模化的新阶段。"
+    }
+  ],
+  "id": "tcs-partnership",
+  "title": "Anthropic partners with TCS to bring Claude to regulated industries",
+  "url": "https://www.anthropic.com/news/tcs-partnership",
+  "source": "Anthropic",
+  "category": "技术博客",
+  "date": "2026-06-11",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T14:53:40.870820+08:00"
+}
