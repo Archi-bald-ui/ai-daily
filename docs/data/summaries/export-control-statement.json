@@ -1,0 +1,26 @@
+{
+  "titleCn": "Anthropic 声明：美国政府指令暂停对 Fable 5 与 Mythos 5 的访问",
+  "overview": "Anthropic 官方就美国政府下达的暂停访问指令作出声明，宣布将停止向外部用户和合作方提供 Fable 5 与 Mythos 5 两个模型的接口和使用权限。该指令被指出于国家安全及防止高风险 AI 技术外流的考量，可能涉及出口管制和情报审查。声明中强调 Anthropic 将遵守指令，同时呼吁政府在监管与创新之间保持平衡，以免阻碍 AI 研究的健康发展。",
+  "sections": [
+    {
+      "heading": "指令背景与原因",
+      "summary": "美国政府基于国家安全、防止高风险 AI 技术外泄的考量，正式要求 Anthropic 暂停对 Fable 5 与 Mythos 5 两款模型的外部访问权限。"
+    },
+    {
+      "heading": "访问限制范围",
+      "summary": "限制覆盖 API 调用、模型下载及基于云端的实验环境，所有面向非美国实体或未经特别批准的用户的服务将在指令生效后暂时中止。"
+    },
+    {
+      "heading": "公司回应与后续措施",
+      "summary": "Anthropic 表示将完全遵守指令并配合审查，同时计划与监管机构保持沟通，争取在确保安全的前提下尽快恢复受限服务的正常运行。"
+    }
+  ],
+  "id": "export-control-statement",
+  "title": "Anthropic statement: US government directive to suspend Fable 5 and Mythos 5 access",
+  "url": "https://www.anthropic.com/news/export-control-statement",
+  "source": "Anthropic",
+  "category": "技术博客",
+  "date": "2026-06-12",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:29:10.674049+08:00"
+}
