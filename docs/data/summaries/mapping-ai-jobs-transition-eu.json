@@ -1,0 +1,26 @@
+{
+  "titleCn": "欧洲AI劳动力机遇图谱",
+  "overview": "本报告由OpenAI发布，系统绘制欧洲AI劳动力市场现状，分析人才供给、岗位需求及区域分布差异，揭示技能缺口与发展机遇，并为政策制定者和企业决策提供参考，并提出人才培养与产业协同的路径建议。",
+  "sections": [
+    {
+      "heading": "人才供需格局",
+      "summary": "报告通过数据集描绘欧洲各国AI岗位需求与人才供给的规模、密度与增长率，呈现供需错配的主要地区。"
+    },
+    {
+      "heading": "关键技能与岗位趋势",
+      "summary": "聚焦机器学习、自然语言处理等核心技能，列出高需求职位类型及其在未来数年的增长预期，帮助从业者定位学习方向。"
+    },
+    {
+      "heading": "政策与产业协同路径",
+      "summary": "提出加强教育投资、跨部门合作与国际人才流动的政策建议，阐述产业界与学术界协同创新的可行模式。"
+    }
+  ],
+  "id": "mapping-ai-jobs-transition-eu",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-06",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:25:57.668459+08:00"
+}
