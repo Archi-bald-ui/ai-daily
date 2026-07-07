@@ -1,0 +1,26 @@
+{
+  "titleCn": "Apple 基础模型 (AFM 3)：与 Google 合作开发的五个模型",
+  "overview": "本文介绍了Apple最新的基础模型系列AFM 3，包含五个预训练模型，均是与Google合作研发。这些模型在语言理解、代码生成和多模态任务上实现显著提升，并针对iOS设备进行高效压缩，提供更快的推理速度和更低的功耗。",
+  "sections": [
+    {
+      "heading": "合作背景与模型概览",
+      "summary": "Apple与Google联合研发AFM 3系列，推出五个不同规模的预训练模型，涵盖语言、代码和多模态能力，适用于多种场景。"
+    },
+    {
+      "heading": "技术突破与性能表现",
+      "summary": "AFM 3采用最新Transformer架构和混合精度训练，在多项语言和代码基准上超越前代，响应速度和准确性显著提升。"
+    },
+    {
+      "heading": "移动端部署与生态整合",
+      "summary": "为适配iPhone和iPad，模型进行量化和裁剪，实现低功耗本地推理，帮助Apple设备提供更智能的语音、图像和文本功能。"
+    }
+  ],
+  "id": "afm-3-apple-google",
+  "title": "Apple Foundation Models (AFM 3): five models developed in collaboration with Google",
+  "url": "https://blog.google/technology/ai/afm-3-apple-google/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-06-08",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:33:18.349050+08:00"
+}
