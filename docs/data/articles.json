@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-07-06T12:26:24.968635+08:00",
+  "lastUpdated": "2026-07-07T12:16:14.548989+08:00",
   "articles": [
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-06",
+      "score": 8,
+      "titleCn": "LeRobot v0.6.0：想象、评估、改进"
+    },
+    {
+      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "url": "https://arxiv.org/abs/2607.02807",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-06",
+      "score": 8,
+      "titleCn": "SwarmResearch：编排代码智能体，实现开放式探索"
+    },
+    {
+      "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.02914",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-06",
+      "score": 8,
+      "titleCn": "Oyster-II：利用强化学习实现大型语言模型的建构性安全对齐"
+    },
+    {
+      "title": "Gemma 4 Technical Report",
+      "url": "https://arxiv.org/abs/2607.02770",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-06",
+      "score": 8,
+      "titleCn": "Gemma 4 技术报告"
+    },
+    {
+      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+      "url": "https://www.qbitai.com/2026/07/444721.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-06",
+      "score": 8
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-06",
+      "score": 7,
+      "titleCn": "Core dump 流行病学：修复一个 18 年之久的 bug"
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-06",
+      "score": 7,
+      "titleCn": "绘制欧洲 AI 劳动力机遇"
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-06",
+      "score": 7,
+      "titleCn": "Vercel CEO Guillermo Rauch 谈模型与智能体分离之战"
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-06",
+      "score": 7,
+      "titleCn": "Reddit 正在使用 LLMs 解决 LLMs 本身造成的问题"
+    },
+    {
+      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+      "url": "https://www.qbitai.com/2026/07/444733.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-06",
+      "score": 7
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-06",
+      "score": 6,
+      "titleCn": "美国投资者即将可投资 SK Hynix——随 AI 热潮崛起的存储芯片厂商"
+    },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -888,41 +985,6 @@
       "category": "中文资讯",
       "date": "2026-06-08",
       "score": 8
-    },
-    {
-      "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
-      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-06",
-      "score": 8,
-      "titleCn": "Microsoft与Google在AI编程模型中挑战Anthropic和OpenAI"
-    },
-    {
-      "title": "Anthropic's Claude Code dominates AI coding market as competitors scramble",
-      "url": "https://arstechnica.com/ai/2026/06/claude-code-coding-market/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-06-06",
-      "score": 8,
-      "titleCn": "Anthropic的Claude Code主导AI编程市场，竞争对手竞相追赶"
-    },
-    {
-      "title": "Claude Code编程市场称王：Anthropic为何领先OpenAI和Google",
-      "url": "https://www.jiqizhixin.com/articles/2026-06-06-claude-code",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-06-06",
-      "score": 8
-    },
-    {
-      "title": "Mixture-of-Depths: Adaptive Compute Allocation in Transformer Inference",
-      "url": "https://arxiv.org/abs/2606.03601",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-06-06",
-      "score": 8,
-      "titleCn": "Mixture-of-Depths：Transformer推理中的自适应计算分配"
     }
   ]
 }
