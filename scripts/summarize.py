@@ -164,12 +164,30 @@ def summarize(title, source, body, brief=False):
             m = re.search(r"\{.*\}", content, re.DOTALL)
             if not m:
                 raise ValueError("未匹配到JSON")
-            return json.loads(m.group())
+            result = json.loads(m.group())
+            if not _valid_result(result):
+                raise ValueError("返回内容为空模板")
+            return result
         except Exception as e:
             last_err = e
             print(f"   ↻ 第 {attempt + 1} 次失败: {e}")
             time.sleep(3)
     raise last_err
+
+
+def _valid_result(r):
+    """校验模型是否真的填了内容，而非原样返回示例模板"""
+    tc = (r.get("titleCn") or "").strip()
+    ov = (r.get("overview") or "").strip()
+    if tc in ("", "...") or ov in ("", "...") or len(ov) < 15:
+        return False
+    secs = r.get("sections") or []
+    good = [
+        s for s in secs
+        if (s.get("summary") or "").strip() not in ("", "...")
+        and len((s.get("summary") or "").strip()) >= 10
+    ]
+    return len(good) >= 1
 
 
 def git_push(path, msg):
