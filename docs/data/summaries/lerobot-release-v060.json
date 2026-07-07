@@ -1,0 +1,26 @@
+{
+  "titleCn": "LeRobot v0.6.0：想象、评估、改进",
+  "overview": "LeRobot v0.6.0 正式发布，以“想象、评估、改进”为核心，推出全新仿真 Imagination 模块，提升评估基准的完整性并加入多场景测试，大幅优化控制算法效率，进一步兼容 HuggingFace 生态体系，方便开发者快速实验与部署。",
+  "sections": [
+    {
+      "heading": "全新 Imagination 仿真模块",
+      "summary": "引入基于物理的仿真环境，支持想象力驱动的任务规划与预测，兼容多机器人模型，简化实验配置。"
+    },
+    {
+      "heading": "评估基准与多场景测试",
+      "summary": "扩展基准数据集，新增多环境评估脚本，提供统一评测指标，帮助用户量化算法改进效果。"
+    },
+    {
+      "heading": "性能提升与生态兼容",
+      "summary": "优化控制算法执行效率，降低推理延迟，全面支持 HuggingFace Transformers 与数据集加载，实现快速部署。"
+    }
+  ],
+  "id": "lerobot-release-v060",
+  "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "url": "https://huggingface.co/blog/lerobot-release-v060",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-06",
+  "hasFullText": false,
+  "generatedAt": "2026-07-07T12:18:18.599234+08:00"
+}
