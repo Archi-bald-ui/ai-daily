@@ -1,0 +1,26 @@
+{
+  "titleCn": "在任何云上运行AI工作负载，存储在Hugging Face：SkyPilot零出口费用存储",
+  "overview": "本文介绍了 SkyPilot 与 Hugging Face Hub 的深度集成，实现跨任意云平台运行 AI 训练与推理任务，同时数据直接存放在 Hugging Face，免除跨云出口费用，并提供统一的版本控制与共享，帮助用户实现成本下降与高效协作，并提升工作流的灵活性。",
+  "sections": [
+    {
+      "heading": "多云统一调度",
+      "summary": "支持在 AWS、Azure、GCP 等主流云平台统一调度 AI 训练与推理任务，实现一键启动、自动伸缩，省去繁琐的跨云环境配置。"
+    },
+    {
+      "heading": "零出口费用存储",
+      "summary": "通过 Hugging Face Hub 直接读取数据集和模型，实现跨云数据访问，零出口费用，大幅显著降低成本并显著提升效率。"
+    },
+    {
+      "heading": "简化数据管理",
+      "summary": "Hugging Face Hub 提供统一的版本控制与共享机制，配合 SkyPilot 的工作流，实现数据、模型、代码同步管理，提升团队协作效率。"
+    }
+  ],
+  "id": "skypilot-hf-storage",
+  "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "url": "https://huggingface.co/blog/skypilot-hf-storage",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-07",
+  "hasFullText": false,
+  "generatedAt": "2026-07-08T11:57:34.247781+08:00"
+}
