@@ -1,0 +1,26 @@
+{
+  "titleCn": "🤗 Kernels: 重大更新",
+  "overview": "本文全面介绍了HuggingFace Kernels库的本次重大更新，涵盖运行效率的显著提升、对最新Transformer模型及混合精度、量化等技术的新增支持、更加友好的API接口和改进的调试工具，帮助开发者更轻松地部署高效、可靠的深度学习模型。",
+  "sections": [
+    {
+      "heading": "性能提升",
+      "summary": "通过优化底层CUDA实现和内存访问，显著加快推理速度，降低延迟，在多种硬件平台上均实现显著加速，提升吞吐量。"
+    },
+    {
+      "heading": "模型覆盖扩展",
+      "summary": "新增对多款前沿Transformer架构的内核支持，扩展对量化、混合精度等特性的适配，并提供更灵活的配置选项，满足不同部署场景的性能需求。"
+    },
+    {
+      "heading": "开发体验改进",
+      "summary": "简化API调用，提供更清晰的文档和示例，帮助快速集成和调试，并增强错误提示，提升开发效率，同时提供自动化测试脚本，确保升级后功能完整可靠。"
+    }
+  ],
+  "id": "revamped-kernels",
+  "title": "🤗 Kernels: Major Updates",
+  "url": "https://huggingface.co/blog/revamped-kernels",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-07",
+  "hasFullText": false,
+  "generatedAt": "2026-07-08T11:59:21.767699+08:00"
+}
