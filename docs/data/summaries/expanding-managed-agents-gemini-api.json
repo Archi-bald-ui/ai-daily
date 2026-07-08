@@ -1,0 +1,26 @@
+{
+  "titleCn": "Gemini API 扩展托管代理：后台任务、远程 MCP 等",
+  "overview": "Google 在 Gemini API 中进一步扩展托管代理的能力，推出了后台任务执行、远程 MCP（模型上下文协议）集成、细粒度调度与实时监控等特性，使开发者能够在复杂业务场景下轻松编排多个代理，实现异步处理、资源优化和跨服务协同。",
+  "sections": [
+    {
+      "heading": "后台任务执行",
+      "summary": "后台任务执行让代理能够在不阻塞主请求的情况下完成耗时操作，提高系统的并发处理能力。"
+    },
+    {
+      "heading": "远程 MCP 集成",
+      "summary": "通过远程模型上下文协议，将外部服务或模型作为代理的上下文源，实现跨系统信息共享和功能复用。"
+    },
+    {
+      "heading": "灵活调度与监控",
+      "summary": "提供细粒度的时间调度、优先级控制以及实时监控面板，帮助开发者动态管理和追踪代理执行状态。"
+    }
+  ],
+  "id": "expanding-managed-agents-gemini-api",
+  "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-07",
+  "hasFullText": false,
+  "generatedAt": "2026-07-08T11:55:48.797719+08:00"
+}
