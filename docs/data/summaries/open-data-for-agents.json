@@ -1,0 +1,26 @@
+{
+  "titleCn": "面向智能体的数据",
+  "overview": "本文来自HuggingFace，聚焦于为AI智能体（Agents）提供高质量训练数据的最佳实践。涵盖数据收集、清洗、标注和发布流程，介绍如何在Hub上托管和管理数据集，强调数据多样性、隐私合规以及评估基准的重要性，为研究者和开发者提供实战指南。",
+  "sections": [
+    {
+      "heading": "数据收集与清洗",
+      "summary": "介绍从公开渠道抓取日志、对话和任务轨迹的方法，强调去重、质量控制和自动化标注的关键步骤。"
+    },
+    {
+      "heading": "数据发布与管理",
+      "summary": "说明如何在HuggingFace Hub上上传、版本化、授权并共享数据集，以及使用元数据和标签提升可发现性的技巧。"
+    },
+    {
+      "heading": "隐私保护与评估基准",
+      "summary": "探讨在公开数据时遵守GDPR等隐私法规的方法，推荐使用脱敏和差分隐私技术，并介绍配套的Agent评测数据集与指标体系。"
+    }
+  ],
+  "id": "open-data-for-agents",
+  "title": "Data for Agents",
+  "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-08",
+  "hasFullText": false,
+  "generatedAt": "2026-07-09T12:16:42.429154+08:00"
+}
