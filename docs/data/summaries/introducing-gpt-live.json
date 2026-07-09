@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT‑Live 正式发布",
+  "overview": "本文概述了 OpenAI 推出的 GPT‑Live，它专注于提供毫秒级响应的实时对话能力，支持文本、图像等多模态输入，并开放插件接口，便于在直播、客服等场景快速集成。",
+  "sections": [
+    {
+      "heading": "实时交互体验",
+      "summary": "GPT‑Live 通过改进推理链路，实现毫秒级响应，让对话更连贯自然；在直播和实时客服等场景中，能够保持低延迟并支持多轮上下文。"
+    },
+    {
+      "heading": "多模态支持",
+      "summary": "除文本外，GPT‑Live 可接受图像等输入，实现跨模态对话，为视觉问答、图文生成等应用提供可能。"
+    },
+    {
+      "heading": "插件与生态",
+      "summary": "OpenAI 为 GPT‑Live 提供统一插件接口，开发者可自定义功能模块，快速集成到直播、客服、教育等多类业务平台。"
+    }
+  ],
+  "id": "introducing-gpt-live",
+  "title": "Introducing GPT-Live",
+  "url": "https://openai.com/index/introducing-gpt-live",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-08",
+  "hasFullText": false,
+  "generatedAt": "2026-07-09T12:14:43.759607+08:00"
+}
