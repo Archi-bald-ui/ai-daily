@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-07-08T11:40:30.603400+08:00",
+  "lastUpdated": "2026-07-09T12:12:45.734915+08:00",
   "articles": [
+    {
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "正式推出 GPT-Live"
+    },
+    {
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "面向智能体的数据"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "原生速度的 vLLM Transformer 建模后端"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "SpaceXAI 发布 Grok 4.5，Elon 称其为‘Opus 级模型’"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "OpenAI 发布全新语音模型，提升实时对话自然度"
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "黑客利用九大流行 AI 工具构建巨型僵尸网络"
+    },
+    {
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "url": "https://arxiv.org/abs/2607.06624",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "AgentLens：面向代码智能体评估的生产级轨迹审查"
+    },
+    {
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "url": "https://arxiv.org/abs/2607.06720",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-08",
+      "score": 8,
+      "titleCn": "上下文搜索何时有帮助？采样复杂度视角的反射驱动推理"
+    },
+    {
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "url": "https://arxiv.org/abs/2607.06764",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-08",
+      "score": 7,
+      "titleCn": "高性价比 Agent 框架实现 ARC-AGI-1 上的抽象推理与泛化"
+    },
     {
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
@@ -1055,41 +1136,6 @@
       "category": "中文资讯",
       "date": "2026-06-09",
       "score": 9
-    },
-    {
-      "title": "Apple announces Siri AI at WWDC 2026: rebuilt with Google Gemini, new agent capabilities",
-      "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-08",
-      "score": 10,
-      "titleCn": "Apple在WWDC 2026宣布Siri AI：基于Google Gemini重建，新增代理能力"
-    },
-    {
-      "title": "Apple Foundation Models (AFM 3): five models developed in collaboration with Google",
-      "url": "https://blog.google/technology/ai/afm-3-apple-google/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-06-08",
-      "score": 9,
-      "titleCn": "Apple基础模型（AFM 3）：与Google合作开发五款模型"
-    },
-    {
-      "title": "Tim Cook announces September transition to John Ternus at WWDC",
-      "url": "https://techcrunch.com/2026/06/08/tim-cook-farewell-wwdc/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-08",
-      "score": 8,
-      "titleCn": "Tim Cook在WWDC宣布九月交接给John Ternus"
-    },
-    {
-      "title": "苹果WWDC 2026前瞻：Siri AI将成最大看点",
-      "url": "https://www.qbitai.com/2026/06/433201.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-08",
-      "score": 8
     }
   ]
 }
