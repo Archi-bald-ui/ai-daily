@@ -1,0 +1,26 @@
+{
+  "titleCn": "ChatGPT 现已成为你最具雄心的工作伙伴",
+  "overview": "OpenAI 宣布 ChatGPT 已从对话助手升级为个人创意与项目执行的得力伙伴，能够在写作、策划、代码、数据分析等多场景提供深度协助，帮助用户以更低成本、更高效率实现雄心勃勃的目标，并激发全新灵感。",
+  "sections": [
+    {
+      "heading": "全方位能力提升",
+      "summary": "ChatGPT 在写作、策划、代码、分析等方面实现深度整合，支持多模态输入与长篇项目协同。"
+    },
+    {
+      "heading": "个性化与上下文保持",
+      "summary": "通过长期记忆和用户偏好学习，模型能够保持项目上下文，实现跨会话的连贯性，并提供个性化建议。"
+    },
+    {
+      "heading": "提升效率与激发创新",
+      "summary": "AI 伙伴帮助压缩重复劳动，使用户专注于创意和战略，推动更快的成果产出，并提升团队协作效率。"
+    }
+  ],
+  "id": "chatgpt-for-your-most-ambitious-work",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-10",
+  "hasFullText": false,
+  "generatedAt": "2026-07-11T11:42:55.103632+08:00"
+}
