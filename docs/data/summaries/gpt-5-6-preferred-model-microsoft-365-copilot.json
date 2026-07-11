@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT‑5.6 现已成为 Microsoft 365 Copilot 的首选模型",
+  "overview": "OpenAI 与微软合作，将最新的大模型 GPT‑5.6 设为 Microsoft 365 Copilot 的默认模型，提升文档写作、数据分析和会议摘要等办公场景的智能化水平。新模型在语言理解、上下文保持和生成速度方面显著提升，并强化安全合规功能，帮助用户更高效、可靠完成工作。",
+  "sections": [
+    {
+      "heading": "成为默认模型",
+      "summary": "OpenAI 与微软共同宣布，GPT‑5.6 将直接作为 Microsoft 365 Copilot 的默认语言模型，取代此前的旧版本。"
+    },
+    {
+      "heading": "性能显著提升",
+      "summary": "新模型在语言理解、上下文保持和生成速度方面实现明显进步，能够更快速地提供更准确的回复。"
+    },
+    {
+      "heading": "安全合规强化",
+      "summary": "GPT‑5.6 在企业级安全和合规方面进行加强，提供更细粒度的数据控制与审计能力，满足企业监管需求。"
+    }
+  ],
+  "id": "gpt-5-6-preferred-model-microsoft-365-copilot",
+  "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+  "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-10",
+  "hasFullText": false,
+  "generatedAt": "2026-07-11T11:41:53.953198+08:00"
+}
