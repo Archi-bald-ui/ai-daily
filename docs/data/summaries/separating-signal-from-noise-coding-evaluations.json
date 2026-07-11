@@ -1,0 +1,26 @@
+{
+  "titleCn": "在编程评估中分离信号与噪声",
+  "overview": "本文探讨在代码生成模型的评测过程中如何辨别真实性能（信号）与随机波动（噪声）。作者指出现有自动化评测指标易受数据集偏差和模型随机性的影响，导致评估结果不稳定。为此，文章提出通过构建多样化测试集、交叉验证以及人机对比来提取可靠信号，并强调将自动化指标与人工审查相结合，以提升评测的可信度和实际参考价值。",
+  "sections": [
+    {
+      "heading": "评估指标的噪声问题",
+      "summary": "自动化评测指标常受随机波动和测试集偏差影响，使模型表现的优劣难以辨别，从而导致误判。需要更稳健的评估方法。"
+    },
+    {
+      "heading": "提取可靠信号的方法",
+      "summary": "通过构建多样化测试集、交叉验证以及人机对比，能够筛选出模型在真实编程任务中的稳定表现。"
+    },
+    {
+      "heading": "提升评估可信度",
+      "summary": "将自动化指标与人工审查相结合，建立基准并进行迭代修正，可显著提升评估结果的可信度和实用性。"
+    }
+  ],
+  "id": "separating-signal-from-noise-coding-evaluations",
+  "title": "Separating signal from noise in coding evaluations",
+  "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-10",
+  "hasFullText": false,
+  "generatedAt": "2026-07-11T11:44:12.316706+08:00"
+}
