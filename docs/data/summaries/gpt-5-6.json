@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT‑5.6：前沿智能，随你的雄心而扩展",
+  "overview": "OpenAI发布GPT‑5.6，标榜为前沿智能，可随用户需求灵活扩展。新模型在语言推理、多模态理解、超长上下文和安全对齐等方面实现显著提升，旨在为企业和开发者提供更强大、可定制的AI基础，支撑从创意生成到复杂决策的广泛应用。",
+  "sections": [
+    {
+      "heading": "更强大的推理与多模态",
+      "summary": "GPT‑5.6 在语言推理、图像理解和音视频解析上实现跨模态突破，显著提升复杂任务的准确率和生成质量。"
+    },
+    {
+      "heading": "可扩展的个性化与安全对齐",
+      "summary": "新模型提供灵活的知识注入与行为控制接口，企业可根据业务需求定制专属能力，同时保持高级安全对齐，降低误用风险。"
+    },
+    {
+      "heading": "广泛的应用场景与生态",
+      "summary": "从创意写作、代码生成到行业分析，GPT‑5.6 可无缝嵌入各类平台，OpenAI 还推出配套 API 与开发者社区，助力快速落地。"
+    }
+  ],
+  "id": "gpt-5-6",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "url": "https://openai.com/index/gpt-5-6",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-11",
+  "hasFullText": false,
+  "generatedAt": "2026-07-12T11:53:11.628146+08:00"
+}
