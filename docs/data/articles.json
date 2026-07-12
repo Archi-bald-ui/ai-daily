@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-07-11T11:37:36.237889+08:00",
+  "lastUpdated": "2026-07-12T11:51:27.024316+08:00",
   "articles": [
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-11",
+      "score": 9,
+      "titleCn": "GPT-5.6：前沿智能，随抱负而扩展"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-11",
+      "score": 8,
+      "titleCn": "苹果起诉 OpenAI，指控其盗取商业机密"
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-11",
+      "score": 8
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "PyTorch 性能分析（第 3 篇）：注意力即全部分析"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "一键从 Hugging Face 迁移至 Amazon SageMaker Studio"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "开源 AI 比以往更重要——Hugging Face 的 Clem Delangue 如是说"
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "Hugging Face CEO：企业为何不再租用 AI"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "面向主动企业代理的上下文图"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2607.07761",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-11",
+      "score": 7,
+      "titleCn": "对齐临床需求与 AI 能力：医学推理大语言模型综述"
+    },
+    {
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.07760",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-11",
+      "score": 6,
+      "titleCn": "对抗性社会认识论：人类与大语言模型的组合"
+    },
     {
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
@@ -1188,33 +1277,6 @@
       "date": "2026-06-12",
       "score": 7,
       "titleCn": "DXC 将 Claude 整合进银行和航空系统"
-    },
-    {
-      "title": "Anthropic partners with TCS to bring Claude to regulated industries",
-      "url": "https://www.anthropic.com/news/tcs-partnership",
-      "source": "Anthropic",
-      "category": "技术博客",
-      "date": "2026-06-11",
-      "score": 7,
-      "titleCn": "Anthropic 与 TCS 合作，将 Claude 引入受监管行业"
-    },
-    {
-      "title": "Satya Nadella: AI industry needs to avoid concentrating power in a few models",
-      "url": "https://arstechnica.com/ai/2026/06/nadella-ai-concentration/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-06-11",
-      "score": 7,
-      "titleCn": "Satya Nadella：AI行业需要避免将权力集中在少数模型"
-    },
-    {
-      "title": "Prompt Optimization for User Simulation in Conversational Recommender Systems",
-      "url": "https://arxiv.org/abs/2606.07101",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-06-11",
-      "score": 6,
-      "titleCn": "对话推荐系统中用户模拟的Prompt优化"
     }
   ]
 }
