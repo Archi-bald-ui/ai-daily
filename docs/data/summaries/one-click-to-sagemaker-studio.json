@@ -1,0 +1,26 @@
+{
+  "titleCn": "一键从Hugging Face迁移到Amazon SageMaker Studio",
+  "overview": "本文介绍了AWS与Hugging Face合作推出的新功能，用户只需在SageMaker Studio中点击一次，即可将Hugging Face模型快速导入、自动配置深度学习容器并部署为实时端点。该方案简化了模型迁移流程，省去手动环境搭建和脚本编写，同时提供统一的监控、日志和弹性伸缩，适用于快速实验和生产部署。",
+  "sections": [
+    {
+      "heading": "一键部署功能",
+      "summary": "在SageMaker Studio中点击即可自动导入Hugging Face模型、配置容器并生成实时推理端点。"
+    },
+    {
+      "heading": "自动化环境配置",
+      "summary": "系统自动选用匹配的深度学习容器、预装依赖并分配GPU计算资源，免去手动环境搭建与脚本编写。"
+    },
+    {
+      "heading": "统一监控与弹性伸缩",
+      "summary": "部署后可使用SageMaker原生监控、日志和自动伸缩功能，提升生产环境的可观测性和资源利用率。"
+    }
+  ],
+  "id": "one-click-to-sagemaker-studio",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-11",
+  "hasFullText": false,
+  "generatedAt": "2026-07-12T11:58:35.464911+08:00"
+}
