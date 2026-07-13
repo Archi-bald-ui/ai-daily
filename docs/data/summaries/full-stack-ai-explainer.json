@@ -1,0 +1,26 @@
+{
+  "titleCn": "向AI专家提问：到底什么是全栈？",
+  "overview": "本文通过AI专家的视角，解释了在人工智能领域‘全栈’的含义，指出它不仅包括前后端开发，还涵盖数据收集、特征工程、模型训练、部署与监控等完整生命周期，并探讨了全栈AI工程师所需的关键技能、学习路径及行业需求。",
+  "sections": [
+    {
+      "heading": "全栈AI的内涵",
+      "summary": "解释AI全栈不仅涉及前后端，还包括数据处理、特征工程、模型训练、部署与监控的完整链路。"
+    },
+    {
+      "heading": "关键技能与工具",
+      "summary": "列举数据清洗、特征选择、深度学习框架、容器化、CI/CD等必备技术栈，及其在实际项目中的协同作用。"
+    },
+    {
+      "heading": "职业发展建议",
+      "summary": "提供从学习路线、职业定位到实战项目推荐的成长路径，帮助读者规划成为全栈AI工程师的步骤。"
+    }
+  ],
+  "id": "full-stack-ai-explainer",
+  "title": "Ask an AI expert: What exactly is the full stack?",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-12",
+  "hasFullText": false,
+  "generatedAt": "2026-07-13T11:58:03.815893+08:00"
+}
