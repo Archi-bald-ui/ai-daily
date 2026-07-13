@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们对政府与国家安全合作的方针",
+  "overview": "OpenAI在这篇文章中阐述了其与政府及国家安全机构的合作方针，强调在遵守法规、坚持伦理的前提下，提供安全可靠的AI技术与数据保护措施，帮助提升公共安全和防御能力，并承诺保持透明与问责。",
+  "sections": [
+    {
+      "heading": "合作原则",
+      "summary": "OpenAI明确了与政府及国家安全机构的合作原则，包括遵守当地法律、确保技术用于正当目的、避免被滥用于侵害人权。"
+    },
+    {
+      "heading": "安全与合规",
+      "summary": "平台提供多层次安全防护和审计机制，确保模型使用符合监管要求，并对潜在风险进行持续评估与缓解。"
+    },
+    {
+      "heading": "透明与问责",
+      "summary": "OpenAI承诺公开合作范围与使用情况，接受第三方监督，及时披露违规或误用案例，以维护公众信任。"
+    }
+  ],
+  "id": "government-national-security-partnerships",
+  "title": "Our approach to government and national security partnerships",
+  "url": "https://openai.com/index/government-national-security-partnerships",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-12",
+  "hasFullText": false,
+  "generatedAt": "2026-07-13T11:55:42.928913+08:00"
+}
