@@ -232,7 +232,9 @@
       </div>`;
 
     try {
-      const resp = await fetch(`data/summaries/${id}.json`);
+      const resp = await fetch(`data/summaries/${id}.json?t=` + Date.now(), {
+        cache: "no-store",
+      });
       if (!resp.ok) throw new Error("not found");
       const data = await resp.json();
       content.innerHTML = renderReader(data, title);
