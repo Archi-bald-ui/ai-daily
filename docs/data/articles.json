@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-07-12T11:51:27.024316+08:00",
+  "lastUpdated": "2026-07-13T11:53:36.998973+08:00",
   "articles": [
+    {
+      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+      "url": "https://www.qbitai.com/2026/07/447981.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-12",
+      "score": 9
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-12",
+      "score": 8,
+      "titleCn": "Hugging Face 模型在 Foundry Managed Compute 上"
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-12",
+      "score": 8
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-12",
+      "score": 7,
+      "titleCn": "我们与政府及国家安全机构的合作方针"
+    },
+    {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-12",
+      "score": 7,
+      "titleCn": "向AI专家提问：全栈到底是什么？"
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-12",
+      "score": 7,
+      "titleCn": "Meta停用Instagram公共账号的AI深度伪造功能"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-12",
+      "score": 7,
+      "titleCn": "OpenAI押注家庭市场，ChatGPT深入千家万户"
+    },
+    {
+      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+      "url": "https://www.qbitai.com/2026/07/448034.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-12",
+      "score": 7
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-12",
+      "score": 6,
+      "titleCn": "苹果失败的自动驾驶项目留下强大AI芯片"
+    },
     {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
@@ -1242,41 +1320,6 @@
       "date": "2026-06-13",
       "score": 7,
       "titleCn": "贝叶斯不确定性在 Agentic RAG 流水线中的传播"
-    },
-    {
-      "title": "Anthropic statement: US government directive to suspend Fable 5 and Mythos 5 access",
-      "url": "https://www.anthropic.com/news/export-control-statement",
-      "source": "Anthropic",
-      "category": "技术博客",
-      "date": "2026-06-12",
-      "score": 10,
-      "titleCn": "Anthropic 声明：美国政府指令暂停 Fable 5 和 Mythos 5 访问"
-    },
-    {
-      "title": "US Commerce Department orders Anthropic to disable Fable 5 and Mythos 5",
-      "url": "https://www.theverge.com/2026/6/12/anthropic-export-control",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-12",
-      "score": 10,
-      "titleCn": "美国商务部命令 Anthropic 禁用 Fable 5 和 Mythos 5"
-    },
-    {
-      "title": "Anthropic Fable 5和Mythos 5被美国政府出口管制令叫停",
-      "url": "https://www.jiqizhixin.com/articles/2026-06-12-export-control",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-06-12",
-      "score": 10
-    },
-    {
-      "title": "DXC integrates Claude into banking and airline systems",
-      "url": "https://techcrunch.com/2026/06/12/dxc-claude-enterprise/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-12",
-      "score": 7,
-      "titleCn": "DXC 将 Claude 整合进银行和航空系统"
     }
   ]
 }
