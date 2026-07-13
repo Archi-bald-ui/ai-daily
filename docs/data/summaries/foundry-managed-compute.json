@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hugging Face 模型在 Foundry 托管计算上的使用",
+  "overview": "本文介绍如何把 Hugging Face 官方模型库中的预训练模型快速部署到 Foundry 的托管计算环境，涵盖模型选择、容器化配置、自动弹性伸缩以及成本监控等关键步骤，帮助用户在无需管理底层基础设施的情况下实现高效推理。",
+  "sections": [
+    {
+      "heading": "快速部署模型",
+      "summary": "通过 Foundry 控制台选择 Hugging Face 模型镜像，一键拉取并启动容器，省去手动配置环境。"
+    },
+    {
+      "heading": "弹性伸缩与成本优化",
+      "summary": "平台根据请求负载自动伸缩实例数量，结合按需计费与预留实例，显著降低推理成本。"
+    },
+    {
+      "heading": "监控与安全",
+      "summary": "内置指标、日志和告警功能，支持细粒度权限管理，保障模型运行的可观测性和数据安全。"
+    }
+  ],
+  "id": "foundry-managed-compute",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-12",
+  "hasFullText": false,
+  "generatedAt": "2026-07-13T11:54:56.098178+08:00"
+}
