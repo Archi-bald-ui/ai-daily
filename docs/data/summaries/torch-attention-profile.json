@@ -1,0 +1,26 @@
+{
+  "titleCn": "PyTorch 性能分析（第三篇）：注意力即全部分析对象",
+  "overview": "本文是 PyTorch 性能分析系列第三篇，聚焦 Transformer 中的注意力模块。介绍使用 PyTorch Profiler 捕获注意力层的前向/反向开销、定位算子与内存瓶颈，并给出算子融合、Flash Attention、混合精度等常见优化实战指南。",
+  "sections": [
+    {
+      "heading": "定位注意力层瓶颈",
+      "summary": "演示如何通过 PyTorch Profiler 的 timeline 与算子视图，捕获注意力模块的前向、反向调用，定位耗时最高的子算子。"
+    },
+    {
+      "heading": "内存与算子开销分析",
+      "summary": "比较不同实现（如标准 MatMul、Flash Attention）在 GPU 显存占用、带宽消耗上的差异，解释为何内存访问成为注意力瓶颈。"
+    },
+    {
+      "heading": "优化实践：融合核与混合精度",
+      "summary": "展示使用 fused kernel、Flash Attention 与 torch.cuda.amp 混合精度降低延迟和显存的步骤与要点。"
+    }
+  ],
+  "id": "torch-attention-profile",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-11",
+  "hasFullText": false,
+  "generatedAt": "2026-07-13T12:03:12.521334+08:00"
+}
