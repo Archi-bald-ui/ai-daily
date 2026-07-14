@@ -1,0 +1,26 @@
+{
+  "titleCn": "2026年6月我们宣布的最新AI新闻",
+  "overview": "Google AI 在2026年6月集中发布了一系列人工智能技术进展，包括全新多模态大模型、企业级AI服务平台升级以及AI安全与伦理框架的强化。这些发布旨在提升模型的理解与生成能力、简化开发者部署流程，并加强对模型公平性与透明度的治理，帮助各类组织更高效、可靠地落地AI应用。",
+  "sections": [
+    {
+      "heading": "全新多模态模型亮相",
+      "summary": "发布的新一代多模态模型能够同步处理文本、图像与音频，实现跨模态的深度理解与生成，显著提升交互体验。"
+    },
+    {
+      "heading": "企业级AI服务平台升级",
+      "summary": "Vertex AI 新增自动化微调与实时监控功能，使企业能够更快速地定制、部署并管理AI模型，降低运维成本。"
+    },
+    {
+      "heading": "AI安全与伦理治理强化",
+      "summary": "推出更完善的公平性评估工具和透明报告机制，帮助开发者检测并缓解模型偏见，提升 AI 系统的可信度。"
+    }
+  ],
+  "id": "google-ai-updates-june-2026",
+  "title": "The latest AI news we announced in June 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-13",
+  "hasFullText": false,
+  "generatedAt": "2026-07-14T11:42:46.430488+08:00"
+}
