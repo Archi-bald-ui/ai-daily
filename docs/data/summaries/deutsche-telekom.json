@@ -1,0 +1,26 @@
+{
+  "titleCn": "德国电信如何利用人工智能重塑电信行业",
+  "overview": "本文探讨德国电信（Deutsche Telekom）在网络运营、客户服务和业务创新三大领域大规模引入 AI 技术的实践与成果。重点介绍其利用机器学习和大语言模型优化网络切片、实现自动化故障恢复、以及打造个性化营销和客服助手的案例，展示 AI 在提升运营商效率、降低成本和拓展新收入来源方面的潜力。",
+  "sections": [
+    {
+      "heading": "AI驱动的网络智能化",
+      "summary": "通过机器学习预测流量、自动化切片配置和故障自愈，显著降低运维成本，提高网络资源利用率和服务可靠性。"
+    },
+    {
+      "heading": "AI赋能的用户体验升级",
+      "summary": "利用大语言模型打造智能客服、个性化推荐和精准营销，显著提升客户满意度，实现客户互动自然化、转化率提升。"
+    },
+    {
+      "heading": "AI驱动的商业模式创新",
+      "summary": "通过开放 AI 平台和生态合作，孵化新型数字化服务，如边缘计算即服务、智能物联网解决方案，拓宽收入来源。"
+    }
+  ],
+  "id": "deutsche-telekom",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "url": "https://openai.com/index/deutsche-telekom",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-13",
+  "hasFullText": false,
+  "generatedAt": "2026-07-14T11:41:18.983049+08:00"
+}
