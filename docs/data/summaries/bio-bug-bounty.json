@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-5.5 Bio 漏洞悬赏计划",
+  "overview": "OpenAI 宣布推出 GPT-5.5 Bio 模型的漏洞赏金计划，邀请安全研究人员针对模型在生物医药领域的潜在安全风险、隐私泄露、对抗样本等问题提交漏洞，以提升模型安全性并提供丰厚奖励。",
+  "sections": [
+    {
+      "heading": "悬赏目标与范围",
+      "summary": "聚焦模型在生物医药场景下的安全漏洞，包括隐私泄露、对抗攻击、错误信息传播以及模型行为异常等问题。"
+    },
+    {
+      "heading": "奖励机制",
+      "summary": "根据漏洞严重程度划分为低危、中危、高危和关键四级，最高可获数千美元奖金，并提供公开致谢以及荣誉证书。"
+    },
+    {
+      "heading": "参与流程",
+      "summary": "研究者需通过官方平台提交漏洞报告，审核通过后在限定时间内提供修复建议，OpenAI 将评估并兑现奖励。"
+    }
+  ],
+  "id": "bio-bug-bounty",
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "url": "https://openai.com/index/bio-bug-bounty",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-13",
+  "hasFullText": false,
+  "generatedAt": "2026-07-14T11:42:25.825727+08:00"
+}
