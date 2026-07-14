@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-07-13T11:53:36.998973+08:00",
+  "lastUpdated": "2026-07-14T11:27:26.625065+08:00",
   "articles": [
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-13",
+      "score": 8,
+      "titleCn": "苹果诉OpenAI商业秘密案中最离谱的指控"
+    },
+    {
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-13",
+      "score": 8,
+      "titleCn": "基于格遍历的多层感知机区间验证"
+    },
+    {
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-13",
+      "score": 8,
+      "titleCn": "CogniConsole：将推理时控制外部化为形式化抽象以实现可靠的 LLM 交互"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-13",
+      "score": 8,
+      "titleCn": "Long‑Horizon‑Terminal‑Bench：用密集奖励评分评估智能体在长时序终端任务中的极限"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-13",
+      "score": 7,
+      "titleCn": "Deutsche Telekom 如何利用 AI 重塑电信业"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-13",
+      "score": 7,
+      "titleCn": "GPT‑5.5 生物漏洞赏金"
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-13",
+      "score": 7,
+      "titleCn": "2026年6月公布的最新 AI 新闻"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-13",
+      "score": 7,
+      "titleCn": "视频生成公司 PixVerse 融资 4.39 亿美元，估值突破 20 亿美元"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-13",
+      "score": 7,
+      "titleCn": "Nous Research 正洽谈以15亿美元估值的新融资"
+    },
+    {
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "url": "https://www.qbitai.com/2026/07/449311.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-13",
+      "score": 7
+    },
+    {
+      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+      "url": "https://www.qbitai.com/2026/07/448925.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-13",
+      "score": 6
+    },
     {
       "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
       "url": "https://www.qbitai.com/2026/07/447981.html",
@@ -1294,32 +1391,6 @@
       "date": "2026-06-15",
       "score": 7,
       "titleCn": "高效长上下文注意力：动态稀疏模式"
-    },
-    {
-      "title": "Lindy CEO switches 100% of traffic from Claude to DeepSeek to save millions",
-      "url": "https://techcrunch.com/2026/06/13/lindy-switches-claude-to-deepseek/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-13",
-      "score": 8,
-      "titleCn": "Lindy CEO 将全部流量从 Claude 切换至 DeepSeek 以节省数百万"
-    },
-    {
-      "title": "AI初创公司Lindy弃用Claude全面转向DeepSeek：成本为王",
-      "url": "https://www.jiqizhixin.com/articles/2026-06-13-lindy-deepseek",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-06-13",
-      "score": 8
-    },
-    {
-      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines",
-      "url": "https://arxiv.org/abs/2606.08301",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-06-13",
-      "score": 7,
-      "titleCn": "贝叶斯不确定性在 Agentic RAG 流水线中的传播"
     }
   ]
 }
