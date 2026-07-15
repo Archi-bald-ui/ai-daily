@@ -1,0 +1,26 @@
+{
+  "titleCn": "PRX Part 4：我们的数据战略",
+  "overview": "本文是HuggingFace PRX系列的第四篇，聚焦于数据战略。团队阐述了从数据采集、清洗到版本化管理的一体化流程，强调数据集的可复用性、可审计性以及在模型训练中的高效使用。通过统一的元数据框架和自动化的质量检查，实现数据的可扩展与安全共享。",
+  "sections": [
+    {
+      "heading": "数据采集与清洗",
+      "summary": "通过统一的爬虫框架和自动化清洗脚本，实现大规模数据的高效获取与质量控制，确保数据的完整性、噪声过滤和去重。"
+    },
+    {
+      "heading": "数据版本化管理",
+      "summary": "引入基于Git的版本控制系统，对数据集进行细粒度快照，支持回滚和可追溯性分析，并提供自动化标签同步。"
+    },
+    {
+      "heading": "元数据与质量保障",
+      "summary": "构建统一元数据框架，自动执行数据质量检测，及时发现缺失、异常和偏见，确保模型训练数据的安全与合规。"
+    }
+  ],
+  "id": "prx-part4-data",
+  "title": "PRX Part 4: Our Data Strategy",
+  "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-14",
+  "hasFullText": false,
+  "generatedAt": "2026-07-15T11:34:17.613194+08:00"
+}
