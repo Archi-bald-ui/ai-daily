@@ -1,0 +1,26 @@
+{
+  "titleCn": "在智能体时代如何管理AI投资",
+  "overview": "本文探讨企业在AI逐步具备自主决策能力（智能体）背景下，如何系统化评估、筛选并持续监督AI项目。内容涵盖从价值评估模型、风险治理到动态组合管理的全链路方法，帮助决策者在技术快速迭代的环境中实现投资回报最大化并降低潜在风险。",
+  "sections": [
+    {
+      "heading": "构建全链路评估框架",
+      "summary": "从业务目标、技术成熟度、数据质量和伦理合规等维度出发，建立量化评分模型，以统一标准筛选和排序AI项目。"
+    },
+    {
+      "heading": "强化风险与安全治理",
+      "summary": "针对智能体可能的自主行为，引入安全红线、监控告警和回滚机制，确保系统在运行过程中的可控性和合规性。"
+    },
+    {
+      "heading": "动态调整投资组合",
+      "summary": "基于项目进展、市场变化和技术迭代，定期回顾并重新分配资源，实现投资组合的灵活优化和持续价值提升。"
+    }
+  ],
+  "id": "managing-ai-investments-in-agentic-era",
+  "title": "How to manage AI investments in the agentic era",
+  "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-14",
+  "hasFullText": false,
+  "generatedAt": "2026-07-15T11:33:30.975907+08:00"
+}
