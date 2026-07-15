@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-14T11:27:26.625065+08:00",
+  "lastUpdated": "2026-07-15T11:28:32.421390+08:00",
   "articles": [
+    {
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-14",
+      "score": 8,
+      "titleCn": "SpaceXAI 的 Grok 编程工具正将用户全部代码库上传至云存储"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-14",
+      "score": 8,
+      "titleCn": "谷歌 Demis Hassabis 表示，现在是时候成立由美国牵头的全球 AI 监管机构"
+    },
+    {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-14",
+      "score": 8,
+      "titleCn": "Apple 在 iOS 27 公测版中向所有人开放全新 Siri AI"
+    },
+    {
+      "title": "CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series",
+      "url": "https://arxiv.org/abs/2607.09880",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-14",
+      "score": 8,
+      "titleCn": "CLIR-Bench：不规则临床时间序列多模态问答的基准测试"
+    },
+    {
+      "title": "Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts",
+      "url": "https://arxiv.org/abs/2607.09999",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-14",
+      "score": 8,
+      "titleCn": "量化 LLM 推理中的静默失败：基于分类学的空心收敛与失效模式转变分析"
+    },
+    {
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "url": "https://www.qbitai.com/2026/07/448475.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-14",
+      "score": 8
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-14",
+      "score": 7,
+      "titleCn": "代理时代的 AI 投资管理"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-14",
+      "score": 7,
+      "titleCn": "PRX 第四部分：我们的数据策略"
+    },
+    {
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "url": "https://arxiv.org/abs/2607.09665",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-14",
+      "score": 7,
+      "titleCn": "格式敏感指数：Token 控制的提示封装鲁棒性与模式合规性"
+    },
+    {
+      "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+      "url": "https://www.qbitai.com/2026/07/449842.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-14",
+      "score": 7
+    },
+    {
+      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+      "url": "https://www.qbitai.com/2026/07/449850.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-14",
+      "score": 6
+    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
