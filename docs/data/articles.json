@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-15T11:28:32.421390+08:00",
+  "lastUpdated": "2026-07-16T11:34:07.734594+08:00",
   "articles": [
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-15",
+      "score": 9,
+      "titleCn": "Apple Intelligence 获批在中国推出，携手阿里巴巴 Qwen AI"
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-07-15",
+      "score": 8,
+      "titleCn": "现在，防御者也开始采用提示注入"
+    },
+    {
+      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+      "url": "https://arxiv.org/abs/2607.11906",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-15",
+      "score": 8,
+      "titleCn": "非平稳环境下的上下文强化学习综述"
+    },
+    {
+      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+      "url": "https://arxiv.org/abs/2607.11948",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-15",
+      "score": 8,
+      "titleCn": "本体增强蒸馏与情境审计：面向主权企业语言模型的机制证明与负向结果综合研究"
+    },
+    {
+      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+      "url": "https://arxiv.org/abs/2607.11951",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-15",
+      "score": 8,
+      "titleCn": "GRID：面向企业 SQL 生成的语法约束解码"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-15",
+      "score": 7,
+      "titleCn": "GPT‑Red：解锁自我改进，提升鲁棒性"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-15",
+      "score": 7,
+      "titleCn": "从 Shippy 项目看代理构建的启示"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-15",
+      "score": 7,
+      "titleCn": "模型路由看似简单，直至并非如此"
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-15",
+      "score": 7,
+      "titleCn": "OpenAI 或将于今年推出 ChatGPT 智能音箱"
+    },
+    {
+      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
+      "url": "https://www.qbitai.com/2026/07/450657.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-15",
+      "score": 7
+    },
+    {
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-15",
+      "score": 6
+    },
+    {
+      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
+      "url": "https://www.qbitai.com/2026/07/450130.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-15",
+      "score": 6
+    },
     {
       "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
@@ -1461,32 +1566,6 @@
       "category": "中文资讯",
       "date": "2026-06-17",
       "score": 7
-    },
-    {
-      "title": "Anthropic accuses Alibaba of 28.8 million fraudulent distillation exchanges",
-      "url": "https://www.theverge.com/2026/6/15/anthropic-alibaba-distillation",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-15",
-      "score": 9,
-      "titleCn": "Anthropic 指控阿里巴巴进行 2880 万次欺诈性蒸馏交换"
-    },
-    {
-      "title": "Anthropic指控阿里巴巴2880万次蒸馏欺诈，要求出口管制审查",
-      "url": "https://www.qbitai.com/2026/06/434801.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-15",
-      "score": 9
-    },
-    {
-      "title": "Efficient Long-Context Attention with Dynamic Sparse Patterns",
-      "url": "https://arxiv.org/abs/2606.09802",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-06-15",
-      "score": 7,
-      "titleCn": "高效长上下文注意力：动态稀疏模式"
     }
   ]
 }
