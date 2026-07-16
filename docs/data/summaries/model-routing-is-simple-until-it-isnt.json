@@ -1,0 +1,26 @@
+{
+  "titleCn": "模型路由看似简单，直到它不再简单。",
+  "overview": "本文探讨模型路由的原理与实践，指出在单一任务或小规模场景下路由实现非常直接，但随着模型种类增多、硬件差异、成本约束及实时调度需求增加，路由策略会变得错综复杂。文章介绍常见路由方法、潜在瓶颈以及在实际部署中平衡性能与成本的最佳实践。",
+  "sections": [
+    {
+      "heading": "简易路由的起点",
+      "summary": "在单一任务或少量模型时，直接映射请求到指定模型即可，路由逻辑非常直观，实现成本低。"
+    },
+    {
+      "heading": "规模带来的挑战",
+      "summary": "当模型种类、硬件资源、成本约束和实时调度需求增加时，路由需要考虑负载均衡、延迟、预算等多维度因素，复杂性显著上升。"
+    },
+    {
+      "heading": "路由策略的设计要点",
+      "summary": "常见的解决方案包括基于性能的阈值路由、基于成本的预算控制以及使用元学习或强化学习进行自适应调度，配套监控和回退机制尤为关键。"
+    }
+  ],
+  "id": "model-routing-is-simple-until-it-isnt",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-15",
+  "hasFullText": false,
+  "generatedAt": "2026-07-16T11:44:04.382206+08:00"
+}
