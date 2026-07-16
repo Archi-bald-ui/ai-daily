@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-Red：解锁自我提升以实现鲁棒性",
+  "overview": "OpenAI发布GPT-Red，探索模型通过自我评估与迭代提升对对抗样本和分布漂移的鲁棒性。该研究提出新的自监督训练框架，使模型能够在推理阶段自动识别弱点并修正，从而在实际应用中更可靠。",
+  "sections": [
+    {
+      "heading": "自我评估驱动改进",
+      "summary": "模型在推理时对错误预测进行自我评估，并利用评估结果进行参数或推理路径的微调，形成闭环改进。"
+    },
+    {
+      "heading": "对抗样本鲁棒性",
+      "summary": "通过在训练中加入自生成的对抗扰动，模型学会在噪声和攻击下保持性能，提高对未见过的对抗样本的防御能力。"
+    },
+    {
+      "heading": "部署友好与可扩展",
+      "summary": "该框架不需要额外的大规模对抗训练或外部防御模块，能够直接嵌入已有系统，实现鲁棒性提升而不显著增加计算开销。"
+    }
+  ],
+  "id": "unlocking-self-improvement-gpt-red",
+  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-15",
+  "hasFullText": false,
+  "generatedAt": "2026-07-16T11:41:53.128325+08:00"
+}
