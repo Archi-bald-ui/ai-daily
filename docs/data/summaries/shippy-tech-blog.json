@@ -1,0 +1,26 @@
+{
+  "titleCn": "从构建Shippy看代理开发的经验",
+  "overview": "本文回顾了在Shippy项目中构建AI代理的全流程，总结了需求拆解、模块化设计、快速迭代和评估机制等关键经验，并探讨了在真实业务场景下提升代理鲁棒性与可维护性的实践方法，为开发者提供了可复用的实战指南。",
+  "sections": [
+    {
+      "heading": "模块化设计与可复用组件",
+      "summary": "通过将功能划分为独立模块，实现代码复用和快速组合，提高代理的可维护性与扩展性，在实际项目中发挥重要作用。"
+    },
+    {
+      "heading": "快速迭代与自动化评估",
+      "summary": "采用短周期迭代、持续集成和自动化测试，快速捕捉缺陷并验证代理行为，提高交付质量和效率。"
+    },
+    {
+      "heading": "业务适配与鲁棒性保障",
+      "summary": "在真实业务场景中通过数据增强、异常处理和监控告警提升代理鲁棒性，确保系统在边界情况下仍能稳定运行。"
+    }
+  ],
+  "id": "shippy-tech-blog",
+  "title": "What building Shippy taught us about building agents",
+  "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-15",
+  "hasFullText": false,
+  "generatedAt": "2026-07-16T11:43:01.730994+08:00"
+}
