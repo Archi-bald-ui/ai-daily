@@ -1,0 +1,38 @@
+{
+  "titleCn": "CogniConsole: 将推理时控制外部化为可靠 LLM 交互的正式抽象",
+  "overview": "本文针对大模型在实际交互中的可靠性挑战，提出将推理时控制外部化为形式化抽象的思路，并设计实现 CogniConsole 系统。该系统通过状态迁移、控制策略与可靠性合约的严格模型，实现对 LLM 交互过程的主动监控与错误恢复。实验表明，CogniConsole 能显著降低错误率、缩短响应时延并提升用户满意度，验证了推理时控制外部化在保障 LLM 可靠交互方面的有效性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "引言部分阐述大模型在实际应用中的可靠性挑战，指出推理时控制缺乏系统化抽象，导致交互错误和不可预测行为，提出 CogniConsole 的动机与目标。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾自然语言处理、交互式 AI 与形式化方法的研究，评述现有推理时控制方案及其局限，指出缺乏统一的抽象框架来保证可靠交互。"
+    },
+    {
+      "heading": "形式化抽象与问题定义",
+      "summary": "提出以状态迁移、控制策略和可靠性合约为核心的形式化模型，明确定义推理时控制外部化的目标、输入输出语义以及可靠性属性框架。"
+    },
+    {
+      "heading": "CogniConsole 系统设计",
+      "summary": "介绍 CogniConsole 的系统架构，包括控制台抽象层、策略引擎、监控模块与错误恢复机制，详细说明如何将控制外部化并嵌入 LLM 交互管道。"
+    },
+    {
+      "heading": "实验与评估",
+      "summary": "通过多领域对话任务、故障注入与对比基线，评估 CogniConsole 在错误率、响应时延和用户满意度等指标上的提升，并进行可扩展性分析。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结 CogniConsole 将推理时控制外部化的意义，验证其在提升 LLM 交互可靠性方面的有效性，提出未来工作方向如多模态控制和自适应策略。"
+    }
+  ],
+  "id": "2607.08774",
+  "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+  "url": "https://arxiv.org/abs/2607.08774",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-07-13",
+  "hasFullText": false,
+  "generatedAt": "2026-07-16T11:48:07.101509+08:00"
+}
