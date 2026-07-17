@@ -1,0 +1,26 @@
+{
+  "titleCn": "安全事件披露 — 2026 年 7 月",
+  "overview": "HuggingFace 于 2026 年 7 月发布安全事件披露，公开了一起涉及平台内部系统的安全漏洞及其导致的数据泄露风险。事件在发现后迅速启动应急响应，已完成漏洞修补并加强了访问控制，同时对受影响的用户进行了通知和防护建议。",
+  "sections": [
+    {
+      "heading": "事件概述与影响范围",
+      "summary": "该安全漏洞涉及平台内部授权服务，可能导致部分模型和用户元数据在特定条件下被未授权访问。"
+    },
+    {
+      "heading": "应急响应与修复措施",
+      "summary": "HuggingFace 已在发现后立即启动应急响应，完成漏洞补丁部署并强化访问控制，同时进行内部审计防止类似问题再次发生。"
+    },
+    {
+      "heading": "用户防护建议",
+      "summary": "建议用户立即更改相关账户密码，开启双因素认证，并留意平台后续公告以确认受影响范围及后续补偿措施。"
+    }
+  ],
+  "id": "security-incident-july-2026",
+  "title": "Security incident disclosure — July 2026",
+  "url": "https://huggingface.co/blog/security-incident-july-2026",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-16",
+  "hasFullText": false,
+  "generatedAt": "2026-07-17T11:37:55.492683+08:00"
+}
