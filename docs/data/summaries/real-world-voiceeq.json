@@ -1,0 +1,26 @@
+{
+  "titleCn": "推出 Real World VoiceEQ：衡量语音 AI 的人类质量",
+  "overview": "HuggingFace 推出 Real World VoiceEQ，一个用于评估语音 AI 与人类声音相似度的新基准。该指标结合真实场景数据和主观评测，提供客观、可比较的分数，帮助开发者了解模型在实际对话中的自然度与情感表现，并推动语音生成技术的进一步提升。",
+  "sections": [
+    {
+      "heading": "VoiceEQ 的概念与目标",
+      "summary": "VoiceEQ 是一套专注于评估语音 AI 在自然度、情感和可理解性上与人类声音相似程度的指标体系。"
+    },
+    {
+      "heading": "Real World 数据采集与评估流程",
+      "summary": "通过大规模真实对话音频和用户主观评分，构建多维度基准，实现对模型在实际使用情境下表现的客观量化。"
+    },
+    {
+      "heading": "应用场景与生态价值",
+      "summary": "开发者可使用 VoiceEQ 对语音合成模型进行基准对比，指导模型迭代；还能为产品评估和用户体验提供量化参考。"
+    }
+  ],
+  "id": "real-world-voiceeq",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "url": "https://huggingface.co/blog/real-world-voiceeq",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-16",
+  "hasFullText": false,
+  "generatedAt": "2026-07-17T11:40:06.313197+08:00"
+}
