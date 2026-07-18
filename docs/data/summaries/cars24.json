@@ -1,0 +1,26 @@
+{
+  "titleCn": "Cars24 如何借助 OpenAI 扩展对话规模并提升开发效率",
+  "overview": "本文介绍 Cars24 如何利用 OpenAI 的大模型技术，实现海量客服对话的自动化与规模化。通过 API 集成、模型微调和对话流程优化，Cars24 在保持响应质量的同时显著降低人工成本，并加速产品迭代。案例展示了在真实业务场景中提升效率与用户满意度的实践经验。",
+  "sections": [
+    {
+      "heading": "大规模对话自动化的实现",
+      "summary": "通过 OpenAI API 实现高并发客服对话，自动分类、生成回复，支撑每日海量交互。"
+    },
+    {
+      "heading": "模型微调与流程优化",
+      "summary": "针对业务场景进行模型微调，并优化对话流水线，显著提升响应准确率与响应速度，降低错误率。"
+    },
+    {
+      "heading": "成本降低与产品迭代加速",
+      "summary": "自动化对话降低人工成本，同时加速功能验证与迭代，推动业务快速创新，实现更高的 ROI。"
+    }
+  ],
+  "id": "cars24",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "url": "https://openai.com/index/cars24",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-17",
+  "hasFullText": false,
+  "generatedAt": "2026-07-18T11:31:44.053580+08:00"
+}
