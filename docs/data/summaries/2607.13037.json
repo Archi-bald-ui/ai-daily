@@ -1,0 +1,38 @@
+{
+  "titleCn": "OriginBlame: AI训练数据集的记录级与Token级数据溯源",
+  "overview": "为了解决大规模AI训练数据集中缺乏细粒度溯源导致的版权争议、隐私泄露和模型偏见等问题，我们提出OriginBlame，一个同时支持记录级和Token级数据溯源的框架。该框架通过构建基于哈希和来源图的元数据，将每个数据条目及其内部的每个语言单元映射到原始数据源，并提供低开销的存储与查询接口。实验表明，OriginBlame在多种公开数据集上实现平均<5%的时间和存储开销，能够精准定位数据泄露、版权争议和偏见来源，验证了其在实际训练流程中的可行性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "阐明在大规模AI训练数据集中缺乏细粒度溯源导致的版权争议、隐私泄露和模型偏见等问题，介绍OriginBlame的提出动机及其在记录级和Token级溯源方面的主要贡献。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "总结当前数据溯源、血缘追踪和数据归属的研究，包括基于哈希的指纹、图结构模型以及在语言模型中的应用，指出这些方法在细粒度Token级溯源上的局限。"
+    },
+    {
+      "heading": "方法概述",
+      "summary": "提出基于内容哈希的记录级链接与基于分词映射的Token级链接，构建统一的双层来源图，实现从原始数据集到每个生成Token的全链路追溯。"
+    },
+    {
+      "heading": "系统实现",
+      "summary": "描述OriginBlame的体系结构，包括来源元数据的存储结构、与PyTorch/TensorFlow数据 pipeline的插件实现、查询接口以及低开销的实现策略。"
+    },
+    {
+      "heading": "实验与评估",
+      "summary": "在C4、WikiText等公开语料上进行实验，测量时间和存储开销；通过人工标注验证Token溯源的准确率；展示在版权审计、偏见溯源和数据泄露检测中的实际应用效果。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结OriginBlame在记录级与Token级溯源上的创新与优势，讨论在更大规模模型和跨模态数据上的适用性，提出未来在可扩展性与实时溯源方向的改进方向。"
+    }
+  ],
+  "id": "2607.13037",
+  "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+  "url": "https://arxiv.org/abs/2607.13037",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-07-16",
+  "hasFullText": false,
+  "generatedAt": "2026-07-18T11:34:33.500802+08:00"
+}
