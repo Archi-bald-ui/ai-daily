@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI时代的评分卡",
+  "overview": "本文由OpenAI发布，提出一套面向AI时代的评分卡框架，用于系统化衡量AI模型在技术性能、安全性、可解释性以及社会影响等方面的表现。文章阐述了评分卡的评估维度、构建方法以及在行业落地和监管审查中的实际价值，并对未来指标迭代进行展望。",
+  "sections": [
+    {
+      "heading": "核心评估维度",
+      "summary": "评分卡围绕技术性能、安全性、可解释性以及社会影响四大维度展开，提供细粒度的量化指标。"
+    },
+    {
+      "heading": "行业落地与监管价值",
+      "summary": "该评分卡可帮助企业在产品选型、合规审查以及内部治理中快速评估AI模型的实际风险与表现。"
+    },
+    {
+      "heading": "未来指标迭代方向",
+      "summary": "随着模型能力提升，评分卡将加入多模态理解、长期影响和可持续性等新指标，保持评估的前瞻性和实用性。"
+    }
+  ],
+  "id": "a-scorecard-for-the-ai-age",
+  "title": "A scorecard for the AI age",
+  "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-17",
+  "hasFullText": false,
+  "generatedAt": "2026-07-18T11:30:57.152573+08:00"
+}
