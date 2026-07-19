@@ -1,0 +1,26 @@
+{
+  "titleCn": "美国通过州和联邦行动推进AI安全",
+  "overview": "本文概述美国在州和联邦层面如何协同推进人工智能安全，包括立法、监管框架和产业合作的具体举措，强调政府与企业在风险评估、标准制定及伦理规范方面的共同努力，展示了美国构建可信AI生态的路径与前景。",
+  "sections": [
+    {
+      "heading": "州级AI安全立法",
+      "summary": "多个州已通过或正在审议人工智能安全相关法案，重点聚焦高风险应用的审查与报告机制，以提升本地AI系统的透明度与可控性。"
+    },
+    {
+      "heading": "联邦层面的监管框架",
+      "summary": "联邦政府发布AI监管原则并推动NIST等机构制定安全标准，呼吁跨部门协作构建国家级AI风险评估体系，确保联邦采购和公共服务的AI应用符合安全要求。"
+    },
+    {
+      "heading": "政企协同与标准制定",
+      "summary": "OpenAI等企业与监管部门合作，共同参与安全评估和伦理审查，分享最佳实践并推动行业自律，以形成可操作的AI安全指南和监管合规路径。"
+    }
+  ],
+  "id": "advancing-ai-safety-through-state-and-federal-action",
+  "title": "The US is advancing AI safety through state and federal action",
+  "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-18",
+  "hasFullText": false,
+  "generatedAt": "2026-07-19T11:46:38.259794+08:00"
+}
