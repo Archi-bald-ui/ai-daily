@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用两个 Google Vids 更新在视频中创作、编辑和主演",
+  "overview": "Google Vids 推出了两项更新，旨在简化视频的创作、编辑和“主演”流程。第一项更新引入 AI 自动剪辑和智能配音，可快速生成高质量内容；第二项更新提供全新模板和特效，支持用户在视频中直接出现并与虚拟角色互动。新功能与 Google Workspace 无缝集成，便于团队协作与分享。",
+  "sections": [
+    {
+      "heading": "AI 自动剪辑与配音",
+      "summary": "利用 AI 自动完成视频剪辑、配音和字幕生成，省去繁琐的手工编辑，快速产出高质量内容，并支持多语言本地化。"
+    },
+    {
+      "heading": "全新模板与特效",
+      "summary": "提供丰富的行业模板和动态特效，用户可轻松添加转场、文字动画和虚拟角色，实现更具吸引力的视觉呈现。"
+    },
+    {
+      "heading": "团队协作与 Workspace 集成",
+      "summary": "视频项目直接在 Google 文档、表格和 Meet 中共享，实时协作编辑和评论，提升团队创作效率，增强跨部门沟通以及协同。"
+    }
+  ],
+  "id": "gemini-omni-personal-avatars",
+  "title": "Create, edit and star in videos with two Google Vids updates",
+  "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-18",
+  "hasFullText": false,
+  "generatedAt": "2026-07-19T11:47:53.387327+08:00"
+}
