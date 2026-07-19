@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-07-18T11:25:17.628452+08:00",
+  "lastUpdated": "2026-07-19T11:45:07.763868+08:00",
   "articles": [
+    {
+      "title": "这，可能是今年WAIC最惊艳的图片！",
+      "url": "https://www.qbitai.com/2026/07/454049.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-18",
+      "score": 9
+    },
+    {
+      "title": "妙啊！无人机直连卫星传Token",
+      "url": "https://www.qbitai.com/2026/07/453789.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-18",
+      "score": 9
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-18",
+      "score": 7,
+      "titleCn": "美国通过州和联邦行动推进AI安全"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-18",
+      "score": 7,
+      "titleCn": "Google Vids 两项更新，支持视频创建、编辑与主演"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-18",
+      "score": 7,
+      "titleCn": "新型号，同等优势"
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-07-18",
+      "score": 7,
+      "titleCn": "能源IPO激增，投资者争相布局AI热潮"
+    },
+    {
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+      "url": "https://www.qbitai.com/2026/07/453897.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-18",
+      "score": 7
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-18",
+      "score": 6,
+      "titleCn": "TikTok正测试AI相似度检测工具"
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-18",
+      "score": 6,
+      "titleCn": "纽约州长称正使用AI分析州内每一条法规"
+    },
     {
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -1724,32 +1802,6 @@
       "date": "2026-06-20",
       "score": 7,
       "titleCn": "多模态检索增强生成的统一框架"
-    },
-    {
-      "title": "GPT-5.6 leak surfaces in developer tracking of Codex backend logs",
-      "url": "https://arstechnica.com/ai/2026/06/gpt-5-6-leak/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-06-18",
-      "score": 8,
-      "titleCn": "GPT-5.6 泄露出现在 Codex 后端日志的开发者追踪中"
-    },
-    {
-      "title": "Self-Improving Language Agents via Recursive Reward Modeling",
-      "url": "https://arxiv.org/abs/2606.11701",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-06-18",
-      "score": 8,
-      "titleCn": "基于递归奖励建模的语言智能体自我提升"
-    },
-    {
-      "title": "AI编程之争：Snowflake工程师年花5万美元在Claude Code上",
-      "url": "https://www.qbitai.com/2026/06/435101.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-18",
-      "score": 7
     }
   ]
 }
