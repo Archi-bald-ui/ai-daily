@@ -279,6 +279,33 @@ header {
   color: #fff;
 }
 
+.fav-btn {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  line-height: 1;
+  color: var(--text-3);
+  cursor: pointer;
+  transition: transform 0.12s, color 0.12s;
+}
+
+.fav-btn:hover {
+  transform: scale(1.15);
+  color: #f59e0b;
+}
+
+.fav-btn.on {
+  color: #f59e0b;
+}
+
+.cat-fav.active {
+  background: #f59e0b;
+  border-color: #f59e0b;
+}
+
 .article-score {
   font-size: 18px;
   font-weight: 800;
