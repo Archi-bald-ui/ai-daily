@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 Inkling：思考机器之作",
+  "overview": "本文简要介绍了 Thinking Machines 最新发布的 Inkling 项目，这是一款面向 AI 开发者的交互式编程与模型训练平台，旨在提升研发效率并简化工作流。文章重点阐述 Inkling 的主要特性、集成方式以及首批适用场景，让读者快速把握其核心价值。",
+  "sections": [
+    {
+      "heading": "交互式编程体验",
+      "summary": "Inkling 提供实时反馈的交互式编辑环境，支持代码块即点即改，帮助开发者快速迭代模型和算法。"
+    },
+    {
+      "heading": "核心功能与优势",
+      "summary": "内置模型版本管理、自动化测试与可视化仪表盘，支持多语言插件，显著降低 AI 项目维护成本。"
+    },
+    {
+      "heading": "适用场景与集成方式",
+      "summary": "适合科研团队快速原型验证和企业级 AI 平台迁移，提供 RESTful API 与主流 Notebook 环境一键接入。"
+    }
+  ],
+  "id": "thinkingmachines-inkling",
+  "title": "Welcome Inkling by Thinking Machines",
+  "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-19",
+  "hasFullText": false,
+  "generatedAt": "2026-07-20T11:59:40.212308+08:00"
+}
