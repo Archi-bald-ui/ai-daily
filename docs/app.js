@@ -7,8 +7,41 @@
   let searchQuery = "";
   let showAllDates = true;
 
+  const FAV_KEY = "ai-daily-favorites";
+  let favUrls = new Set();
+
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => document.querySelectorAll(sel);
+
+  // ── 收藏（localStorage，存整篇，永不自动清理）──
+  function getFavorites() {
+    try {
+      return JSON.parse(localStorage.getItem(FAV_KEY)) || [];
+    } catch {
+      return [];
+    }
+  }
+
+  function refreshFav() {
+    favUrls = new Set(getFavorites().map((a) => a.url));
+  }
+
+  function isFav(url) {
+    return favUrls.has(url);
+  }
+
+  function toggleFav(url) {
+    let favs = getFavorites();
+    if (favUrls.has(url)) {
+      favs = favs.filter((a) => a.url !== url);
+    } else {
+      const art = allArticles.find((a) => a.url === url);
+      if (art) favs.push(art);
+    }
+    localStorage.setItem(FAV_KEY, JSON.stringify(favs));
+    refreshFav();
+    render();
+  }
 
   // ── Init ──
   async function init() {
@@ -33,28 +66,40 @@
     }
 
     $("#loading").style.display = "none";
+    refreshFav();
     bindEvents();
     render();
   }
 
   // ── Render ──
+  function matchQuery(a) {
+    const q = searchQuery.toLowerCase();
+    return (
+      a.title.toLowerCase().includes(q) ||
+      (a.titleCn || "").toLowerCase().includes(q) ||
+      a.source.toLowerCase().includes(q) ||
+      a.category.toLowerCase().includes(q)
+    );
+  }
+
   function render() {
-    const grouped = showAllDates || !!searchQuery;
-    $("#current-date").textContent = showAllDates
-      ? "全部日期"
-      : formatDateDisplay(currentDate);
-    $("#toggle-all").classList.toggle("active", showAllDates);
-    $("#toggle-all").textContent = showAllDates ? "单日浏览" : "查看全部";
+    const favMode = currentCategory === "favorites";
+    const grouped = favMode || showAllDates || !!searchQuery;
+
+    $(".date-nav").style.display = favMode ? "none" : "";
+    if (!favMode) {
+      $("#current-date").textContent = showAllDates
+        ? "全部日期"
+        : formatDateDisplay(currentDate);
+      $("#toggle-all").classList.toggle("active", showAllDates);
+      $("#toggle-all").textContent = showAllDates ? "单日浏览" : "查看全部";
+    }
 
     let filtered;
-    if (searchQuery) {
-      const q = searchQuery.toLowerCase();
-      filtered = allArticles.filter(
-        (a) =>
-          a.title.toLowerCase().includes(q) ||
-          a.source.toLowerCase().includes(q) ||
-          a.category.toLowerCase().includes(q)
-      );
+    if (favMode) {
+      filtered = getFavorites();
+    } else if (searchQuery) {
+      filtered = allArticles.filter(matchQuery);
     } else if (showAllDates) {
       filtered = allArticles.slice();
     } else {
@@ -62,7 +107,11 @@
       filtered = allArticles.filter((a) => a.date === dateStr);
     }
 
-    if (currentCategory !== "all") {
+    if (favMode && searchQuery) {
+      filtered = filtered.filter(matchQuery);
+    }
+
+    if (!favMode && currentCategory !== "all") {
       filtered = filtered.filter((a) => a.category === currentCategory);
     }
 
@@ -78,6 +127,9 @@
     if (filtered.length === 0) {
       container.innerHTML = "";
       empty.style.display = "block";
+      empty.innerHTML = favMode
+        ? `<div class="empty-icon">☆</div><p>还没有收藏</p><p class="empty-hint">点任意资讯右侧的星标即可收藏</p>`
+        : `<div class="empty-icon">📭</div><p>当日暂无符合条件的资讯</p><p class="empty-hint">试试切换日期或分类</p>`;
       stats.textContent = "";
     } else {
       empty.style.display = "none";
@@ -127,6 +179,7 @@
           </svg>
         </a>
         ${hasSummary ? `<button class="summary-btn" data-id="${escapeAttr(sid)}" data-title="${escapeAttr(article.title)}">📄 中文摘要</button>` : ""}
+        <button class="fav-btn ${isFav(article.url) ? "on" : ""}" data-url="${escapeAttr(article.url)}" title="${isFav(article.url) ? "取消收藏" : "收藏"}">${isFav(article.url) ? "★" : "☆"}</button>
       </div>`;
   }
 
@@ -192,8 +245,14 @@
       if (e.key === "Escape") closeReader();
     });
 
-    // 论文中文摘要按钮
+    // 卡片操作：摘要 / 收藏
     $("#articles").addEventListener("click", (e) => {
+      const fav = e.target.closest(".fav-btn");
+      if (fav) {
+        e.preventDefault();
+        toggleFav(fav.dataset.url);
+        return;
+      }
       const btn = e.target.closest(".summary-btn");
       if (!btn) return;
       e.preventDefault();
