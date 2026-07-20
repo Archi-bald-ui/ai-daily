@@ -242,8 +242,8 @@
       content.innerHTML = `
         <div class="reader-empty">
           <div class="empty-icon">🕐</div>
-          <p>该论文的中文摘要尚未生成</p>
-          <p class="empty-hint">摘要由后台定时批量生成，请稍后再来查看</p>
+          <p>摘要生成中，请稍后刷新查看</p>
+          <p class="empty-hint">新内容的中文摘要由后台自动生成，通常在收录后一小时内就绪</p>
         </div>`;
     }
   }
