@@ -5,6 +5,10 @@ on:
   workflow_run:
     workflows: ["Daily AI News Fetch"] # 每日抓取完成后自动接力生成摘要
     types: [completed]
+  schedule:
+    # 每日两次兜底自愈：补齐漏的、重生成损坏的（跳过已有效的，成本很低）
+    - cron: "17 4 * * *"
+    - cron: "17 13 * * *"
 
 permissions:
   contents: write
