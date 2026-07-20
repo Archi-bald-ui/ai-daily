@@ -143,7 +143,7 @@ def build_prompt(title, source, body, brief=False):
 def summarize(title, source, body, brief=False):
     prompt = build_prompt(title, source, body, brief)
     last_err = None
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             response = requests.post(
                 MINIMAX_API_URL,
@@ -157,7 +157,7 @@ def summarize(title, source, body, brief=False):
                     "max_tokens": 5000,
                     "messages": [{"role": "user", "content": prompt}],
                 },
-                timeout=120,
+                timeout=180,
             )
             response.raise_for_status()
             content = parse_minimax_content(response.json())
@@ -171,7 +171,7 @@ def summarize(title, source, body, brief=False):
         except Exception as e:
             last_err = e
             print(f"   ↻ 第 {attempt + 1} 次失败: {e}")
-            time.sleep(3)
+            time.sleep(min(5 * (attempt + 1), 30))
     raise last_err
 
 
@@ -188,6 +188,15 @@ def _valid_result(r):
         and len((s.get("summary") or "").strip()) >= 10
     ]
     return len(good) >= 1
+
+
+def _file_valid(path):
+    """已存在的摘要文件是否内容有效（用于自愈判断）"""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return _valid_result(json.load(f))
+    except Exception:
+        return False
 
 
 def git_push(path, msg):
@@ -217,7 +226,8 @@ def main():
     for a in targets:
         pid = summary_id(a["url"])
         out = SUMMARY_DIR / f"{pid}.json"
-        if out.exists():
+        # 已存在且内容有效才跳过；空壳/损坏的会被自动重生成（自愈）
+        if out.exists() and _file_valid(out):
             continue
 
         brief = a.get("category") == "技术博客"
