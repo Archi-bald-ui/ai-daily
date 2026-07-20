@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-07-19T11:45:07.763868+08:00",
+  "lastUpdated": "2026-07-20T11:58:25.352944+08:00",
   "articles": [
+    {
+      "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+      "url": "https://www.qbitai.com/2026/07/454932.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-19",
+      "score": 8
+    },
+    {
+      "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+      "url": "https://www.qbitai.com/2026/07/454791.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-19",
+      "score": 8
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-19",
+      "score": 7,
+      "titleCn": "Current AI 正全力构建免费开放的 AI 万维网"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-19",
+      "score": 7,
+      "titleCn": "Kimi：是威胁还是危害？"
+    },
+    {
+      "title": "冷门的哲学，成了“治”AI的热门",
+      "url": "https://www.qbitai.com/2026/07/455041.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-19",
+      "score": 7
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-19",
+      "score": 6,
+      "titleCn": "欢迎 Thinking Machines 推出的 Inkling"
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-19",
+      "score": 6,
+      "titleCn": "Claude 现在可代您使用 1Password 凭证"
+    },
     {
       "title": "这，可能是今年WAIC最惊艳的图片！",
       "url": "https://www.qbitai.com/2026/07/454049.html",
