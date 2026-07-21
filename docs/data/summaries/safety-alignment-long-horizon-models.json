@@ -1,0 +1,26 @@
+{
+  "titleCn": "长时域模型时代的安全与对齐",
+  "overview": "本文围绕长时域模型的研发热潮，探讨其安全风险与对齐难题。文章分享了在超长时间跨度的推理、规划和决策过程中，如何通过红队测试、可解释性工具和迭代式微调来提升模型可靠性，并提出跨领域合作的治理框架。",
+  "sections": [
+    {
+      "heading": "安全风险与挑战",
+      "summary": "长时域模型在多步推理中可能产生累积误差，导致目标偏离或意外行为；攻击者也可利用其长期规划能力进行复杂攻击。"
+    },
+    {
+      "heading": "对齐技术与方法",
+      "summary": "文章介绍通过强化学习人类反馈、可解释性工具和迭代式微调等手段，使模型在长期任务中保持目标一致，并提升可审计性。"
+    },
+    {
+      "heading": "治理与合作框架",
+      "summary": "OpenAI呼吁跨学科研究者、政策制定者和行业共同制定安全标准，通过公开评估和共享红队结果，构建可信的长期AI系统。"
+    }
+  ],
+  "id": "safety-alignment-long-horizon-models",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-20",
+  "hasFullText": false,
+  "generatedAt": "2026-07-21T11:40:36.966131+08:00"
+}
