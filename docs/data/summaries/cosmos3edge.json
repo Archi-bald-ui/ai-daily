@@ -1,0 +1,26 @@
+{
+  "titleCn": "Cosmos 3 Edge 正式发布",
+  "overview": "本文介绍了 HuggingFace 发布的 Cosmos 3 Edge——面向边缘设备的高效 AI 推理框架。新版在模型压缩、硬件适配和隐私保护上实现突破，显著降低延迟与资源消耗，更低功耗的，使开发者能够在本地快速部署大模型和多模态服务。",
+  "sections": [
+    {
+      "heading": "针对边缘设备的优化",
+      "summary": "Cosmos 3 Edge 采用轻量化 runtime 与资源调度，实现低延迟、低功耗的本地推理，提供更高的性能，适用于移动端和嵌入式平台。"
+    },
+    {
+      "heading": "增强的模型压缩技术",
+      "summary": "新版提供更高效的量化与剪枝方案，在保持精度的同时将模型体积进一步缩小，加快推理速度并降低内存占用。"
+    },
+    {
+      "heading": "硬件兼容与隐私保护",
+      "summary": "Cosmos 3 Edge 支持多种芯片平台并提供本地数据处理能力，减少数据上传，提升隐私安全，适用于对数据合规要求严格的场景。"
+    }
+  ],
+  "id": "cosmos3edge",
+  "title": "Introducing Cosmos 3 Edge",
+  "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-20",
+  "hasFullText": false,
+  "generatedAt": "2026-07-21T11:54:09.751317+08:00"
+}
