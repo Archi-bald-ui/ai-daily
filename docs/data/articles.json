@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-07-20T11:58:25.352944+08:00",
+  "lastUpdated": "2026-07-21T11:39:02.041741+08:00",
   "articles": [
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-20",
+      "score": 8,
+      "titleCn": "长时模型时代的安全与对齐"
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-20",
+      "score": 8,
+      "titleCn": "Anthropic 15亿美元版权和解协议获批"
+    },
+    {
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-20",
+      "score": 8,
+      "titleCn": "Cura 1T：代理式医疗专用模型"
+    },
+    {
+      "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
+      "url": "https://arxiv.org/abs/2607.15380",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-20",
+      "score": 8,
+      "titleCn": "大语言模型作为统一多模态临床预测学习者"
+    },
+    {
+      "title": "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs",
+      "url": "https://arxiv.org/abs/2607.15498",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-20",
+      "score": 8,
+      "titleCn": "VarRate：免训练可变压缩率 KV 缓存压缩，面向长上下文 LLM"
+    },
+    {
+      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+      "url": "https://www.qbitai.com/2026/07/455658.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-20",
+      "score": 8
+    },
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-20",
+      "score": 7,
+      "titleCn": "Cosmos 3 Edge 正式发布"
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-20",
+      "score": 7,
+      "titleCn": "索尼起诉 Udio AI 音乐生成器的 30,000 首歌曲"
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-20",
+      "score": 7,
+      "titleCn": "中国对美国 AI 主导的双重打击"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-20",
+      "score": 6,
+      "titleCn": "为何青少年应获得安全的 AI"
+    },
+    {
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "url": "https://www.qbitai.com/2026/07/455805.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-20",
+      "score": 6
+    },
     {
       "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
       "url": "https://www.qbitai.com/2026/07/454932.html",
@@ -1835,33 +1932,6 @@
       "date": "2026-06-21",
       "score": 7,
       "titleCn": "claude-sonnet-5 标识符出现于合作平台配置日志"
-    },
-    {
-      "title": "Google announces Dataland, world's first AI arts museum powered by Gemini",
-      "url": "https://blog.google/technology/ai/dataland-ai-museum/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-06-20",
-      "score": 7,
-      "titleCn": "Google 宣布 Dataland——全球首个由 Gemini 驱动的 AI 艺术博物馆"
-    },
-    {
-      "title": "Macron criticizes Anthropic export ban as strictly nationalist",
-      "url": "https://www.theverge.com/2026/6/20/macron-anthropic-export-ban",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-20",
-      "score": 7,
-      "titleCn": "Macron 批评 Anthropic 出口禁令为极端民族主义"
-    },
-    {
-      "title": "Unified Framework for Multimodal Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2606.12901",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-06-20",
-      "score": 7,
-      "titleCn": "多模态检索增强生成的统一框架"
     }
   ]
 }
