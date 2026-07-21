@@ -1,0 +1,26 @@
+{
+  "titleCn": "为什么青少年值得拥有安全的 AI",
+  "overview": "本文指出青少年应在安全保障和监管框架下使用 AI，认为这有助于提升数字素养和批判性思维，降低误用风险。作者呼吁业界、政策制定者与教育者共同制定规范，确保 AI 对青少年友好且符合伦理。",
+  "sections": [
+    {
+      "heading": "青少年可受益的方面",
+      "summary": "AI 能帮助青少年提升学习效率、激发创造力，并在受控环境中培养批判性思维和数字素养。"
+    },
+    {
+      "heading": "安全保障的核心要素",
+      "summary": "提供青少年专用的内容过滤、年龄验证和实时监督机制，以防止误导信息和不良行为以及潜在的心理健康风险。"
+    },
+    {
+      "heading": "多方协作的推动路径",
+      "summary": "呼吁 AI 开发者、教育机构与监管部门联合制定行业标准，并通过公开透明的评估与用户反馈持续改进安全措施。"
+    }
+  ],
+  "id": "why-teens-deserve-access-safe-ai",
+  "title": "Why teens deserve access to safe AI",
+  "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-20",
+  "hasFullText": false,
+  "generatedAt": "2026-07-21T11:57:06.750873+08:00"
+}
