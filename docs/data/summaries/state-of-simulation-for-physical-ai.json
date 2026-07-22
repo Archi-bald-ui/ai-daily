@@ -1,0 +1,26 @@
+{
+  "titleCn": "物理AI仿真的现状：综述",
+  "overview": "本文概述了当前用于物理AI（如机器人、自动驾驶）的仿真技术发展现状，梳理了主流仿真平台的功能特点，分析了真实感建模、 sim‑to‑real 迁移以及大规模数据生成等关键挑战，并探讨了可微仿真、基础模型和跨平台标准化等前沿趋势。",
+  "sections": [
+    {
+      "heading": "主流仿真平台概览",
+      "summary": "概述MuJoCo、PyBullet、Gazebo、NVIDIA Omniverse等主流仿真平台的核心功能和适用场景，帮助快速比较各自优势。"
+    },
+    {
+      "heading": "关键挑战与应对策略",
+      "summary": "探讨仿真 fidelity、sim‑to‑real 迁移、数据生成规模等难题，介绍域随机化、在线适配和可微仿真等应对思路。"
+    },
+    {
+      "heading": "前沿趋势与研究方向",
+      "summary": "指出可微仿真、基础模型与跨平台标准化等新方向，展望在数据驱动和实时预测方面的潜力，助力构建更通用的物理AI系统。"
+    }
+  ],
+  "id": "state-of-simulation-for-physical-ai",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-21",
+  "hasFullText": false,
+  "generatedAt": "2026-07-22T11:40:46.532222+08:00"
+}
