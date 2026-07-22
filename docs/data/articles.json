@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-21T11:39:02.041741+08:00",
+  "lastUpdated": "2026-07-22T11:39:09.416125+08:00",
   "articles": [
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "物理AI仿真现状概述"
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "Google发布三款新Gemini模型—但没有3.5 Pro"
+    },
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "美国威胁因知识产权盗窃对中国AI模型实施制裁"
+    },
+    {
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "RLHF偏好数据中的评估者状态偏差：审计框架"
+    },
+    {
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "基于GNN的链接预测综述：技术、应用与挑战"
+    },
+    {
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-21",
+      "score": 8,
+      "titleCn": "PlanFlip：通过规划阶段提示注入攻击多智能体LLM系统"
+    },
+    {
+      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+      "url": "https://www.qbitai.com/2026/07/456061.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-21",
+      "score": 8
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-21",
+      "score": 7,
+      "titleCn": "OpenAI与Hugging Face合作应对模型评估期间的安全事件"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-21",
+      "score": 7,
+      "titleCn": "Grabette：一个记录机器人操作数据的开源系统"
+    },
+    {
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-21",
+      "score": 7,
+      "titleCn": "Anthropic的15亿美元图书盗版和解协议获法官批准"
+    },
+    {
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "url": "https://www.qbitai.com/2026/07/455963.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-21",
+      "score": 7
+    },
+    {
+      "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+      "url": "https://www.qbitai.com/2026/07/456052.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-21",
+      "score": 6
+    },
     {
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -1906,32 +2011,6 @@
       "date": "2026-06-23",
       "score": 7,
       "titleCn": "面向机器人操作的视觉-语言模型综述"
-    },
-    {
-      "title": "HuggingFace releases SmolAgent 2.0 framework for lightweight agent development",
-      "url": "https://huggingface.co/blog/smolagents-2",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-06-21",
-      "score": 8,
-      "titleCn": "HuggingFace 发布 SmolAgent 2.0 框架，助力轻量级智能体开发"
-    },
-    {
-      "title": "DeepSeek V4传闻发布并启动首次外部融资",
-      "url": "https://www.jiqizhixin.com/articles/2026-06-21-deepseek-v4",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-06-21",
-      "score": 8
-    },
-    {
-      "title": "claude-sonnet-5 identifier appears in partner platform config logs",
-      "url": "https://techcrunch.com/2026/06/21/claude-sonnet-5-config-leak/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-21",
-      "score": 7,
-      "titleCn": "claude-sonnet-5 标识符出现于合作平台配置日志"
     }
   ]
 }
