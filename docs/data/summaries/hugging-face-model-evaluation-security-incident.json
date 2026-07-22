@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 与 Hugging Face 合作应对模型评估期间的安全事件",
+  "overview": "OpenAI 与 Hugging Face 宣布联合应对一起在模型评估阶段出现的安全事故。双方已共享调查细节，评估流程中发现的潜在漏洞被迅速修补，并发布安全最佳实践指南，以帮助研究社区提升模型评估的安全性。此举旨在加强模型开发过程中的风险管控，防止类似事件再次发生。",
+  "sections": [
+    {
+      "heading": "合作共同应对安全事故",
+      "summary": "在评估阶段发现潜在威胁后，双方迅速启动响应机制，协同分析根因并落实修复措施，并通过公开报告向社区披露调查结果，提升透明度。"
+    },
+    {
+      "heading": "漏洞修补与安全最佳实践",
+      "summary": "针对评估流程中发现的漏洞，OpenAI 与 Hugging Face 及时发布补丁并提供安全配置建议，帮助研究者在后续实验中避免同类风险。"
+    },
+    {
+      "heading": "提升评估安全体系",
+      "summary": "双方计划在模型评估框架中引入独立安全审计和自动化风险检测工具，以构建更可靠的评估生态，促进行业安全标准统一。"
+    }
+  ],
+  "id": "hugging-face-model-evaluation-security-incident",
+  "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+  "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-21",
+  "hasFullText": false,
+  "generatedAt": "2026-07-22T12:08:19.070206+08:00"
+}
