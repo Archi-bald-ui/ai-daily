@@ -1,0 +1,26 @@
+{
+  "titleCn": "引领国家科学的新纪元",
+  "overview": "本文阐述OpenAI如何通过先进的大模型、开放协作平台和跨学科合作，推动国家层面的科研创新。介绍AI在加速实验、设计新材料、解析大数据等方面的突破，以及政府与科研机构共同构建的AI基础设施与安全治理框架，展望AI在未来科技竞争中的核心作用。",
+  "sections": [
+    {
+      "heading": "AI驱动科研新范式",
+      "summary": "通过大模型与自动化实验平台，显著提升科研效率，帮助科学家快速生成假设、筛选实验方案，实现从数据到发现的闭环。"
+    },
+    {
+      "heading": "国家AI基础设施建设",
+      "summary": "OpenAI与多国政府合作建设共享算力与数据集平台，提供公共AI资源，支持国家级科研项目落地，推动创新生态协同发展。"
+    },
+    {
+      "heading": "安全治理与伦理保障",
+      "summary": "强调在国家科学应用中坚持AI安全标准，建立透明的监管机制，确保技术发展符合公共利益与伦理规范。"
+    }
+  ],
+  "id": "advancing-the-next-era-of-national-science",
+  "title": "Advancing the next era of national science",
+  "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-22",
+  "hasFullText": false,
+  "generatedAt": "2026-07-23T11:50:07.563112+08:00"
+}
