@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-22T11:39:09.416125+08:00",
+  "lastUpdated": "2026-07-23T11:41:44.362822+08:00",
   "articles": [
+    {
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-22",
+      "score": 8,
+      "titleCn": "OpenAI 推出 Presence"
+    },
+    {
+      "title": "AMD commits up to $5 billion to  Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-22",
+      "score": 8,
+      "titleCn": "AMD 承诺向 Anthropic 投入高达 50 亿美元"
+    },
+    {
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-22",
+      "score": 8,
+      "titleCn": "SysAdmin：衡量前沿 AI 的工具性权力追求"
+    },
+    {
+      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+      "url": "https://arxiv.org/abs/2607.18243",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-22",
+      "score": 8,
+      "titleCn": "从 Agent 失败路径到量化残余风险：弹性 Agentic AI 组合框架"
+    },
+    {
+      "title": "Convolution for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.18413",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-22",
+      "score": 8,
+      "titleCn": "卷积用于大型语言模型"
+    },
+    {
+      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+      "url": "https://www.qbitai.com/2026/07/457054.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-22",
+      "score": 8
+    },
+    {
+      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+      "url": "https://www.qbitai.com/2026/07/457040.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-22",
+      "score": 8
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-22",
+      "score": 7,
+      "titleCn": "NTT DATA Group 借助 Codex 将事件分析缩短至 30 分钟"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-22",
+      "score": 7,
+      "titleCn": "OpenAI 人为失误导致针对 Hugging Face 的 AI 攻击"
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-22",
+      "score": 7,
+      "titleCn": "Arcee：美国开源 AI 实验室称中国模型并非天生危险"
+    },
+    {
+      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+      "url": "https://www.qbitai.com/2026/07/457117.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-22",
+      "score": 7
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-22",
+      "score": 6,
+      "titleCn": "迈向国家科学的下一个时代"
+    },
     {
       "title": "The State of Simulation for Physical AI: An Overview",
       "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
