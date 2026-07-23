@@ -1,0 +1,26 @@
+{
+  "titleCn": "NTT DATA Group 利用 Codex 将事件分析时间压缩至 30 分钟",
+  "overview": "日本NTTDATA集团引入OpenAI的Codex模型，实现事故分析流程自动化，将原本耗时的日志审查和根因定位压缩至约30分钟，大幅提升运维响应速度和资源利用率。",
+  "sections": [
+    {
+      "heading": "AI驱动的日志解析",
+      "summary": "通过Codex对大量日志进行自动解析和异常模式识别，显著降低人工排查时间，提升定位准确率。"
+    },
+    {
+      "heading": "自动化工作流加速响应",
+      "summary": "将AI分析结果直接嵌入运维平台，触发自动化工单和补救措施，实现从发现到解决的闭环。"
+    },
+    {
+      "heading": "业务价值与推广前景",
+      "summary": "案例表明，AI辅助可将事故分析时间压缩至30分钟，提高团队响应速度，降低运维成本，为行业推广提供参考。"
+    }
+  ],
+  "id": "ntt-data",
+  "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+  "url": "https://openai.com/index/ntt-data",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-22",
+  "hasFullText": false,
+  "generatedAt": "2026-07-23T11:49:26.524777+08:00"
+}
