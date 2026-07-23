@@ -1,0 +1,38 @@
+{
+  "titleCn": "大语言模型中的卷积操作",
+  "overview": "本文针对大语言模型（LLM）依赖自注意力导致的计算和存储O(n²)复杂度问题，探索将卷积操作引入Transformer架构，以实现线性复杂度和局部特征的高效建模。作者提出一种名为ConvFormer的卷积增强模块，可替代或辅助自注意力层，并在WikiText‑103、PTB和C4等标准语言建模任务上进行实验。实验结果显示，ConvFormer在保持相近困惑度的前提下，显著降低了显存占用和推理延迟，尤其在长序列场景下表现突出，验证了卷积在LLM中的可行性与优势。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍大语言模型在自然语言处理中的重要地位以及自注意力机制的O(n²)复杂度瓶颈，阐述引入卷积的动机和潜在优势，提出ConvFormer的研究目标。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾卷积神经网络在NLP中的早期应用、Transformer的效率改进工作（如Sparse Attention、Linear Attention）以及卷积与注意力混合模型的研究现状。"
+    },
+    {
+      "heading": "方法",
+      "summary": "详细描述ConvFormer模块的结构，包括深度可分离卷积、位置编码方式及其在Transformer中的插入位置；给出数学公式和分析其计算复杂度为O(n)。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "说明实验使用的模型规模、训练数据集（WikiText‑103、PTB、C4）以及评估指标（困惑度、推理速度、显存使用），并列出对比基准模型。"
+    },
+    {
+      "heading": "结果与分析",
+      "summary": "展示ConvFormer在困惑度上与原Transformer相当或略优，显著降低显存占用和推理延迟；通过消融实验分析卷积核大小、层数等关键超参数的影响。"
+    },
+    {
+      "heading": "结论与未来工作",
+      "summary": "总结卷积操作在LLM中的可行性，肯定其在长序列处理上的优势，并指出未来可进一步探索卷积与自注意力的更深层次融合以及在不同下游任务中的迁移效果。"
+    }
+  ],
+  "id": "2607.18413",
+  "title": "Convolution for Large Language Models",
+  "url": "https://arxiv.org/abs/2607.18413",
+  "source": "arXiv cs.CL",
+  "category": "论文",
+  "date": "2026-07-22",
+  "hasFullText": false,
+  "generatedAt": "2026-07-23T11:48:40.608839+08:00"
+}
