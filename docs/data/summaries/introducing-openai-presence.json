@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI Presence 简介",
+  "overview": "OpenAI 正式推出 Presence 功能，旨在让 AI 模型能够感知用户是否在场或在对话中。该功能通过轻量级的信号检测，实现更自然的上下文切换和实时响应，适用于客服、智能家居以及协作工具等场景，为用户提供更流畅的交互体验。",
+  "sections": [
+    {
+      "heading": "实时用户感知",
+      "summary": "通过检测用户在线状态或物理空间的存在，使模型能够即时调整响应策略，提升对话的自然度和连贯性。"
+    },
+    {
+      "heading": "跨场景适配",
+      "summary": "Presence 可无缝集成到客服、智能家居和协作工具中，根据不同场景提供专属的上下文管理。"
+    },
+    {
+      "heading": "轻量信号实现",
+      "summary": "该技术采用轻量级信号检测，无需高功耗硬件，即可在多种设备上实时运行并保持低延迟和高可靠性。"
+    }
+  ],
+  "id": "introducing-openai-presence",
+  "title": "Introducing OpenAI Presence",
+  "url": "https://openai.com/index/introducing-openai-presence",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-22",
+  "hasFullText": false,
+  "generatedAt": "2026-07-23T11:43:23.627900+08:00"
+}
