@@ -1,0 +1,26 @@
+{
+  "titleCn": "Galaxy Unpacked 2026 的 3 项 Google 更新",
+  "overview": "在Galaxy Unpacked 2026上，Google发布了三项关键更新：系统层面更强的本地AI推理能力、与Galaxy设备深度绑定的Google服务新入口，以及面向开发者的统一API和工具链，旨在提升跨设备体验的一致性和生态协同。",
+  "sections": [
+    {
+      "heading": "系统层面 AI 增强",
+      "summary": "在Android底层引入更强大的本地AI推理引擎，实现更快的语音和图像处理，同时降低云端依赖。"
+    },
+    {
+      "heading": "Google 服务深度整合",
+      "summary": "Galaxy设备原生集成Google搜索、地图、照片等服务的最新入口，提升跨应用一致体验。"
+    },
+    {
+      "heading": "开发者与跨设备体验",
+      "summary": "面向开发者推出统一API与工具链，简化多设备协作场景的构建，促进生态一致性，并提供模拟测试环境。"
+    }
+  ],
+  "id": "galaxy-unpacked-2026",
+  "title": "3 Google updates from Galaxy Unpacked 2026",
+  "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-23",
+  "hasFullText": false,
+  "generatedAt": "2026-07-24T11:48:10.435356+08:00"
+}
