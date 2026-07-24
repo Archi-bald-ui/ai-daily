@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-23T11:41:44.362822+08:00",
+  "lastUpdated": "2026-07-24T11:39:15.674367+08:00",
   "articles": [
+    {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "ChatGPT 推出健康功能"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "AMD 以 Helios AI 机架级系统挑战 Nvidia"
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "OpenAI 为所有美国用户推出 ChatGPT 健康功能"
+    },
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "FineServe：全球 LLM 服务工作负载的细粒度数据集与特征分析"
+    },
+    {
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "NVIDIA H100 在 Intel TDX 环境下的机密 GPU 推理基准测试"
+    },
+    {
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2607.19356",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-23",
+      "score": 8,
+      "titleCn": "NEXUS：为使用工具的 LLM 代理提供结构化运行时安全"
+    },
+    {
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "url": "https://www.qbitai.com/2026/07/457537.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-23",
+      "score": 8
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-23",
+      "score": 7,
+      "titleCn": "Galaxy Unpacked 2026 的三项 Google 更新"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-23",
+      "score": 7,
+      "titleCn": "Nunchaku 4 位扩散推理登陆 Diffusers"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-23",
+      "score": 7,
+      "titleCn": "AI 护栏阻碍进攻性网络安全研究"
+    },
+    {
+      "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
+      "url": "https://www.qbitai.com/2026/07/457792.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-23",
+      "score": 7
+    },
+    {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-23",
+      "score": 7
+    },
     {
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
@@ -2090,32 +2195,6 @@
       "date": "2026-06-24",
       "score": 7,
       "titleCn": "自适应思维链压缩实现高效 token 推理"
-    },
-    {
-      "title": "Fable 5 removed from Anthropic subscription plans — now requires usage credits",
-      "url": "https://www.theverge.com/2026/6/23/fable-5-credit-only",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-23",
-      "score": 8,
-      "titleCn": "Fable 5 已从 Anthropic 订阅方案中移除，现需使用额度"
-    },
-    {
-      "title": "AI coding市场格局：Claude Code为何能领跑",
-      "url": "https://www.qbitai.com/2026/06/435402.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-23",
-      "score": 7
-    },
-    {
-      "title": "Vision-Language Models for Robotic Manipulation: A Comprehensive Survey",
-      "url": "https://arxiv.org/abs/2606.14803",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-06-23",
-      "score": 7,
-      "titleCn": "面向机器人操作的视觉-语言模型综述"
     }
   ]
 }
