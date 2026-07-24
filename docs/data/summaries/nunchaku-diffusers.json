@@ -1,0 +1,26 @@
+{
+  "titleCn": "将 Nunchaku 4 位扩散推理集成到 Diffusers",
+  "overview": "本文介绍了Nunchaku团队如何将4位量化推理技术引入HuggingFaceDiffusers，以实现扩散模型的高速、低显存生成。通过自定义CUDA kernel与Transformers兼容的管线，用户只需少量代码改动即可在多种扩散模型上获得显著加速，同时保持生成质量。",
+  "sections": [
+    {
+      "heading": "Nunchaku 4 位量化技术概述",
+      "summary": "Nunchaku 通过混合精度剪枝和 4 位权重量化，在保持生成质量的前提下，大幅降低模型体积和计算资源需求。"
+    },
+    {
+      "heading": "Diffusers 集成方式与使用示例",
+      "summary": "在Diffusers加载Nunchaku量化模型，只需指定量化后权重，即可使用自定义CUDA kernel进行推理。"
+    },
+    {
+      "heading": "性能收益与实践建议",
+      "summary": "实测显示，4 位量化可实现显存占用减半、推理速度提升数倍，适用于资源受限的部署环境。建议在生成质量要求适中的场景下启用。"
+    }
+  ],
+  "id": "nunchaku-diffusers",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-23",
+  "hasFullText": false,
+  "generatedAt": "2026-07-24T11:49:06.943587+08:00"
+}
