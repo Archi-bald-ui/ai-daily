@@ -1,0 +1,26 @@
+{
+  "titleCn": "在 ChatGPT 中推出健康功能",
+  "overview": "OpenAI 宣布在 ChatGPT 中推出健康功能，旨在为普通用户提供可信的医学信息、症状查询和健康建议。该功能基于专业医学知识库、强化安全过滤与合规审查，提升回答准确性并降低误导风险，标志着大语言模型在医疗健康领域的重要突破。",
+  "sections": [
+    {
+      "heading": "医疗知识库的引入",
+      "summary": "通过专业医学数据库和文献，提供最新临床指南和药物信息，确保回答的准确性和可靠性，显著降低错误信息风险。"
+    },
+    {
+      "heading": "安全过滤与合规审查",
+      "summary": "引入多层安全过滤和合规审查机制，防止误导、非法或敏感内容，并遵循HIPAA等医疗数据保护规范。"
+    },
+    {
+      "heading": "用户指引与免责声明",
+      "summary": "提供免责声明和使用指南，帮助用户正确理解AI生成的健康信息，提醒其不替代专业医生的诊断与治疗。"
+    }
+  ],
+  "id": "health-in-chatgpt",
+  "title": "Launching Health in ChatGPT",
+  "url": "https://openai.com/index/health-in-chatgpt",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-23",
+  "hasFullText": false,
+  "generatedAt": "2026-07-24T11:41:14.292020+08:00"
+}
