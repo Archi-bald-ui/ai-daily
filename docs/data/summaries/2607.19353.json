@@ -1,0 +1,38 @@
+{
+  "titleCn": "基于 Intel TDX 的 NVIDIA H100 机密 GPU 推理基准测试",
+  "overview": "研究针对在 Intel TDX 硬件可信执行环境中使用 NVIDIA H100 GPU 进行机密推理的性能。通过构建基于 TDX 的可信虚拟机、配置机密 GPU 驱动与安全容器，在多种深度学习模型上开展延迟、吞吐量和能耗基准测试。结果表明，与传统非机密推理相比，机密 GPU 推理的平均延迟增加约 15%~30%，吞吐量下降约 20%，但仍保持可接受的性能并提供硬件级数据机密性与完整性保障。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍机密计算、GPU 推理在云环境中的安全需求，阐明在 Intel TDX 平台进行机密 GPU 推理的动机与挑战，并提出本文的主要研究目标。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "综述可信执行环境、Intel TDX、GPU 机密计算技术以及已有基准测试方案，指出本文与现有工作的区别与创新点。"
+    },
+    {
+      "heading": "系统设计",
+      "summary": "描述基于 TDX 的可信虚拟机、机密 GPU 驱动的架构设计，以及安全容器如何与宿主机协同实现推理任务的机密加载。"
+    },
+    {
+      "heading": "实现细节",
+      "summary": "说明使用的软件栈（Linux 内核、TDX 驱动、NVIDIA H100 机密模式、深度学习框架）以及关键代码修改、内存隔离和加密通信的实现要点。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "介绍实验平台（CPU、内存、网络），选取的模型（CNN、Transformer、生成式模型），以及测量指标（延迟、吞吐量、功耗、资源占用）的具体测试方案。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "展示机密推理相比普通推理的延迟、吞吐量和能耗表现，分析不同模型规模、批量大小和安全策略对性能开销的影响，并讨论安全与性能的权衡。"
+    }
+  ],
+  "id": "2607.19353",
+  "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+  "url": "https://arxiv.org/abs/2607.19353",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-07-23",
+  "hasFullText": false,
+  "generatedAt": "2026-07-24T11:46:37.468378+08:00"
+}
