@@ -1,0 +1,26 @@
+{
+  "titleCn": "与埃芬汉县社区共建AI基础设施",
+  "overview": "本文介绍了OpenAI与埃芬汉县社区合作共建AI基础设施的计划与实践，阐述了合作模式、技术架构以及在当地公共治理、教育和农业等领域的应用场景，并分享了社区参与和人才培养的经验。",
+  "sections": [
+    {
+      "heading": "合作模式创新",
+      "summary": "OpenAI通过公私合作、社区共创的方式，搭建开放共享的AI算力平台，提升技术可及性。"
+    },
+    {
+      "heading": "基础设施建设",
+      "summary": "在埃芬汉县部署模块化数据中心与边缘计算节点，支持本地AI模型训练和实时推理，降低延迟并保障数据安全。"
+    },
+    {
+      "heading": "社区赋能",
+      "summary": "通过AI培训营、黑客松和职业转型计划，提升居民数字技能，为本地创新企业提供人才支撑。"
+    }
+  ],
+  "id": "building-ai-infrastructure-with-the-effingham-county-community",
+  "title": "Building AI infrastructure with the Effingham County community",
+  "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-24",
+  "hasFullText": false,
+  "generatedAt": "2026-07-25T11:54:05.234154+08:00"
+}
