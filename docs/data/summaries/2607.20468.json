@@ -1,0 +1,38 @@
+{
+  "titleCn": "InferenceBench: 面向AI智能体开放端大语言模型推理优化的基准测试",
+  "overview": "为填补开放域大模型推理优化缺乏统一评估工具的空白，本文提出InferenceBench基准，涵盖多领域任务、多种评估指标以及可交互的AI智能体优化框架。实验在多个主流模型和优化方法上进行系统对比，揭示了不同模型的优化空间与瓶颈，验证了InferenceBench在推动推理优化研究的实用性和可扩展性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本文针对当前缺乏评估AI智能体在开放域大模型推理任务上优化能力的基准，提出InferenceBench，旨在系统化测评推理优化方法的有效性，并指出该基准在评估不同推理策略时的必要性。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "本章综述了大模型推理、自动化优化及AI智能体基准的相关研究，指出现有工作缺乏针对开放域推理任务的统一评估框架，并对其代表性方法进行对比分析。"
+    },
+    {
+      "heading": "InferenceBench 设计",
+      "summary": "本节详细介绍InferenceBench的任务构建、数据集来源、评估指标（延迟、精度、能耗等）以及AI智能体在推理过程中的交互接口与优化策略框架。"
+    },
+    {
+      "heading": "实验设置与基线",
+      "summary": "实验部分选取多种主流大模型（如GPT-4、Llama）和强化学习、智能体搜索等推理优化方法作为基线，并在多个开放域任务上进行对比评测。"
+    },
+    {
+      "heading": "结果与分析",
+      "summary": "实验结果显示，AI智能体通过自适应推理优化可显著降低延迟并保持精度，且不同模型在开放域任务上的优化空间差异显著，InferenceBench揭示了当前优化方法的局限性。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "本文提出InferenceBench基准，为评估AI智能体在大模型开放域推理优化中的能力提供了统一平台，实验验证了其有效性并指出了未来在多模态推理、跨语言扩展等方向的研究方向。"
+    }
+  ],
+  "id": "2607.20468",
+  "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+  "url": "https://arxiv.org/abs/2607.20468",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-07-24",
+  "hasFullText": false,
+  "generatedAt": "2026-07-25T14:29:47.905983+08:00"
+}
