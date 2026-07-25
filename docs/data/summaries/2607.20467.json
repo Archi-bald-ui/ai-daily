@@ -1,0 +1,38 @@
+{
+  "titleCn": "DC-Leap：基于草稿引导的连续跳跃解码实现 dLLM 的免训练加速",
+  "overview": "本文提出 DC-Leap，一种无需额外训练的加速框架，用于提升扩散大语言模型（dLLM）的推理速度。DC-Leap 利用轻量草稿模型预测潜在的高置信度 token 序列，并通过连续跳跃解码策略在主模型中一次性生成多个连续 token，从而显著降低解码步数。实验在多种基准数据集上验证，DC-Leap 在保持生成质量几乎不变的前提下，实现了 2~3 倍的吞吐量提升，且无需对模型进行微调或引入额外参数。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "章节介绍 dLLM 的高计算成本与现有加速方法的局限，提出免训练、仅依赖草稿引导的连续跳跃解码思路，并概述本文的主要贡献与实验验证目标。"
+    },
+    {
+      "heading": "相关工作与背景",
+      "summary": "回顾自回归解码、投机解码以及扩散模型生成的基本原理，分析其在长序列生成中的计算瓶颈，为 DC-Leap 的设计提供理论依据。"
+    },
+    {
+      "heading": "方法：Draft‑Guided Contiguous Leaping Decoding",
+      "summary": "详细阐述草稿模型的构建、草稿预测与主模型之间的 token 同步机制，以及连续跳跃解码的调度算法，确保在保持生成质量的同时最大化并行度。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "介绍使用的基准数据集（如 CommonCrawl、OpenWebText），评估指标（吞吐量、延迟、BLESS 等）以及对比的基线方法（投机解码、动态批量等）。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "展示 DC-Leap 在不同规模 dLLM 上的加速比、生成质量指标，并进行消融实验验证草稿长度、跳跃窗口等关键超参的影响。"
+    },
+    {
+      "heading": "结论与未来工作",
+      "summary": "总结 DC-Leap 的优势（免训练、易部署）以及在实际应用中的潜力，指出后续将探索更复杂的多模态场景与自适应草稿生成策略。"
+    }
+  ],
+  "id": "2607.20467",
+  "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+  "url": "https://arxiv.org/abs/2607.20467",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-07-24",
+  "hasFullText": false,
+  "generatedAt": "2026-07-25T11:37:01.452643+08:00"
+}
