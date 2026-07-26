@@ -1,0 +1,26 @@
+{
+  "titleCn": "推出面向小企业的 ChatGPT 计划",
+  "overview": "OpenAI 正式发布面向小企业的 ChatGPT 项目，提供优惠的企业套餐、专属 API 接口以及即用型行业模板，帮助企业在客服、内容创作、数据分析等场景快速部署 AI 能力。项目配套一对一培训、技术支持和案例分享，旨在降低使用门槛，推动小企业数字化转型。",
+  "sections": [
+    {
+      "heading": "专属定价与优惠",
+      "summary": "提供灵活的套餐选择和折扣政策，降低小企业使用 AI 的成本，让更多创业团队能够负担得起。"
+    },
+    {
+      "heading": "定制化功能与行业模板",
+      "summary": "提供专属API接口和即用型行业模板，帮助企业快速在客服、内容生成、数据分析等场景落地AI能力。"
+    },
+    {
+      "heading": "培训与技术支持",
+      "summary": "配套一对一培训、技术支持和案例分享，帮助小企业快速上手并持续优化 AI 应用，实现业务增长。"
+    }
+  ],
+  "id": "introducing-chatgpt-small-business-program",
+  "title": "Introducing the ChatGPT for small business program",
+  "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-25",
+  "hasFullText": false,
+  "generatedAt": "2026-07-26T12:08:42.848224+08:00"
+}
