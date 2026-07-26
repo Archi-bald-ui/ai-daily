@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-25T11:35:42.732321+08:00",
+  "lastUpdated": "2026-07-26T11:50:42.722883+08:00",
   "articles": [
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-25",
+      "score": 9,
+      "titleCn": "Anthropic 推出 Opus 5"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-25",
+      "score": 8,
+      "titleCn": "Cognition 收购 Poke 的原因：AI 人格正成为竞争优势"
+    },
+    {
+      "title": "Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations",
+      "url": "https://arxiv.org/abs/2607.20426",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-25",
+      "score": 8,
+      "titleCn": "知识注入是否存在于 MoE？探索专家感知对比解码以缓解 LLM 幻觉"
+    },
+    {
+      "title": "Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2607.20427",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-25",
+      "score": 8,
+      "titleCn": "MoE 路由是霍夫曼编码吗？揭示思维链中的频率‑多样性规律"
+    },
+    {
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "url": "https://www.qbitai.com/2026/07/460174.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-25",
+      "score": 8
+    },
+    {
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "url": "https://www.qbitai.com/2026/07/460154.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-25",
+      "score": 8
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-25",
+      "score": 7,
+      "titleCn": "新闻机构如何利用 AI 推进其关键使命"
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-25",
+      "score": 7,
+      "titleCn": "Claude 语音模式现已支持 Opus 与 Sonnet"
+    },
+    {
+      "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
+      "url": "https://arxiv.org/abs/2607.20425",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-25",
+      "score": 7,
+      "titleCn": "何为优秀？从 LLM 推理轨迹中提取并检验文学质量的隐含理论"
+    },
+    {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-25",
+      "score": 7
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-25",
+      "score": 6,
+      "titleCn": "推出面向小型企业的 ChatGPT 计划"
+    },
     {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
@@ -2230,32 +2326,6 @@
       "category": "中文资讯",
       "date": "2026-06-26",
       "score": 7
-    },
-    {
-      "title": "Andrej Karpathy joins Anthropic to work on frontier LLM R&D",
-      "url": "https://www.anthropic.com/news/karpathy-joins",
-      "source": "Anthropic",
-      "category": "技术博客",
-      "date": "2026-06-25",
-      "score": 10,
-      "titleCn": "Andrej Karpathy 加入 Anthropic 从事前沿 LLM 研发"
-    },
-    {
-      "title": "Karpathy加入Anthropic：顶级AI研究者回归前沿实验室",
-      "url": "https://www.qbitai.com/2026/06/435601.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-25",
-      "score": 9
-    },
-    {
-      "title": "Scaling Instruction-Following in Multi-Agent Cooperative Environments",
-      "url": "https://arxiv.org/abs/2606.16102",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-06-25",
-      "score": 7,
-      "titleCn": "多智能体协同环境中的指令跟随规模化"
     }
   ]
 }
