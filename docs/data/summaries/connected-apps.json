@@ -1,0 +1,26 @@
+{
+  "titleCn": "让更多应用接入搜索",
+  "overview": "Google AI 宣布扩大搜索对第三方应用的接入范围，通过统一的深度链接协议和新的搜索索引 API，使应用内页面能够在 Google 搜索结果中直接展示。用户点击即可跳转至应用对应内容，提升可见性和使用率。开发者只需按指南配置，即可让已有功能被搜索捕获。",
+  "sections": [
+    {
+      "heading": "统一的深度链接协议",
+      "summary": "通过 Google 推出的统一深度链接协议，第三方应用可以在搜索结果中以标准格式展示内部页面，用户点击即可直接打开对应内容。"
+    },
+    {
+      "heading": "实时应用内容索引",
+      "summary": "新提供的搜索索引 API 支持应用在发布或更新内容时即时推送，Google 会在短时间内将该页面编入搜索索引，实现快速曝光。"
+    },
+    {
+      "heading": "开发者工具与文档升级",
+      "summary": "Google 更新了开发者控制台和调试工具，提供完整的接入指南、示例代码以及验证流程，帮助开发者快速完成配置并监控索引状态。"
+    }
+  ],
+  "id": "connected-apps",
+  "title": "Connect more of your apps to Search",
+  "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-07-26",
+  "hasFullText": false,
+  "generatedAt": "2026-07-27T12:00:36.452266+08:00"
+}
