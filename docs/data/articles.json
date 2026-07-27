@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-07-26T11:50:42.722883+08:00",
+  "lastUpdated": "2026-07-27T11:58:51.110120+08:00",
   "articles": [
+    {
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-26",
+      "score": 7
+    },
+    {
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-26",
+      "score": 7
+    },
+    {
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-26",
+      "score": 7
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-26",
+      "score": 6,
+      "titleCn": "将更多应用接入搜索"
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-26",
+      "score": 6,
+      "titleCn": "开启英国生产力新纪元：打造AI先锋之国"
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-26",
+      "score": 6,
+      "titleCn": "美国科学的‘技术兄弟’化已正式启动"
+    },
     {
       "title": "Anthropic launches Opus 5",
       "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
@@ -2290,41 +2341,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-06-28",
-      "score": 7
-    },
-    {
-      "title": "OpenAI previews GPT-5.6 family: Sol, Terra, Luna — gated behind government access list",
-      "url": "https://openai.com/news/gpt-5-6-preview/",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-06-26",
-      "score": 10,
-      "titleCn": "OpenAI 预览 GPT-5.6 系列：Sol、Terra、Luna，仅向政府开放"
-    },
-    {
-      "title": "OpenAI and Anthropic face new AI reality as users shift to efficiency",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-26",
-      "score": 8,
-      "titleCn": "用户转向效率，OpenAI 与 Anthropic 面临 AI 新现实"
-    },
-    {
-      "title": "Qualcomm acquires AI startup Modular for $4 billion",
-      "url": "https://techcrunch.com/2026/06/26/qualcomm-acquires-modular/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-06-26",
-      "score": 8,
-      "titleCn": "高通以 40 亿美元收购 AI 初创公司 Modular"
-    },
-    {
-      "title": "Polymarket GPT-5.6上线概率超83%，AI模型发布进入博弈时代",
-      "url": "https://www.jiqizhixin.com/articles/2026-06-26-polymarket",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-06-26",
       "score": 7
     }
   ]
