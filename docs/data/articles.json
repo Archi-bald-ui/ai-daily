@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-07-27T11:58:51.110120+08:00",
+  "lastUpdated": "2026-07-28T11:30:28.194331+08:00",
   "articles": [
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-27",
+      "score": 8,
+      "titleCn": "微软推出首款网络安全模型，并发布新型代理式网络安全系统"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-27",
+      "score": 8,
+      "titleCn": "OpenAI 与 Hugging Face 安全漏洞重新点燃 AI 对齐与控制争论"
+    },
+    {
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "url": "https://arxiv.org/abs/2607.21596",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-27",
+      "score": 8,
+      "titleCn": "FlowEvo：工作流与可执行技能协同演化，实现自我进化代理"
+    },
+    {
+      "title": "突发，翁荔离职Thinking Machines",
+      "url": "https://www.qbitai.com/2026/07/461517.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-27",
+      "score": 8
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-27",
+      "score": 7,
+      "titleCn": "Anthropic 首席 Dario Amodei 回应：并不反对开放权重模型，但担忧中国 AI"
+    },
+    {
+      "title": "Securing Multimodal AI through Internal Information Decomposition",
+      "url": "https://arxiv.org/abs/2607.21600",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-27",
+      "score": 7,
+      "titleCn": "内部信息分解提升多模态 AI 安全性"
+    },
+    {
+      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+      "url": "https://arxiv.org/abs/2607.21602",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-27",
+      "score": 7,
+      "titleCn": "可迁移延迟预测实现异构边缘设备快速 LLM 筛选"
+    },
+    {
+      "title": "智能体走向终端，个人AI时代正在到来",
+      "url": "https://www.qbitai.com/2026/07/461565.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-27",
+      "score": 7
+    },
+    {
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "url": "https://www.qbitai.com/2026/07/461444.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-27",
+      "score": 6
+    },
     {
       "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
       "url": "https://www.qbitai.com/2026/07/461149.html",
