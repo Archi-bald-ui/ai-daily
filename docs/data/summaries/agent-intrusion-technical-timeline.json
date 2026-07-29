@@ -1,0 +1,26 @@
+{
+  "titleCn": "前沿实验室代理入侵剖析：2026年7月事件技术时间线",
+  "overview": "本文深入剖析了一起2026年7月针对前沿实验室人工智能代理的入侵事件，通过详细的技术时间线还原攻击者的初始入口、横向移动、持久化手段以及被发现后的响应过程，并揭示了攻击中使用的零日漏洞、容器逃逸和伪装流量等关键技术点，为安全社区提供防御思路与改进建议。",
+  "sections": [
+    {
+      "heading": "攻击入口与初始渗透",
+      "summary": "事件起因于钓鱼邮件或供应链漏洞，攻击者快速获得实验环境的初始访问权限，并植入后门。"
+    },
+    {
+      "heading": "横向移动与持久化技术",
+      "summary": "攻击者利用容器逃逸和特权提升，在内部网络进行横向扩展，并在系统内植入定时任务和隐藏进程以保持持久控制。"
+    },
+    {
+      "heading": "检测、响应与防御建议",
+      "summary": "文章通过日志和监控数据还原攻击路径，提出加强零信任、实施细粒度隔离和及时打补丁等防御措施，以降低未来类似入侵风险。"
+    }
+  ],
+  "id": "agent-intrusion-technical-timeline",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-28",
+  "hasFullText": false,
+  "generatedAt": "2026-07-29T11:41:19.986396+08:00"
+}
