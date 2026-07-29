@@ -1,0 +1,26 @@
+{
+  "titleCn": "LFM2.5 编码器：CPU 上的快速长上下文推理",
+  "overview": "LFM2.5 编码器是一套专为在 CPU 上实现长上下文快速推理而设计的模型结构。通过分层注意力、混合精度量化和轻量级算子融合等技术创新，显著降低内存占用和计算延迟，使得大模型能够在普通硬件上处理数千 token 的上下文，并在 HuggingFace 生态中无缝集成。",
+  "sections": [
+    {
+      "heading": "分层注意力机制",
+      "summary": "采用分层注意力结构，将长序列划分为多个块并分别处理，显著降低全注意力的计算复杂度。"
+    },
+    {
+      "heading": "CPU 量化与算子优化",
+      "summary": "通过混合精度量化和硬件友好的算子融合，在保证模型精度的前提下，实现 CPU 上的高效并行计算。"
+    },
+    {
+      "heading": "生态集成与应用场景",
+      "summary": "兼容 HuggingFace Transformers，提供开箱即用的推理接口，支持文档摘要、对话系统等长文本任务。"
+    }
+  ],
+  "id": "lfm2-5-encoders",
+  "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-28",
+  "hasFullText": false,
+  "generatedAt": "2026-07-29T11:37:51.126420+08:00"
+}
