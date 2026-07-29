@@ -1,0 +1,26 @@
+{
+  "titleCn": "OlmoEarth平台：行星规模的地理空间推理",
+  "overview": "OlmoEarth 是 HuggingFace 推出的行星规模地理空间推理平台，旨在通过统一的深度学习模型和高效计算框架，对全球遥感影像进行实时或批量分析，支持土地利用、灾害监测等应用。",
+  "sections": [
+    {
+      "heading": "平台架构与可扩展性",
+      "summary": "基于分布式计算和模型并行，实现千亿级参数模型在海量卫星图像上的快速推理，并通过弹性伸缩的计算集群，支持按需调度和自动容错。"
+    },
+    {
+      "heading": "多源遥感数据融合",
+      "summary": "统一处理光学、SAR、夜光等多类遥感数据，提供跨模态特征抽取和对齐，适配不同分辨率和时间尺度的任务。"
+    },
+    {
+      "heading": "开放生态与应用场景",
+      "summary": "提供预训练模型和推理 API，兼容 HuggingFace 模型库，覆盖土地利用、城市扩张、灾害评估等实际应用。"
+    }
+  ],
+  "id": "olmoearth-infrastructure",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-28",
+  "hasFullText": false,
+  "generatedAt": "2026-07-29T11:36:28.460348+08:00"
+}
