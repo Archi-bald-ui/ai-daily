@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-28T11:30:28.194331+08:00",
+  "lastUpdated": "2026-07-29T11:33:42.707858+08:00",
   "articles": [
+    {
+      "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+      "url": "https://www.qbitai.com/2026/07/461911.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-28",
+      "score": 9
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "OlmoEarth平台：行星级地理空间推理"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "LFM2.5-Encoders：CPU 上快速长上下文推理"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "Frontier Lab 代理入侵剖析：2026 年 7 月技术时间线"
+    },
+    {
+      "title": "Why China is giving away its best AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "中国为何免费提供最优秀的 AI 模型"
+    },
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "Nvidia、Microsoft 发起开放 AI 安全联盟，OpenAI、Google、Anthropic 未参与"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "Cyera 同意以 10 亿美元收购 Oasis Security，保障 AI 代理安全"
+    },
+    {
+      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "同一问题不同答案：从准确性之外评估 LLM 可靠性"
+    },
+    {
+      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+      "url": "https://arxiv.org/abs/2607.22555",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-28",
+      "score": 8,
+      "titleCn": "DeepLens 诊断智能体：代理工作流设计让小型推理模型挑战前沿 LLM"
+    },
+    {
+      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+      "url": "https://www.qbitai.com/2026/07/461827.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-28",
+      "score": 8
+    },
+    {
+      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+      "url": "https://www.qbitai.com/2026/07/461650.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-28",
+      "score": 8
+    },
+    {
+      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "url": "https://arxiv.org/abs/2607.22544",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-28",
+      "score": 7,
+      "titleCn": "基于概念的视觉反事实解释：Diffusion 模型"
+    },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -2394,32 +2499,6 @@
       "date": "2026-06-29",
       "score": 7,
       "titleCn": "自适应检索增强生成与多步推理"
-    },
-    {
-      "title": "It's No Longer OpenAI vs Anthropic — Both Labs Are Now Under Government Control",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-june-28-2026",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-06-28",
-      "score": 8,
-      "titleCn": "OpenAI 与 Anthropic 的竞争已成过去——两实验室现已受政府管控"
-    },
-    {
-      "title": "Blackstone commits $30 billion to AI data centers in Japan",
-      "url": "https://www.theverge.com/2026/6/28/blackstone-ai-data-centers-japan",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-06-28",
-      "score": 7,
-      "titleCn": "黑石集团向日本 AI 数据中心投入 300 亿美元"
-    },
-    {
-      "title": "AI出海周报：Anthropic被纳入美国出口管制后的全球影响",
-      "url": "https://www.qbitai.com/2026/06/435756.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-28",
-      "score": 7
     }
   ]
 }
