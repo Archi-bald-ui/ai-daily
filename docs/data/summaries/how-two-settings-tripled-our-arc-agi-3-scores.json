@@ -1,0 +1,26 @@
+{
+  "titleCn": "如何通过启用两项设置让 ARC-AGI-3 基准成绩提升三倍",
+  "overview": "本文介绍了 OpenAI 通过开启两项特定设置，使得在 ARC-AGI-3 推理基准上的成绩提升约三倍。内容包括设置的功能、对模型行为的改变以及背后的原理简述，并讨论了该提升对实际应用的潜在影响。",
+  "sections": [
+    {
+      "heading": "启用链式思考提示",
+      "summary": "通过让模型在每一步显式写出推理过程，增强了对抽象关系的捕捉，显著提升 ARC-AGI-3 成绩。"
+    },
+    {
+      "heading": "启用自洽性解码",
+      "summary": "采用多路径采样并投票的策略，使模型在相同问题产生多个答案时选出最一致的，从而降低错误率，提高基准分数。"
+    },
+    {
+      "heading": "效果与启示",
+      "summary": "成绩提升约三倍表明，两项设置协同作用可显著增强模型的抽象推理能力，为更复杂任务的部署提供可行路径。"
+    }
+  ],
+  "id": "how-two-settings-tripled-our-arc-agi-3-scores",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-29",
+  "hasFullText": false,
+  "generatedAt": "2026-07-30T11:30:16.099036+08:00"
+}
