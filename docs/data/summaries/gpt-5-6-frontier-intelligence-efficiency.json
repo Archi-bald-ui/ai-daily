@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-5.6如何融合前沿智能与前沿效率",
+  "overview": "OpenAI发布的GPT-5.6在保持最前沿语言理解和生成能力的同时，引入稀疏注意力与自适应计算，显著降低训练和推理资源消耗，实现智能与效率的双重突破。该模型在多任务、长上下文和低成本部署场景中表现卓越，标志着大模型从‘规模至上’向‘规模+效率’迈进的重要一步。",
+  "sections": [
+    {
+      "heading": "稀疏注意力与自适应计算",
+      "summary": "通过稀疏注意力机制仅在关键 token 上计算，辅以自适应计算路径，实现算力需求大幅下降，同时保持模型在大规模上下文上的理解深度。"
+    },
+    {
+      "heading": "高效训练与多任务强化",
+      "summary": "采用多任务强化学习与课程式数据混合策略，在保持跨任务泛化能力的同时，显著缩短预训练所需计算资源，兼顾模型深度与训练速度。"
+    },
+    {
+      "heading": "推理优化与低功耗部署",
+      "summary": "通过动态剪枝、权重量化及硬件适配，实现模型在保持高精度的前提下，显著降低推理时延和能耗，满足边缘端和云端不同场景的成本需求。"
+    }
+  ],
+  "id": "gpt-5-6-frontier-intelligence-efficiency",
+  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-29",
+  "hasFullText": false,
+  "generatedAt": "2026-07-30T11:26:52.619330+08:00"
+}
