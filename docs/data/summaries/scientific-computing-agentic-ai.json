@@ -1,0 +1,26 @@
+{
+  "titleCn": "在智能体AI时代的科学计算",
+  "overview": "本文探讨了在智能体AI时代，科学计算如何借助自主学习和决策的AI代理，实现实验设计、数据处理与模型优化的全流程自动化，提升科研效率并加速发现新知识；同时分析在算力、模型可解释性以及伦理方面的关键挑战。",
+  "sections": [
+    {
+      "heading": "AI代理驱动的科研自动化",
+      "summary": "利用具备规划与执行能力的AI代理，实现实验方案生成、仪器控制和数据解析的端到端自动化，显著缩短科研周期。"
+    },
+    {
+      "heading": "大规模算力与模型协同",
+      "summary": "将高性能计算资源与大规模语言模型相结合，支持复杂多物理场仿真与实时数据分析，提升计算效率。"
+    },
+    {
+      "heading": "可解释性与伦理挑战",
+      "summary": "AI代理在科研中的决策过程需具备可解释性，并关注数据隐私、模型偏见等伦理风险，制定相应治理框架。"
+    }
+  ],
+  "id": "scientific-computing-agentic-ai",
+  "title": "Scientific computing in the age of agentic AI",
+  "url": "https://openai.com/index/scientific-computing-agentic-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-29",
+  "hasFullText": false,
+  "generatedAt": "2026-07-30T11:46:00.552675+08:00"
+}
