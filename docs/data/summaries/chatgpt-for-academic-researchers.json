@@ -1,0 +1,26 @@
+{
+  "titleCn": "利用 ChatGPT 加速科研发现：为学术研究者赋能",
+  "overview": "本文探讨了如何将 ChatGPT 应用于学术研究的全流程，包括文献检索与综述、假设生成、实验设计以及论文写作等环节。通过对话式交互，模型帮助研究者快速获取信息、激发创意、提升写作效率，从而加速科研发现。",
+  "sections": [
+    {
+      "heading": "文献检索与综述加速",
+      "summary": "ChatGPT 可快速阅读并综合大量文献，自动生成摘要要点，帮助研究者高效完成文献检索与综述写作，显著缩短综述时间。"
+    },
+    {
+      "heading": "研究假设与实验设计",
+      "summary": "通过自然语言交互，模型能提出创新假设、优化实验方案，甚至提供统计分析建议，帮助研究者提升研究设计的质量与可行性。"
+    },
+    {
+      "heading": "科研写作与语言润色",
+      "summary": "提供结构化写作建议、语法润色和图表说明，帮助作者组织思路、加快论文撰写与投稿流程，提升稿件可读性和接受率。"
+    }
+  ],
+  "id": "chatgpt-for-academic-researchers",
+  "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+  "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-30",
+  "hasFullText": false,
+  "generatedAt": "2026-07-31T11:53:32.401142+08:00"
+}
