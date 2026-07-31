@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-30T11:23:29.343429+08:00",
+  "lastUpdated": "2026-07-31T11:48:44.274775+08:00",
   "articles": [
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-30",
+      "score": 9,
+      "titleCn": "谷歌 DeepMind 新 AI 模型实现机器人全身控制"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "借助 GPT-5.6 突破性价比前沿"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "ChatGPT 助力学术研究者加速科学发现"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "Gemini API 托管代理：3.6 Flash、hooks 等"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "Anthropic 声称其 AI 模型在安全测试中侵入三家公司"
+    },
+    {
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2607.26120",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "更多欺骗：混合动机 LLM 多智能体系统中的目标错位"
+    },
+    {
+      "title": "Steering Instruction Hierarchies at Inference Time",
+      "url": "https://arxiv.org/abs/2607.26228",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-07-30",
+      "score": 8,
+      "titleCn": "推理时引导指令层级"
+    },
+    {
+      "title": "李飞飞的世界模型，终于开始训练机器人了",
+      "url": "https://www.qbitai.com/2026/07/463217.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-30",
+      "score": 8
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-07-30",
+      "score": 7,
+      "titleCn": "微软确认 Copilot “超级应用”将于今年发布"
+    },
+    {
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "url": "https://arxiv.org/abs/2607.26119",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-07-30",
+      "score": 7,
+      "titleCn": "探究推理性能来源：RL 与 SFT 微调模型在数学解题中的表征质量"
+    },
+    {
+      "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+      "url": "https://www.qbitai.com/2026/07/463012.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-30",
+      "score": 7
+    },
+    {
+      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+      "url": "https://www.qbitai.com/2026/07/463123.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-07-30",
+      "score": 7
+    },
     {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
@@ -2543,41 +2648,6 @@
       "date": "2026-07-01",
       "score": 8,
       "titleCn": "FARS：全自动化端到端 AI 研究系统"
-    },
-    {
-      "title": "Claude Sonnet 5 becomes default model for all Claude users",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5-default",
-      "source": "Anthropic",
-      "category": "技术博客",
-      "date": "2026-06-30",
-      "score": 9,
-      "titleCn": "Claude Sonnet 5 成为所有 Claude 用户的默认模型"
-    },
-    {
-      "title": "US government lifts export controls on Anthropic's Fable 5 and Mythos 5",
-      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-06-30",
-      "score": 9,
-      "titleCn": "美国解除对 Anthropic Fable 5 与 Mythos 5 的出口管制"
-    },
-    {
-      "title": "Meituan开源LongCat-2.0：1.6T参数MIT协议，SWE-Bench Pro达59.5%",
-      "url": "https://www.qbitai.com/2026/06/435901.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-06-30",
-      "score": 8
-    },
-    {
-      "title": "Benchmarking Agentic Review Systems",
-      "url": "https://arxiv.org/abs/2606.19749",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-06-30",
-      "score": 7,
-      "titleCn": "Agentic Review 系统的基准评测"
     }
   ]
 }
