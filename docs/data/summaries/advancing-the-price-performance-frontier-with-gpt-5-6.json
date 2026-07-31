@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-5.6 突破价格-性能前沿",
+  "overview": "本文介绍OpenAI最新模型GPT-5.6在保持顶尖语言理解与生成能力的同时，通过算法改进和硬件协同，实现了显著的性价比提升。文章概述了新模型的性能基准、成本结构以及为开发者和企业提供的灵活部署方案，帮助用户在更低的投入下获得更高效的服务。",
+  "sections": [
+    {
+      "heading": "性能提升",
+      "summary": "GPT-5.6 在多项语言任务上取得了领先的分数，响应时延大幅降低，生成质量更稳定，尤其在长文本情境下表现更为出色。"
+    },
+    {
+      "heading": "成本优化",
+      "summary": "通过模型压缩和高效推理框架，GPU 计算需求显著下降，单位 token 的使用费用大幅降低，为企业实现更低运营成本提供了可能。"
+    },
+    {
+      "heading": "灵活部署",
+      "summary": "新模型支持云端、边缘和本地多种部署方式，提供按需计费与预留实例两种模式，开发者可依据业务需求自由选择最合适的运行环境。"
+    }
+  ],
+  "id": "advancing-the-price-performance-frontier-with-gpt-5-6",
+  "title": "Advancing the price-performance frontier with GPT-5.6",
+  "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-30",
+  "hasFullText": false,
+  "generatedAt": "2026-07-31T11:50:52.182342+08:00"
+}
