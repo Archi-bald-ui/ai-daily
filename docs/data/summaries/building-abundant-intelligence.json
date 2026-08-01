@@ -1,0 +1,26 @@
+{
+  "titleCn": "构建丰盈智能",
+  "overview": "本文阐述OpenAI在推动人工智能走向‘丰盈’愿景的路径，聚焦模型规模提升、安全对齐、开放协作三大方向，旨在让AI技术惠及更广泛的人群，实现社会价值的最大化与可持续发展。",
+  "sections": [
+    {
+      "heading": "模型规模与能力提升",
+      "summary": "通过更大规模的数据和算力，模型在语言理解、推理与多模态任务上实现显著跃升，为丰盈智能奠定技术基础。"
+    },
+    {
+      "heading": "安全对齐与可控性",
+      "summary": "在模型训练与部署全链路引入对齐技术，提升对恶意使用的防御能力，确保系统在复杂环境下的行为可解释与可控。"
+    },
+    {
+      "heading": "开放生态与协作共享",
+      "summary": "通过开源模型、数据集与工具，降低AI研发门槛，促进跨学科合作，形成可持续的创新生态，实现智能的红利普惠。"
+    }
+  ],
+  "id": "building-abundant-intelligence",
+  "title": "Building abundant intelligence",
+  "url": "https://openai.com/index/building-abundant-intelligence",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-31",
+  "hasFullText": false,
+  "generatedAt": "2026-08-01T11:56:45.498142+08:00"
+}
