@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPU管理：为何闲置GPU是新的停飞飞机",
+  "overview": "本文围绕大规模AI任务中GPU闲置的现象展开，类比停飞的客机来说明资源浪费、成本激增和碳排放上升的危害。作者进一步介绍动态调度、抢占式分配以及多租户共享等管理方案，帮助团队提升GPU利用率、降低运营支出。",
+  "sections": [
+    {
+      "heading": "闲置GPU的成本与影响",
+      "summary": "将闲置GPU比作停飞的飞机，说明资源浪费、算力成本飙升以及碳排放增加的连锁效应，提醒企业不容忽视。"
+    },
+    {
+      "heading": "动态调度与抢占机制",
+      "summary": "通过实时监控GPU使用情况，实现任务抢占与弹性伸缩，减少空转时间，提高整体集群吞吐率并平衡负载。"
+    },
+    {
+      "heading": "多租户共享与监控",
+      "summary": "构建统一的GPU共享平台，实现租户隔离与公平调度，辅以细粒度监控和成本分摊，帮助企业最大化资源利用率。"
+    }
+  ],
+  "id": "gpu-management",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-07-31",
+  "hasFullText": false,
+  "generatedAt": "2026-08-01T11:58:33.384395+08:00"
+}
