@@ -1,0 +1,26 @@
+{
+  "titleCn": "打击犯罪诈骗行动",
+  "overview": "本文报道OpenAI如何利用大语言模型和自动化分析技术，识别并破坏针对公众的犯罪诈骗网络。介绍了技术实现路径、执法部门协作细节，以及在保护用户隐私前提下的风险控制策略。对AI安全应用和打击网络犯罪具有启示意义。",
+  "sections": [
+    {
+      "heading": "AI驱动的诈骗检测技术",
+      "summary": "通过大模型对聊天记录和网站内容进行语义分析，快速定位可疑行为模式，显著提升检测效率。"
+    },
+    {
+      "heading": "跨部门协同与法律合规",
+      "summary": "与执法机构、数据保护组织共享情报，确保技术使用符合隐私法规，并在合法框架内开展行动。"
+    },
+    {
+      "heading": "防范措施与后续监控",
+      "summary": "部署模型后持续监控误报率，结合人工审核和反馈循环，形成动态防御体系，降低诈骗复发风险。"
+    }
+  ],
+  "id": "disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "title": "Disrupting a Criminal Scam Operation",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-07-31",
+  "hasFullText": false,
+  "generatedAt": "2026-08-01T11:57:40.333028+08:00"
+}
