@@ -1,0 +1,26 @@
+{
+  "titleCn": "数学与理论计算机科学的十项进展",
+  "overview": "本文梳理了过去一年数学与理论计算机科学领域的十项重要突破，涵盖算法复杂性、密码学安全、量子计算、机器学习与数学猜想等热点，展示了理论与应用交叉的最新趋势和前景。",
+  "sections": [
+    {
+      "heading": "算法与复杂性新突破",
+      "summary": "包括对P与NP、回路下界以及新型近似算法的进展，揭示计算难度的深层结构，并提供潜在的实际意义。"
+    },
+    {
+      "heading": "密码学与安全性提升",
+      "summary": "探讨后量子密码标准、抗量子攻击的协议设计，以及零知识证明在区块链中的新应用，提升了安全防护能力。"
+    },
+    {
+      "heading": "量子计算与机器学习融合",
+      "summary": "介绍量子机器学习算法的理论突破、量子优势在优化问题中的实验验证，以及对传统数值方法的冲击。"
+    }
+  ],
+  "id": "ten-advances-in-mathematics",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "url": "https://openai.com/index/ten-advances-in-mathematics",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-01",
+  "hasFullText": false,
+  "generatedAt": "2026-08-02T11:48:37.537513+08:00"
+}
