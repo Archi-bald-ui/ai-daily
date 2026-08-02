@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-08-01T11:47:43.537341+08:00",
+  "lastUpdated": "2026-08-02T11:46:36.046812+08:00",
   "articles": [
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-01",
+      "score": 8,
+      "titleCn": "NVIDIA Cosmos‑H‑Dreams：将实时生成式仿真带入手术机器人"
+    },
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-01",
+      "score": 8,
+      "titleCn": "Mythos 攻击导致第三轮 PQC 算法候选者退出使用"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-01",
+      "score": 7,
+      "titleCn": "数学与理论计算机科学的十项进展"
+    },
+    {
+      "title": "Google Earth’s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-01",
+      "score": 7,
+      "titleCn": "Google Earth AI 深度伪造工具仅存活一天"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-01",
+      "score": 7,
+      "titleCn": "法官驳回 xAI 阻止明尼苏达州对‘nudify’应用禁令的请求"
+    },
+    {
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-01",
+      "score": 7
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-01",
+      "score": 6,
+      "titleCn": "avatarin 用 GPT‑Realtime 构建 24/7 零售代理"
+    },
+    {
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "url": "https://www.qbitai.com/2026/08/464781.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-01",
+      "score": 6
+    },
+    {
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "url": "https://www.qbitai.com/2026/08/464713.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-01",
+      "score": 6
+    },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
@@ -2641,73 +2719,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-07-03",
-      "score": 7
-    },
-    {
-      "title": "Claude Sonnet 5 发布：最强 Agentic Sonnet 模型",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic",
-      "category": "技术博客",
-      "date": "2026-07-02",
-      "score": 10
-    },
-    {
-      "title": "dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion VLA Models",
-      "url": "https://arxiv.org/abs/2606.19832",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-02",
-      "score": 9,
-      "titleCn": "dVLA-RL：针对离散扩散 VLA 模型的去噪轨迹强化学习"
-    },
-    {
-      "title": "Nano Banana 2 Lite and Gemini Omni Flash launched by Google DeepMind",
-      "url": "https://blog.google/technology/ai/nano-banana-2-lite/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-02",
-      "score": 8,
-      "titleCn": "Google DeepMind 推出 Nano Banana 2 Lite 与 Gemini Omni Flash"
-    },
-    {
-      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-      "url": "https://www.theverge.com/2026/7/2/ai-enterprise-cost-control",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-02",
-      "score": 8
-    },
-    {
-      "title": "Claude Code负责人承认留有后门，明日回滚",
-      "url": "https://www.jiqizhixin.com/articles/2026-07-02-claude-code",
-      "source": "机器之心",
-      "category": "中文资讯",
-      "date": "2026-07-02",
-      "score": 8
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-02",
-      "score": 8,
-      "titleCn": "微软投入25亿美元推出自家人工智能部署公司"
-    },
-    {
-      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-      "url": "https://techcrunch.com/2026/07/02/fable-5-rli-benchmark/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-02",
-      "score": 7
-    },
-    {
-      "title": "大模型成本失控：企业AI月账单翻三倍背后的真相",
-      "url": "https://www.qbitai.com/2026/07/436102.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-02",
       "score": 7
     }
   ]
