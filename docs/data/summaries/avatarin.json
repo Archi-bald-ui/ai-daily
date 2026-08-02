@@ -1,0 +1,26 @@
+{
+  "titleCn": "avatarin 如何利用 GPT‑Realtime 构建全天候零售客服代理",
+  "overview": "本文介绍 avatarin 如何利用 OpenAI 的 GPT‑Realtime 技术，为零售业务构建全天候的智能客服代理，实现自动回复、库存查询、个性化推荐等功能，帮助商家提升用户满意度与销售转化。",
+  "sections": [
+    {
+      "heading": "技术选型与实时对话",
+      "summary": "avatarin 通过接入 GPT‑Realtime，实现低延迟、高并发的实时对话能力，支持多轮交互和情感识别。"
+    },
+    {
+      "heading": "全天候客服功能实现",
+      "summary": "7x24 小时在线机器人可自动完成商品查询、库存提醒、订单状态等常见任务，降低人工客服压力。"
+    },
+    {
+      "heading": "业务价值提升",
+      "summary": "通过精准的用户画像分析和实时推荐引擎，显著提升购物体验和转化率，帮助零售商实现业务增长。"
+    }
+  ],
+  "id": "avatarin",
+  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "url": "https://openai.com/index/avatarin",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-01",
+  "hasFullText": false,
+  "generatedAt": "2026-08-02T11:49:16.380487+08:00"
+}
