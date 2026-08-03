@@ -1,0 +1,26 @@
+{
+  "titleCn": "Univé 打造 AI 就绪型员工队伍",
+  "overview": "本文介绍了荷兰保险公司 Univé 如何借助 OpenAI 的技术平台，系统提升员工在 AI 领域的技能与认知，涵盖培训计划、实际业务场景落地以及文化转型等关键环节，展示企业为适应 AI 驱动的未来而进行的人才储备与组织变革。",
+  "sections": [
+    {
+      "heading": "AI 培训体系搭建",
+      "summary": "Univé 与 OpenAI 合作，设计系统化课程，让员工快速掌握 AI 基础、模型使用及伦理规范，帮助团队在实际工作中安全合规地运用生成式 AI。"
+    },
+    {
+      "heading": "业务场景落地",
+      "summary": "在实际保险理赔、客户服务等环节引入 AI 助手，提升处理效率并收集用户反馈持续优化模型，确保输出质量符合监管要求。"
+    },
+    {
+      "heading": "组织文化转型",
+      "summary": "通过内部社群、案例分享和激励机制，培育数据驱动思维，形成全员支持 AI 应用的氛围，并鼓励跨部门协作以实现创新落地。"
+    }
+  ],
+  "id": "unive",
+  "title": "Univé builds an AI-ready workforce",
+  "url": "https://openai.com/index/unive",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-02",
+  "hasFullText": false,
+  "generatedAt": "2026-08-03T11:52:43.786242+08:00"
+}
