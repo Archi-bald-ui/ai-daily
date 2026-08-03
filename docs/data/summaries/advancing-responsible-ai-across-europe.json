@@ -1,0 +1,26 @@
+{
+  "titleCn": "在欧洲推进负责任的人工智能",
+  "overview": "本文概述OpenAI在欧洲推动负责任AI的最新举措，包括与欧盟机构合作、参与政策制定、推广AI伦理框架以及提升模型透明度和安全性的技术研发，旨在帮助欧洲在AI发展中实现安全、可信的治理路径。",
+  "sections": [
+    {
+      "heading": "欧盟合作与监管对话",
+      "summary": "OpenAI积极与欧盟委员会及成员国监管部门沟通，响应欧盟AI法案的合规要求，推动行业标准制定。"
+    },
+    {
+      "heading": "伦理框架与技术安全",
+      "summary": "介绍OpenAI在欧洲部署的伦理审查流程和数据安全措施，确保模型输出符合当地价值观与社会规范。"
+    },
+    {
+      "heading": "本地化创新与人才培养",
+      "summary": "通过与欧洲高校和创新中心合作，OpenAI支持本地AI研发人才培养，促进负责任AI技术的本地化应用。"
+    }
+  ],
+  "id": "advancing-responsible-ai-across-europe",
+  "title": "Advancing responsible AI across Europe",
+  "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-02",
+  "hasFullText": false,
+  "generatedAt": "2026-08-03T11:51:38.715051+08:00"
+}
