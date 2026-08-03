@@ -1,6 +1,59 @@
 {
-  "lastUpdated": "2026-08-02T11:46:36.046812+08:00",
+  "lastUpdated": "2026-08-03T11:49:34.925728+08:00",
   "articles": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-02",
+      "score": 7,
+      "titleCn": "推动欧洲负责任AI发展"
+    },
+    {
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-02",
+      "score": 7,
+      "titleCn": "将AI图像生成器嵌入Google Earth的隐患"
+    },
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-02",
+      "score": 7,
+      "titleCn": "我们现在更清楚OpenAI如何入侵Hugging Face"
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-02",
+      "score": 7,
+      "titleCn": "微软发布AI安全工具，声称超越竞争平台"
+    },
+    {
+      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+      "url": "https://www.qbitai.com/2026/08/464835.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-02",
+      "score": 7
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-02",
+      "score": 6,
+      "titleCn": "Univé打造面向AI的劳动力"
+    },
     {
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -2608,118 +2661,6 @@
       "date": "2026-07-04",
       "score": 7,
       "titleCn": "Anthropic 长期搁置的 Fable 5 获批回归"
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "Anthropic 正与三星洽谈定制芯片"
-    },
-    {
-      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-      "url": "https://arxiv.org/abs/2607.01306",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "PACE：可信且可操作的反事实解释神经符号框架"
-    },
-    {
-      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-      "url": "https://arxiv.org/abs/2607.01366",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "Auto-FL-Research：联邦学习算法的自主搜索"
-    },
-    {
-      "title": "Anthropic wants to develop its own drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "Anthropic 计划自研药物"
-    },
-    {
-      "title": "The Wiola Architecture for Efficient Small Language Models",
-      "url": "https://arxiv.org/abs/2607.01394",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "Wiola：高效小语言模型架构"
-    },
-    {
-      "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
-      "url": "https://arxiv.org/abs/2607.01236",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "通过溯源分析防止 LLM 代理误对齐"
-    },
-    {
-      "title": "Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment",
-      "url": "https://arxiv.org/abs/2607.01239",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-03",
-      "score": 8,
-      "titleCn": "BPE 分词在 token 边界制造 LLM 对齐安全漏洞"
-    },
-    {
-      "title": "Google AI June 2026 Pixel Drop: New Features",
-      "url": "https://blog.google/products/pixel/pixel-drop-june-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-03",
-      "score": 7,
-      "titleCn": "Google AI 2026 年 6 月 Pixel 推送：新功能"
-    },
-    {
-      "title": "量子位2026中国AIGC年中盘点：Agent成最大赢家",
-      "url": "https://www.qbitai.com/2026/07/436201.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-03",
-      "score": 7
-    },
-    {
-      "title": "英伟达开源机器人技能库 RoboSkill",
-      "url": "https://www.qbitai.com/2026/07/436189.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-03",
-      "score": 7
-    },
-    {
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "url": "https://www.qbitai.com/2026/07/442746.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-03",
-      "score": 7
-    },
-    {
-      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
-      "url": "https://www.qbitai.com/2026/07/442452.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-03",
-      "score": 7
-    },
-    {
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "url": "https://www.qbitai.com/2026/07/442311.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-03",
-      "score": 7
     }
   ]
 }
