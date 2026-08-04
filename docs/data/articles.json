@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-08-03T11:49:34.925728+08:00",
+  "lastUpdated": "2026-08-04T11:33:26.746430+08:00",
   "articles": [
+    {
+      "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
+      "url": "https://www.qbitai.com/2026/08/465226.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-03",
+      "score": 9
+    },
+    {
+      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+      "url": "https://www.qbitai.com/2026/08/465215.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-03",
+      "score": 9
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-03",
+      "score": 8,
+      "titleCn": "阿里巴巴再次挑战美国AI霸主地位"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-03",
+      "score": 8,
+      "titleCn": "Apple终于修复Siri，却为何仍显平淡？"
+    },
+    {
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-03",
+      "score": 8,
+      "titleCn": "OpenClaw与Ollama共促代理式AI：迈向全自主、可扩展的AI代理系统"
+    },
+    {
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-03",
+      "score": 8,
+      "titleCn": "LLM框架助力发现重大数学猜想：AI追寻下一个黎曼假设"
+    },
+    {
+      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+      "url": "https://www.qbitai.com/2026/08/465732.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-03",
+      "score": 8
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-03",
+      "score": 7,
+      "titleCn": "如何在六个月内构建实时响应语音AI系统"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-03",
+      "score": 7,
+      "titleCn": "欧盟AI标签与透明度规则正式生效"
+    },
+    {
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-03",
+      "score": 7,
+      "titleCn": "AI能否评估AI科学家？基于自动多模型评审的自主研究生成系统基准研究"
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-03",
+      "score": 6,
+      "titleCn": "Circles利用OpenAI技术提升电信个性化"
+    },
     {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -2599,68 +2695,6 @@
       "date": "2026-07-05",
       "score": 6,
       "titleCn": "亚马逊将停止接受 Mechanical Turk 的新客户"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-04",
-      "score": 8,
-      "titleCn": "预览 GPT-5.6 Sol：下一代模型"
-    },
-    {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-04",
-      "score": 8,
-      "titleCn": "代理如何改变工作"
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-04",
-      "score": 8,
-      "titleCn": "新研究表明，我们的医疗 AI AMIE 可帮助管理健康状况"
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-04",
-      "score": 8,
-      "titleCn": "Meta 悄然推出 vibe-coded 游戏应用 Pocket"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-07-04",
-      "score": 8,
-      "titleCn": "新攻击再添理由：AI 浏览器不可取"
-    },
-    {
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-04",
-      "score": 8
-    },
-    {
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-04",
-      "score": 7,
-      "titleCn": "Anthropic 长期搁置的 Fable 5 获批回归"
     }
   ]
 }
