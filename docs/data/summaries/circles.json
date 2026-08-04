@@ -1,0 +1,26 @@
+{
+  "titleCn": "Circles 借助 OpenAI 技术赋能电信个性化服务",
+  "overview": "本文介绍 Circles 如何结合 OpenAI 的生成式 AI 技术，为电信运营商提供深度个性化的服务解决方案。通过对用户行为、偏好的实时分析，平台能够自动生成精准的营销内容、推荐套餐和客服对话，显著提升用户体验和业务转化。",
+  "sections": [
+    {
+      "heading": "技术融合方式",
+      "summary": "Circles 将 OpenAI 大模型嵌入其电信平台，实现对用户数据的实时语义理解与内容自动生成。"
+    },
+    {
+      "heading": "个性化营销场景",
+      "summary": "平台可自动生成针对不同用户群体的套餐推荐、营销文案及智能客服，实现精准触达和高效转化。"
+    },
+    {
+      "heading": "业务价值与前景",
+      "summary": "通过 AI 驱动的个性化，运营商可提升用户黏性、增加收入，并快速复制到新市场，形成差异化竞争优势。"
+    }
+  ],
+  "id": "circles",
+  "title": "Circles powers telco personalization with OpenAI technology",
+  "url": "https://openai.com/index/circles",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-03",
+  "hasFullText": false,
+  "generatedAt": "2026-08-04T11:48:07.043318+08:00"
+}
