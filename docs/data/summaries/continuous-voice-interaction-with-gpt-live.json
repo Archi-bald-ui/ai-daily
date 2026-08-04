@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们如何在六个月内构建一个响应式语音AI的实时系统",
+  "overview": "本文介绍了在六个月时间内，团队如何从零搭建面向语音交互的实时AI系统。围绕低延迟语音采集、流式识别、模型加速和高并发调度等关键环节，分享了架构选型、性能优化以及上线后监控调优的实践经验，为同类实时语音项目提供了可借鉴的技术路径。",
+  "sections": [
+    {
+      "heading": "实时语音流水线设计",
+      "summary": "采用流式输入、分片缓冲与多级调度，实现从麦克风到识别结果的毫秒级闭环，满足交互实时性需求。"
+    },
+    {
+      "heading": "模型推理延迟优化",
+      "summary": "通过模型裁剪、量化压缩和GPU异构调度，将端到端延迟降低至数十毫秒，兼顾精度与响应速度。"
+    },
+    {
+      "heading": "高并发调度与监控",
+      "summary": "构建弹性伸缩的服务网格，实现万级并发语音会话的负载均衡和故障自愈，并通过实时指标监控保障系统稳定性。"
+    }
+  ],
+  "id": "continuous-voice-interaction-with-gpt-live",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-03",
+  "hasFullText": false,
+  "generatedAt": "2026-08-04T11:45:37.022625+08:00"
+}
