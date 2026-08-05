@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 ChatGPT Work 与 Codex 学习与教学的新方式",
+  "overview": "OpenAI 在最新的博客中介绍了结合 ChatGPT Work 与 Codex 的教学新模式，包括智能作业生成、实时编程辅导以及安全合规的教学环境，帮助教师减轻负担、提升学生动手实践能力。",
+  "sections": [
+    {
+      "heading": "智能作业与评估",
+      "summary": "利用 ChatGPT Work 生成个性化作业，并可自动批改、给出反馈，帮助教师快速评估学习效果。"
+    },
+    {
+      "heading": "实时编程辅导",
+      "summary": "结合 Codex 的代码生成和调试功能，为学生提供即时的编程练习、错误提示和优化建议。"
+    },
+    {
+      "heading": "安全与隐私保障",
+      "summary": "平台内置内容过滤与隐私控制，确保教学环境符合教育合规要求，老师和学生数据得到妥善保护。"
+    }
+  ],
+  "id": "learn-teach-chatgpt-work-codex",
+  "title": "New ways to learn and teach with ChatGPT Work and Codex",
+  "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-04",
+  "hasFullText": false,
+  "generatedAt": "2026-08-05T11:50:29.831855+08:00"
+}
