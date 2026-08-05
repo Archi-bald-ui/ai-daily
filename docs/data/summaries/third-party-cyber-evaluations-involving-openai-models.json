@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 模型的第三方网络安全评估",
+  "overview": "OpenAI 宣布启动第三方网络安全评估项目，邀请外部安全研究机构对其语言模型进行独立测评，旨在验证模型在网络防御、漏洞检测和恶意行为防范等方面的安全性与可控性。评估采用红队对抗、场景化任务和自动化基准相结合的方式，并已公布初步发现和后续改进计划。",
+  "sections": [
+    {
+      "heading": "评估目标与范围",
+      "summary": "说明第三方机构将围绕模型的网络防御、漏洞检测和恶意行为防范等关键安全维度进行独立测评。"
+    },
+    {
+      "heading": "评估方法与流程",
+      "summary": "采用红队对抗、场景化任务和自动化基准相结合的方式，对模型进行多层次安全评估并公开结果。"
+    },
+    {
+      "heading": "初步发现与改进计划",
+      "summary": "初步结果显示模型在常规防御任务中表现良好，但在复杂攻击模拟下仍有提升空间，后续将加强安全微调与防护机制。"
+    }
+  ],
+  "id": "third-party-cyber-evaluations-involving-openai-models",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-04",
+  "hasFullText": false,
+  "generatedAt": "2026-08-05T11:37:31.170755+08:00"
+}
