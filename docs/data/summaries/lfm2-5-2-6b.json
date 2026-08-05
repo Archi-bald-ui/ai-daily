@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 LFM2.5-2.6B 在任意位置部署本地智能体",
+  "overview": "本文介绍如何在各类硬件上快速部署本地 AI 代理，利用 LFM2.5‑2.6B 的轻量化特性，实现边缘设备的高效推理。重点展示从模型加载到服务启动的完整流程，并提供 Docker、Kubernetes 等常见部署方式的示例，帮助开发者实现‘随时随地’的本机智能体运行。",
+  "sections": [
+    {
+      "heading": "轻量化模型特性",
+      "summary": "LFM2.5‑2.6B 参数规模控制在十亿以下，内存占用仅几百 MB，支持 CPU/GPU 实时推理。"
+    },
+    {
+      "heading": "快速部署流程",
+      "summary": "提供 Docker 镜像和 Helm Chart，一键在本地、K8s 或树莓派上启动 Agent 服务，几分钟即可完成。"
+    },
+    {
+      "heading": "典型应用场景",
+      "summary": "适用于离线客服、工业物联网、嵌入式设备等需要本地隐私和低延迟的场景，支持离线运行与实时响应。"
+    }
+  ],
+  "id": "lfm2-5-2-6b",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-04",
+  "hasFullText": false,
+  "generatedAt": "2026-08-05T11:31:25.878357+08:00"
+}
