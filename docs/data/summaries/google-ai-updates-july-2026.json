@@ -1,0 +1,26 @@
+{
+  "titleCn": "2026年7月我们宣布的最新AI新闻",
+  "overview": "本文汇总了 Google AI 在 2026 年 7 月发布的多个重要进展，包括新一代语言模型、升级的多模态生成平台以及企业级 AI 云服务的增强功能，并强调了负责任 AI 的最新治理措施。",
+  "sections": [
+    {
+      "heading": "全新语言模型",
+      "summary": "发布更大规模、更高推理效率的语言模型，提升文本生成和对话理解能力，在多语言和垂直领域场景下显著提升性能。"
+    },
+    {
+      "heading": "多模态生成平台升级",
+      "summary": "增强图像、视频和文本的联合生成，实现跨模态创意协作，提供更快的渲染管线以及多模态交互式工具。"
+    },
+    {
+      "heading": "企业级AI云服务增强",
+      "summary": "新增安全合规套件与自动化部署工具，帮助企业快速落地AI应用，并提供多层次的监控和审计功能，确保模型运行符合行业规范。"
+    }
+  ],
+  "id": "google-ai-updates-july-2026",
+  "title": "The latest AI news we announced in July 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-05",
+  "hasFullText": false,
+  "generatedAt": "2026-08-06T11:44:13.243214+08:00"
+}
