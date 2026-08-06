@@ -1,0 +1,26 @@
+{
+  "titleCn": "Apple正在犯这个错误",
+  "overview": "本文由OpenAI发布，批评苹果在人工智能战略上的决策。作者指出苹果在模型部署、隐私政策与开放生态之间失衡，导致创新能力受限，且可能在AI竞争中落后。内容涉及对苹果在设备端AI、第三方合作及数据安全做法的质疑。",
+  "sections": [
+    {
+      "heading": "封闭生态限制AI创新",
+      "summary": "作者指出苹果倾向于在自家硬件上运行AI模型，却缺乏开放的合作生态，限制了模型规模与功能的快速迭代。"
+    },
+    {
+      "heading": "隐私与安全对齐冲突",
+      "summary": "文章认为，苹果坚持在本地处理数据以保护隐私，却在模型安全对齐和滥用防护上投入不足，可能导致潜在风险。"
+    },
+    {
+      "heading": "竞争劣势风险",
+      "summary": "作者警告，若继续坚持封闭和保守的AI路线，苹果在生成式模型、云服务集成等关键领域可能逐渐被竞争对手甩开。"
+    }
+  ],
+  "id": "apple-is-getting-this-wrong",
+  "title": "Apple is getting this wrong",
+  "url": "https://openai.com/index/apple-is-getting-this-wrong",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-05",
+  "hasFullText": false,
+  "generatedAt": "2026-08-06T11:43:01.089269+08:00"
+}
