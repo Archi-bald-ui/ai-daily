@@ -1,0 +1,38 @@
+{
+  "titleCn": "FinProBench：基于专业交付物的角色化评估标准评估金融AI智能体",
+  "overview": "针对金融领域AI智能体的评估缺乏统一、标准化的基准，本文提出FinProBench，利用专业交付物（如报告、分析模板）构建角色化评估标准，从任务完成度、专业性、合规性等多维度对AI智能体进行量化评估。实验表明FinProBench能够揭示不同模型在真实金融场景中的优势与不足，为模型选择和迭代提供可靠依据。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本文首先阐明金融AI智能体在实际业务中的广泛应用及当前评估体系的不足，说明构建FinProBench的动机与目标，概述所提出的角色化评估标准及整体框架。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "本节回顾AI评估基准、金融领域专用评估方法以及角色化评估的研究进展，分析其在专业交付物覆盖度和角色情境化方面的不足，为FinProBench的设计提供理论依据。"
+    },
+    {
+      "heading": "方法：角色化评估标准的构建",
+      "summary": "该章节详述如何收集金融领域的真实专业交付物，抽取其中的角色标签、任务目标与评估维度，构建多层次Rubrics，并说明评分流程、权重分配及对AI输出的自动化与人工校验机制。"
+    },
+    {
+      "heading": "实验设计与数据集",
+      "summary": "本节介绍实验所采用的金融AI模型（如通用LLM、金融专用模型）以及FinProBench的测试数据集，阐述任务划分、评估流程、对比基准与分析指标，确保实验可复现性与公平性。"
+    },
+    {
+      "heading": "结果与分析",
+      "summary": "实验结果显示，FinProBench在任务完成度、专业性、合规性等维度上对不同模型进行有效区分，揭示了通用模型在金融专业术语和法规遵循方面的短板，而专用模型在部分复杂推理任务上仍显不足。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "本文总结FinProBench的创新点，即基于真实专业交付物的角色化评估框架，指出其在金融AI智能体评估中的实用价值，并提出后续将扩展任务类型、完善Rubrics并探索跨语言金融场景的应用。"
+    }
+  ],
+  "id": "2608.04077",
+  "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+  "url": "https://arxiv.org/abs/2608.04077",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-08-06",
+  "hasFullText": false,
+  "generatedAt": "2026-08-07T13:55:02.785497+08:00"
+}
