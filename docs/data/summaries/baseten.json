@@ -1,0 +1,26 @@
+{
+  "titleCn": "Baseten 在 Hugging Face 推理提供者 🔥",
+  "overview": "Baseten 与 Hugging Face 合作推出 Inference Providers，允许开发者直接在 Hub 中使用 Baseten 的无服务器推理后端，实现模型的高速部署、自动扩缩容和监控。本文概述集成流程、优势以及使用示例，帮助快速上手。",
+  "sections": [
+    {
+      "heading": "一键部署 Hugging Face 模型",
+      "summary": "通过 Baseten 提供的托管推理端点，用户可以在 Hugging Face Hub 直接选取模型并一键部署，省去自行搭建服务器的繁琐。"
+    },
+    {
+      "heading": "弹性扩缩与低延迟推理",
+      "summary": "Baseten 的无服务器架构根据请求量自动扩容，配合全球边缘节点，实现毫秒级响应，适合生产级 AI 应用。"
+    },
+    {
+      "heading": "简易 API 与监控运维",
+      "summary": "提供统一的 RESTful 接口、SDK 支持以及实时日志和指标监控，帮助开发者快速调试并保障服务可用性。"
+    }
+  ],
+  "id": "baseten",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "url": "https://huggingface.co/blog/baseten",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-06",
+  "hasFullText": false,
+  "generatedAt": "2026-08-07T11:42:40.920132+08:00"
+}
