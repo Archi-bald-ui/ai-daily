@@ -1,0 +1,26 @@
+{
+  "titleCn": "从提问到行动：世界如何将 ChatGPT 投入使用",
+  "overview": "本文聚焦 ChatGPT 从问答向实际任务的转变，综述各行业如何将模型嵌入业务流程，提升内容生成、代码开发、客服自动化等效率。OpenAI 通过案例展示模型的可靠性和可扩展性，展望人机协作的新模式。",
+  "sections": [
+    {
+      "heading": "业务流程自动化",
+      "summary": "企业将 ChatGPT 接入客服、文档生成、数据摘要等环节，实现24/7无人值守服务，显著降低人力成本并提升响应速度。"
+    },
+    {
+      "heading": "代码开发加速",
+      "summary": "开发者利用 ChatGPT 进行代码补全、错误诊断与重构建议，实现从想法到可运行程序的高效转化，提升编程生产力。"
+    },
+    {
+      "heading": "内容创作与教育",
+      "summary": "教育平台和媒体借助 ChatGPT 生成教学案例、个性化辅导与营销文案，扩展创意边界，提升用户参与度和学习效果。"
+    }
+  ],
+  "id": "how-the-world-is-putting-chatgpt-to-work",
+  "title": "From asking to doing: How the world is putting ChatGPT to work",
+  "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-06",
+  "hasFullText": false,
+  "generatedAt": "2026-08-07T11:43:46.547670+08:00"
+}
