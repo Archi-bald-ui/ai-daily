@@ -1,0 +1,26 @@
+{
+  "titleCn": "在ChatGPT中改进GPT‑5.6 Sol——并向免费用户扩展GPT‑5.6 Luna的访问",
+  "overview": "OpenAI 宣布在 ChatGPT 中提升 GPT‑5.6 Sol 的响应速度和理解力，并首次向免费用户开放更强大的 GPT‑5.6 Luna 模型，以便更多用户体验最新生成式 AI 的能力。",
+  "sections": [
+    {
+      "heading": "GPT‑5.6 Sol 性能提升",
+      "summary": "通过优化推理链和上下文管理，Sol 在回答准确性和响应时延上均有显著提升，尤其在复杂对话情境下表现更稳定。"
+    },
+    {
+      "heading": "免费用户可使用 GPT‑5.6 Luna",
+      "summary": "OpenAI 将更强大的 Luna 模型向所有免费用户开放，提供每日一定的调用额度，让更多人体验前沿生成能力。"
+    },
+    {
+      "heading": "ChatGPT 平台整体安全与易用性升级",
+      "summary": "平台同步推出新版安全过滤机制与更友好的交互界面，降低误导信息风险，提升整体使用体验。"
+    }
+  ],
+  "id": "improving-gpt-5-6-sol-in-chatgpt",
+  "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-06",
+  "hasFullText": false,
+  "generatedAt": "2026-08-07T11:19:46.072906+08:00"
+}
