@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-08-07T11:15:41.271125+08:00",
+  "lastUpdated": "2026-08-08T10:14:12.697472+08:00",
   "articles": [
+    {
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-07",
+      "score": 9
+    },
+    {
+      "title": "Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.05152",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-07",
+      "score": 8,
+      "titleCn": "大语言模型思维链推理的平均场动力学"
+    },
+    {
+      "title": "Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs",
+      "url": "https://arxiv.org/abs/2608.05156",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-07",
+      "score": 8,
+      "titleCn": "基于脚手架的后训练：模型参数与过程脚手架图的协同演化"
+    },
+    {
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-07",
+      "score": 8
+    },
+    {
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-07",
+      "score": 8
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-07",
+      "score": 7,
+      "titleCn": "应对关键网络能力的新前沿"
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-07",
+      "score": 7,
+      "titleCn": "OpenAI 因新模型被指过于强大而暂停发布"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-07",
+      "score": 7,
+      "titleCn": "OpenAI 因安全顾虑放缓 Astra 模型开发"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-07",
+      "score": 7,
+      "titleCn": "Cloudflare 推出面向 AI 代理的 Kitesurf 浏览器"
+    },
+    {
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "url": "https://arxiv.org/abs/2608.05160",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-07",
+      "score": 7,
+      "titleCn": "点燃指数：语言模型全局工作空间动态测量"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-07",
+      "score": 6,
+      "titleCn": "TutorMoments：AI 导师何时该出手、何时该克制？"
+    },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -2595,87 +2691,6 @@
       "category": "中文资讯",
       "date": "2026-07-10",
       "score": 7
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "正式推出 GPT-Live"
-    },
-    {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "面向智能体的数据"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "原生速度的 vLLM Transformer 建模后端"
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "SpaceXAI 发布 Grok 4.5，Elon 称其为‘Opus 级模型’"
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "OpenAI 发布全新语音模型，提升实时对话自然度"
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "黑客利用九大流行 AI 工具构建巨型僵尸网络"
-    },
-    {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "url": "https://arxiv.org/abs/2607.06624",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "AgentLens：面向代码智能体评估的生产级轨迹审查"
-    },
-    {
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "url": "https://arxiv.org/abs/2607.06720",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-08",
-      "score": 8,
-      "titleCn": "上下文搜索何时有帮助？采样复杂度视角的反射驱动推理"
-    },
-    {
-      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-      "url": "https://arxiv.org/abs/2607.06764",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-08",
-      "score": 7,
-      "titleCn": "高性价比 Agent 框架实现 ARC-AGI-1 上的抽象推理与泛化"
     }
   ]
 }
