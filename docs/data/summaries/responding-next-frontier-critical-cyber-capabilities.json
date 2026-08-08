@@ -1,0 +1,26 @@
+{
+  "titleCn": "应对关键网络能力的新前沿",
+  "overview": "本文探讨随着AI技术快速发展，网络安全面临的新挑战与机遇。OpenAI阐述了在关键基础设施、AI模型防御及跨行业合作方面的最新研究，提出构建可信、鲁棒的网络防线的原则与实践，旨在提升对未来高危网络能力的响应能力。",
+  "sections": [
+    {
+      "heading": "AI驱动的网络安全新趋势",
+      "summary": "文章指出AI在漏洞挖掘、威胁检测和自动化防御中的角色，正重塑关键网络防护格局趋势。"
+    },
+    {
+      "heading": "关键基础设施的网络威胁升级",
+      "summary": "报告警示针对能源、交通等关键行业的攻击手段正利用AI提升渗透率，呼吁加强跨部门协同防御。"
+    },
+    {
+      "heading": "OpenAI的安全研究与合作路径",
+      "summary": "文章介绍OpenAI在模型安全、红色团队以及开源防御工具方面的最新进展，并提出行业共建安全标准的建议。"
+    }
+  ],
+  "id": "responding-next-frontier-critical-cyber-capabilities",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-07",
+  "hasFullText": false,
+  "generatedAt": "2026-08-08T10:18:57.923499+08:00"
+}
