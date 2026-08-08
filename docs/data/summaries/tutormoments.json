@@ -1,0 +1,26 @@
+{
+  "titleCn": "TutorMoments：AI导师何时该帮助，何时该保持沉默？",
+  "overview": "本文围绕AI导师在辅导过程中的干预时机展开，探讨系统如何判断何时提供帮助、何时保持沉默，以避免过度干预或错失关键学习机会。通过构建干预决策模型并在真实学习场景中进行实验，评估了对学习效果、动机和自主性的影响，为构建更智能、更人性化的AI教学系统提供实证依据。",
+  "sections": [
+    {
+      "heading": "干预时机的重要性",
+      "summary": "适时帮助能提升学习效率，过早或过晚干预均可能导致认知负荷失衡，影响学生自我调节能力。"
+    },
+    {
+      "heading": "决策模型与技术实现",
+      "summary": "研究引入基于学习状态的预测模型，结合情境感知与强化学习，使AI能动态决定是否介入并提供提示或反馈。"
+    },
+    {
+      "heading": "实验结果与教学启示",
+      "summary": "实验表明，合理控制干预频率可显著提高学习成果，同时保持学生的主动性，为AI教学设计提供实践指南。"
+    }
+  ],
+  "id": "tutormoments",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "url": "https://huggingface.co/blog/allenai/tutormoments",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-07",
+  "hasFullText": false,
+  "generatedAt": "2026-08-08T10:27:09.896433+08:00"
+}
