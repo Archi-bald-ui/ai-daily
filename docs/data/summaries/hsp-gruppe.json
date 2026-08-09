@@ -1,0 +1,26 @@
+{
+  "titleCn": "HSP GRUPPE 如何构建税务咨询的 AI 能力",
+  "overview": "文章介绍德国咨询公司HSP GRUPPE如何利用OpenAI技术，在税务咨询业务中部署AI，包括模型选型、流程再造、合规保障以及内部人才培养等关键环节，展示了AI提升服务效率与精准度的实际路径。",
+  "sections": [
+    {
+      "heading": "AI模型选择与定制",
+      "summary": "基于OpenAI大模型，HSP GRUPPE在税务语料上进行微调，兼顾数据安全与合规，实现专业化、智能化的税收分析。"
+    },
+    {
+      "heading": "业务流程智能化改造",
+      "summary": "通过AI驱动的文档抽取、案例匹配与报告生成，税务审查周期大幅压缩，客户交互更即时、透明。"
+    },
+    {
+      "heading": "人才培养与组织文化",
+      "summary": "建立跨部门AI学习小组，定期培训税务与机器学习复合技能，鼓励创新思维，打造以数据为中心的咨询文化。"
+    }
+  ],
+  "id": "hsp-gruppe",
+  "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+  "url": "https://openai.com/index/hsp-gruppe",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-08",
+  "hasFullText": false,
+  "generatedAt": "2026-08-09T10:27:22.399948+08:00"
+}
