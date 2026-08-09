@@ -1,0 +1,26 @@
+{
+  "titleCn": "与美国心理学会合作推进青少年心理健康与AI",
+  "overview": "OpenAI与美国心理学会（APA）宣布合作，旨在利用人工智能技术支持青少年心理健康。合作将聚焦AI辅助的心理评估、干预工具的开发，以及伦理安全框架的制定，探索如何在保护隐私的前提下提升心理健康服务的可及性。",
+  "sections": [
+    {
+      "heading": "合作目标与动因",
+      "summary": "OpenAI与APA共同制定AI在青少年心理评估与干预中的使用准则，旨在提升服务可及性与安全性。"
+    },
+    {
+      "heading": "AI心理支持工具的研发",
+      "summary": "双方将开发AI聊天机器人和情绪分析模型，帮助识别青少年压力与抑郁迹象，并提供及时干预建议。"
+    },
+    {
+      "heading": "伦理安全与监管框架",
+      "summary": "合作重点包括数据隐私保护、算法公平性审查以及制定行业标准，确保AI技术在使用过程中的透明度和安全性。"
+    }
+  ],
+  "id": "openai-and-apa-partner-to-advance-responsible-ai",
+  "title": "Working with the American Psychological Association on youth mental health and AI",
+  "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-08",
+  "hasFullText": false,
+  "generatedAt": "2026-08-09T10:25:56.799674+08:00"
+}
