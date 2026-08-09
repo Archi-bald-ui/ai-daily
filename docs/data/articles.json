@@ -1,6 +1,75 @@
 {
-  "lastUpdated": "2026-08-08T10:14:12.697472+08:00",
+  "lastUpdated": "2026-08-09T10:24:19.571341+08:00",
   "articles": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-08",
+      "score": 8,
+      "titleCn": "OpenAI 收购演示文稿初创公司 NextSlide"
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-08",
+      "score": 7,
+      "titleCn": "OpenAI 与美国心理学会合作关注青少年心理健康与 AI"
+    },
+    {
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "url": "https://www.qbitai.com/2026/08/468555.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-08",
+      "score": 7
+    },
+    {
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "url": "https://www.qbitai.com/2026/08/468498.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-08",
+      "score": 7
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-08",
+      "score": 7
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-08",
+      "score": 6,
+      "titleCn": "HSP GRUPPE 如何构建税务咨询 AI 能力"
+    },
+    {
+      "title": "What’s behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-08",
+      "score": 6,
+      "titleCn": "Google AI 动荡背后的原因"
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-08",
+      "score": 6,
+      "titleCn": "Suno 公布打击垃圾 AI 音乐的计划"
+    },
     {
       "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
       "url": "https://www.qbitai.com/2026/08/467879.html",
