@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-09T10:24:19.571341+08:00",
+  "lastUpdated": "2026-08-10T10:29:07.006059+08:00",
   "articles": [
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-09",
+      "score": 8,
+      "titleCn": "AI安全测试正成为安全隐患"
+    },
+    {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-09",
+      "score": 8,
+      "titleCn": "最高严重级别的Exchange服务器漏洞正被克里姆林宫黑客积极利用"
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-09",
+      "score": 7,
+      "titleCn": "受困对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元"
+    },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -2655,111 +2682,6 @@
       "date": "2026-07-11",
       "score": 6,
       "titleCn": "对抗性社会认识论：人类与大语言模型的组合"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-10",
-      "score": 9,
-      "titleCn": "OpenAI 推出全新模型系列，搭载 GPT‑5.6"
-    },
-    {
-      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-      "url": "https://www.qbitai.com/2026/07/447627.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-10",
-      "score": 9
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "GPT‑5.6 现为 Microsoft 365 Copilot 的首选模型"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "ChatGPT 现已成为您最具雄心工作的伙伴"
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "代码评估中分离信号与噪声"
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "SK Hynix 融资 265 亿美元，创美国史上最大外国 IPO，被催促在美国建新晶圆厂"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "OpenAI 表示，在分手传闻之际，GPT‑5.6 为 Microsoft Copilot 365 的‘首选模型’"
-    },
-    {
-      "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier",
-      "url": "https://arxiv.org/abs/2607.07779",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-10",
-      "score": 8,
-      "titleCn": "从求解器到研究：大语言模型驱动的形式数学前沿"
-    },
-    {
-      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-      "url": "https://www.qbitai.com/2026/07/447691.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-10",
-      "score": 8
-    },
-    {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-10",
-      "score": 7,
-      "titleCn": "基于智能体的建模中 LLM 驱动的推理"
-    },
-    {
-      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-      "url": "https://arxiv.org/abs/2607.06760",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-10",
-      "score": 7,
-      "titleCn": "QANTIS：IBM Heron 上硬件校准的序列 POMDP 信念更新"
-    },
-    {
-      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-      "url": "https://www.qbitai.com/2026/07/447832.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-10",
-      "score": 7
     }
   ]
 }
