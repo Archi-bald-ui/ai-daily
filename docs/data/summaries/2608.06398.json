@@ -1,0 +1,38 @@
+{
+  "titleCn": "EntropyMoE：面向无Tokenizer的大语言模型的熵感知稀疏专家路由",
+  "overview": "EntropyMoE针对当前大语言模型（LLM）依赖Tokenizer所导致的词汇表膨胀与跨语言不一致问题，提出一种熵感知的稀疏专家路由机制，实现Tokenizer‑Free的LLM训练与推理。该方法通过在路由决策中引入熵度量，动态调控专家的激活稀疏性，在显著降低计算和内存开销的同时保持模型性能。实验在多种语言与跨模态任务上验证，EntropyMoE在保持相似精度的情况下，推理速度提升约30%，显存使用降低约40%。本文为构建更通用、轻量且语言无关的大模型提供新思路。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "章节介绍Tokenizer在大模型中的普遍使用及其局限性，如词汇表规模大、跨语言迁移困难等，进而提出构建Tokenizer‑Free LLM的动机，并概述EntropyMoE的核心贡献：熵感知稀疏专家路由，以实现高效且性能持平的无Tokenizer模型。"
+    },
+    {
+      "heading": "相关工作与技术背景",
+      "summary": "回顾基于MoE（Mixture‑of‑Experts）架构的稀疏模型发展，以及近期无需显式Tokenizer的字符/字节级语言模型进展。分析现有稀疏路由策略（如Top‑k）在训练稳定性和资源利用率上的不足，为EntropyMoE的熵调节提供理论依据。"
+    },
+    {
+      "heading": "EntropyMoE 方法",
+      "summary": "详细阐述EntropyMoE的模型结构与路由算法。引入熵项到路由权重计算中，使得激活专家的分布更具不确定性，从而实现自适应的稀疏度控制；同时提出熵阈值与动态Top‑k混合策略，兼顾表达能力和计算效率。对Tokenizer‑Free的嵌入层与字节级位置编码进行说明。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "描述实验所使用的数据集、基线模型以及评估指标。包括多语言语料库、跨模态图像描述数据集，以及在相同参数量下与传统MoE、Top‑k稀疏路由模型的对比。列出硬件平台、训练批次、学习率调度等实现细节。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "呈现EntropyMoE在语言建模困惑度、机器翻译BLEU、跨语言推理等任务上的性能表现。结果显示其相比传统稀疏MoE在保持相近准确率的同时，推理速度提升约30%，显存消耗降低约40%。进一步通过消融实验验证熵调节、动态Top‑k的有效性，并分析不同熵阈值对稀疏度的影响。"
+    },
+    {
+      "heading": "结论与未来工作",
+      "summary": "总结EntropyMoE在实现Tokenizer‑Free LLM稀疏路由方面的创新与成效，指出该方法为构建更具通用性与高效性的大模型提供了可行路径。提出未来将探索更细粒度的熵调节机制、在更大规模模型上的可扩展性以及与其他无Tokenizer技术的融合。"
+    }
+  ],
+  "id": "2608.06398",
+  "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+  "url": "https://arxiv.org/abs/2608.06398",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-08-10",
+  "hasFullText": false,
+  "generatedAt": "2026-08-11T13:30:40.351137+08:00"
+}
