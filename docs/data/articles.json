@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-10T10:29:07.006059+08:00",
+  "lastUpdated": "2026-08-11T10:25:00.763735+08:00",
   "articles": [
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-10",
+      "score": 9,
+      "titleCn": "据报道，OpenAI 完成 70 亿美元员工要约收购"
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "网络防御窗口收窄，Daybreak 持续扩展"
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "马克·扎克伯格大规模 AI 宣言的四个要点"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "AI 驱动攻击激增，OpenAI 推出新型网络模型"
+    },
+    {
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "EntropyMoE：熵感知稀疏专家路由，适用于无分词器 LLM"
+    },
+    {
+      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+      "url": "https://arxiv.org/abs/2608.06410",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "ADIAS：交互式代理系统的自动化设计"
+    },
+    {
+      "title": "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation",
+      "url": "https://arxiv.org/abs/2608.06396",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-10",
+      "score": 8,
+      "titleCn": "TEXAS：任务‑专家感知监督，用于下游 MoE LLM 适配"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-10",
+      "score": 7,
+      "titleCn": "Model ML 借助 GPT‑5.6 Sol 高效完成金融工作"
+    },
+    {
+      "title": "模型路线趋同之后，Physical AI的胜负手变了",
+      "url": "https://www.qbitai.com/2026/08/469544.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-10",
+      "score": 7
+    },
+    {
+      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+      "url": "https://www.qbitai.com/2026/08/469475.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-10",
+      "score": 7
+    },
+    {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-10",
+      "score": 6,
+      "titleCn": "将前沿网络模型交到更可信赖的手中"
+    },
+    {
+      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+      "url": "https://www.qbitai.com/2026/08/469860.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-10",
+      "score": 6
+    },
     {
       "title": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -2593,95 +2698,6 @@
       "date": "2026-07-12",
       "score": 6,
       "titleCn": "苹果失败的自动驾驶项目留下强大AI芯片"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-11",
-      "score": 9,
-      "titleCn": "GPT-5.6：前沿智能，随抱负而扩展"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-11",
-      "score": 8,
-      "titleCn": "苹果起诉 OpenAI，指控其盗取商业机密"
-    },
-    {
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-      "url": "https://www.qbitai.com/2026/07/447873.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-11",
-      "score": 8
-    },
-    {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "PyTorch 性能分析（第 3 篇）：注意力即全部分析"
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "一键从 Hugging Face 迁移至 Amazon SageMaker Studio"
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "开源 AI 比以往更重要——Hugging Face 的 Clem Delangue 如是说"
-    },
-    {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "Hugging Face CEO：企业为何不再租用 AI"
-    },
-    {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "面向主动企业代理的上下文图"
-    },
-    {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-11",
-      "score": 7,
-      "titleCn": "对齐临床需求与 AI 能力：医学推理大语言模型综述"
-    },
-    {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-11",
-      "score": 6,
-      "titleCn": "对抗性社会认识论：人类与大语言模型的组合"
     }
   ]
 }
