@@ -1,0 +1,26 @@
+{
+  "titleCn": "在网络防御窗口收窄之际扩展Daybreak",
+  "overview": "随着攻击手段日益加速，网络防御的响应窗口正被压缩，传统人工防御难以跟上。OpenAI推出的Daybreak通过大模型与强化学习，提升威胁的早期发现、自动分类与快速响应能力，帮助安全团队在更短时间内完成防御布局。本文探讨窗口收窄的根本原因、Daybreak的技术优势以及在实际安全运营中的部署要点。",
+  "sections": [
+    {
+      "heading": "防御窗口收窄的驱动因素",
+      "summary": "从零日漏洞利用到自动化攻击链条，攻击者缩短了从入侵到造成破坏的时间，使得安全团队的响应余地被大幅压缩。"
+    },
+    {
+      "heading": "AI赋能早期检测与响应",
+      "summary": "Daybreak结合大模型的海量知识与自适应学习，可在数秒内完成恶意行为识别、关联分析和响应建议，显著提升检测速度。"
+    },
+    {
+      "heading": "在安全运营中心的落地实践",
+      "summary": "通过与SIEM/SOAR系统的深度集成，Daybreak实现自动化剧本生成、事件优先级排序和跨平台响应，帮助SOC在压缩窗口内保持高效防御。"
+    }
+  ],
+  "id": "expanding-daybreak-as-the-cyber-defense-window-narrows",
+  "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+  "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-10",
+  "hasFullText": false,
+  "generatedAt": "2026-08-11T10:27:22.989996+08:00"
+}
