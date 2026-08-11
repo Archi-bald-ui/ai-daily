@@ -1,0 +1,26 @@
+{
+  "titleCn": "将前沿网络模型交托给更可信赖的机构",
+  "overview": "本文探讨OpenAI在提升前沿网络模型可信度方面的最新举措，包括引入严格的安全评估流程、与外部安全社区合作、实现模型行为透明化等，以期在保持技术领先的同时，降低潜在滥用风险，推动模型的安全部署。",
+  "sections": [
+    {
+      "heading": "强化安全评估流程",
+      "summary": "OpenAI 为前沿网络模型引入多层安全评估体系，包括红队演练、自动化对抗测试和持续监控，以早期发现潜在风险并快速迭代。"
+    },
+    {
+      "heading": "外部合作与审计",
+      "summary": "通过邀请独立安全研究员和行业合作伙伴进行外部审计、共享攻击案例和防御方案，构建开放的信任生态，提升模型抵御恶意使用的整体能力。"
+    },
+    {
+      "heading": "提升模型透明度与可解释性",
+      "summary": "OpenAI 公开模型行为日志和安全评估报告，提供可解释的输出解释接口，让开发者和监管机构能够追踪决策依据，增强对模型可信度的认知。"
+    }
+  ],
+  "id": "putting-frontier-cyber-models-in-more-trusted-hands",
+  "title": "Putting frontier cyber models in more trusted hands",
+  "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-10",
+  "hasFullText": false,
+  "generatedAt": "2026-08-11T10:47:02.592727+08:00"
+}
