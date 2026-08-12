@@ -1,0 +1,26 @@
+{
+  "titleCn": "Daybreak 模型现已登陆 AWS",
+  "overview": "OpenAI 宣布将其最新的大语言模型系列 Daybreak 正式在 AWS 上线，用户可通过 Amazon SageMaker、AWS Marketplace 等渠道快速部署和调用，享受更高的可扩展性和安全合规。此举进一步简化了企业接入 OpenAI 模型的流程，降低了技术门槛。",
+  "sections": [
+    {
+      "heading": "模型特性与能力",
+      "summary": "Daybreak 系列是 OpenAI 最新的大语言模型，专注于更高的推理效率和更长的上下文支持。"
+    },
+    {
+      "heading": "AWS 部署渠道",
+      "summary": "可通过 Amazon SageMaker、AWS Marketplace 和 Bedrock 等服务一键部署，支持自动伸缩与安全合规。"
+    },
+    {
+      "heading": "使用场景与价值",
+      "summary": "适用于客服、内容生成、数据分析等业务，帮助企业提升效率、降低成本并加速 AI 落地。"
+    }
+  ],
+  "id": "daybreak-models-are-now-available-on-aws",
+  "title": "Daybreak models are now available on AWS",
+  "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-11",
+  "hasFullText": false,
+  "generatedAt": "2026-08-12T10:42:54.645784+08:00"
+}
