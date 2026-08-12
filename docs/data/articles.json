@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-11T10:25:00.763735+08:00",
+  "lastUpdated": "2026-08-12T10:39:26.255618+08:00",
   "articles": [
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-11",
+      "score": 9,
+      "titleCn": "AMIE医学AI研究系统首次在首创性研究中展示实时临床视频会诊能力"
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-11",
+      "score": 9,
+      "titleCn": "Anthropic未发布模型在数学最大未解问题之一上取得进展"
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "Daybreak模型现已上线AWS"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "NVIDIA Magpie TTS 助力构建低延迟多语言语音代理，支持开源权重与完整部署控制"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "General Catalyst 领投 1.1 亿美元融资，River AI 成立仅两个月"
+    },
+    {
+      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "url": "https://arxiv.org/abs/2608.07474",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "逐流式内容审查绕过：高损失领域AI输出的治理"
+    },
+    {
+      "title": "Training Variable Long Sequences with Data-Centric Parallel",
+      "url": "https://arxiv.org/abs/2608.07524",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "数据中心并行训练可变长序列"
+    },
+    {
+      "title": "Scaling Inherently Interpretable Language Models",
+      "url": "https://arxiv.org/abs/2608.07594",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-11",
+      "score": 8,
+      "titleCn": "规模化固有可解释语言模型"
+    },
+    {
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "url": "https://www.qbitai.com/2026/08/470485.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-11",
+      "score": 8
+    },
+    {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-11",
+      "score": 7,
+      "titleCn": "“Zoomsday”黑客攻击曝光：不足20个AI提示即实现"
+    },
+    {
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "url": "https://www.qbitai.com/2026/08/470674.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-11",
+      "score": 7
+    },
+    {
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-11",
+      "score": 7
+    },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -2620,84 +2725,6 @@
       "category": "中文资讯",
       "date": "2026-07-13",
       "score": 6
-    },
-    {
-      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-      "url": "https://www.qbitai.com/2026/07/447981.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-12",
-      "score": 9
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-12",
-      "score": 8,
-      "titleCn": "Hugging Face 模型在 Foundry Managed Compute 上"
-    },
-    {
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447902.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-12",
-      "score": 8
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-12",
-      "score": 7,
-      "titleCn": "我们与政府及国家安全机构的合作方针"
-    },
-    {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-12",
-      "score": 7,
-      "titleCn": "向AI专家提问：全栈到底是什么？"
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-12",
-      "score": 7,
-      "titleCn": "Meta停用Instagram公共账号的AI深度伪造功能"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-12",
-      "score": 7,
-      "titleCn": "OpenAI押注家庭市场，ChatGPT深入千家万户"
-    },
-    {
-      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
-      "url": "https://www.qbitai.com/2026/07/448034.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-12",
-      "score": 7
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-12",
-      "score": 6,
-      "titleCn": "苹果失败的自动驾驶项目留下强大AI芯片"
     }
   ]
 }
