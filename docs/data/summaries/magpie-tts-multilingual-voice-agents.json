@@ -1,0 +1,26 @@
+{
+  "titleCn": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 实现开放权重与完全部署控制",
+  "overview": "本文介绍如何利用 NVIDIA Magpie TTS 构建低延迟的多语言语音代理，支持开放模型权重，开发者可自行部署并在本地或云端实现完全控制。通过优化推理管线、实现流式合成，显著降低交互延迟，并提供多语言音色和自定义功能，适用于客服、助手等实时场景。",
+  "sections": [
+    {
+      "heading": "核心特性：开放权重与灵活部署",
+      "summary": "Magpie TTS 提供完全开放的模型权重，开发者可在本地、私有云或边缘设备自由部署，满足数据隐私与定制需求。"
+    },
+    {
+      "heading": "低延迟实现：流式合成与推理优化",
+      "summary": "通过流式输出和推理管线剪枝、量化等技术，Magpie TTS 将端到端延迟降至毫秒级，实现实时交互。"
+    },
+    {
+      "heading": "多语言与自定义音色",
+      "summary": "内置多语言声学模型，支持快速切换语言并提供音色定制接口，开发者可根据品牌需求打造独特语音风格。"
+    }
+  ],
+  "id": "magpie-tts-multilingual-voice-agents",
+  "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+  "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-11",
+  "hasFullText": false,
+  "generatedAt": "2026-08-12T10:43:29.699167+08:00"
+}
