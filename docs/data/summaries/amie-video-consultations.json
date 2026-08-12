@@ -1,0 +1,26 @@
+{
+  "titleCn": "AMIE：谷歌医学AI系统在首创临床视频实时会诊研究中展示能力",
+  "overview": "Google AI研发的医学AI系统AMIE在首创的临床视频实时会诊研究中，首次展示其在真实诊疗环境中同步分析患者语音、面部表情和电子病历的能力，显著提升诊疗效率并为远程医疗提供智能辅助，标志着AI临床落地的关键一步。",
+  "sections": [
+    {
+      "heading": "系统概览与核心技术",
+      "summary": "AMIE是基于大模型的多模态医学AI，能在视频会诊中实时捕捉患者语音、面部和医学数据，辅助医生诊断。"
+    },
+    {
+      "heading": "首创实时临床视频AI会诊",
+      "summary": "研究在真实临床场景中部署AMIE，首次实现AI实时参与视频会诊，评估其响应速度、诊断准确率和医患交互质量。"
+    },
+    {
+      "heading": "潜在应用与未来影响",
+      "summary": "AMIE有望提升远程医疗效率，为基层医生提供实时专家级建议，降低误诊风险，并推动AI在临床的合规落地。"
+    }
+  ],
+  "id": "amie-video-consultations",
+  "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-11",
+  "hasFullText": false,
+  "generatedAt": "2026-08-12T10:42:09.602442+08:00"
+}
