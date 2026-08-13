@@ -1,0 +1,26 @@
+{
+  "titleCn": "让知识蒸馏足够便宜以实现规模化运行",
+  "overview": "本文探讨在大规模模型部署中，如何降低知识蒸馏的计算和存储成本。通过模型量化、动态采样、共享教师软标签缓存以及轻量级学生网络设计等技巧，实现仅使用少量GPU即可完成数十万模型的蒸馏。HuggingFace在平台上提供可插拔的蒸馏流水线，帮助开发者快速、廉价地压缩模型。",
+  "sections": [
+    {
+      "heading": "成本瓶颈分析",
+      "summary": "指出教师模型推理、数据生成与存储是蒸馏主要的计算和资源消耗点，为后续优化提供依据。"
+    },
+    {
+      "heading": "轻量化蒸馏技巧",
+      "summary": "采用模型量化、动态采样、软标签缓存与轻量学生网络，显著降低教师推理次数和显存占用。"
+    },
+    {
+      "heading": "平台化蒸馏流水线",
+      "summary": "在HuggingFace提供可插拔的教师‑学生装配、自动化调度和资源监控，使大规模蒸馏实现一键部署并保持成本透明。"
+    }
+  ],
+  "id": "efficient-knowledge-distillation",
+  "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-12",
+  "hasFullText": false,
+  "generatedAt": "2026-08-13T10:47:10.363387+08:00"
+}
