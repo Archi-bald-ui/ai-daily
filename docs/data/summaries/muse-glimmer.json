@@ -1,0 +1,26 @@
+{
+  "titleCn": "Meta 再次推出 Muse Glimmer：本地化、代理式、多模态、开源",
+  "overview": "Meta 发布了Muse Glimmer，一款强调本地运行、具备代理式交互能力、支持文本、图像、音频等多模态输入输出的开源模型。该系统旨在降低云端依赖，提高隐私保护，同时为开发者提供灵活的可定制框架，便于在各类设备上部署智能代理。",
+  "sections": [
+    {
+      "heading": "本地化部署与隐私优势",
+      "summary": "Muse Glimmer 支持在终端设备本地运行，降低数据上传需求，提升隐私安全，适合移动端和边缘计算场景。"
+    },
+    {
+      "heading": "代理式交互与多模态能力",
+      "summary": "系统内置代理框架，能够自主规划任务并调用视觉、语音、文本等多模态模型，实现自然语言指令到多感官输出的闭环。"
+    },
+    {
+      "heading": "开源生态与社区共建",
+      "summary": "Muse Glimmer 采用宽松开源许可，提供完整模型权重和训练代码，鼓励开发者二次定制、插件扩展以及在各大平台分享经验。"
+    }
+  ],
+  "id": "muse-glimmer",
+  "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "url": "https://huggingface.co/blog/muse-glimmer",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-12",
+  "hasFullText": false,
+  "generatedAt": "2026-08-13T10:47:51.465218+08:00"
+}
