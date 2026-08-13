@@ -1,0 +1,26 @@
+{
+  "titleCn": "OlmoEarth embeddings 介绍：从 OlmoEarth Studio 导出自定义嵌入用于下游分析",
+  "overview": "本文介绍了 OlmoEarth Studio 新推出的自定义嵌入导出功能，帮助用户将地理空间数据转换为向量表示，并可直接下载用于下游机器学习、相似度搜索等任务。通过灵活选择数据范围和特征，嵌入能够融合遥感影像、文本描述和地理信息，提供统一的语义向量，显著提升分析效率。",
+  "sections": [
+    {
+      "heading": "自定义嵌入导出功能",
+      "summary": "用户可在 OlmoEarth Studio 中选择区域和特征，一键生成并下载向量嵌入文件。"
+    },
+    {
+      "heading": "多模态数据融合",
+      "summary": "嵌入整合遥感影像、文本标注和地理信息，生成统一的语义向量，便于跨任务使用并提升效果。"
+    },
+    {
+      "heading": "便利下游分析",
+      "summary": "导出的嵌入可直接用于聚类、分类、相似度搜索等机器学习任务，显著提升分析效率和精度。"
+    }
+  ],
+  "id": "olmoearth-embeddings",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-12",
+  "hasFullText": false,
+  "generatedAt": "2026-08-13T11:05:57.597712+08:00"
+}
