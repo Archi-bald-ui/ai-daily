@@ -1,0 +1,26 @@
+{
+  "titleCn": "预览超高速模式：GPT‑5.6 Sol 实现最高 14 倍速提升",
+  "overview": "OpenAI 近日发布预览版超高速模式，专为 GPT‑5.6 Sol 设计，通过底层计算优化与并行推理技术，实现了最高约 14 倍的推理加速。该模式显著降低延迟，提升实时对话和大规模文本生成的响应效率，适用于需要快速交互的场景，并保持模型精度与原有能力基本一致。",
+  "sections": [
+    {
+      "heading": "超高速模式的实现原理",
+      "summary": "采用轻量级算子融合、动态批处理与硬件加速指令，压缩计算图并减少内存拷贝，从而实现推理速度的大幅提升。"
+    },
+    {
+      "heading": "性能提升与实际应用",
+      "summary": "在同等硬件环境下，相比原版模型延迟降低约 14 倍，使实时聊天、长文档摘要和交互式写作等场景更流畅。"
+    },
+    {
+      "heading": "使用限制与兼容性",
+      "summary": "目前仅在特定云端实例可用，且对模型尺寸和功能有一定裁剪，需结合业务需求评估是否迁移。"
+    }
+  ],
+  "id": "previewing-ultrafast",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "url": "https://openai.com/index/previewing-ultrafast",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-13",
+  "hasFullText": false,
+  "generatedAt": "2026-08-14T10:44:09.928281+08:00"
+}
