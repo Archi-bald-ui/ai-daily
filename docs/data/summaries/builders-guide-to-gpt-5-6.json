@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT‑5.6 构建者指南",
+  "overview": "本文为开发者提供GPT‑5.6的完整使用指南，涵盖模型新特性、API调用细节、性能优化以及安全合规建议与最新的微调与提示工程技术，帮助构建者在实际项目中快速上手并可靠部署。",
+  "sections": [
+    {
+      "heading": "新模型能力概览",
+      "summary": "GPT‑5.6支持更长的上下文窗口和多模态输入，推理速度提升显著，新增可解释性工具帮助调试与优化。"
+    },
+    {
+      "heading": "API 使用与集成要点",
+      "summary": "指南详细列出调用接口、认证方式、请求限额与错误处理，提供Python、Node.js等常用SDK的示例代码，帮助快速集成。"
+    },
+    {
+      "heading": "安全、合规与伦理实践",
+      "summary": "文章强调内容过滤、滥用防范和合规使用，提供审查日志与监控机制的最佳实践，确保模型部署符合政策与伦理要求。"
+    }
+  ],
+  "id": "builders-guide-to-gpt-5-6",
+  "title": "The builder’s guide to GPT‑5.6",
+  "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-13",
+  "hasFullText": false,
+  "generatedAt": "2026-08-14T10:42:44.900901+08:00"
+}
