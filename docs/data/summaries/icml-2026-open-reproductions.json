@@ -1,0 +1,26 @@
+{
+  "titleCn": "通过复现 2,200 篇 ICML 论文我们学到的经验",
+  "overview": "本文基于 HuggingFace 对 ICML 会议约 2,200 篇论文进行系统复现的实践，系统梳理了复现过程中的主要困难，包括代码缺失、超参数不透明和评估指标不一致等，并总结了提升可复现性的关键做法与经验教训，为后续研究与模型共享提供了实用指南。",
+  "sections": [
+    {
+      "heading": "复现过程中的主要障碍",
+      "summary": "在约 2,200 篇 ICML 论文的复现实验中，缺失源代码、超参数未公开、数据集或评估指标不统一是最常见的阻碍因素。"
+    },
+    {
+      "heading": "提升可复现性的关键做法",
+      "summary": "提供完整代码、公开超参数、统一数据集与评估协议、使用容器化或标准实验框架，可显著提升复现成功率。"
+    },
+    {
+      "heading": "对研究社区的启示与建议",
+      "summary": "呼吁作者在提交时强制提供可运行代码与实验日志，期刊会议应设立复现审查机制，共同构建可验证的科学成果。"
+    }
+  ],
+  "id": "icml-2026-open-reproductions",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-14",
+  "hasFullText": false,
+  "generatedAt": "2026-08-15T09:51:49.270048+08:00"
+}
