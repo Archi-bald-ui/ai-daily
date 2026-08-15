@@ -1,0 +1,26 @@
+{
+  "titleCn": "RingCentral如何从工程到运维打造AI原生工作",
+  "overview": "本文探讨RingCentral在产品研发和运维全链路引入AI的实践，包括构建AI驱动的开发平台、实现自动化测试与部署、以及通过AI提升运维监控与故障自愈能力，展示了AI原生工作模式在提升效率、降低成本方面的价值。",
+  "sections": [
+    {
+      "heading": "AI驱动的开发流程",
+      "summary": "通过AI生成代码模板、智能审查和自动化测试，结合可复用组件库，显著缩短开发周期，提升代码质量与一致性。"
+    },
+    {
+      "heading": "AI赋能运维自动化",
+      "summary": "利用机器学习进行异常检测、根因分析和自动恢复，结合监控平台告警策略，显著降低人工干预，显著提升系统可靠性。"
+    },
+    {
+      "heading": "跨团队协作与平台化",
+      "summary": "构建统一的AI工具链和共享模型库，推动工程、运维、数据团队的协同共建，实现跨部门知识沉淀与复用，显著提升整体研发效能。"
+    }
+  ],
+  "id": "ringcentral",
+  "title": "How RingCentral builds AI-native work from engineering to ops",
+  "url": "https://openai.com/index/ringcentral",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-14",
+  "hasFullText": false,
+  "generatedAt": "2026-08-15T09:51:09.665287+08:00"
+}
