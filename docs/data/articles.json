@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-14T10:40:58.933336+08:00",
+  "lastUpdated": "2026-08-15T09:47:32.757965+08:00",
   "articles": [
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "RingCentral 从工程到运营构建 AI 原生工作"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "复现 2200 篇 ICML 论文的收获"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "Apple 与阿里巴巴合作，为中国训练自研 AI 模型"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "Meta 的‘开放’AI 与 2.5 亿美元交易失误"
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "OpenAI 与 Anthropic 打价格战，中国 AI 竞争者抢占市场"
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "url": "https://arxiv.org/abs/2608.11215",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-14",
+      "score": 8,
+      "titleCn": "简易代理建模：在笔记本上模拟大型 LLM 代理系统"
+    },
+    {
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-14",
+      "score": 8
+    },
+    {
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "url": "https://www.qbitai.com/2026/08/473038.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-14",
+      "score": 8
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-14",
+      "score": 7,
+      "titleCn": "OpenAI 就德州负责任 AI 基础设施致信州长阿博特"
+    },
+    {
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "url": "https://arxiv.org/abs/2608.11207",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-14",
+      "score": 7,
+      "titleCn": "多 LLM 代理系统的动态治理实现协作对话"
+    },
+    {
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2608.11212",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-14",
+      "score": 7,
+      "titleCn": "检测路由翻转比判断是否修复更容易：量化混合专家模型中的因果路由损伤"
+    },
+    {
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+      "url": "https://www.qbitai.com/2026/08/473153.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-14",
+      "score": 6
+    },
     {
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -2620,111 +2725,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-07-16",
-      "score": 6
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-15",
-      "score": 9,
-      "titleCn": "Apple Intelligence 获批在中国推出，携手阿里巴巴 Qwen AI"
-    },
-    {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-07-15",
-      "score": 8,
-      "titleCn": "现在，防御者也开始采用提示注入"
-    },
-    {
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "url": "https://arxiv.org/abs/2607.11906",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-15",
-      "score": 8,
-      "titleCn": "非平稳环境下的上下文强化学习综述"
-    },
-    {
-      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-      "url": "https://arxiv.org/abs/2607.11948",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-15",
-      "score": 8,
-      "titleCn": "本体增强蒸馏与情境审计：面向主权企业语言模型的机制证明与负向结果综合研究"
-    },
-    {
-      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-      "url": "https://arxiv.org/abs/2607.11951",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-15",
-      "score": 8,
-      "titleCn": "GRID：面向企业 SQL 生成的语法约束解码"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-15",
-      "score": 7,
-      "titleCn": "GPT‑Red：解锁自我改进，提升鲁棒性"
-    },
-    {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-15",
-      "score": 7,
-      "titleCn": "从 Shippy 项目看代理构建的启示"
-    },
-    {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-15",
-      "score": 7,
-      "titleCn": "模型路由看似简单，直至并非如此"
-    },
-    {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-15",
-      "score": 7,
-      "titleCn": "OpenAI 或将于今年推出 ChatGPT 智能音箱"
-    },
-    {
-      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
-      "url": "https://www.qbitai.com/2026/07/450657.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-15",
-      "score": 7
-    },
-    {
-      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-15",
-      "score": 6
-    },
-    {
-      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
-      "url": "https://www.qbitai.com/2026/07/450130.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-15",
       "score": 6
     }
   ]
