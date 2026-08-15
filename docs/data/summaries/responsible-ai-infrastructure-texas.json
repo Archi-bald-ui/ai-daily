@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI致信德州州长：负责任AI基础设施",
+  "overview": "OpenAI致信德州州长，表达在德州建设安全、可持续AI基础设施的愿景，呼吁政府提供政策支持、加强监管合作，推动AI技术安全落地，促进当地经济与就业以及人才培养计划。",
+  "sections": [
+    {
+      "heading": "负责任AI基础设施建设",
+      "summary": "OpenAI提出在德州构建安全、可靠的AI基础设施，强调风险评估、伦理审查与能源可持续性，确保技术落地符合公众利益。"
+    },
+    {
+      "heading": "政府合作与政策支持",
+      "summary": "OpenAI呼吁州政府提供明确的监管框架与税收优惠，促进公私合作，共建AI研发平台，提升德州在AI领域的竞争力。"
+    },
+    {
+      "heading": "促进经济与人才培养",
+      "summary": "通过AI基础设施建设，OpenAI计划在德州创造高科技岗位，培养本地AI人才，推动产业升级，实现经济增长与就业提升。"
+    }
+  ],
+  "id": "responsible-ai-infrastructure-texas",
+  "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+  "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-14",
+  "hasFullText": false,
+  "generatedAt": "2026-08-15T10:00:15.109161+08:00"
+}
