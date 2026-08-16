@@ -1,0 +1,26 @@
+{
+  "titleCn": "LFM2.5-VL-3B：为边缘提供更佳、更快的视觉能力",
+  "overview": "LFM2.5-VL-3B 是 HuggingFace 发布的轻量级视觉语言模型，专为边缘场景打造。模型约3B参数，采用先进量化和算子融合技术，实现资源受限设备上的高速、低功耗视觉感知，并在图像分类、目标检测等任务中表现优异，支持多模态交互，提升边缘智能应用的部署便利性。",
+  "sections": [
+    {
+      "heading": "轻量化模型设计",
+      "summary": "约3B参数结合最新量化和剪枝技术，显著降低模型体积，适合移动和边缘硬件部署，在资源受限环境中实现高效运行。"
+    },
+    {
+      "heading": "边缘推理加速与低功耗",
+      "summary": "采用算子融合与硬件感知优化，实现在边缘设备上的实时推理，功耗显著下降，满足低功耗需求。"
+    },
+    {
+      "heading": "多模态视觉能力提升",
+      "summary": "模型在图像分类、目标检测和视觉问答等任务上取得显著精度提升，并支持多模态交互，拓展边缘智能应用场景。"
+    }
+  ],
+  "id": "lfm2-5-vl-3b",
+  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-15",
+  "hasFullText": false,
+  "generatedAt": "2026-08-16T10:09:01.695461+08:00"
+}
