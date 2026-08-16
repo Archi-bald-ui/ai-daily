@@ -1,0 +1,26 @@
+{
+  "titleCn": "开放模型现状：2026年夏季观察",
+  "overview": "本文回顾2026年夏季开源模型生态的最新动态，重点关注新发布的参数规模更大、任务覆盖更广的基础模型、社区在微调与安全对齐方面的进展，以及开放许可对商业落地的推动作用。结合案例分析趋势与挑战，为关注开源AI的研发者提供参考。",
+  "sections": [
+    {
+      "heading": "新模型发布与性能提升",
+      "summary": "本季多家机构推出百亿至千亿级开源模型，在常识推理、代码生成和多模态任务上实现显著精度提升，部分已公开权重供社区使用。"
+    },
+    {
+      "heading": "社区微调与安全对齐",
+      "summary": "围绕开源模型，社区积极探索轻量化微调方案，并在数据过滤、偏见检测与对抗鲁棒性方面取得进展，推动模型安全对齐更透明。"
+    },
+    {
+      "heading": "开放许可与商业落地",
+      "summary": "相较于传统闭源许可证，更多组织采用宽容开源许可，使企业能够低成本集成开源模型进行产品化，但也提出合规和责任划分的新挑战。"
+    }
+  ],
+  "id": "state-of-open-models-summer-2026",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-15",
+  "hasFullText": false,
+  "generatedAt": "2026-08-16T09:59:11.906973+08:00"
+}
