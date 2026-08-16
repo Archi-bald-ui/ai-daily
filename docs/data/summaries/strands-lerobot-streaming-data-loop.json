@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 Strands Agents、LeRobot 与 Hugging Face 存储桶实现一体化记录、训练和部署",
+  "overview": "本文介绍了如何通过 Strands Agents 采集机器人操作数据，利用 LeRobot 在同一平台完成模型训练，并通过 Hugging Face 存储桶实现模型的统一打包、版本管理和一键部署，实现从数据记录到线上服务的完整闭环。",
+  "sections": [
+    {
+      "heading": "一键数据采集",
+      "summary": "Strands Agents 提供可视化界面，支持实时录制机器人动作并自动生成标注文件，省去手动整理的繁琐步骤。"
+    },
+    {
+      "heading": "统一模型训练",
+      "summary": "LeRobot 内置多种强化学习与模仿学习算法，用户可在本平台上直接加载录制的数据，快速迭代模型并进行离线评估。"
+    },
+    {
+      "heading": "一键模型部署",
+      "summary": "借助 Hugging Face 存储桶，模型文件、配置文件和运行时环境统一上传，实现版本管理并通过 API 接口一键部署到机器人或云端。"
+    }
+  ],
+  "id": "strands-lerobot-streaming-data-loop",
+  "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-15",
+  "hasFullText": false,
+  "generatedAt": "2026-08-16T10:07:54.258174+08:00"
+}
