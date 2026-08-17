@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们35.3万人 vibe coding 课程的内部",
+  "overview": "本文揭秘Google AI举办的大规模vibecoding在线课程，吸引了约35万学习者。课程通过AI辅助编码、交互式Notebook与实时反馈，实现零基础到项目上线的完整学习路径，并结合社区点评与实战项目评估学习效果，展现了大规模AI教育的新模式。",
+  "sections": [
+    {
+      "heading": "课程规模与参与方式",
+      "summary": "介绍课程如何吸引约35万学习者报名，采用线上注册、免费参与和分批次学习机制，实现全球范围的大规模覆盖。"
+    },
+    {
+      "heading": "教学内容与技术实现",
+      "summary": "课程围绕vibecoding实践，使用Google AI的PaLM 2模型进行代码生成，提供实时反馈与实战项目，帮助学习者快速构建AI应用。"
+    },
+    {
+      "heading": "成效评估与社区生态",
+      "summary": "通过学习时长、项目完成率与问卷反馈评估效果，社区提供同伴点评与线下聚会，形成持续学习的活跃生态。"
+    }
+  ],
+  "id": "ai-agents-intensive-recap-2026",
+  "title": "Inside our 353,000-person vibe coding course",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-16",
+  "hasFullText": false,
+  "generatedAt": "2026-08-17T09:58:38.823216+08:00"
+}
