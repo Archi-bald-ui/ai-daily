@@ -1,0 +1,26 @@
+{
+  "titleCn": "想尝试ACE？我们可以使用更少的Token实现",
+  "overview": "文章探讨了在ACE框架下，如何通过改进Tokenizer和上下文压缩，在保持性能的同时显著降低生成所需的Token数量。实验表明，使用更少Token不仅加快推理速度，还能降低显存占用，为大规模语言模型的高效部署提供了新思路。",
+  "sections": [
+    {
+      "heading": "ACE框架概述",
+      "summary": "介绍ACE的核心理念，说明其在语言模型中的定位以及与传统方法的区别，并简要概述其在模型压缩和推理加速中的潜在优势。"
+    },
+    {
+      "heading": "Token削减关键技术",
+      "summary": "阐述如何通过动态Token合并、上下文剪枝以及轻量化Tokenizer，使生成阶段所需Token数量大幅下降，并保持输出质量。"
+    },
+    {
+      "heading": "效率提升与实际收益",
+      "summary": "展示在不同模型规模下的实验结果，突出推理时延、显存占用和吞吐量方面的改进，并讨论在实际部署中的可行性与局限。"
+    }
+  ],
+  "id": "altk-evolve-sldd",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-16",
+  "hasFullText": false,
+  "generatedAt": "2026-08-17T09:55:20.506779+08:00"
+}
