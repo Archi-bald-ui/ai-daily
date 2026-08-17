@@ -1,0 +1,26 @@
+{
+  "titleCn": "用 Sheets 画布让电子表格数据焕发生机",
+  "overview": "本文介绍 Google Sheets 最新推出的画布模式，通过 AI 智能分析电子表格内容，自动生成交互式图表、可视化组件，并支持在画布上自由排版、实时更新数据，帮助用户将枯燥的数字快速转化为直观的可视化故事。",
+  "sections": [
+    {
+      "heading": "AI 驱动的智能图表推荐",
+      "summary": "AI 自动分析表格内容，推荐最适合的图表类型并生成可视化，一键呈现数据趋势。"
+    },
+    {
+      "heading": "交互式画布自由布局",
+      "summary": "在画布上自由拖拽图表、表格和控件，灵活排版，实现多维度信息展示，并支持实时预览效果，提升数据故事的沉浸感。"
+    },
+    {
+      "heading": "实时协作与数据联动",
+      "summary": "多人同步编辑画布，数据源自动同步到图表，支持在协作过程中即时更新视图，保证信息的时效性。"
+    }
+  ],
+  "id": "sheets-canvas-for-google-sheets-spreadsheets",
+  "title": "Bring your spreadsheet data to life with Sheets canvas",
+  "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-16",
+  "hasFullText": false,
+  "generatedAt": "2026-08-17T09:56:02.680266+08:00"
+}
