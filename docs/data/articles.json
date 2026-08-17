@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-08-16T09:57:27.019703+08:00",
+  "lastUpdated": "2026-08-17T09:53:02.719632+08:00",
   "articles": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-16",
+      "score": 8,
+      "titleCn": "Stripe 据报道将以 70 亿美元以上收购 AI 网关初创公司 OpenRouter"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-16",
+      "score": 8,
+      "titleCn": "Google 将允许用户移除其 AI 生成内容的可见水印"
+    },
+    {
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "url": "https://www.qbitai.com/2026/08/474140.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-16",
+      "score": 8
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-16",
+      "score": 7,
+      "titleCn": "想用 ACE？更少 Token 也能实现"
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-16",
+      "score": 7,
+      "titleCn": "据报道，OpenAI 已解散其应急准备团队"
+    },
+    {
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "url": "https://www.qbitai.com/2026/08/473972.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-16",
+      "score": 7
+    },
+    {
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-16",
+      "score": 7
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-16",
+      "score": 6,
+      "titleCn": "用 Sheets 画布让电子表格数据活起来"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-16",
+      "score": 6,
+      "titleCn": "我们的 35.3 万 vibe 编程课程内部揭秘"
+    },
     {
       "title": "State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -2621,111 +2699,6 @@
       "date": "2026-07-18",
       "score": 6,
       "titleCn": "纽约州长称正使用AI分析州内每一条法规"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-17",
-      "score": 8,
-      "titleCn": "使用 NVIDIA NeMo Automodel 与 🤗 Diffusers 大规模微调视频和图像模型"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-17",
-      "score": 8,
-      "titleCn": "Databricks 估值 1880 亿美元，续写 AI 领域最受青睐的‘第二幕’"
-    },
-    {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-17",
-      "score": 8,
-      "titleCn": "干预式基础审计：基于谓词替换的黑盒 LLM 思维链前提依赖测试"
-    },
-    {
-      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-      "url": "https://arxiv.org/abs/2607.13172",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-17",
-      "score": 8,
-      "titleCn": "借助世界模型从人类偏好与理由中学习安全的智能体行为"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-17",
-      "score": 7,
-      "titleCn": "AI 时代的记分卡"
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-17",
-      "score": 7,
-      "titleCn": "Cars24 如何借助 OpenAI 扩展对话规模并加速构建"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-17",
-      "score": 7,
-      "titleCn": "苹果计划碾压 OpenAI"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-17",
-      "score": 7,
-      "titleCn": "苹果的大诉讼可能扰乱 OpenAI 的 IPO 计划"
-    },
-    {
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "url": "https://arxiv.org/abs/2607.13073",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-17",
-      "score": 7,
-      "titleCn": "基于 Belnap 类型化内涵一阶逻辑的概率化神经符号 AGI 机器人扩展"
-    },
-    {
-      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
-      "url": "https://www.qbitai.com/2026/07/453211.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-17",
-      "score": 7
-    },
-    {
-      "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
-      "url": "https://www.qbitai.com/2026/07/453352.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-17",
-      "score": 6
-    },
-    {
-      "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
-      "url": "https://www.qbitai.com/2026/07/453245.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-17",
-      "score": 6
     }
   ]
 }
