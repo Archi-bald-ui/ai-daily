@@ -1,0 +1,26 @@
+{
+  "titleCn": "防御者的窗口",
+  "overview": "本文由OpenAI发布，介绍了模型发布后出现的‘防御者窗口’概念——即研究团队与安全社区可在模型被广泛使用前，快速收集反馈、分析风险并部署防御措施的黄金时段。文章阐述窗口期关键任务、监测手段及社区协同实践，为提升AI安全提供思路。",
+  "sections": [
+    {
+      "heading": "防御窗口的概念",
+      "summary": "阐述防御者窗口的定义，说明在模型发布后的一段时间内，防御方拥有优先了解与干预的机会。"
+    },
+    {
+      "heading": "关键任务与监测手段",
+      "summary": "列出窗口期内需完成的安全评估、数据收集、行为审计等核心任务，并介绍相应的技术工具和方法。"
+    },
+    {
+      "heading": "社区协同与实践",
+      "summary": "强调开放协作的重要性，展示社区共享经验、联合响应和安全基准的案例，帮助提升整体防御效能。"
+    }
+  ],
+  "id": "the-defenders-window",
+  "title": "The Defender’s Window",
+  "url": "https://openai.com/index/the-defenders-window",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-17",
+  "hasFullText": false,
+  "generatedAt": "2026-08-18T10:01:34.573307+08:00"
+}
