@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-08-17T09:53:02.719632+08:00",
+  "lastUpdated": "2026-08-18T09:47:14.742953+08:00",
   "articles": [
+    {
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-17",
+      "score": 9
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "相同集群利用率提升33点：改变的是顺序"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "Groq融资3.5亿美元，推动AI芯片向新型云转型"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "Nvidia向软银OpenAI项目数据中心开发商投资15亿美元"
+    },
+    {
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "大型语言模型出现模块化认知架构"
+    },
+    {
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "Agentao：面向工具使用LLM代理的本地优先治理运行时"
+    },
+    {
+      "title": "BCMT: Blockwise Causal Memory Transformer",
+      "url": "https://arxiv.org/abs/2608.13578",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-17",
+      "score": 8,
+      "titleCn": "BCMT：块级因果记忆Transformer"
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-17",
+      "score": 7,
+      "titleCn": "防御者的窗口"
+    },
+    {
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-17",
+      "score": 7,
+      "titleCn": "Anthropic阐释Claude隐形文本水印的工作原理"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-17",
+      "score": 6,
+      "titleCn": "AI搜索模式助你畅享现实的五种方式"
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -2621,84 +2710,6 @@
       "date": "2026-07-19",
       "score": 6,
       "titleCn": "Claude 现在可代您使用 1Password 凭证"
-    },
-    {
-      "title": "这，可能是今年WAIC最惊艳的图片！",
-      "url": "https://www.qbitai.com/2026/07/454049.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-18",
-      "score": 9
-    },
-    {
-      "title": "妙啊！无人机直连卫星传Token",
-      "url": "https://www.qbitai.com/2026/07/453789.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-18",
-      "score": 9
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-18",
-      "score": 7,
-      "titleCn": "美国通过州和联邦行动推进AI安全"
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-18",
-      "score": 7,
-      "titleCn": "Google Vids 两项更新，支持视频创建、编辑与主演"
-    },
-    {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-18",
-      "score": 7,
-      "titleCn": "新型号，同等优势"
-    },
-    {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-07-18",
-      "score": 7,
-      "titleCn": "能源IPO激增，投资者争相布局AI热潮"
-    },
-    {
-      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
-      "url": "https://www.qbitai.com/2026/07/453897.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-18",
-      "score": 7
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-18",
-      "score": 6,
-      "titleCn": "TikTok正测试AI相似度检测工具"
-    },
-    {
-      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-18",
-      "score": 6,
-      "titleCn": "纽约州长称正使用AI分析州内每一条法规"
     }
   ]
 }
