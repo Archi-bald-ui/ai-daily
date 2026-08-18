@@ -1,0 +1,26 @@
+{
+  "titleCn": "同一集群，33点利用率提升：改变的是顺序",
+  "overview": "本文讨论了在同一计算集群上，通过调整请求或批次的处理顺序，使GPU利用率显著提升33个百分点。HuggingFace展示了在推理服务中，如何利用序列长度排序或动态batching等技巧，减少空闲等待，从而最大化硬件吞吐，并提供了实验结果和最佳实践建议，帮助开发者优化部署效率。",
+  "sections": [
+    {
+      "heading": "调度关键：请求顺序对利用率的影响",
+      "summary": "通过将请求按计算负载或序列长度进行排序，可以显著降低GPU等待时间，提高并行度，实现更高的利用率。"
+    },
+    {
+      "heading": "批处理与序列长度排序技巧",
+      "summary": "动态 batching 与序列长度排序相结合，减少padding开销，让更多请求在同一批次中执行，提升整体吞吐。"
+    },
+    {
+      "heading": "实验结果与部署实践建议",
+      "summary": "文中给出实际集群的实验数据，验证33点的利用率提升，并提出如何在生产环境中落地这些调优策略。"
+    }
+  ],
+  "id": "gpu-management-pt2",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-17",
+  "hasFullText": false,
+  "generatedAt": "2026-08-18T09:48:29.748164+08:00"
+}
