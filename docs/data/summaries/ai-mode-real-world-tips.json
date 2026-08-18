@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI模式在搜索中的5种方式帮助你享受真实世界",
+  "overview": "Google搜索的AI模式推出五大功能，旨在将人工智能融入日常生活。通过沉浸式AR实景搜索、即时多语言翻译、情境化生活建议等，让用户在探索真实世界时获得更直观、便捷的帮助，提升旅行、购物和本地生活的体验。",
+  "sections": [
+    {
+      "heading": "沉浸式实景搜索",
+      "summary": "AI模式通过AR技术将搜索结果叠加到真实环境，让你在逛街、旅行时直接看到信息标签和路径指引。"
+    },
+    {
+      "heading": "即时多语言翻译",
+      "summary": "集成神经网络翻译，搜索时即刻呈现多语言解释，帮助在国外点餐、问路或阅读外文资料时消除语言障碍。"
+    },
+    {
+      "heading": "情境化生活建议",
+      "summary": "AI结合用户位置与兴趣，提供附近景点、活动及个性化行程规划，让搜索从信息查询升级为生活助理。"
+    }
+  ],
+  "id": "ai-mode-real-world-tips",
+  "title": "5 ways AI Mode in Search helps you enjoy the real world",
+  "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-17",
+  "hasFullText": false,
+  "generatedAt": "2026-08-18T10:02:12.007265+08:00"
+}
