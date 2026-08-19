@@ -1,0 +1,26 @@
+{
+  "titleCn": "你的 Agent 实际需要多少内存？",
+  "overview": "文章探讨了AI Agent在运行时所需的内存规模，分析了模型参数、上下文窗口、批处理以及硬件配置等关键因素，并提供了实用的内存估算方法和常见的内存优化策略，为开发者在资源规划与性能调优方面提供参考。",
+  "sections": [
+    {
+      "heading": "内存需求的关键因素",
+      "summary": "模型参数量、上下文窗口长度、批处理大小、硬件平台及数据类型共同决定 Agent 的内存占用。"
+    },
+    {
+      "heading": "内存评估与计算方法",
+      "summary": "通过统计参数量、激活值、KV缓存和梯度大小，结合硬件带宽与模型并行策略，估算实际所需显存与内存。"
+    },
+    {
+      "heading": "降低内存占用的常用技巧",
+      "summary": "量化、剪枝、梯度检查点、混合精度计算和分页内存管理可显著削减 Agent 的内存需求。"
+    }
+  ],
+  "id": "altk-evolve-hmm",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-18",
+  "hasFullText": false,
+  "generatedAt": "2026-08-19T10:08:33.545846+08:00"
+}
