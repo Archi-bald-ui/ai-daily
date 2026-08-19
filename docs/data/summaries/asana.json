@@ -1,0 +1,26 @@
+{
+  "titleCn": "Asana 用 Codex 两周完成五年工程工作",
+  "overview": "Asana 通过集成 OpenAI 的 Codex 模型，在两周内完成了原本需要五年才能完成的工程任务。AI 自动生成代码、重构模块和编写测试，显著提升了开发效率，展示了大型语言模型在真实生产环境中的强大助力。",
+  "sections": [
+    {
+      "heading": "AI 代码生成与自动化",
+      "summary": "Codex自动完成代码补全、重构和单元测试，大幅降低手工编码时间，使团队能够专注于更高层次的设计与创新。"
+    },
+    {
+      "heading": "生产力提升的具体表现",
+      "summary": "Asana在两周内完成了原本需要五年的功能开发和缺陷修复，显著压缩交付周期，展示了AI对大规模工程任务的加速效应。"
+    },
+    {
+      "heading": "落地挑战与未来展望",
+      "summary": "虽然Codex提升效率明显，但仍需关注代码质量、安全性和人类监督，以确保AI生成结果符合业务需求并降低潜在风险。"
+    }
+  ],
+  "id": "asana",
+  "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+  "url": "https://openai.com/index/asana",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-18",
+  "hasFullText": false,
+  "generatedAt": "2026-08-19T09:52:47.472468+08:00"
+}
