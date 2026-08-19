@@ -1,0 +1,26 @@
+{
+  "titleCn": "在网络关键能力时代把握模型开发的节奏",
+  "overview": "本文探讨在网络关键能力日益重要的背景下，如何合理把握人工智能模型的研发节奏。文章强调安全合规前置、敏捷迭代与实时监控以及跨学科治理的重要性，并提供实践框架与案例，以帮助组织在保障关键系统安全的同时，快速交付高性能模型。",
+  "sections": [
+    {
+      "heading": "安全合规前置",
+      "summary": "在网络关键环境中，模型研发必须先考虑安全合规要求，建立审计与风险评估机制，确保模型输出不对关键系统产生负面影响。"
+    },
+    {
+      "heading": "持续迭代与实时监控",
+      "summary": "采用敏捷迭代和持续集成，对模型进行持续训练与实时监控，及时发现性能漂移或安全漏洞，确保模型在动态威胁环境中保持有效性。"
+    },
+    {
+      "heading": "跨学科协同治理",
+      "summary": "模型开发需融合安全、政策、伦理等跨学科视角，建立治理框架与多方评审机制，确保技术推进与风险控制同步进行。"
+    }
+  ],
+  "id": "pacing-model-development-cyber-capabilities",
+  "title": "Pacing model development in an era of cyber-critical capabilities",
+  "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-18",
+  "hasFullText": false,
+  "generatedAt": "2026-08-19T10:07:06.957885+08:00"
+}
