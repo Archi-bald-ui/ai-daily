@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-08-19T09:50:50.788094+08:00",
+  "lastUpdated": "2026-08-20T09:51:24.635119+08:00",
   "articles": [
+    {
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "url": "https://arxiv.org/abs/2608.16891",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-19",
+      "score": 8,
+      "titleCn": "运行时治理：Agentic AI 操作边界控制、受信任溯源与故障闭锁执行"
+    },
+    {
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+      "url": "https://arxiv.org/abs/2608.17067",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-19",
+      "score": 8,
+      "titleCn": "DiSCO：通过分布引导的对比提示优化防御文本到图像生成"
+    },
+    {
+      "title": "Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting",
+      "url": "https://arxiv.org/abs/2608.17075",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-19",
+      "score": 8,
+      "titleCn": "Foundation Agents 与自主深度研究结合：证据驱动的临床代码预测"
+    },
+    {
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/475907.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-19",
+      "score": 8
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-19",
+      "score": 7,
+      "titleCn": "为前沿模型提供零数据保留"
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-19",
+      "score": 7,
+      "titleCn": "研究者称 OpenAI 撤销其受限网络项目访问权限"
+    },
+    {
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-19",
+      "score": 7
+    },
+    {
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "url": "https://www.qbitai.com/2026/08/475931.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-19",
+      "score": 7
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-19",
+      "score": 6,
+      "titleCn": "Replit 通过 GPT-5.6 Luna 扩大软件创建权限"
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-19",
+      "score": 6,
+      "titleCn": "帮助华尔街为 AI 算力定价的初创公司"
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-19",
+      "score": 6,
+      "titleCn": "TerraPower 核反应堆拥有为 AI 数据中心供电的秘密武器"
+    },
     {
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "url": "https://openai.com/index/asana",
@@ -2633,103 +2729,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-07-21",
-      "score": 6
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-20",
-      "score": 8,
-      "titleCn": "长时模型时代的安全与对齐"
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-20",
-      "score": 8,
-      "titleCn": "Anthropic 15亿美元版权和解协议获批"
-    },
-    {
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "url": "https://arxiv.org/abs/2607.15314",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-20",
-      "score": 8,
-      "titleCn": "Cura 1T：代理式医疗专用模型"
-    },
-    {
-      "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
-      "url": "https://arxiv.org/abs/2607.15380",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-20",
-      "score": 8,
-      "titleCn": "大语言模型作为统一多模态临床预测学习者"
-    },
-    {
-      "title": "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs",
-      "url": "https://arxiv.org/abs/2607.15498",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-20",
-      "score": 8,
-      "titleCn": "VarRate：免训练可变压缩率 KV 缓存压缩，面向长上下文 LLM"
-    },
-    {
-      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
-      "url": "https://www.qbitai.com/2026/07/455658.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-20",
-      "score": 8
-    },
-    {
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-20",
-      "score": 7,
-      "titleCn": "Cosmos 3 Edge 正式发布"
-    },
-    {
-      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-20",
-      "score": 7,
-      "titleCn": "索尼起诉 Udio AI 音乐生成器的 30,000 首歌曲"
-    },
-    {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-20",
-      "score": 7,
-      "titleCn": "中国对美国 AI 主导的双重打击"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-20",
-      "score": 6,
-      "titleCn": "为何青少年应获得安全的 AI"
-    },
-    {
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "url": "https://www.qbitai.com/2026/07/455805.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-20",
       "score": 6
     }
   ]
