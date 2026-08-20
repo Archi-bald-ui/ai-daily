@@ -1,0 +1,26 @@
+{
+  "titleCn": "为前沿模型提供零数据保留",
+  "overview": "OpenAI 宣布为旗下前沿模型推出零数据保留政策，用户通过 API 发送的请求数据不会被存储或用于模型训练。此举旨在满足高隐私需求的行业，帮助企业在遵守数据合规的同时使用高性能模型。",
+  "sections": [
+    {
+      "heading": "零数据保留的核心机制",
+      "summary": "OpenAI 对前沿模型的 API 请求实行即时删除，日志不会被保存，亦不用于模型再训练，确保用户数据不在服务器留下痕迹。"
+    },
+    {
+      "heading": "对企业与开发者的价值",
+      "summary": "企业可在不泄露商业机密和用户隐私的前提下使用高性能模型，提升产品竞争力，同时满足金融、医疗等行业的合规要求。"
+    },
+    {
+      "heading": "使用流程与保障措施",
+      "summary": "用户只需在 API 调用时开启零保留选项，系统即会自动在请求结束后删除数据，并提供删除证明，满足企业的审计需求。"
+    }
+  ],
+  "id": "offering-zero-data-retention-for-frontier-models",
+  "title": "Offering Zero Data Retention for frontier models",
+  "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-19",
+  "hasFullText": false,
+  "generatedAt": "2026-08-20T10:13:40.213174+08:00"
+}
