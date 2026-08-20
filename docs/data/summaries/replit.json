@@ -1,0 +1,26 @@
+{
+  "titleCn": "Replit 联手 GPT-5.6 Luna 降低软件创作门槛",
+  "overview": "Replit 宣布在其云 IDE 平台集成 OpenAI 最新的大语言模型 GPT‑5.6 Luna，用户可通过自然语言描述快速生成代码、调试并部署应用。此番合作把 AI 编程能力直接嵌入创作环境，让无深厚编程背景的用户也能轻松构建功能完整的产品，同时提升专业开发者的工作效率。",
+  "sections": [
+    {
+      "heading": "AI 大模型驱动代码生成",
+      "summary": "通过自然语言指令，GPT‑5.6 Luna 可在 Replit 环境中即时生成、可运行代码片段，显著缩短从想法到实现的时间。"
+    },
+    {
+      "heading": "降低创作门槛",
+      "summary": "即使没有编程背景，用户也能通过对话式描述在 Replit 完成页面、后端服务等完整功能的构建。"
+    },
+    {
+      "heading": "生态整合与平台升级",
+      "summary": "Replit 将 Luna 模型深度嵌入编辑器，提供实时错误检查、自动补全和部署支持，帮助开发者快速迭代并提升整体工作效率。"
+    }
+  ],
+  "id": "replit",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "url": "https://openai.com/index/replit",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-19",
+  "hasFullText": false,
+  "generatedAt": "2026-08-20T10:15:49.541569+08:00"
+}
