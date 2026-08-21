@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 发布 AI Futures",
+  "overview": "本文概述了 OpenAI 最新发布的 AI Futures 项目，旨在通过专项资助、跨学科合作和开放平台，推动前沿人工智能技术的探索与应用。文章介绍了项目的核心方向、参与方式以及预期成果，为研究者和开发者提供全新机遇。",
+  "sections": [
+    {
+      "heading": "项目概览与目标",
+      "summary": "AI Futures 旨在构建长期、可持续的AI技术生态，重点支持前沿模型、安全性、可解释性等关键方向，推动跨学科协同创新。"
+    },
+    {
+      "heading": "资助与合作模式",
+      "summary": "项目提供多层次资助，包括研究经费、计算资源和数据支持，鼓励学术界、企业和独立研究者合作共建共享。"
+    },
+    {
+      "heading": "参与路径与资源",
+      "summary": "感兴趣的研究者可在官网页面提交申请，经过评审后获准加入，获取专项资源与社区支持，同时享有线上研讨会、代码库和技术文档等配套服务。"
+    }
+  ],
+  "id": "introducing-ai-futures",
+  "title": "Introducing AI Futures",
+  "url": "https://openai.com/index/introducing-ai-futures",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-20",
+  "hasFullText": false,
+  "generatedAt": "2026-08-21T10:14:10.008308+08:00"
+}
