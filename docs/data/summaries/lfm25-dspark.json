@@ -1,0 +1,26 @@
+{
+  "titleCn": "最高 3.2 倍推理加速：LFM2.5‑DSpark",
+  "overview": "本文介绍了 LFM2.5‑DSpark 在推理阶段的全新优化，通过算子融合、混合精度与资源调度等技术，实现了最高 3.2 倍的推理加速，并保持与主流 Transformers API 的兼容，简化部署流程，适合大规模在线服务与离线批量推理。在保持模型精度的前提下，为开发者和企业用户带来显著的性能提升和成本节约。",
+  "sections": [
+    {
+      "heading": "推理加速核心机制",
+      "summary": "通过算子融合、混合精度与资源调度等底层优化，显著提升模型推理吞吐量，实现最高 3.2 倍加速。"
+    },
+    {
+      "heading": "易用性与兼容性",
+      "summary": "兼容 Hugging Face Transformers 接口，提供简洁的加载与部署方式，无需额外代码改动即可体验加速。"
+    },
+    {
+      "heading": "性能实测与适用场景",
+      "summary": "在图像分类、自然语言生成等常见任务上测得显著加速，适用于高并发在线服务和大规模离线批处理。"
+    }
+  ],
+  "id": "lfm25-dspark",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-20",
+  "hasFullText": false,
+  "generatedAt": "2026-08-21T09:56:51.929222+08:00"
+}
