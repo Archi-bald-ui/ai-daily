@@ -1,0 +1,26 @@
+{
+  "titleCn": "多向量（后期交互）嵌入模型与 Sentence Transformers",
+  "overview": "本文介绍了多向量嵌入模型在句子级表示中的最新实现，重点阐述了延迟交互（Late Interaction）机制如何在不同粒度的向量之间进行动态匹配，以提升检索和语义相似度任务的精度。通过与 Sentence Transformers 库的集成，开发者可以轻松切换单向量与多向量模式，获得更细粒度的语义编码，同时保持较高的推理效率。",
+  "sections": [
+    {
+      "heading": "多向量嵌入的原理",
+      "summary": "与传统的单向量模型不同，多向量方法为每个 token 或子句生成独立的向量，使模型能够捕获更丰富的局部信息，避免信息压缩导致的语义丢失。"
+    },
+    {
+      "heading": "延迟交互机制",
+      "summary": "延迟交互在查询与文档之间不直接做全局相似度计算，而是通过交互层在局部向量上进行细粒度匹配，显著提升跨段落和长文本的检索效果。"
+    },
+    {
+      "heading": "与 Sentence Transformers 的结合",
+      "summary": "库提供统一的 API，支持一键切换多向量模式并利用延迟交互模块，帮助研究者和工程师在保持易用性的同时，获取更精准的语义相似度评估。"
+    }
+  ],
+  "id": "multi-vector-encoder",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "url": "https://huggingface.co/blog/multi-vector-encoder",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-20",
+  "hasFullText": false,
+  "generatedAt": "2026-08-21T09:57:21.681184+08:00"
+}
