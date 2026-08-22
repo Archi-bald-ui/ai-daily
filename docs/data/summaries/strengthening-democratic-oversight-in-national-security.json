@@ -1,0 +1,26 @@
+{
+  "titleCn": "加强国家安全领域的民主监督",
+  "overview": "本文探讨在国家安全决策中如何强化民主监督，聚焦AI技术的透明性、责任划分与公众参与，并提出制度、立法与技术层面的具体改进建议，以防止权力滥用并提升治理可信度，促进民主价值的实现。",
+  "sections": [
+    {
+      "heading": "监督机制的制度创新",
+      "summary": "文章指出应设立独立的国家安全监督机构，通过公开报告、审计和公众质询等方式，实现对情报与AI系统的全程监管。"
+    },
+    {
+      "heading": "技术与透明度的协同",
+      "summary": "文章强调AI模型在国家安全中的使用必须具备可解释性，并要求政府披露算法决策依据，防止暗箱操作。"
+    },
+    {
+      "heading": "公众参与与立法保障",
+      "summary": "作者呼吁通过立法保障公众在安全政策制定中的知情权和监督权，并设立多方协商平台提升治理的民主合法性。"
+    }
+  ],
+  "id": "strengthening-democratic-oversight-in-national-security",
+  "title": "Strengthening democratic oversight in national security",
+  "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-21",
+  "hasFullText": false,
+  "generatedAt": "2026-08-22T09:59:50.786225+08:00"
+}
