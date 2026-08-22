@@ -1,0 +1,26 @@
+{
+  "titleCn": "Stampli 利用 ChatGPT Work 将上线时间缩短 68%",
+  "overview": "Stampli 采用 OpenAI 的 ChatGPT Work，对发票处理和审批等日常流程进行自动化，显著压缩了新功能上线所需时间，降幅约 68%。该案例展示了生成式 AI 在企业工作流中的实际价值，帮助团队减少人工投入、加快迭代速度并保持高质量输出。",
+  "sections": [
+    {
+      "heading": "自动化工作流集成",
+      "summary": "Stampli 将 ChatGPT Work 嵌入发票处理与审批流程，实现任务自动生成与审查，并通过实时建议大幅降低人工干预，提升整体效率。"
+    },
+    {
+      "heading": "上线时间大幅压缩",
+      "summary": "借助 AI 辅助的脚本生成与错误检查，新功能从准备到上线的时间显著下降约 68%，团队可更快响应业务需求。"
+    },
+    {
+      "heading": "提升协作与质量",
+      "summary": "生成式 AI 提供即时建议和文档，自动生成操作指南，帮助团队成员快速对齐，降低沟通成本并保持高质量输出。"
+    }
+  ],
+  "id": "stampli",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "url": "https://openai.com/index/stampli",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-21",
+  "hasFullText": false,
+  "generatedAt": "2026-08-22T09:57:47.903648+08:00"
+}
