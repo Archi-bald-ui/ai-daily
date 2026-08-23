@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-08-22T09:48:33.612132+08:00",
+  "lastUpdated": "2026-08-23T09:56:18.199963+08:00",
   "articles": [
+    {
+      "title": "Welcome to the AI crisis in math",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-22",
+      "score": 8,
+      "titleCn": "欢迎来到数学领域的AI危机"
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-22",
+      "score": 8,
+      "titleCn": "OpenAI 踩下刹车，接下来怎么办？"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-22",
+      "score": 8,
+      "titleCn": "Inherent（DeepMind 前员工创立）称其AI‘搭档’在复现研究中超越Anthropic与OpenAI"
+    },
+    {
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "url": "https://www.qbitai.com/2026/08/477253.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-22",
+      "score": 8
+    },
+    {
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "url": "https://www.qbitai.com/2026/08/477016.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-22",
+      "score": 8
+    },
+    {
+      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "url": "https://www.qbitai.com/2026/08/477246.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-22",
+      "score": 7
+    },
     {
       "title": "Measuring benchmark optimization in speech recognition",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
@@ -2593,111 +2644,6 @@
       "date": "2026-07-24",
       "score": 6,
       "titleCn": "与埃芬汉县社区合作建设 AI 基础设施"
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "ChatGPT 推出健康功能"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "AMD 以 Helios AI 机架级系统挑战 Nvidia"
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "OpenAI 为所有美国用户推出 ChatGPT 健康功能"
-    },
-    {
-      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "url": "https://arxiv.org/abs/2607.19349",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "FineServe：全球 LLM 服务工作负载的细粒度数据集与特征分析"
-    },
-    {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "url": "https://arxiv.org/abs/2607.19353",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "NVIDIA H100 在 Intel TDX 环境下的机密 GPU 推理基准测试"
-    },
-    {
-      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2607.19356",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-23",
-      "score": 8,
-      "titleCn": "NEXUS：为使用工具的 LLM 代理提供结构化运行时安全"
-    },
-    {
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "url": "https://www.qbitai.com/2026/07/457537.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-23",
-      "score": 8
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-23",
-      "score": 7,
-      "titleCn": "Galaxy Unpacked 2026 的三项 Google 更新"
-    },
-    {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-23",
-      "score": 7,
-      "titleCn": "Nunchaku 4 位扩散推理登陆 Diffusers"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-23",
-      "score": 7,
-      "titleCn": "AI 护栏阻碍进攻性网络安全研究"
-    },
-    {
-      "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
-      "url": "https://www.qbitai.com/2026/07/457792.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-23",
-      "score": 7
-    },
-    {
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
-      "url": "https://www.qbitai.com/2026/07/457469.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-23",
-      "score": 7
     }
   ]
 }
