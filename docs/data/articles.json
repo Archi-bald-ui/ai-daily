@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-08-23T09:56:18.199963+08:00",
+  "lastUpdated": "2026-08-24T09:54:18.374879+08:00",
   "articles": [
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-23",
+      "score": 8,
+      "titleCn": "现在是格雷格·布罗克曼的 OpenAI"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-23",
+      "score": 8,
+      "titleCn": "在版权书籍上训练 AI 模型是否合法？情况很复杂"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-23",
+      "score": 8,
+      "titleCn": "OpenAI 表示加州应加强其人工智能安全法案"
+    },
+    {
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-23",
+      "score": 7
+    },
+    {
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "url": "https://www.qbitai.com/2026/08/478164.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-23",
+      "score": 7
+    },
+    {
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "url": "https://www.qbitai.com/2026/08/478093.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-23",
+      "score": 7
+    },
     {
       "title": "Welcome to the AI crisis in math",
       "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
@@ -2557,93 +2608,6 @@
       "date": "2026-07-25",
       "score": 6,
       "titleCn": "推出面向小型企业的 ChatGPT 计划"
-    },
-    {
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-24",
-      "score": 8,
-      "titleCn": "Anthropic 发布 Opus 5，能力接近 Fable 5"
-    },
-    {
-      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
-      "url": "https://arxiv.org/abs/2607.20467",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-24",
-      "score": 8,
-      "titleCn": "DC-Leap：无需训练的 dLLM 加速——草稿引导的连续跳跃解码"
-    },
-    {
-      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-      "url": "https://arxiv.org/abs/2607.20468",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-24",
-      "score": 8,
-      "titleCn": "InferenceBench：面向 AI 智能体的开放式 LLM 推理优化基准"
-    },
-    {
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-24",
-      "score": 8
-    },
-    {
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "url": "https://www.qbitai.com/2026/07/458617.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-24",
-      "score": 8
-    },
-    {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-24",
-      "score": 7,
-      "titleCn": "Meta 将其 AI 聊天机器人打造得更像助手"
-    },
-    {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-24",
-      "score": 7,
-      "titleCn": "Alexa Plus 将获得 AI 更新，以处理更复杂的指令"
-    },
-    {
-      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-      "url": "https://arxiv.org/abs/2607.20452",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-24",
-      "score": 7,
-      "titleCn": "AINTMA：面向自主测试管理的智能体 AI 架构，集成生成式智能、安全云通信和自适应质量分析"
-    },
-    {
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "url": "https://www.qbitai.com/2026/07/459262.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-24",
-      "score": 7
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-24",
-      "score": 6,
-      "titleCn": "与埃芬汉县社区合作建设 AI 基础设施"
     }
   ]
 }
