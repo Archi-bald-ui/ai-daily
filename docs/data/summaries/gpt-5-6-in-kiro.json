@@ -1,0 +1,26 @@
+{
+  "titleCn": "在 Kiro 中使用 GPT‑5.6 提升开发者性价比",
+  "overview": "OpenAI 在 Kiro 平台集成最新模型 GPT‑5.6，专为开发者优化成本与性能。该模型在保持高精度的同时显著降低推理费用，并提升响应速度，让构建 AI 应用更具成本效益。文章介绍了新模型的核心改进、在 Kiro 上的使用方式以及开发者可以获得的实际收益。",
+  "sections": [
+    {
+      "heading": "性价比提升的核心技术",
+      "summary": "GPT‑5.6 采用全新轻量化结构和混合量化技术，在保持高精度的同时显著降低算力消耗和推理成本，实现更高性价比。"
+    },
+    {
+      "heading": "Kiro 平台的集成与易用性",
+      "summary": "Kiro 通过统一 API 与 SDK 支持 GPT‑5.6 的快速接入，开发者无需额外优化即可获得低延迟服务，显著提升开发效率并降低运维负担。"
+    },
+    {
+      "heading": "成本降低与实际收益",
+      "summary": "对比上一代模型，GPT‑5.6 在 Kiro 上的推理费用下降约一半，同时保持同等质量，为开发者带来显著的成本节约与更高的投资回报。"
+    }
+  ],
+  "id": "gpt-5-6-in-kiro",
+  "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+  "url": "https://openai.com/index/gpt-5-6-in-kiro",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-24",
+  "hasFullText": false,
+  "generatedAt": "2026-08-25T10:00:31.713939+08:00"
+}
