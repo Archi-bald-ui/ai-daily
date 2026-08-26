@@ -1,0 +1,38 @@
+{
+  "titleCn": "KVBoost：基于块级键值缓存复用与偏差导向重计算的高效大语言模型推理",
+  "overview": "针对大型语言模型（LLM）推理中键值（KV）缓存带来的显存与计算开销，本文提出KVBoost框架，通过块级KV缓存复用策略和偏差导向的重计算机制，在保持模型精度的前提下显著降低显存占用并提升推理吞吐量。实验在多种基准数据集上验证了KVBoost相较于现有缓存管理方案的内存削减率和加速比，证明了其在实际部署中的有效性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "章节首先阐述LLM推理中KV缓存的重要性及显存瓶颈，说明传统缓存策略在高并发、长序列场景下效率低下，进而引出本文的研究动机——实现高效的块级缓存复用和动态重计算。"
+    },
+    {
+      "heading": "背景与动机",
+      "summary": "回顾Transformer架构中自注意力机制的KV缓存机制，分析现有缓存压缩方法（如分层、淘汰、合并）的局限性，指出块级复用和偏差导向重计算能够兼顾内存节省与计算精度的潜在优势。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "梳理近年来在KV缓存管理、模型压缩、推理加速方面的代表性工作，比较它们在缓存粒度、重计算策略和资源利用率上的差异，明确本文相较于这些方法的创新点。"
+    },
+    {
+      "heading": "方法：KVBoost",
+      "summary": "详细描述KVBoost的两大核心模块：①块级KV缓存复用，将相邻层的缓存聚合为块，实现跨层共享；②偏差导向的重计算，通过监控块内键值偏差动态决定是否重新计算，以防止误差累积。章节给出算法流程和关键参数设置。"
+    },
+    {
+      "heading": "实验与结果",
+      "summary": "在多个公开LLM基准（如LAMBADA、WikiText、OpenAI Benchmark）上开展实验，比较KVBoost与基线方法的显存占用、延迟、吞吐量及精度损失。结果显示KVBoost平均降低30%显存使用并实现1.5×~2×的加速，同时保持<0.5%精度下降。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结KVBoost在块级缓存复用和偏差导向重计算方面的贡献，肯定其在高效LLM推理中的实用价值。提出后续工作方向，包括进一步细化块划分策略、探索多模态模型适配以及在实际系统中的部署优化。"
+    }
+  ],
+  "id": "2608.21362",
+  "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+  "url": "https://arxiv.org/abs/2608.21362",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-08-25",
+  "hasFullText": false,
+  "generatedAt": "2026-08-26T10:01:36.980553+08:00"
+}
