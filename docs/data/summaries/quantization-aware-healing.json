@@ -1,0 +1,26 @@
+{
+  "titleCn": "量化感知修复：压缩至4位且超越全精度原模型",
+  "overview": "本文介绍一种名为“量化感知修复”的技术，通过在训练阶段引入量化误差反馈与修复机制，使4位压缩模型在保持极低资源消耗的同时，能够超越全精度原模型的性能。方法结合了感知量化和微调修复两大步骤，验证了压缩模型在多种任务上的有效性，并为边缘部署提供了新思路。",
+  "sections": [
+    {
+      "heading": "量化感知修复原理",
+      "summary": "在训练时将量化误差作为额外损失，引导网络主动修复因低比特导致的精度下降，使模型在极低位宽下仍保持表达能力。"
+    },
+    {
+      "heading": "4位压缩模型性能逆袭",
+      "summary": "通过量化感知修复，4位模型在多项基准测试中不仅追平甚至超越全精度模型，展现显著的压缩效益。"
+    },
+    {
+      "heading": "部署前景与实用价值",
+      "summary": "极致压缩显著降低显存与算力需求，为在移动端、嵌入式设备上部署大模型提供可行路径，推动AI落地。"
+    }
+  ],
+  "id": "quantization-aware-healing",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-25",
+  "hasFullText": false,
+  "generatedAt": "2026-08-26T09:58:42.527308+08:00"
+}
