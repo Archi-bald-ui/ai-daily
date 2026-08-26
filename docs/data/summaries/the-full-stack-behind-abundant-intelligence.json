@@ -1,0 +1,26 @@
+{
+  "titleCn": "丰盈智能背后的完整技术栈",
+  "overview": "本文探讨实现‘丰盈智能’所需的完整技术栈，涵盖数据采集与治理、模型训练与优化、硬件加速、推理部署以及运维监控等关键环节，并分享在规模化落地过程中常见的挑战与最佳实践。",
+  "sections": [
+    {
+      "heading": "全栈技术全景",
+      "summary": "从数据获取、特征工程、模型研发、推理加速到线上监控，实现端到端的智能化，构建完整的技术闭环体系。"
+    },
+    {
+      "heading": "硬件加速与算力优化",
+      "summary": "解析GPU、TPU等专用加速器的架构特点，讨论算力调度、内存带宽和能耗管理的协同优化策略，以提升训练和推理效率。"
+    },
+    {
+      "heading": "模型与数据的协同治理",
+      "summary": "强调高质量数据、特征平台、模型版本化管理及持续训练流程的紧密配合，探讨数据漂移、模型可解释性和合规审计的最佳实践。"
+    }
+  ],
+  "id": "the-full-stack-behind-abundant-intelligence",
+  "title": "The full stack behind abundant intelligence",
+  "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-25",
+  "hasFullText": false,
+  "generatedAt": "2026-08-26T10:09:12.172748+08:00"
+}
