@@ -1,0 +1,26 @@
+{
+  "titleCn": "Jalapeño 的首批结果显示其在 AI 推理中具备行业领先的速度和效率",
+  "overview": "OpenAI 公布其自研 AI 推理平台 Jalapeño 的首批实验结果，展现出在行业基准测试中领先的速度和能效表现。该平台通过硬件与算法协同优化，实现了低延迟、高吞吐的推理能力，为大规模 AI 应用提供更经济的部署方案。",
+  "sections": [
+    {
+      "heading": "创新推理架构",
+      "summary": "Jalapeño 采用专为推理设计的全新内核，结合并行计算与内存优化，实现业界领先的吞吐量与低延迟。"
+    },
+    {
+      "heading": "能效显著提升",
+      "summary": "通过硬件与算法协同优化，Jalapeño 在功耗显著降低的同时保持高性能，为大规模部署提供更低成本。"
+    },
+    {
+      "heading": "生态合作与落地",
+      "summary": "OpenAI 正在与云服务商和硬件厂商合作，提供即插即用的部署方案，让开发者快速在生产环境中使用 Jalapeño。"
+    }
+  ],
+  "id": "jalapeno-first-results",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-25",
+  "hasFullText": false,
+  "generatedAt": "2026-08-26T09:58:05.277630+08:00"
+}
