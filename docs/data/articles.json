@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-25T09:48:44.993444+08:00",
+  "lastUpdated": "2026-08-26T09:54:52.247830+08:00",
   "articles": [
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-25",
+      "score": 8,
+      "titleCn": "Jalapeño的首批结果显示其在AI推理中具备行业领先的速度和效率"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-25",
+      "score": 8,
+      "titleCn": "量化感知修复：压缩至4位、超越全精度原版的模型"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-25",
+      "score": 8,
+      "titleCn": "基准测试显示，OpenAI的Jalapeño芯片专为大规模快速推理而打造"
+    },
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-25",
+      "score": 8,
+      "titleCn": "KVBoost：基于偏差引导重计算的块级键值缓存复用，提升大型语言模型推理效率"
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-25",
+      "score": 8,
+      "titleCn": "审视模型崩塌与应对策略"
+    },
+    {
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-25",
+      "score": 7,
+      "titleCn": "OpenAI称其Jalapeño芯片可提供比竞争对手更快的AI响应"
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-25",
+      "score": 7,
+      "titleCn": "Claude Cowork终于记住了你在聊天中对该应用说的话"
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-25",
+      "score": 7,
+      "titleCn": "AIREP：用于AI运行时治理的逐决策证据协议"
+    },
+    {
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "url": "https://www.qbitai.com/2026/08/479314.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-25",
+      "score": 7
+    },
+    {
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "url": "https://www.qbitai.com/2026/08/479192.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-25",
+      "score": 7
+    },
+    {
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "url": "https://www.qbitai.com/2026/08/479096.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-25",
+      "score": 7
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-25",
+      "score": 6,
+      "titleCn": "丰盈智能背后的完整技术栈"
+    },
     {
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -2548,57 +2653,6 @@
       "category": "中文资讯",
       "date": "2026-07-27",
       "score": 6
-    },
-    {
-      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-      "url": "https://www.qbitai.com/2026/07/461149.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-26",
-      "score": 7
-    },
-    {
-      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-      "url": "https://www.qbitai.com/2026/07/460962.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-26",
-      "score": 7
-    },
-    {
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "url": "https://www.qbitai.com/2026/07/460253.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-26",
-      "score": 7
-    },
-    {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-26",
-      "score": 6,
-      "titleCn": "将更多应用接入搜索"
-    },
-    {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-26",
-      "score": 6,
-      "titleCn": "开启英国生产力新纪元：打造AI先锋之国"
-    },
-    {
-      "title": "The tech-broification of American science has officially begun",
-      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-26",
-      "score": 6,
-      "titleCn": "美国科学的‘技术兄弟’化已正式启动"
     }
   ]
 }
