@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用Sentence Transformers训练和微调多向量嵌入模型",
+  "overview": "本文介绍如何使用Sentence Transformers库训练和微调多向量嵌入模型，涵盖数据准备、模型结构选择、对比学习损失函数设置以及微调过程中的常见技巧。通过实际案例展示模型在语义相似度、检索等任务上的显著提升，并给出常见问题的解决方案。",
+  "sections": [
+    {
+      "heading": "多向量嵌入的概念与优势",
+      "summary": "解释多向量嵌入如何在同一模型中捕获多种语义关系，提升句子表示的丰富度和检索精度。"
+    },
+    {
+      "heading": "训练流程与关键配置",
+      "summary": "详细说明从数据加载、批处理、损失函数（如对比损失）到训练参数（学习率、epoch）的完整流程。"
+    },
+    {
+      "heading": "微调技巧与评估方法",
+      "summary": "分享冻结部分层、使用标签平滑、调节温度参数以及在标准基准上评估模型性能的实用经验。"
+    }
+  ],
+  "id": "train-multi-vector-encoder",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-26",
+  "hasFullText": false,
+  "generatedAt": "2026-08-27T17:37:27.954499+08:00"
+}
