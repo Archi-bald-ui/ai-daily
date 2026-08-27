@@ -1,0 +1,26 @@
+{
+  "titleCn": "Granite 4.2 大语言模型：它们是如何构建的",
+  "overview": "本文深入解析IBM研究院的Granite4.2大语言模型构建细节，涵盖从模型架构创新、训练数据处理与多阶段微调流程、到硬件协同与推理优化等关键环节，并展示模型在多个自然语言理解基准上的表现与开源资源。",
+  "sections": [
+    {
+      "heading": "模型架构创新",
+      "summary": "Granite4.2在Transformer基础上引入稀疏注意力与参数共享机制，降低计算成本的同时保持长上下文建模能力。"
+    },
+    {
+      "heading": "训练流程与数据策略",
+      "summary": "从大规模预训练到指令微调，Granite4.2采用多阶段清洗、去重和语言平衡策略，配合硬件资源调度实现高效训练。"
+    },
+    {
+      "heading": "性能评估与开源资源",
+      "summary": "在多项自然语言理解基准上对比测试，Granite4.2表现突出，并提供预训练权重、推理代码及部署指南，方便社区快速复现与应用。"
+    }
+  ],
+  "id": "granite-4-2",
+  "title": "Granite 4.2 LLMs: How They're Built",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-26",
+  "hasFullText": false,
+  "generatedAt": "2026-08-27T17:38:34.098079+08:00"
+}
