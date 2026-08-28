@@ -1,0 +1,26 @@
+{
+  "titleCn": "支持泰国下一代AI创业公司",
+  "overview": "OpenAI 日前在泰国正式启动下一代 AI 创业公司支持计划，旨在通过提供模型 API 折扣、专业技术培训、行业导师辅导以及资本对接等资源，帮助本土 AI 创业企业快速成长，构建更具活力的创新生态。",
+  "sections": [
+    {
+      "heading": "技术资源与模型接入",
+      "summary": "为泰国AI创业公司提供OpenAI API折扣或免费配额，降低技术门槛，加速产品原型验证。"
+    },
+    {
+      "heading": "导师培训与行业指导",
+      "summary": "邀请全球 AI 专家和成功创业者担任导师，提供技术路线、产品打磨、商业化策略等一对一辅导。"
+    },
+    {
+      "heading": "资本对接与合作机会",
+      "summary": "搭建与风险投资、企业合作伙伴的对接平台，为优秀项目提供早期融资、概念验证和市场推广支持。"
+    }
+  ],
+  "id": "supporting-next-generation-ai-startups-thailand",
+  "title": "Supporting Thailand’s next generation of AI startups",
+  "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-27",
+  "hasFullText": false,
+  "generatedAt": "2026-08-28T19:26:20.644558+08:00"
+}
