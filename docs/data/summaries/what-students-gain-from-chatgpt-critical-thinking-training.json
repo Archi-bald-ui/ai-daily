@@ -1,0 +1,26 @@
+{
+  "titleCn": "更好的答案，更广阔的思维：学生在ChatGPT和批判性思维训练中获得什么",
+  "overview": "本文探讨学生在使用ChatGPT进行学习时，如何结合批判性思维训练提升答案质量、拓展思考视野，并介绍课堂实践案例，展示AI与思维培养融合的教育价值，帮助学生形成更系统、创新解决问题的能力。",
+  "sections": [
+    {
+      "heading": "ChatGPT 作为学习伙伴",
+      "summary": "通过生成多样答案、提供即时反馈，帮助学生快速探索问题、激发思考，并提升信息获取效率。"
+    },
+    {
+      "heading": "批判性思维训练",
+      "summary": "引导学生评估AI生成内容的可信度、逻辑漏洞，并练习重构问题、设计追问，从而培养独立思考能力。"
+    },
+    {
+      "heading": "课堂融合案例与成效",
+      "summary": "介绍多校实践案例，展示AI写作辅助与思维训练相结合后，学生答案质量提升、批判性思维评分提高的具体数据与经验。"
+    }
+  ],
+  "id": "what-students-gain-from-chatgpt-critical-thinking-training",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-27",
+  "hasFullText": false,
+  "generatedAt": "2026-08-28T19:19:03.293755+08:00"
+}
