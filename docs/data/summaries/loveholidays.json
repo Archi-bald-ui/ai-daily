@@ -1,0 +1,26 @@
+{
+  "titleCn": "爱假期如何借助 Codex 让每个人成为构建者",
+  "overview": "本文介绍旅游平台 loveholidays 如何结合 OpenAI Codex，让非技术员工通过自然语言指令快速生成业务代码，实现低代码化的应用构建，显著提升产品迭代效率并降低开发门槛。",
+  "sections": [
+    {
+      "heading": "自然语言生成代码",
+      "summary": "Codex 将业务需求描述转化为可执行的代码片段，使非程序员也能快速获取所需功能并提升工作效率。"
+    },
+    {
+      "heading": "非技术员工也能构建",
+      "summary": "通过可视化交互界面，市场、运营等部门自行搭建仪表盘和运营工具，降低对专业开发资源的依赖。"
+    },
+    {
+      "heading": "加速产品迭代",
+      "summary": "内部实验显示功能上线周期缩短数倍，团队可将更多精力投入到创新和用户体验优化，显著提升业务竞争力。"
+    }
+  ],
+  "id": "loveholidays",
+  "title": "How loveholidays is making everyone a builder with Codex",
+  "url": "https://openai.com/index/loveholidays",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-27",
+  "hasFullText": false,
+  "generatedAt": "2026-08-28T19:27:09.992336+08:00"
+}
