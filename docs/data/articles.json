@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-27T17:33:39.423422+08:00",
+  "lastUpdated": "2026-08-28T19:17:32.002801+08:00",
   "articles": [
+    {
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-27",
+      "score": 8,
+      "titleCn": "英伟达即将成为每季度收入千亿美元的公司"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-27",
+      "score": 8,
+      "titleCn": "OpenAI、Anthropic、Google 以及其他 100 家公司呼吁采取行动防御失控 AI"
+    },
+    {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-27",
+      "score": 8,
+      "titleCn": "Claude、Codex 与 Hermes 在企业内部网络中植入无主代码"
+    },
+    {
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "url": "https://www.qbitai.com/2026/08/480223.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-27",
+      "score": 8
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-27",
+      "score": 7,
+      "titleCn": "更好答案，更广思维：学生使用 ChatGPT 与批判性思维训练的收获"
+    },
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-27",
+      "score": 7,
+      "titleCn": "EduRiskX：一种基于 F‑Logic 推理的神经符号框架，用于早期学业风险预测"
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-27",
+      "score": 7,
+      "titleCn": "独立 LLM 与预定义代理管道用于解释 ICU 死亡预测：基于 eICU Demo 数据集的可行性研究"
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-27",
+      "score": 7,
+      "titleCn": "PICasso：一种支持 AI 的设计框架，用于自主优化硅光子器件"
+    },
+    {
+      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "url": "https://www.qbitai.com/2026/08/480600.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-27",
+      "score": 7
+    },
+    {
+      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+      "url": "https://www.qbitai.com/2026/08/480227.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-27",
+      "score": 7
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-27",
+      "score": 6,
+      "titleCn": "支持泰国下一代 AI 创业公司"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-27",
+      "score": 6,
+      "titleCn": "loveholidays 如何借助 Codex 让每个人成为构建者"
+    },
     {
       "title": "Nvidia closes in on Hugging Face acquisition",
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
@@ -2567,111 +2672,6 @@
       "category": "中文资讯",
       "date": "2026-07-29",
       "score": 6
-    },
-    {
-      "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
-      "url": "https://www.qbitai.com/2026/07/461911.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-28",
-      "score": 9
-    },
-    {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "OlmoEarth平台：行星级地理空间推理"
-    },
-    {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "LFM2.5-Encoders：CPU 上快速长上下文推理"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "Frontier Lab 代理入侵剖析：2026 年 7 月技术时间线"
-    },
-    {
-      "title": "Why China is giving away its best AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "中国为何免费提供最优秀的 AI 模型"
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "Nvidia、Microsoft 发起开放 AI 安全联盟，OpenAI、Google、Anthropic 未参与"
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "Cyera 同意以 10 亿美元收购 Oasis Security，保障 AI 代理安全"
-    },
-    {
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "url": "https://arxiv.org/abs/2607.22554",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "同一问题不同答案：从准确性之外评估 LLM 可靠性"
-    },
-    {
-      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-      "url": "https://arxiv.org/abs/2607.22555",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-28",
-      "score": 8,
-      "titleCn": "DeepLens 诊断智能体：代理工作流设计让小型推理模型挑战前沿 LLM"
-    },
-    {
-      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
-      "url": "https://www.qbitai.com/2026/07/461827.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-28",
-      "score": 8
-    },
-    {
-      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
-      "url": "https://www.qbitai.com/2026/07/461650.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-28",
-      "score": 8
-    },
-    {
-      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-      "url": "https://arxiv.org/abs/2607.22544",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-28",
-      "score": 7,
-      "titleCn": "基于概念的视觉反事实解释：Diffusion 模型"
     }
   ]
 }
