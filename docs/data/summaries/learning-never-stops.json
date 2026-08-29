@@ -1,0 +1,26 @@
+{
+  "titleCn": "学习永不止步：AI如何让学习持续进行",
+  "overview": "本文探讨人工智能在教育中的角色，阐述AI如何通过数据洞察、个性化推荐和实时反馈，将学习从一次性事件转变为持续过程。文章结合实际案例，展示AI在自适应平台、学习路径优化和终身学习生态中的创新应用，帮助读者了解AI赋能学习的未来趋势。",
+  "sections": [
+    {
+      "heading": "AI驱动的个性化学习",
+      "summary": "AI通过分析学习者的兴趣与薄弱环节，实时生成定制化学习路径和资源推荐，显著提升学习效率与动力。"
+    },
+    {
+      "heading": "实时反馈与评估机制",
+      "summary": "AI在学习过程中提供即时评估和错误诊断，帮助学习者快速纠正并巩固知识，实现学习的闭环。"
+    },
+    {
+      "heading": "构建终身学习生态系统",
+      "summary": "AI结合大数据与社区交互，推动跨学科、跨场景的学习平台，实现个人与组织的持续成长。"
+    }
+  ],
+  "id": "learning-never-stops",
+  "title": "Learning never stops: How AI makes learning continuous",
+  "url": "https://openai.com/index/learning-never-stops",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-28",
+  "hasFullText": false,
+  "generatedAt": "2026-08-29T15:01:31.542074+08:00"
+}
