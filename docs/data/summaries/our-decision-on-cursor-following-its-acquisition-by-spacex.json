@@ -1,0 +1,22 @@
+{
+  "titleCn": "SpaceX收购Cursor后OpenAI的决定",
+  "overview": "OpenAI在SpaceX收购Cursor后公布了对该编辑器的后续决策，明确将继续支持Cursor的开放生态，同时强调在AI安全与使命一致性方面保持独立立场，并说明未来与SpaceX的技术合作将遵循更严格的审慎原则。",
+  "sections": [
+    {
+      "heading": "保持技术独立",
+      "summary": "OpenAI强调在Cursor后续发展中保持技术路线独立，避免因SpaceX的商业需求影响AI安全标准与开放研究原则。"
+    },
+    {
+      "heading": "合作审慎原则",
+      "summary": "针对SpaceX的技术资源，OpenAI将设立严格审查流程，确保合作项目不违背AI伦理，并在必要时保留退出或修改合作的权利。"
+    }
+  ],
+  "id": "our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "title": "Our decision on Cursor following its acquisition by SpaceX",
+  "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-28",
+  "hasFullText": false,
+  "generatedAt": "2026-08-29T15:00:54.497625+08:00"
+}
