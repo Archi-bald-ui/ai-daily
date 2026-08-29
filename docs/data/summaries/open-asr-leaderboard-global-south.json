@@ -1,0 +1,26 @@
+{
+  "titleCn": "开放 ASR 排行榜首次加入全球南部语言",
+  "overview": "本文报道了HuggingFace在其Open ASR排行榜中新增首个来自全球南部的语言，标志着开源自动语音识别评测在语言多样性上迈出重要一步。此举旨在提升对低资源语言的评测覆盖，鼓励研究者和开发者针对这些语言训练和提交模型，从而推动语音技术的公平发展。",
+  "sections": [
+    {
+      "heading": "首个全球南部语言加入",
+      "summary": "排行榜首次收录来自全球南部的语言，标志着对低资源语言评测的重视，帮助评估模型在更广泛语言环境中的表现。"
+    },
+    {
+      "heading": "提升语言多样性",
+      "summary": "此举提升了语言多样性，鼓励研究者在语音识别领域关注未被充分覆盖的语言，推动公平技术发展。"
+    },
+    {
+      "heading": "促进社区模型评测",
+      "summary": "社区可提交针对该语言的模型参与公开基准测试，促进跨语言模型的研发和性能比较，并推动模型在多语言场景中的优化。"
+    }
+  ],
+  "id": "open-asr-leaderboard-global-south",
+  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-28",
+  "hasFullText": false,
+  "generatedAt": "2026-08-29T15:02:15.156598+08:00"
+}
