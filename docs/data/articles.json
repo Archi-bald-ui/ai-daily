@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-08-28T19:17:32.002801+08:00",
+  "lastUpdated": "2026-08-29T14:59:35.124183+08:00",
   "articles": [
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-28",
+      "score": 8,
+      "titleCn": "Anthropic 研究员首次披露自改进 AI"
+    },
+    {
+      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+      "url": "https://www.qbitai.com/2026/08/480487.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-28",
+      "score": 8
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-28",
+      "score": 7,
+      "titleCn": "SpaceX 收购 Cursor 后的决定"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-28",
+      "score": 7,
+      "titleCn": "学习永不止步：AI 如何让学习持续"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-28",
+      "score": 7,
+      "titleCn": "Open ASR 排行榜新增首个 Global South 语言"
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-28",
+      "score": 7,
+      "titleCn": "法院裁决：特朗普政府非法将 Anthropic 列入黑名单"
+    },
+    {
+      "title": "Adobe is adding more AI to Photoshop",
+      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-28",
+      "score": 7,
+      "titleCn": "Adobe 为 Photoshop 添加更多 AI 功能"
+    },
+    {
+      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "url": "https://www.qbitai.com/2026/08/480482.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-28",
+      "score": 7
+    },
+    {
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "url": "https://www.qbitai.com/2026/08/480666.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-28",
+      "score": 6
+    },
     {
       "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
       "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
@@ -2567,111 +2645,6 @@
       "category": "中文资讯",
       "date": "2026-07-30",
       "score": 7
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-29",
-      "score": 9,
-      "titleCn": "GPT-5.6 如何融合前沿智能与前沿效率"
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-29",
-      "score": 9,
-      "titleCn": "微软正公开与 OpenAI、Anthropic 展开比以往更激烈的竞争"
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "启用两项设置如何使我们在 ARC-AGI-3 基准上分数提升三倍"
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "我们已经没有理由忽视 AI 安全"
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "AI 领袖签署声明，呼吁政府对自动化 AI 采取措施"
-    },
-    {
-      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-      "url": "https://arxiv.org/abs/2607.24769",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "LLM 规划能力随预训练语言覆盖率的提升而下降"
-    },
-    {
-      "title": "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement",
-      "url": "https://arxiv.org/abs/2607.24765",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "通过事实-启发-情感状态强制提升大型语言模型的行为一致性"
-    },
-    {
-      "title": "Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising",
-      "url": "https://arxiv.org/abs/2607.24841",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-29",
-      "score": 8,
-      "titleCn": "神经形态扩散语言模型：利用稀疏性和块去噪解决计算与内存瓶颈"
-    },
-    {
-      "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
-      "url": "https://www.qbitai.com/2026/07/462065.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-29",
-      "score": 8
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-29",
-      "score": 7,
-      "titleCn": "智能体 AI 时代的科学计算"
-    },
-    {
-      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-      "url": "https://www.qbitai.com/2026/07/462447.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-29",
-      "score": 7
-    },
-    {
-      "title": "空中具身操作：让蜘蛛侠们安全落地",
-      "url": "https://www.qbitai.com/2026/07/462301.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-29",
-      "score": 6
     }
   ]
 }
