@@ -1,0 +1,26 @@
+{
+  "titleCn": "连接、运行、部署：Gradio 中的 AI 工作流",
+  "overview": "本文围绕使用 Gradio 构建完整 AI 工作流展开，首先演示如何利用 Blocks 将多个模型或处理单元串联，实现数据的自动流向与可视化；随后介绍本地交互调试的技巧，帮助快速迭代模型参数；最后展示通过 Hugging Face Spaces 将工作流一键部署上云，轻松实现跨平台分享与协作。",
+  "sections": [
+    {
+      "heading": "使用 Gradio Blocks 串联模型与处理步骤",
+      "summary": "展示使用 Gradio Blocks 将多个模型和处理步骤串联，形成流水线并实时展示中间结果。"
+    },
+    {
+      "heading": "本地交互式调试与快速迭代",
+      "summary": "演示在本地启动 Gradio 应用，利用 UI 实时调节参数、监控输出，快速迭代模型效果。"
+    },
+    {
+      "heading": "一键部署到 Hugging Face Spaces",
+      "summary": "介绍将完成的工作流通过 Spaces 托管到云端，实现跨设备访问、分享与协作，免去自行搭建服务器的成本。"
+    }
+  ],
+  "id": "gradio-workflow-guide",
+  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-29",
+  "hasFullText": false,
+  "generatedAt": "2026-08-30T13:16:28.640888+08:00"
+}
