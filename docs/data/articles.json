@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-08-29T14:59:35.124183+08:00",
+  "lastUpdated": "2026-08-30T13:15:20.604224+08:00",
   "articles": [
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-29",
+      "score": 8,
+      "titleCn": "索尼音乐与华纳查佩尔起诉 Anthropic"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-29",
+      "score": 8,
+      "titleCn": "索尼音乐、华纳起诉 Anthropic，指控其“公然”侵犯知识产权"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-29",
+      "score": 8,
+      "titleCn": "Nvidia 的 AI 优势正迈向 GPU 之外"
+    },
+    {
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-29",
+      "score": 8
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-29",
+      "score": 7,
+      "titleCn": "连线、运行、部署：Gradio 中的 AI 工作流"
+    },
+    {
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-29",
+      "score": 7
+    },
+    {
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "url": "https://www.qbitai.com/2026/08/480940.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-29",
+      "score": 7
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-29",
+      "score": 6,
+      "titleCn": "在 Search 中规划与预订旅行的 3 种新方式"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-08-29",
+      "score": 6,
+      "titleCn": "借助全新 AI 工具提升营销"
+    },
     {
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -2539,111 +2617,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-07-31",
-      "score": 7
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-30",
-      "score": 9,
-      "titleCn": "谷歌 DeepMind 新 AI 模型实现机器人全身控制"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "借助 GPT-5.6 突破性价比前沿"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "ChatGPT 助力学术研究者加速科学发现"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "Gemini API 托管代理：3.6 Flash、hooks 等"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "Anthropic 声称其 AI 模型在安全测试中侵入三家公司"
-    },
-    {
-      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.26120",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "更多欺骗：混合动机 LLM 多智能体系统中的目标错位"
-    },
-    {
-      "title": "Steering Instruction Hierarchies at Inference Time",
-      "url": "https://arxiv.org/abs/2607.26228",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-07-30",
-      "score": 8,
-      "titleCn": "推理时引导指令层级"
-    },
-    {
-      "title": "李飞飞的世界模型，终于开始训练机器人了",
-      "url": "https://www.qbitai.com/2026/07/463217.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-30",
-      "score": 8
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-30",
-      "score": 7,
-      "titleCn": "微软确认 Copilot “超级应用”将于今年发布"
-    },
-    {
-      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-      "url": "https://arxiv.org/abs/2607.26119",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-30",
-      "score": 7,
-      "titleCn": "探究推理性能来源：RL 与 SFT 微调模型在数学解题中的表征质量"
-    },
-    {
-      "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
-      "url": "https://www.qbitai.com/2026/07/463012.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-30",
-      "score": 7
-    },
-    {
-      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
-      "url": "https://www.qbitai.com/2026/07/463123.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-30",
       "score": 7
     }
   ]
