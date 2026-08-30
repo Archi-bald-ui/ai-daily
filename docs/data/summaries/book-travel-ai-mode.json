@@ -1,0 +1,26 @@
+{
+  "titleCn": "在搜索中规划和预订旅行的三种新方式",
+  "overview": "谷歌AI在搜索中推出三项全新旅行规划与预订功能，利用生成式AI实现自然语言对话式行程推荐，支持在搜索结果页直接查看航班、酒店实时价格并一键完成预订，提升用户从灵感激发到下单的闭环效率。",
+  "sections": [
+    {
+      "heading": "AI对话式行程生成",
+      "summary": "通过自然语言提问，AI自动生成行程建议，整合景点、交通、住宿等信息并提供个性化推荐。"
+    },
+    {
+      "heading": "搜索页即时预订",
+      "summary": "在搜索结果页直接展示航班、酒店实时价格与可用性，一键点击即可完成预订，无需跳转。"
+    },
+    {
+      "heading": "智能价格与推荐排序",
+      "summary": "根据用户偏好、实时库存和竞争价格，AI动态排序结果，帮助用户快速找到性价比最高的最优选择。"
+    }
+  ],
+  "id": "book-travel-ai-mode",
+  "title": "3 new ways to plan and book travel in Search",
+  "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-29",
+  "hasFullText": false,
+  "generatedAt": "2026-08-30T13:17:24.443289+08:00"
+}
