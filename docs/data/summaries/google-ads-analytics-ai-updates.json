@@ -1,0 +1,26 @@
+{
+  "titleCn": "利用全新AI工具推动营销进化",
+  "overview": "Google AI推出新一代营销工具，帮助企业利用生成式AI优化广告投放、自动生成创意内容、精准分析受众。这些工具可提升营销效率、降低成本，让营销人员更专注于策略制定。",
+  "sections": [
+    {
+      "heading": "智能广告投放优化",
+      "summary": "利用AI技术自动调整出价和定向，提升广告投放效果，降低获客成本。"
+    },
+    {
+      "heading": "AI生成创意内容",
+      "summary": "自动生成营销文案、图片等创意素材，大幅提升内容创作效率。"
+    },
+    {
+      "heading": "精准受众洞察",
+      "summary": "深度分析用户行为和偏好，帮助企业实现更精准的营销触达。"
+    }
+  ],
+  "id": "google-ads-analytics-ai-updates",
+  "title": "Evolve your marketing with new AI tools",
+  "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-08-29",
+  "hasFullText": false,
+  "generatedAt": "2026-08-30T13:17:37.697058+08:00"
+}
