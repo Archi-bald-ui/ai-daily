@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hugging Face 推理端点、任务与存储桶如何为 Papers with Code 搜索赋能",
+  "overview": "本文介绍 Hugging Face 如何通过推理端点（Inference Endpoints）实现论文向量的实时生成，配合 Jobs 异步批量索引和 Buckets 对象存储，构建高效、可扩展的 Papers with Code 搜索服务，显著提升检索速度与资源利用率。",
+  "sections": [
+    {
+      "heading": "推理端点实现实时向量检索",
+      "summary": "使用 Hugging Face Inference Endpoints 自动托管模型，提供低延迟的向量生成，支持在线搜索的实时相似度计算。"
+    },
+    {
+      "heading": "异步任务调度批量索引",
+      "summary": "通过 Jobs 机制把大量论文摘要和元数据分批离线处理，完成向量化入库，减轻前端压力，实现弹性伸缩。"
+    },
+    {
+      "heading": "对象存储统一数据管理",
+      "summary": "使用 Buckets 存放原始 PDF、模型 checkpoint 与索引文件，统一元数据治理，支持高可用的持久化访问与成本优化。"
+    }
+  ],
+  "id": "pwc-search",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "url": "https://huggingface.co/blog/pwc-search",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-08-30",
+  "hasFullText": false,
+  "generatedAt": "2026-08-31T13:26:09.969676+08:00"
+}
