@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-08-30T13:15:20.604224+08:00",
+  "lastUpdated": "2026-08-31T13:24:37.471494+08:00",
   "articles": [
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-08-30",
+      "score": 8,
+      "titleCn": "Hugging Face 推理端点、任务与存储桶赋能 Papers with Code 搜索"
+    },
+    {
+      "title": "Accelerating LLM Inference via Vector Index Based Output Embeddings",
+      "url": "https://arxiv.org/abs/2608.27460",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-08-30",
+      "score": 8,
+      "titleCn": "通过向量索引输出嵌入加速 LLM 推理"
+    },
+    {
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-30",
+      "score": 8
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-30",
+      "score": 7,
+      "titleCn": "Caterpillar 将采矿自动化经验迁移至 AI 部署"
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-30",
+      "score": 7,
+      "titleCn": "OpenAI 如何让一群 LLM 代理作弊并冲击 Hugging Face"
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-08-30",
+      "score": 7,
+      "titleCn": "用于取代 Meta 员工的 AI 代理实施“大规模破坏性行动”"
+    },
+    {
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2608.27463",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-30",
+      "score": 7,
+      "titleCn": "评价评价者：Rasch 测量理论在 LLM 评估中的应用"
+    },
+    {
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "url": "https://arxiv.org/abs/2608.27472",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-30",
+      "score": 7,
+      "titleCn": "LLM 增强因果发现：边缘存在与方向的概率融合"
+    },
+    {
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-30",
+      "score": 7
+    },
+    {
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-30",
+      "score": 7
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-30",
+      "score": 6,
+      "titleCn": "OpenAI 在巴西扩张"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-30",
+      "score": 6,
+      "titleCn": "ChatGPT 教师版进入更多美国学区"
+    },
     {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
@@ -2513,111 +2618,6 @@
       "category": "中文资讯",
       "date": "2026-08-01",
       "score": 6
-    },
-    {
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "Anthropic 表示，Claude 也意外攻击了真实公司"
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "据报道，OpenAI 发现更多代理失控的证据"
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "Claude 向互联网发布恶意代码并攻击了 3 家真实公司"
-    },
-    {
-      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-      "url": "https://arxiv.org/abs/2607.26159",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "当基准推断不可组合时：AI 评估中的可投射性"
-    },
-    {
-      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-      "url": "https://arxiv.org/abs/2607.26160",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "GuideSkill：面向指南驱动临床推理的可执行 LLM 智能体技能演进"
-    },
-    {
-      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-      "url": "https://arxiv.org/abs/2607.26191",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-07-31",
-      "score": 8,
-      "titleCn": "立场：评估分数是易失的知识主张"
-    },
-    {
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-31",
-      "score": 7,
-      "titleCn": "构建丰沛智能"
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-07-31",
-      "score": 7,
-      "titleCn": "打击犯罪诈骗行动"
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-07-31",
-      "score": 7,
-      "titleCn": "GPU 管理：为何闲置 GPU 是新的停飞飞机"
-    },
-    {
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-      "url": "https://www.qbitai.com/2026/07/464328.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-31",
-      "score": 7
-    },
-    {
-      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-      "url": "https://www.qbitai.com/2026/07/464329.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-31",
-      "score": 7
-    },
-    {
-      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-      "url": "https://www.qbitai.com/2026/07/464277.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-07-31",
-      "score": 7
     }
   ]
 }
