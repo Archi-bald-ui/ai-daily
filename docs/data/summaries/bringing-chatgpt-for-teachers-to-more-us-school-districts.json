@@ -1,0 +1,26 @@
+{
+  "titleCn": "将ChatGPT教师版推向更多美国学区",
+  "overview": "OpenAI宣布将ChatGPT教师版进一步推广至更多美国学区，旨在为教师提供智能备课、学生互动和个性化学习辅助。该扩展包括新增的课堂管理工具、隐私保护机制以及针对K-12的专业培训资源，帮助学校在保障数据安全的前提下提升教学效率。",
+  "sections": [
+    {
+      "heading": "覆盖更多学区",
+      "summary": "OpenAI将ChatGPT教师版提供给更多美国K-12学区，帮助地区学校快速获取AI教学助手。"
+    },
+    {
+      "heading": "强化课堂教学工具",
+      "summary": "新增课堂管理、作业批改与实时反馈功能，教师可在平台内直接生成教案和互动练习，并支持多语言生成，提升跨学科教学效率。"
+    },
+    {
+      "heading": "隐私与安全机制",
+      "summary": "平台遵循学生数据保护法规，提供数据加密、访问审计和学区自定义合规策略，确保教学环境安全可靠。"
+    }
+  ],
+  "id": "bringing-chatgpt-for-teachers-to-more-us-school-districts",
+  "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+  "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-30",
+  "hasFullText": false,
+  "generatedAt": "2026-08-31T13:33:48.557933+08:00"
+}
