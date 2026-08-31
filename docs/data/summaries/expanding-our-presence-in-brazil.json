@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 在巴西扩展业务",
+  "overview": "OpenAI 宣布将在巴西设立首个本地办公室，旨在深化与当地学术机构及创新企业的合作，推动葡萄牙语大模型的研发与落地。通过招聘本地 AI 人才、设立研发中心以及开展公开数据集项目，OpenAI 计划加速在拉丁美洲的技术布局，提升其在全球多语言 AI 领域的影响力。",
+  "sections": [
+    {
+      "heading": "本地合作伙伴",
+      "summary": "与巴西主要高校及科技初创公司签署合作协议，联合开展语言模型和行业应用研究。"
+    },
+    {
+      "heading": "新建研发中心",
+      "summary": "在圣保罗设立研发团队，重点开发针对葡萄牙语的生成式 AI 技术及本地化行业解决方案。"
+    },
+    {
+      "heading": "人才培养计划",
+      "summary": "推出面向巴西学生的实习与奖学金项目，培养本土 AI 研究与工程人才，支撑长期创新生态。"
+    }
+  ],
+  "id": "expanding-our-presence-in-brazil",
+  "title": "Expanding OpenAI’s presence in Brazil",
+  "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-30",
+  "hasFullText": false,
+  "generatedAt": "2026-08-31T13:31:42.116289+08:00"
+}
