@@ -1,0 +1,26 @@
+{
+  "titleCn": "Polimill 打造日本下一代公共AI基础设施",
+  "overview": "Polimill 宣布在日本启动下一代公共 AI 基础设施项目，旨在为政府、学术机构和企业提供安全、合规的大模型计算平台。该计划借助 OpenAI 技术，结合本土数据治理规范，构建可扩展的 AI 算力网络，推动 AI 在公共服务、科研创新和产业升级中的广泛应用，提升日本在人工智能领域的自主创新能力。",
+  "sections": [
+    {
+      "heading": "项目目标与定位",
+      "summary": "Polimill 计划在日本建设面向政府、科研机构和企业的公共 AI 计算平台，提升自主 AI 能力，支持数字政府与创新研发。"
+    },
+    {
+      "heading": "技术与合作伙伴",
+      "summary": "项目将整合 OpenAI 的大模型技术与本土数据治理框架，确保合规、安全，并提供可扩展的计算资源，支撑各类 AI 应用。"
+    },
+    {
+      "heading": "应用场景与影响",
+      "summary": "平台将优先支持政府服务智能化、科研数据共享及企业创新，推动 AI 在公共领域的广泛落地，提升社会效率。"
+    }
+  ],
+  "id": "polimill",
+  "title": "Polimill builds Japan's next-generation public AI infrastructure",
+  "url": "https://openai.com/index/polimill",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-31",
+  "hasFullText": false,
+  "generatedAt": "2026-09-01T13:00:22.653544+08:00"
+}
