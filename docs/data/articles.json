@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-08-31T13:24:37.471494+08:00",
+  "lastUpdated": "2026-09-01T12:57:48.523463+08:00",
   "articles": [
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-08-31",
+      "score": 8,
+      "titleCn": "Nvidia斥资35亿美元押注MediaTek，揭示其应对大型科技公司AI芯片扩张的计划"
+    },
+    {
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-31",
+      "score": 8
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "Polimill在日本打造下一代公共AI基础设施"
+    },
+    {
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "Debian不会禁止AI代码进入其Linux发行版"
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "ChatGPT在欧盟将面临更严格监管"
+    },
+    {
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "url": "https://arxiv.org/abs/2608.27459",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "可检验人类知识的时间胶囊：41年Jeopardy!收录在单一免费本地模型中"
+    },
+    {
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "url": "https://arxiv.org/abs/2608.27464",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "并非所有解释都被寻求：面向人类中心XAI的信息寻求心理学"
+    },
+    {
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "url": "https://arxiv.org/abs/2608.27475",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-08-31",
+      "score": 7,
+      "titleCn": "假设、评估、精炼：未知空间系数场PDE发现的科学代理"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-08-31",
+      "score": 6,
+      "titleCn": "AI普及的里程碑"
+    },
+    {
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-08-31",
+      "score": 6
+    },
     {
       "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
       "url": "https://huggingface.co/blog/pwc-search",
@@ -2540,84 +2628,6 @@
       "date": "2026-08-02",
       "score": 6,
       "titleCn": "Univé打造面向AI的劳动力"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-01",
-      "score": 8,
-      "titleCn": "NVIDIA Cosmos‑H‑Dreams：将实时生成式仿真带入手术机器人"
-    },
-    {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-01",
-      "score": 8,
-      "titleCn": "Mythos 攻击导致第三轮 PQC 算法候选者退出使用"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-01",
-      "score": 7,
-      "titleCn": "数学与理论计算机科学的十项进展"
-    },
-    {
-      "title": "Google Earth’s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-01",
-      "score": 7,
-      "titleCn": "Google Earth AI 深度伪造工具仅存活一天"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-01",
-      "score": 7,
-      "titleCn": "法官驳回 xAI 阻止明尼苏达州对‘nudify’应用禁令的请求"
-    },
-    {
-      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "url": "https://www.qbitai.com/2026/08/464532.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-01",
-      "score": 7
-    },
-    {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-01",
-      "score": 6,
-      "titleCn": "avatarin 用 GPT‑Realtime 构建 24/7 零售代理"
-    },
-    {
-      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-      "url": "https://www.qbitai.com/2026/08/464781.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-01",
-      "score": 6
-    },
-    {
-      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-      "url": "https://www.qbitai.com/2026/08/464713.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-01",
-      "score": 6
     }
   ]
 }
