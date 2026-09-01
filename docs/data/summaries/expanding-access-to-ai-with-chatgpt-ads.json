@@ -1,0 +1,26 @@
+{
+  "titleCn": "扩大AI获取的里程碑",
+  "overview": "本文回顾了OpenAI在扩大AI获取方面取得的里程碑式进展，介绍了新模型、降低使用门槛、推动开放合作等关键举措，帮助开发者和企业更便捷地接入先进AI能力，推动AI技术更广泛落地。",
+  "sections": [
+    {
+      "heading": "开放API与低成本接入",
+      "summary": "通过升级API接口、提供更灵活的计费方案，让中小企业和个人开发者以更低成本快速使用最新AI模型。"
+    },
+    {
+      "heading": "新模型发布与性能提升",
+      "summary": "本次发布的模型在理解、生成和多模态任务上实现显著提升，同时保持更低延迟和更高准确性。"
+    },
+    {
+      "heading": "合作与生态系统建设",
+      "summary": "OpenAI联合多方合作伙伴，推出开发者社区、示例代码和技术支持计划，构建可持续的AI开发生态。"
+    }
+  ],
+  "id": "expanding-access-to-ai-with-chatgpt-ads",
+  "title": "A milestone in expanding access to AI",
+  "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-08-31",
+  "hasFullText": false,
+  "generatedAt": "2026-09-01T13:04:55.650341+08:00"
+}
