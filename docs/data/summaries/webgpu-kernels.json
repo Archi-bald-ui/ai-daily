@@ -1,0 +1,26 @@
+{
+  "titleCn": "HuggingFace 推出 @huggingface/kernels：200+ WebGPU 内核助力本地 AI",
+  "overview": "HuggingFace 发布了 @huggingface/kernels，提供 200 多套基于 WebGPU 的计算内核，可在浏览器或本地设备上实现高效、隐私友好的 AI 推理。该库兼容主流 Transformers 模型，支持无缝加载与加速，帮助开发者在不依赖云端的前提下快速部署本地 AI 应用。",
+  "sections": [
+    {
+      "heading": "海量 WebGPU 内核库",
+      "summary": "收录 200 多套针对常见模型算子的 WebGPU 实现，涵盖矩阵乘法、注意力机制等核心操作，提升本地推理速度。"
+    },
+    {
+      "heading": "隐私友好的本地推理",
+      "summary": "所有计算在本地设备上完成，数据无需上传云端，适合对隐私有严格要求的场景，如移动端或企业内部部署。"
+    },
+    {
+      "heading": "无缝接入 HuggingFace 生态",
+      "summary": "通过简洁 API 加载模型并自动调用相应 WebGPU 内核，支持 Transformers 等主流框架，降低迁移成本。"
+    }
+  ],
+  "id": "webgpu-kernels",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-01",
+  "hasFullText": false,
+  "generatedAt": "2026-09-02T12:24:09.902669+08:00"
+}
