@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-01T12:57:48.523463+08:00",
+  "lastUpdated": "2026-09-02T12:22:12.781497+08:00",
   "articles": [
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "Astra之路：关键能力与前沿安全防护"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "发布@huggingface/kernels：200+ WebGPU内核助力本地AI"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "Anthropic推出Claude Fable 5.1，称代理任务成本降低高达45%"
+    },
+    {
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "Nvidia争议的DLSS 5将于9月3日发布，需强劲GPU算力"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "OpenAI的Astra模型即将到来——擅长渗透计算机系统"
+    },
+    {
+      "title": "From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling",
+      "url": "https://arxiv.org/abs/2609.00051",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "从检测到拒绝：电路引导权重缩放提升LLM安全性"
+    },
+    {
+      "title": "CUDA-Harness: Harnessing Agentic CUDA Kernel Generation and Optimization from Natural Language",
+      "url": "https://arxiv.org/abs/2609.00058",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-01",
+      "score": 8,
+      "titleCn": "CUDA‑Harness：利用自然语言实现代理式CUDA内核生成与优化"
+    },
+    {
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "url": "https://www.qbitai.com/2026/09/482652.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-01",
+      "score": 8
+    },
+    {
+      "title": "李飞飞发布：全球首个多模态世界模型",
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-01",
+      "score": 8
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-01",
+      "score": 7,
+      "titleCn": "医疗机构现在可将EHR及其他行业数据接入ChatGPT"
+    },
+    {
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "url": "https://arxiv.org/abs/2609.00002",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-01",
+      "score": 7,
+      "titleCn": "HyperWorld：超图结构状态序列化提升学习型文本世界模型"
+    },
+    {
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-01",
+      "score": 7
+    },
     {
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
@@ -2575,59 +2680,6 @@
       "date": "2026-08-03",
       "score": 6,
       "titleCn": "Circles利用OpenAI技术提升电信个性化"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-02",
-      "score": 7,
-      "titleCn": "推动欧洲负责任AI发展"
-    },
-    {
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-02",
-      "score": 7,
-      "titleCn": "将AI图像生成器嵌入Google Earth的隐患"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-02",
-      "score": 7,
-      "titleCn": "我们现在更清楚OpenAI如何入侵Hugging Face"
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-02",
-      "score": 7,
-      "titleCn": "微软发布AI安全工具，声称超越竞争平台"
-    },
-    {
-      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
-      "url": "https://www.qbitai.com/2026/08/464835.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-02",
-      "score": 7
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-02",
-      "score": 6,
-      "titleCn": "Univé打造面向AI的劳动力"
     }
   ]
 }
