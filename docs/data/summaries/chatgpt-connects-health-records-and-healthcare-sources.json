@@ -1,0 +1,26 @@
+{
+  "titleCn": "医疗机构现在可将电子健康记录（EHR）及行业数据接入 ChatGPT",
+  "overview": "OpenAI 宣布医疗机构现已可将电子健康记录（EHR）及行业数据安全接入 ChatGPT，利用检索增强生成技术实现患者查询、临床文档和诊疗决策等场景的实时信息生成，并提供 HIPAA 合规保障，确保数据隐私安全。",
+  "sections": [
+    {
+      "heading": "数据安全接入",
+      "summary": "通过标准化接口和检索增强生成（RAG）技术，将 EHR 与行业数据安全接入 ChatGPT，支持实时查询与生成。"
+    },
+    {
+      "heading": "典型应用场景",
+      "summary": "ChatGPT 可在患者问答、临床文档自动撰写、诊疗决策辅助等场景实时生成信息，提升医护工作效率。"
+    },
+    {
+      "heading": "合规与隐私保障",
+      "summary": "平台遵循 HIPAA 等医疗合规要求，提供数据脱敏、加密传输和审计日志，确保患者隐私安全。"
+    }
+  ],
+  "id": "chatgpt-connects-health-records-and-healthcare-sources",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-01",
+  "hasFullText": false,
+  "generatedAt": "2026-09-02T12:33:41.047361+08:00"
+}
