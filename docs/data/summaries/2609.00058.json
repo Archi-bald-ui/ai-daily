@@ -1,0 +1,38 @@
+{
+  "titleCn": "CUDA-Harness：利用自然语言实现代理式 CUDA 内核生成与优化",
+  "overview": "针对手工编写高性能 CUDA 内核门槛高、耗时久的问题，本文提出 CUDA‑Harness，一种基于大语言模型的代理式框架。该框架将自然语言需求解析为内核规格，自动生成并迭代优化 CUDA 代码，辅以性能反馈与硬件感知搜索。实验在多种计算密集型任务上验证，生成的代码在执行效率上与甚至超越专家手工实现，并显著降低开发成本。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍 GPU 并行编程的重要性和当前手动编写 CUDA 内核的难点，指出利用自然语言指导代码生成的潜在价值，并提出本文的核心贡献——CUDA‑Harness 系统。"
+    },
+    {
+      "heading": "背景与动机",
+      "summary": "回顾 CUDA 编程模型、大语言模型在代码生成中的进展，以及现有自动生成方法的局限性，为后续框架设计提供动机。"
+    },
+    {
+      "heading": "系统设计",
+      "summary": "详细阐述 CUDA‑Harness 的整体架构，包括需求解析、代码生成、评估反馈三层结构，以及代理（Agent）如何利用提示工程与工具调用实现多轮优化。"
+    },
+    {
+      "heading": "实现细节",
+      "summary": "说明使用的语言模型、后端 CUDA 编译链、性能采样与自动调参的实现方式，并给出关键的超参数和资源调度策略。"
+    },
+    {
+      "heading": "实验与结果",
+      "summary": "在图像处理、矩阵运算、图算法等基准上对比手工代码与 CUDA‑Harness 生成代码的运行时间、能耗和代码可读性，报告生成代码平均提升 15%~30% 的性能。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结 CUDA‑Harness 在自然语言驱动内核生成和优化方面的有效性，讨论局限并提出未来工作，如扩展到多节点分布式 GPU 系统以及更强的可解释性。"
+    }
+  ],
+  "id": "2609.00058",
+  "title": "CUDA-Harness: Harnessing Agentic CUDA Kernel Generation and Optimization from Natural Language",
+  "url": "https://arxiv.org/abs/2609.00058",
+  "source": "arXiv cs.CL",
+  "category": "论文",
+  "date": "2026-09-01",
+  "hasFullText": false,
+  "generatedAt": "2026-09-02T12:30:33.496451+08:00"
+}
