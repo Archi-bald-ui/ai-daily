@@ -1,0 +1,26 @@
+{
+  "titleCn": "BenchMIRT：LLM 基准测试到底在测量什么？",
+  "overview": "文章围绕 BenchMIRT 框架，探讨当前大语言模型（LLM）评测基准的真实测量目标。通过多维度的项目反应理论（IRT）分析，揭示基准题目在难度、区分度等方面的隐含特性，提示我们基准得分并不等同于模型能力的全貌，并提出改进评测设计的思路。",
+  "sections": [
+    {
+      "heading": "基准隐含的难度与区分度",
+      "summary": "通过IRT模型量化每道题目的难度与区分度，揭示基准并非均匀分布，模型在不同区间的表现差异大。"
+    },
+    {
+      "heading": "得分不等同于真实能力",
+      "summary": "实验显示模型在标准基准上得高分，但针对实际任务的细粒度评估仍可能出现偏差，需多维度验证。"
+    },
+    {
+      "heading": "改进评测设计的思路",
+      "summary": "文章建议结合多任务、动态题库以及人机协同标注，提升基准的可靠性和对模型能力的覆盖面。"
+    }
+  ],
+  "id": "benchmirt",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-02",
+  "hasFullText": false,
+  "generatedAt": "2026-09-03T12:22:20.253198+08:00"
+}
