@@ -1,0 +1,26 @@
+{
+  "titleCn": "2026年8月Google AI公布的最新AI资讯",
+  "overview": "本篇汇总了Google AI在2026年8月发布的最新技术进展与产品更新，涵盖语言模型、跨模态理解以及AI安全与治理方面的突破性研究，并介绍了面向开发者的新平台工具和合作计划，为读者快速捕捉AI行业动向提供参考。",
+  "sections": [
+    {
+      "heading": "语言模型新进展",
+      "summary": "发布下一代语言模型，提升对话理解与生成质量，并实现更长的上下文窗口和多语言支持，进一步提升对话流畅度。"
+    },
+    {
+      "heading": "跨模态与感知能力",
+      "summary": "展示图像、视频与文本融合的最新模型，实现跨模态检索和实时内容生成，拓展多场景应用。"
+    },
+    {
+      "heading": "AI安全与治理",
+      "summary": "推出AI伦理框架与安全评估工具，强化模型可解释性与偏见检测，帮助开发者在合规前提下快速部署。"
+    }
+  ],
+  "id": "google-ai-updates-august-2026",
+  "title": "The latest AI news we announced in August 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-02",
+  "hasFullText": false,
+  "generatedAt": "2026-09-03T12:21:20.862652+08:00"
+}
