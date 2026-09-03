@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-02T12:22:12.781497+08:00",
+  "lastUpdated": "2026-09-03T12:17:35.818417+08:00",
   "articles": [
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-02",
+      "score": 9,
+      "titleCn": "OpenAI新推理技术引起AI安全专家担忧"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "2026年8月我们发布的最新AI新闻"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "BenchMIRT：LLM基准测试到底在衡量什么？"
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "OpenAI Astra发布在即，研究人员担忧安全灾难"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "美国政府在训练LLM使用版权材料问题上支持OpenAI"
+    },
+    {
+      "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2609.01658",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "PRO-Step：检索增强生成的步骤级过程奖励优化"
+    },
+    {
+      "title": "How Do Prompt Variations Affect Energy Consumption in On-Device LLMs?",
+      "url": "https://arxiv.org/abs/2609.01798",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-02",
+      "score": 8,
+      "titleCn": "提示变体对设备端LLM能耗的影响"
+    },
+    {
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-02",
+      "score": 8
+    },
+    {
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "url": "https://www.qbitai.com/2026/09/483101.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-02",
+      "score": 8
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-02",
+      "score": 7,
+      "titleCn": "面向政府和企业的主动网络防御"
+    },
+    {
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "url": "https://arxiv.org/abs/2609.01852",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-02",
+      "score": 7,
+      "titleCn": "记忆信任缺口：持久记忆智能体的能力依赖性故障"
+    },
+    {
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-02",
+      "score": 7
+    },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra",
@@ -2584,102 +2689,6 @@
       "date": "2026-08-04",
       "score": 6,
       "titleCn": "不健康的 LLM 使用比想象中更普遍"
-    },
-    {
-      "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
-      "url": "https://www.qbitai.com/2026/08/465226.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-03",
-      "score": 9
-    },
-    {
-      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-      "url": "https://www.qbitai.com/2026/08/465215.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-03",
-      "score": 9
-    },
-    {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-03",
-      "score": 8,
-      "titleCn": "阿里巴巴再次挑战美国AI霸主地位"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-03",
-      "score": 8,
-      "titleCn": "Apple终于修复Siri，却为何仍显平淡？"
-    },
-    {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28629",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-03",
-      "score": 8,
-      "titleCn": "OpenClaw与Ollama共促代理式AI：迈向全自主、可扩展的AI代理系统"
-    },
-    {
-      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "url": "https://arxiv.org/abs/2607.28632",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-03",
-      "score": 8,
-      "titleCn": "LLM框架助力发现重大数学猜想：AI追寻下一个黎曼假设"
-    },
-    {
-      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-      "url": "https://www.qbitai.com/2026/08/465732.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-03",
-      "score": 8
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-03",
-      "score": 7,
-      "titleCn": "如何在六个月内构建实时响应语音AI系统"
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-03",
-      "score": 7,
-      "titleCn": "欧盟AI标签与透明度规则正式生效"
-    },
-    {
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "url": "https://arxiv.org/abs/2607.28631",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-03",
-      "score": 7,
-      "titleCn": "AI能否评估AI科学家？基于自动多模型评审的自主研究生成系统基准研究"
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-03",
-      "score": 6,
-      "titleCn": "Circles利用OpenAI技术提升电信个性化"
     }
   ]
 }
