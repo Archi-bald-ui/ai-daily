@@ -1,0 +1,26 @@
+{
+  "titleCn": "面向政府与企业的主动式网络防御",
+  "overview": "本文探讨政府与企业在面对复杂威胁时如何通过主动式网络防御提升安全韧性。Google AI 提出基于机器学习、自动化响应和情报共享的防御框架，强调在攻击发生前预测并阻断风险，实现从被动检测到主动预防的转变，为关键基础设施和数字资产提供更高效的保障。",
+  "sections": [
+    {
+      "heading": "主动防御概念与关键技术",
+      "summary": "阐述主动防御的核心思路，包括风险前置、持续监控和自适应策略，帮助组织从被动检测转向预防为主。"
+    },
+    {
+      "heading": "机器学习驱动的威胁预测",
+      "summary": "利用机器学习模型对海量日志和网络流量进行实时分析，提前识别潜在攻击行为，实现预警和阻断。"
+    },
+    {
+      "heading": "自动化响应与情报协同",
+      "summary": "构建自动化处置工作流，实现快速隔离受感染节点，并结合跨机构情报共享提升整体防御效能。"
+    }
+  ],
+  "id": "fairwind-program",
+  "title": "Proactive cyber defense for governments and enterprises",
+  "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-02",
+  "hasFullText": false,
+  "generatedAt": "2026-09-03T12:29:32.023886+08:00"
+}
