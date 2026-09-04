@@ -1,0 +1,26 @@
+{
+  "titleCn": "前线守护者的黎明：10亿美元保护关键服务",
+  "overview": "OpenAI宣布投入10亿美元，推出“前线守护者”计划，旨在利用先进AI技术为医疗、应急、能源等关键服务提供防护与智能支持。该项目将通过开放模型、算力资助和跨部门合作，帮助前线工作人员快速应对网络攻击与突发事件。",
+  "sections": [
+    {
+      "heading": "10亿美元专项资金",
+      "summary": "说明资金将用于研发、部署AI防护系统，重点支持医疗、能源等关键行业的网络安全，以及提升应急响应能力。"
+    },
+    {
+      "heading": "AI技术赋能关键服务",
+      "summary": "通过大语言模型与安全工具，帮助前线人员实时检测威胁、快速响应并降低服务中断风险。"
+    },
+    {
+      "heading": "开放生态与多方合作",
+      "summary": "与政府、行业和学术机构共建平台，共享威胁情报并提供算力与培训，确保资源公平分配。"
+    }
+  ],
+  "id": "daybreak-for-frontline-defenders",
+  "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+  "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-03",
+  "hasFullText": false,
+  "generatedAt": "2026-09-04T12:26:39.138814+08:00"
+}
