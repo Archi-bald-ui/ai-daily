@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-03T12:17:35.818417+08:00",
+  "lastUpdated": "2026-09-04T12:24:42.774327+08:00",
   "articles": [
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-03",
+      "score": 10,
+      "titleCn": "英伟达确认将以129亿美元收购Hugging Face"
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-03",
+      "score": 9,
+      "titleCn": "OpenAI的下一代大型AI模型已进入AGI时代"
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-03",
+      "score": 9,
+      "titleCn": "英伟达将以近130亿美元收购Hugging Face"
+    },
+    {
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "url": "https://www.qbitai.com/2026/09/483898.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-03",
+      "score": 9
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-03",
+      "score": 8,
+      "titleCn": "前线守护者的曙光：10亿美元保护关键服务"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-03",
+      "score": 8,
+      "titleCn": "安全概览：GPT-6 Astra"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-03",
+      "score": 8,
+      "titleCn": "NeoMME：高效的多模态原生多语言编码器"
+    },
+    {
+      "title": "Margins, Not Windows: Training-Free Per-Step Lossy Speculative Decoding",
+      "url": "https://arxiv.org/abs/2609.02897",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-03",
+      "score": 8,
+      "titleCn": "边际而非窗口：无需训练的逐步有损推测解码"
+    },
+    {
+      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+      "url": "https://www.qbitai.com/2026/09/483189.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-03",
+      "score": 8
+    },
+    {
+      "title": "MasterControl Seventeen Every Time",
+      "url": "https://arxiv.org/abs/2609.03209",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-03",
+      "score": 7,
+      "titleCn": "MasterControl Seventeen：每一次"
+    },
+    {
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.03236",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-03",
+      "score": 7,
+      "titleCn": "推测性宏提交加速工具使用代理"
+    },
+    {
+      "title": "陈大年复出，入局大模型",
+      "url": "https://www.qbitai.com/2026/09/483600.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-03",
+      "score": 7
+    },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -2584,111 +2689,6 @@
       "date": "2026-08-05",
       "score": 6,
       "titleCn": "2026 年 7 月我们宣布的最新 AI 新闻"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-04",
-      "score": 8,
-      "titleCn": "使用 LFM2.5-2.6B 在各地部署本地代理"
-    },
-    {
-      "title": "AMD’s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-04",
-      "score": 8,
-      "titleCn": "AMD 数据中心业务蓬勃发展，游戏业务退居次位"
-    },
-    {
-      "title": "What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs",
-      "url": "https://arxiv.org/abs/2608.00013",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-04",
-      "score": 8,
-      "titleCn": "从文本到视觉迁移了什么？视觉语言模型的能力扩展规律与迁移动态"
-    },
-    {
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "url": "https://www.qbitai.com/2026/08/466386.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-04",
-      "score": 8
-    },
-    {
-      "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
-      "url": "https://www.qbitai.com/2026/08/465814.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-04",
-      "score": 8
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-04",
-      "score": 7,
-      "titleCn": "涉及 OpenAI 模型的第三方网络安全评估"
-    },
-    {
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-04",
-      "score": 7,
-      "titleCn": "SpaceX 作为 AI 公司的收入超过作为航天公司的收入"
-    },
-    {
-      "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-      "url": "https://arxiv.org/abs/2608.00003",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-04",
-      "score": 7,
-      "titleCn": "AutoFOAM：自我精炼的自主 OpenFOAM 代理"
-    },
-    {
-      "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
-      "url": "https://arxiv.org/abs/2608.00006",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-04",
-      "score": 7,
-      "titleCn": "利用特定情境知识提升大语言模型以缓解中小企业虚假信息：基于 RAG 的建模分析"
-    },
-    {
-      "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
-      "url": "https://www.qbitai.com/2026/08/465785.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-04",
-      "score": 7
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-04",
-      "score": 6,
-      "titleCn": "ChatGPT Work 与 Codex 为学习与教学提供新途径"
-    },
-    {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-04",
-      "score": 6,
-      "titleCn": "不健康的 LLM 使用比想象中更普遍"
     }
   ]
 }
