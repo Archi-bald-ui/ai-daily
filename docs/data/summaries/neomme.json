@@ -1,0 +1,26 @@
+{
+  "titleCn": "NeoMME：高效的多模态原生多语言编码器",
+  "overview": "NeoMME是HuggingFace最新开源的高效多模态原生多语言编码器，旨在统一视觉、语言等多模态信息的表示学习。该模型通过轻量化设计和跨语言对齐技术，在保持强大性能的同时显著降低计算资源需求，支持数十种语言的跨模态检索与生成任务，并已在多项基准上取得领先效果。",
+  "sections": [
+    {
+      "heading": "多模态原生架构",
+      "summary": "NeoMME采用全新多模态原生transformer结构，直接在视觉与语言特征空间进行融合，减少传统跨模态映射的冗余，显著提升训练与推理效率。"
+    },
+    {
+      "heading": "跨语言对齐与轻量化",
+      "summary": "通过跨语言嵌入对齐与参数共享，NeoMME支持数十种语言的多模态任务，同时采用剪枝与量化技术，实现更低的显存占用和推理时延。"
+    },
+    {
+      "heading": "开源发布与Benchmark表现",
+      "summary": "NeoMME已在HuggingFace开源，提供预训练模型与推理脚本，并在多语言图像-文本检索、视觉问答等基准上取得领先成绩。"
+    }
+  ],
+  "id": "neomme",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-03",
+  "hasFullText": false,
+  "generatedAt": "2026-09-04T12:29:12.966343+08:00"
+}
