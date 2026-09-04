@@ -1,0 +1,26 @@
+{
+  "titleCn": "安全概览：GPT-6 Astra",
+  "overview": "本文概述了 OpenAI 在 GPT-6 Astra 模型研发过程中的安全策略，包括对齐技术、红队测试、风险评估以及监管透明度等关键环节，旨在向公众说明模型的安全性设计、已知局限性和未来的改进方向。",
+  "sections": [
+    {
+      "heading": "对齐技术与安全训练",
+      "summary": "通过强化学习人类反馈（RLHF）和指令微调，使模型在生成内容时遵循人类价值观和道德规范。"
+    },
+    {
+      "heading": "红队评估与风险监控",
+      "summary": "组织内部与外部安全专家进行多轮红队攻击，模拟对抗性输入，持续监控模型的误用和潜在危害，及时修补漏洞。"
+    },
+    {
+      "heading": "透明度与监管合作",
+      "summary": "发布安全评估报告和模型卡片，披露安全机制、已知局限和监管合规措施，接受外部审计以提升公众信任。"
+    }
+  ],
+  "id": "safety-overview-gpt-6-astra",
+  "title": "Safety overview: GPT-6 Astra",
+  "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-03",
+  "hasFullText": false,
+  "generatedAt": "2026-09-04T12:27:23.416348+08:00"
+}
