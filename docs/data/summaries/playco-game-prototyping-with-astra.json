@@ -1,0 +1,26 @@
+{
+  "titleCn": "Playco 借助 GPT-6 Astra 将游戏原型手动修复削减 50%",
+  "overview": "本文报道游戏工作室 Playco 如何在原型阶段借助 OpenAI 的 GPT-6 Astra 大模型，将原本需要手动调试和修复的工作量削减约一半。通过自然语言指令快速生成代码、自动定位并修复常见错误，团队可在数小时内完成多次迭代，显著提升开发效率并缩短上线周期。",
+  "sections": [
+    {
+      "heading": "AI 自动定位并修复错误",
+      "summary": "GPT-6 Astra 能理解自然语言指令，快速定位代码缺陷并生成修复方案，显著降低人工调试时间，并提升代码质量。"
+    },
+    {
+      "heading": "快速原型迭代与反馈循环",
+      "summary": "通过自然语言生成代码和即时修正，团队在数小时内完成多轮原型迭代，缩短概念到可玩版本的时间。"
+    },
+    {
+      "heading": "对游戏开发流程的整体影响",
+      "summary": "AI 辅助调试和原型加速降低研发成本，使团队能够更专注于创意设计，提升产品质量和上线速度，增强竞争力。"
+    }
+  ],
+  "id": "playco-game-prototyping-with-astra",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-04",
+  "hasFullText": false,
+  "generatedAt": "2026-09-05T12:20:56.645393+08:00"
+}
