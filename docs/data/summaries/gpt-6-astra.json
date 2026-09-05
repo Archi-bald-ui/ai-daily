@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-6 Astra：新一代智能",
+  "overview": "OpenAI 发布 GPT-6 Astra，标志着 AI 智能进入新阶段。该模型在语言理解、推理与生成方面实现质的飞跃，同时整合视觉、语音等多模态信息，并强化安全对齐机制，以更可靠、可控的方式支持各行业创新，并融合深度学习技术，实现更大规模的预训练。",
+  "sections": [
+    {
+      "heading": "全面升级的语言模型",
+      "summary": "在语言理解、逻辑推理和文本生成等核心能力上实现显著提升，能够处理更长上下文并生成更连贯、专业的答案。"
+    },
+    {
+      "heading": "多模态融合与跨域理解",
+      "summary": "除文本外，模型整合图像、音频等感知信息，实现跨模态的语义关联和情境推理，为交互式应用提供更自然的感知基础。"
+    },
+    {
+      "heading": "安全对齐与可控性提升",
+      "summary": "OpenAI 进一步强化了对齐训练，新增可解释的决策路径和细粒度的控制接口，以降低误用风险并提升模型在实际部署中的可靠性。"
+    }
+  ],
+  "id": "gpt-6-astra",
+  "title": "GPT-6 Astra: A new generation of intelligence",
+  "url": "https://openai.com/index/gpt-6-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-04",
+  "hasFullText": false,
+  "generatedAt": "2026-09-05T12:20:14.676883+08:00"
+}
