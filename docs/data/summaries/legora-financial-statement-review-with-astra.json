@@ -1,0 +1,26 @@
+{
+  "titleCn": "Legora 在几分钟内使用 GPT-6 Astra 完成 41 份文档审查",
+  "overview": "OpenAI 发布的最新大语言模型 GPT-6 Astra 被 Legora 应用于文档审查，在短短几分钟内完成 41 份文档的分析与标注，展示了 AI 在法律、研发等领域实现高效信息抽取的巨大潜力。",
+  "sections": [
+    {
+      "heading": "快速审查 41 份文档",
+      "summary": "Legora 利用 GPT-6 Astra 在几分钟内完成大量文档的结构化分析，大幅缩短传统人工审阅时间。"
+    },
+    {
+      "heading": "提升信息抽取精度",
+      "summary": "GPT-6 Astra 通过更强的语义理解，对文档中的关键条款、风险点进行精准标注，降低遗漏率。"
+    },
+    {
+      "heading": "跨行业应用前景",
+      "summary": "该案例展示 AI 在法律、研发、财务等领域的文档处理潜力，为企业降本增效、规模化应用提供新路径。"
+    }
+  ],
+  "id": "legora-financial-statement-review-with-astra",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-04",
+  "hasFullText": false,
+  "generatedAt": "2026-09-05T12:22:05.582782+08:00"
+}
