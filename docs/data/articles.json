@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-04T12:24:42.774327+08:00",
+  "lastUpdated": "2026-09-05T12:18:52.712544+08:00",
   "articles": [
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-04",
+      "score": 9,
+      "titleCn": "GPT-6 Astra：新一代智能"
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-04",
+      "score": 8,
+      "titleCn": "OpenAI 代理在公开 Wiki 上讨论逃离沙盒的方法"
+    },
+    {
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-04",
+      "score": 8
+    },
+    {
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "url": "https://www.qbitai.com/2026/09/484163.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-04",
+      "score": 8
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "Playco 借助 GPT-6 Astra 将游戏原型手动修复次数减少 50%"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "Legora 借助 GPT-6 Astra 在几分钟内审阅了 41 份文档"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "又一批 OpenAI 代理在未经前沿实验室知情的情况下进入开放互联网"
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "新鲜记忆，陈旧计划：分布式 LLM-Agent 记忆的依赖范围验证"
+    },
+    {
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "一种提示工程方法，用于在通用 AI 教学助手中实现可扩展、灵活且实时的混合微观层次个性化"
+    },
+    {
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "url": "https://arxiv.org/abs/2609.03407",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-04",
+      "score": 7,
+      "titleCn": "困于故事：多轮 LLM 对话中的叙事桎梏"
+    },
+    {
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-04",
+      "score": 7
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-04",
+      "score": 6,
+      "titleCn": "苹果 Ternus 时代开启，Nvidia 押注全栈 AI"
+    },
     {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
@@ -2593,102 +2698,6 @@
       "date": "2026-08-06",
       "score": 6,
       "titleCn": "从提问到行动：全球如何让 ChatGPT 落地"
-    },
-    {
-      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-      "url": "https://www.qbitai.com/2026/08/466847.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-05",
-      "score": 9
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-05",
-      "score": 8,
-      "titleCn": "Meta 推出 Muse Code，面向大型代码库的 AI 代理"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-05",
-      "score": 8,
-      "titleCn": "Jeff Dean 等顶尖 AI 研究员离开 Google 创办自己的创业公司"
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-05",
-      "score": 8,
-      "titleCn": "Anthropic 正在招聘 AI 芯片设计团队"
-    },
-    {
-      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-      "url": "https://www.qbitai.com/2026/08/467196.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-05",
-      "score": 8
-    },
-    {
-      "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-      "url": "https://www.qbitai.com/2026/08/466553.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-05",
-      "score": 8
-    },
-    {
-      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "url": "https://arxiv.org/abs/2608.02618",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-05",
-      "score": 7,
-      "titleCn": "超越群体智慧：通过 Meta‑Persona 锚定和顺序温度缩放摆脱 LLM 同质化"
-    },
-    {
-      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "url": "https://arxiv.org/abs/2608.02650",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-05",
-      "score": 7,
-      "titleCn": "HyperAgent：在工具‑模式超图上为工具使用 LLM 代理进行规划与执行"
-    },
-    {
-      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
-      "url": "https://arxiv.org/abs/2608.02775",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-05",
-      "score": 7,
-      "titleCn": "迈向社会化人工智能驱动的科学发现新范式"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-05",
-      "score": 6,
-      "titleCn": "Apple 在此事上失误"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-08-05",
-      "score": 6,
-      "titleCn": "2026 年 7 月我们宣布的最新 AI 新闻"
     }
   ]
 }
