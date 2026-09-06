@@ -1,0 +1,26 @@
+{
+  "titleCn": "给你的编程 Agent 配备自有记忆",
+  "overview": "本文介绍了为编程 Agent 添加用户可控的持久记忆的方案。通过在本地或私有服务器上建立向量记忆库，使其能够在跨会话时记住项目结构、代码风格和用户偏好，从而在代码补全、错误定位、文档生成等场景中提供更精准、个性化的帮助，同时确保数据隐私不外泄。",
+  "sections": [
+    {
+      "heading": "记忆模块的搭建",
+      "summary": "通过本地向量库或私有服务器存储代码片段、API 文档等，支持高效检索并与 Agent 实时同步，实现长期记忆。"
+    },
+    {
+      "heading": "跨会话上下文保持",
+      "summary": "Agent 能在不同会话中调用已有记忆，复用项目结构、用户偏好和历史修复方案，提高代码生成和调试的连贯性。"
+    },
+    {
+      "heading": "隐私与安全控制",
+      "summary": "记忆数据保存在用户自有环境，避免上传至第三方，结合访问权限和加密措施，确保代码和项目信息不外泄。"
+    }
+  ],
+  "id": "funes",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "url": "https://huggingface.co/blog/funes",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-05",
+  "hasFullText": false,
+  "generatedAt": "2026-09-06T12:31:33.940718+08:00"
+}
