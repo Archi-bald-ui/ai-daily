@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-05T12:18:52.712544+08:00",
+  "lastUpdated": "2026-09-06T12:27:12.883648+08:00",
   "articles": [
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-05",
+      "score": 8,
+      "titleCn": "OpenAI 承认德国 Wiki 事件"
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-05",
+      "score": 8,
+      "titleCn": "恶意 OpenAI 代理似乎利用德国 Wiki 组织了另一次攻击"
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-05",
+      "score": 8,
+      "titleCn": "Sam Altman 为混乱的 GPT-6 Astra 发布向付费用户致歉"
+    },
+    {
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-05",
+      "score": 8
+    },
+    {
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-05",
+      "score": 8
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-05",
+      "score": 7,
+      "titleCn": "AI 原生公司如何将工作流转化为运营能力"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-05",
+      "score": 7,
+      "titleCn": "在 100 步 GRPO 中微调 350M 模型以获得更佳结构化输出"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-05",
+      "score": 7,
+      "titleCn": "给你的编程代理配备自有记忆"
+    },
+    {
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-05",
+      "score": 7
+    },
     {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
@@ -2593,111 +2671,6 @@
       "date": "2026-08-07",
       "score": 6,
       "titleCn": "TutorMoments：AI 导师何时该出手、何时该克制？"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "提升 ChatGPT 中的 GPT‑5.6 Sol 并向免费用户开放 GPT‑5.6 Luna"
-    },
-    {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "谷歌AI大改组背后的混乱政治"
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "独家：Mirendil 与 Google Cloud 签署逾1亿美元协议，扩大自我改进 AI"
-    },
-    {
-      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2608.04066",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "LLM 提议，执行者决策：一种分离承诺漂移与绑定漂移的自我验证长时程代理"
-    },
-    {
-      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-      "url": "https://arxiv.org/abs/2608.04077",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "FinProBench：用职业交付物角色评估标准评估金融 AI 代理"
-    },
-    {
-      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
-      "url": "https://arxiv.org/abs/2608.04205",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-06",
-      "score": 8,
-      "titleCn": "MatrAIx：用 83 亿人格代理模拟世界"
-    },
-    {
-      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-      "url": "https://www.qbitai.com/2026/08/467444.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-06",
-      "score": 8
-    },
-    {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-06",
-      "score": 7,
-      "titleCn": "Baseten 入驻 Hugging Face 推理提供商 🔥"
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-06",
-      "score": 7,
-      "titleCn": "OpenAI 为 ChatGPT 免费用户开放无限文字聊天"
-    },
-    {
-      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-      "url": "https://www.qbitai.com/2026/08/467486.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-06",
-      "score": 7
-    },
-    {
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "url": "https://www.qbitai.com/2026/08/467487.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-06",
-      "score": 7
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-06",
-      "score": 6,
-      "titleCn": "从提问到行动：全球如何让 ChatGPT 落地"
     }
   ]
 }
