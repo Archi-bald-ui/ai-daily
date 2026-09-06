@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI原生企业如何将工作流程转化为运营能力",
+  "overview": "文章探讨AI原生企业如何通过深度整合AI技术，将传统工作流程重新设计为可扩展的运营能力。包括在流程中嵌入模型、利用数据闭环实现持续优化、以及通过组织文化和治理机制支撑规模化落地等关键做法，为企业在竞争中保持敏捷提供实践路径。",
+  "sections": [
+    {
+      "heading": "AI驱动的流程重设计",
+      "summary": "将AI模型嵌入业务关键节点，用实时预测和决策替代传统人工环节，实现流程的端到端自动化和快速迭代。"
+    },
+    {
+      "heading": "数据闭环与持续优化",
+      "summary": "通过收集流程产生的数据，形成模型训练和评估的闭环，实时监控性能并快速迭代模型，保持预测准确率随业务变化同步提升。"
+    },
+    {
+      "heading": "组织文化与治理机制",
+      "summary": "建立跨部门AI协作团队，制定模型使用和伦理治理规范，确保AI落地过程中的透明度、可解释性以及风险控制。"
+    }
+  ],
+  "id": "ai-native-company-workflows",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "url": "https://openai.com/index/ai-native-company-workflows",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-05",
+  "hasFullText": false,
+  "generatedAt": "2026-09-06T12:28:19.443680+08:00"
+}
