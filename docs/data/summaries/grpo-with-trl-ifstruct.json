@@ -1,0 +1,26 @@
+{
+  "titleCn": "在100步GRPO中微调350M模型以获得更好的结构化输出",
+  "overview": "本文探讨了如何在仅100步GRPO（分组相对策略优化）训练中，对350M参数模型进行微调，以显著提升其生成结构化输出的能力。内容涵盖训练策略、模型性能提升以及结构化输出的质量改进，适合对大模型微调和强化学习训练感兴趣的开发者参考。",
+  "sections": [
+    {
+      "heading": "GRPO微调方法",
+      "summary": "采用分组相对策略优化（GRPO）方法，对中小规模模型进行高效微调，仅用100步即实现显著提升。"
+    },
+    {
+      "heading": "结构化输出优化",
+      "summary": "通过微调显著改善模型生成JSON、代码等结构化内容的准确性和格式规范性。"
+    },
+    {
+      "heading": "训练效率与效果",
+      "summary": "在有限训练步数下实现明显的性能提升，展示了小规模模型在结构化任务上的潜力。"
+    }
+  ],
+  "id": "grpo-with-trl-ifstruct",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-05",
+  "hasFullText": false,
+  "generatedAt": "2026-09-06T12:31:00.283406+08:00"
+}
