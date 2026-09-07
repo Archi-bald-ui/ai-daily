@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-06T12:27:12.883648+08:00",
+  "lastUpdated": "2026-09-07T12:27:58.482973+08:00",
   "articles": [
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-06",
+      "score": 8,
+      "titleCn": "使用 TRL 与 OpenEnv 训练编码模型绘制水彩画"
+    },
+    {
+      "title": "EXAONE Forecast for Finance",
+      "url": "https://arxiv.org/abs/2609.04239",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-06",
+      "score": 8,
+      "titleCn": "EXAONE 金融预测"
+    },
+    {
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "url": "https://arxiv.org/abs/2609.04343",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-06",
+      "score": 8,
+      "titleCn": "基于移除的方法提升 LLM 测试时忠实度"
+    },
+    {
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-06",
+      "score": 8
+    },
+    {
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "外星心智"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "研究加速：OpenAI 内部视角"
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "西雅图时报和新闻日对 OpenAI 与微软提起侵权诉讼"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "西雅图时报与新闻日成为最新起诉 OpenAI 与微软的媒体"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "OpenAI 确认“wiki 事件”，称正“制定框架”以便进一步披露"
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-06",
+      "score": 7,
+      "titleCn": "从模型匹配到招聘代理：AI 招聘系统、评估与治理的系统化叙事综述"
+    },
+    {
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-06",
+      "score": 7
+    },
+    {
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-06",
+      "score": 6
+    },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -2575,102 +2680,6 @@
       "date": "2026-08-08",
       "score": 6,
       "titleCn": "Suno 公布打击垃圾 AI 音乐的计划"
-    },
-    {
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-07",
-      "score": 9
-    },
-    {
-      "title": "Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.05152",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-07",
-      "score": 8,
-      "titleCn": "大语言模型思维链推理的平均场动力学"
-    },
-    {
-      "title": "Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs",
-      "url": "https://arxiv.org/abs/2608.05156",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-07",
-      "score": 8,
-      "titleCn": "基于脚手架的后训练：模型参数与过程脚手架图的协同演化"
-    },
-    {
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-07",
-      "score": 8
-    },
-    {
-      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-07",
-      "score": 8
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-07",
-      "score": 7,
-      "titleCn": "应对关键网络能力的新前沿"
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-07",
-      "score": 7,
-      "titleCn": "OpenAI 因新模型被指过于强大而暂停发布"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-07",
-      "score": 7,
-      "titleCn": "OpenAI 因安全顾虑放缓 Astra 模型开发"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-07",
-      "score": 7,
-      "titleCn": "Cloudflare 推出面向 AI 代理的 Kitesurf 浏览器"
-    },
-    {
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "url": "https://arxiv.org/abs/2608.05160",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-07",
-      "score": 7,
-      "titleCn": "点燃指数：语言模型全局工作空间动态测量"
-    },
-    {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-07",
-      "score": 6,
-      "titleCn": "TutorMoments：AI 导师何时该出手、何时该克制？"
     }
   ]
 }
