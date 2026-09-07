@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 TRL 与 OpenEnv 训练编码模型绘制水彩画",
+  "overview": "本文介绍了如何利用可生成代码的大语言模型，通过自然语言指令创作水彩画。借助HuggingFace的TRL库进行强化学习微调，使模型学习水彩的透明度、层次和笔触等艺术特征；同时使用OpenEnv环境对生成结果进行视觉奖励评估，形成闭环训练，实现从文本描述到高质量水彩作品的自动化。",
+  "sections": [
+    {
+      "heading": "模型生成代码绘制水彩",
+      "summary": "通过让大语言模型生成可执行的绘图代码，自动渲染水彩画效果，实现自然语言指令到艺术作品的转换。"
+    },
+    {
+      "heading": "TRL 强化学习微调艺术表现",
+      "summary": "利用TRL库的PPO或REWARD模型，对生成的水彩图进行审美奖励信号训练，提升颜色层次和笔触自然度。"
+    },
+    {
+      "heading": "OpenEnv 环境提供视觉奖励",
+      "summary": "OpenEnv模拟真实水彩纸张与光照，依据构图、透明度等指标给出奖励，实现训练闭环。"
+    }
+  ],
+  "id": "train-to-paint-with-code",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-06",
+  "hasFullText": false,
+  "generatedAt": "2026-09-07T12:30:00.640746+08:00"
+}
