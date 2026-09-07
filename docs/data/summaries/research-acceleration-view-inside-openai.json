@@ -1,0 +1,26 @@
+{
+  "titleCn": "研究加速：OpenAI 内部视角",
+  "overview": "本文从 OpenAI 内部视角审视研究加速的关键因素，包括大规模算力投入、迭代式模型研发流程以及安全与能力的协同治理。通过揭秘团队组织、资源分配和评估机制，展示了如何在保持安全的前提下快速推进 AI 前沿，并展望未来研究方向和潜在挑战。",
+  "sections": [
+    {
+      "heading": "大规模算力投入与资源调度",
+      "summary": "阐述OpenAI在模型训练中如何调度海量GPU集群、平衡算力成本，并实现高效的任务分配与调度策略。"
+    },
+    {
+      "heading": "迭代式研发与安全对齐",
+      "summary": "解释OpenAI通过快速原型、持续评估与安全红队相结合的方式，在提升模型能力的同时保持对齐与可控性。"
+    },
+    {
+      "heading": "跨职能协作与评估机制",
+      "summary": "展示研发、产品与安全团队如何通过共享指标、自动化测试和透明报告实现协同工作，确保项目进度与风险可视化。"
+    }
+  ],
+  "id": "research-acceleration-view-inside-openai",
+  "title": "Research acceleration: The view inside OpenAI",
+  "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-06",
+  "hasFullText": false,
+  "generatedAt": "2026-09-07T12:45:36.742351+08:00"
+}
