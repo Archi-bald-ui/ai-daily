@@ -1,0 +1,26 @@
+{
+  "titleCn": "体验 Google Pics：在 Google Workspace 中轻松创建和编辑图像",
+  "overview": "Google 在 Workspace 中推出新图像工具 Google Pics，旨在让用户在文档、幻灯片等场景里直接创建、编辑和插入图片。该工具支持拖拽式编辑、内置 AI 滤镜和自动抠图，简化协作流程并提升内容产出效率。此外，支持跨平台同步，团队成员可实时预览、评论并协同编辑，进一步提升工作效率。",
+  "sections": [
+    {
+      "heading": "拖拽式编辑，即时生成",
+      "summary": "用户可直接在文档或幻灯片中拖拽图片素材，系统即时生成并自动适配布局，省去传统导出导入步骤。"
+    },
+    {
+      "heading": "AI 加持，智能优化",
+      "summary": "内置 AI 滤镜、智能抠图和风格迁移，一键提升图片质感，帮助用户快速完成高质量视觉内容。"
+    },
+    {
+      "heading": "跨应用协作，实时同步",
+      "summary": "图片编辑后可即时插入 Google Docs、Slides 等应用，团队成员可预览、评论并共同编辑，保证信息高度一致性。"
+    }
+  ],
+  "id": "google-pics",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-07",
+  "hasFullText": false,
+  "generatedAt": "2026-09-08T12:30:47.453239+08:00"
+}
