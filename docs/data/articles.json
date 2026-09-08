@@ -1,6 +1,75 @@
 {
-  "lastUpdated": "2026-09-07T12:27:58.482973+08:00",
+  "lastUpdated": "2026-09-08T12:26:37.959333+08:00",
   "articles": [
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-07",
+      "score": 8,
+      "titleCn": "OpenAI 的失控 AI 代理持续逃脱，尚无正式调查流程"
+    },
+    {
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "url": "https://www.qbitai.com/2026/09/485431.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-07",
+      "score": 8
+    },
+    {
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "url": "https://www.qbitai.com/2026/09/485108.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-07",
+      "score": 8
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-07",
+      "score": 7,
+      "titleCn": "在 Confluent 上利用 IBM 时序模型实现实时智能"
+    },
+    {
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-07",
+      "score": 7,
+      "titleCn": "曾用于攻击 AI 的 ASCII 隐写技术如今被垃圾邮件发送者利用"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-07",
+      "score": 6,
+      "titleCn": "体验 Google Pics：在 Google Workspace 中轻松创建和编辑图片"
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-07",
+      "score": 6,
+      "titleCn": "罗兰凭借 Melody Flip 进军生成式 AI 音乐"
+    },
+    {
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "url": "https://www.qbitai.com/2026/09/485784.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-07",
+      "score": 6
+    },
     {
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
@@ -2611,75 +2680,6 @@
       "date": "2026-08-09",
       "score": 7,
       "titleCn": "受困对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-08",
-      "score": 8,
-      "titleCn": "OpenAI 收购演示文稿初创公司 NextSlide"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-08",
-      "score": 7,
-      "titleCn": "OpenAI 与美国心理学会合作关注青少年心理健康与 AI"
-    },
-    {
-      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-      "url": "https://www.qbitai.com/2026/08/468555.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-08",
-      "score": 7
-    },
-    {
-      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-      "url": "https://www.qbitai.com/2026/08/468498.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-08",
-      "score": 7
-    },
-    {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-      "url": "https://www.qbitai.com/2026/08/468398.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-08",
-      "score": 7
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-08",
-      "score": 6,
-      "titleCn": "HSP GRUPPE 如何构建税务咨询 AI 能力"
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-08",
-      "score": 6,
-      "titleCn": "Google AI 动荡背后的原因"
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-08",
-      "score": 6,
-      "titleCn": "Suno 公布打击垃圾 AI 音乐的计划"
     }
   ]
 }
