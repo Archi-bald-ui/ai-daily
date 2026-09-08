@@ -1,0 +1,26 @@
+{
+  "titleCn": "在 Confluent 上使用 IBM 时间序列模型实现实时智能",
+  "overview": "本文介绍如何将 IBM 的时间序列预测模型与 Confluent 的流处理平台深度集成，利用 Kafka‑原生事件流实现毫秒级预测、异常检测和动态阈值更新，适用于 IoT、金融和运营监控等场景，实现业务决策的实时智能化。",
+  "sections": [
+    {
+      "heading": "流式集成架构",
+      "summary": "通过 Confluent 的连接器和 Schema Registry 将 IBM 模型嵌入 Kafka 流，实现模型输入输出的无缝序列化和路由。"
+    },
+    {
+      "heading": "实时预测与异常检测",
+      "summary": "在数据到达的毫秒窗口内完成推理，动态生成预测值并即时触发异常告警，支持实时仪表盘和业务动作。"
+    },
+    {
+      "heading": "典型应用与最佳实践",
+      "summary": "展示 IoT 设备监控、金融交易异常和运营指标预警等案例，提供模型调优、资源分配和容错设计的经验。"
+    }
+  ],
+  "id": "real-time-intelligence",
+  "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-07",
+  "hasFullText": false,
+  "generatedAt": "2026-09-08T12:28:41.670794+08:00"
+}
