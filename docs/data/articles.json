@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-08T12:26:37.959333+08:00",
+  "lastUpdated": "2026-09-09T12:33:27.623823+08:00",
   "articles": [
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-08",
+      "score": 9,
+      "titleCn": "论纳维-斯托克斯千年大奖问题"
+    },
+    {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-08",
+      "score": 9,
+      "titleCn": "OpenAI传奇数学里程碑引发热议"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-08",
+      "score": 9,
+      "titleCn": "Mistral融资30亿欧元，主权AI成大产业"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "GPT-5.6 Sol助力量子计算实验"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "ChatGPT Images 2.5正式发布"
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "Meta押注AI代理Muse，力图在AI竞赛中追赶"
+    },
+    {
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "CriticGen：生成感知评估即可操作反馈"
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "何时记忆有帮助？工具使用LLM代理的长期记忆成本感知评估"
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-08",
+      "score": 8,
+      "titleCn": "AutoFyn技术报告：非参数专家迭代助力长时程代理"
+    },
+    {
+      "title": "王云鹤创业后交出首个模型",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-08",
+      "score": 7
+    },
+    {
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "url": "https://www.qbitai.com/2026/09/485794.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-08",
+      "score": 6
+    },
+    {
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "url": "https://www.qbitai.com/2026/09/485630.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-08",
+      "score": 6
+    },
     {
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
@@ -2653,33 +2758,6 @@
       "category": "中文资讯",
       "date": "2026-08-10",
       "score": 6
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-09",
-      "score": 8,
-      "titleCn": "AI安全测试正成为安全隐患"
-    },
-    {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-09",
-      "score": 8,
-      "titleCn": "最高严重级别的Exchange服务器漏洞正被克里姆林宫黑客积极利用"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-09",
-      "score": 7,
-      "titleCn": "受困对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元"
     }
   ]
 }
