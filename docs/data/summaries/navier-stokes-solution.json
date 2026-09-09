@@ -1,0 +1,26 @@
+{
+  "titleCn": "论纳维-斯托克斯千年奖问题",
+  "overview": "本文聚焦纳维-斯托克斯方程的千年奖难题，阐述其在流体力学与数学中的核心地位，梳理近期理论进展与计算模拟的突破，并探讨人工智能在探索解的存在性与奇异性方面的潜在价值。",
+  "sections": [
+    {
+      "heading": "问题背景与重要性",
+      "summary": "纳维-斯托克斯方程描述粘性流体运动，千禧奖问题要求证明其解的整体光滑性或出现奇点。"
+    },
+    {
+      "heading": "最新理论进展",
+      "summary": "介绍近年来在正则性准则、弱解唯一性以及数值模拟中观察到的潜在奇异解的最新成果，并讨论其对整体解行为的意义。"
+    },
+    {
+      "heading": "AI的探索与启示",
+      "summary": "探讨机器学习模型在加速求解、发现潜在奇点结构以及辅助理论证明方面的尝试与局限，并展望其未来可能的发展方向。"
+    }
+  ],
+  "id": "navier-stokes-solution",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "url": "https://openai.com/index/navier-stokes-solution",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-08",
+  "hasFullText": false,
+  "generatedAt": "2026-09-09T12:35:12.486063+08:00"
+}
