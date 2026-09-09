@@ -1,0 +1,44 @@
+{
+  "titleCn": "AutoFyn技术报告：面向长时域智能体的非参数化专家迭代",
+  "overview": "本文针对长时域决策任务中样本效率与策略一致性的难题，提出AutoFyn框架，采用非参数化专家迭代方法，在每轮迭代中生成伪专家轨迹并进行模仿与纠错，以提升智能体的长时规划能力。在多步、部分可观测的仿真环境中验证表明，该方法显著降低交互样本数，并在长期累计奖励上优于基线。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍长时域任务中样本效率与策略一致性的挑战，阐明AutoFyn的动机与主要贡献，概述本文结构。",
+      "summary_len": 45
+    },
+    {
+      "heading": "背景与相关工作",
+      "summary": "回顾强化学习中的专家迭代、模型基与非参数化方法，以及在长时域决策上的已有研究，指出其局限。",
+      "summary_len": 46
+    },
+    {
+      "heading": "方法：非参数化专家迭代",
+      "summary": "详细描述AutoFyn的核心框架，包括伪专家轨迹生成、非参数化模型的使用、模仿与纠错机制以及迭代更新流程。",
+      "summary_len": 56
+    },
+    {
+      "heading": "实验设置",
+      "summary": "说明使用的多步、部分可观测仿真环境，基线方法，评估指标（样本效率、累计奖励）以及实验超参数设置。",
+      "summary_len": 51
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "展示AutoFyn在样本效率和长期累计奖励上相较于基线的显著提升，分析非参数化模型对策略一致性的影响，并进行消融实验。",
+      "summary_len": 58
+    },
+    {
+      "heading": "结论与未来工作",
+      "summary": "总结AutoFyn在长时域智能体训练中的优势，提出后续研究方向，如更大规模环境、真实机器人部署以及与其他元学习方法的结合。",
+      "summary_len": 60
+    }
+  ],
+  "id": "2609.05446",
+  "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+  "url": "https://arxiv.org/abs/2609.05446",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-08",
+  "hasFullText": false,
+  "generatedAt": "2026-09-09T12:57:34.201060+08:00"
+}
