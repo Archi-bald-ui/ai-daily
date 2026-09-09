@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-5.6 Sol 如何助力量子计算实验",
+  "overview": "本文介绍了OpenAI最新的语言模型GPT-5.6 Sol在量子计算实验中的实际应用。该模型通过自然语言指令实现量子线路快速生成、参数优化以及错误诊断，显著降低实验门槛，提高科研效率，并展示在真实量子硬件上运行复杂算法的潜力。",
+  "sections": [
+    {
+      "heading": "自然语言驱动量子线路生成",
+      "summary": "模型接收研究者的描述性指令，自动生成对应的量子门序列与电路图，省去手工编码的时间。"
+    },
+    {
+      "heading": "参数自动优化与误差诊断",
+      "summary": "基于强化学习和噪声模型，GPT-5.6 Sol 能自动调节量子操作参数并预测误差来源，帮助提升算法可靠性。"
+    },
+    {
+      "heading": "跨平台实验部署与结果可视化",
+      "summary": "模型生成的量子程序可直接在多种真实量子硬件或模拟器上运行，并自动生成结果图表，便于快速评估实验效果。"
+    }
+  ],
+  "id": "codex-quantum-computing-experiments",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "url": "https://openai.com/index/codex-quantum-computing-experiments",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-08",
+  "hasFullText": false,
+  "generatedAt": "2026-09-09T12:36:43.507923+08:00"
+}
