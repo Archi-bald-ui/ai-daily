@@ -1,0 +1,26 @@
+{
+  "titleCn": "ChatGPT Images 2.5 正式发布",
+  "overview": "本文介绍了 OpenAI 推出的 ChatGPT Images 2.5，该版本在图像生成质量、Prompt 理解以及多模态交互上实现显著提升，并通过优化模型结构显著加快生成速度，新增的编辑工具让用户可以在对话中直接微调图像细节，旨在让用户在对话中更自然、更高效地生成和编辑图像。",
+  "sections": [
+    {
+      "heading": "更逼真的图像生成",
+      "summary": "新模型提升了细节表现和光照真实感，生成的图片在纹理和颜色上更贴近实物，并支持更高分辨率输出，细节保留更完整。"
+    },
+    {
+      "heading": "更精准的指令理解",
+      "summary": "系统对自然语言指令的解析更深入，能够准确识别用户的构图需求和风格偏好，从而生成更符合预期的图像。"
+    },
+    {
+      "heading": "多模态交互增强",
+      "summary": "除了文本，用户还能通过图像示例或手绘草图进行交互，系统实时反馈并调节生成结果，提升创作的灵活性。"
+    }
+  ],
+  "id": "introducing-chatgpt-images-2-5",
+  "title": "Introducing ChatGPT Images 2.5",
+  "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-08",
+  "hasFullText": false,
+  "generatedAt": "2026-09-09T12:38:06.952612+08:00"
+}
