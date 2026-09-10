@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-6 Astra：下一代工作智能",
+  "overview": "OpenAI 推出 GPT-6 Astra，定位为企业的下一代工作智能平台。该模型在语言理解、逻辑推理和多模态交互方面实现显著提升，并深度集成常用办公软件和工作流，支持自定义知识库与安全控制，以提升团队协作与决策效率。",
+  "sections": [
+    {
+      "heading": "更强的语言与推理能力",
+      "summary": "GPT-6 Astra 在语言理解、逻辑推理和长上下文处理上实现显著突破，可更精准地完成复杂任务。"
+    },
+    {
+      "heading": "深度集成办公与工作流",
+      "summary": "通过插件与 API，模型直接接入常见办公软件、项目管理和数据分析平台，实现无缝工作流自动化。"
+    },
+    {
+      "heading": "企业级安全与可定制性",
+      "summary": "提供细粒度访问控制、审计日志和私有部署选项，支持自定义知识库和业务规则，以满足合规需求。"
+    }
+  ],
+  "id": "gpt-6-astra-next-generation-work",
+  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-09",
+  "hasFullText": false,
+  "generatedAt": "2026-09-10T12:33:27.737022+08:00"
+}
