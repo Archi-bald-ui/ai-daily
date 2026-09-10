@@ -1,0 +1,38 @@
+{
+  "titleCn": "OpenDiscoveryTrace：用于评估AI科学家工作流程的过程追踪",
+  "overview": "本文提出OpenDiscoveryTrace，一个用于系统化评估AI科学家工作流程的过程追踪框架。通过收集假设生成、实验设计、执行与结果分析等关键环节的完整日志，构建了开放基准数据集；并设计多维度评估指标，包括任务完成度、流程合理性和计算成本。实验对多种AI模型进行基准测试，结果显示语言模型在长程科研推理上仍有显著差距，验证了过程追踪提升透明度和可解释性的价值。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本节介绍AI科学家工作流程自动化的研究背景，阐述过程追踪在评估科学推理和实验可重复性方面的重要性，指出OpenDiscoveryTrace的动机与主要贡献。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "本节回顾科研自动化、过程挖掘和AI评估基准的相关研究，分析现有工作在学习路径、实验记录和可解释性方面的不足，明确本研究的定位与创新点。"
+    },
+    {
+      "heading": "方法与系统设计",
+      "summary": "本节详细描述OpenDiscoveryTrace的整体架构，包括日志采集协议、事件模型、元数据标注以及多维度评估指标的定义与计算方法。"
+    },
+    {
+      "heading": "数据收集与实验设置",
+      "summary": "本节说明数据来源、采集过程和数据规模，介绍实验中使用的AI模型、基线系统以及评估环境的配置。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "本节展示在任务完成度、流程合理性、计算成本和可复现性等指标上的实验结果，比较不同模型的表现并讨论性能差异的原因。"
+    },
+    {
+      "heading": "结论与未来工作",
+      "summary": "本节总结OpenDiscoveryTrace的主要贡献与发现，指出当前局限，提出后续研究方向，如扩展领域、提升自动化水平以及构建更细粒度的过程评估模型。"
+    }
+  ],
+  "id": "2609.09203",
+  "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+  "url": "https://arxiv.org/abs/2609.09203",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-09",
+  "hasFullText": false,
+  "generatedAt": "2026-09-10T12:38:30.935400+08:00"
+}
