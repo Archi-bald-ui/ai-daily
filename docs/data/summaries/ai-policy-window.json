@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI政策窗口已开启：我们必须行动",
+  "overview": "本文指出，随着人工智能技术快速发展，全球正迎来一个关键的AI政策窗口期，需要政府、行业和学术界迅速行动，制定前瞻性治理框架，确保技术安全、伦理合规，并促进国际合作，以把握AI带来的机遇并防范潜在风险。",
+  "sections": [
+    {
+      "heading": "AI治理的紧迫性",
+      "summary": "技术迭代加速导致监管滞后，迫切需要在安全、隐私、责任等方面建立明确规则，防止技术滥用和社会冲击。"
+    },
+    {
+      "heading": "多方协作与全球标准",
+      "summary": "单靠一国难以应对跨境AI挑战，必须推动跨国合作、共建技术标准和共享最佳实践，以实现治理一致性。"
+    },
+    {
+      "heading": "安全与伦理框架的构建",
+      "summary": "在保障数据安全、算法透明和公平性的前提下，构建以伦理为导向的研发和部署机制，提升公众信任和可持续发展。"
+    }
+  ],
+  "id": "ai-policy-window",
+  "title": "The AI policy window is open. We need to act.",
+  "url": "https://openai.com/index/ai-policy-window",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-09",
+  "hasFullText": false,
+  "generatedAt": "2026-09-10T12:33:52.356067+08:00"
+}
