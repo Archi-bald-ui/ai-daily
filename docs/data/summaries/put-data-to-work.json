@@ -1,0 +1,26 @@
+{
+  "titleCn": "现在每个人都能把数据用起来",
+  "overview": "OpenAI 推出全新平台，让任何人都能轻松将自有数据接入 AI，实现快速分析、自动化报告和业务洞察。平台提供简洁的 API 与可视化操作界面，支持多种数据格式，同时确保数据安全与合规，帮助企业和个人降低技术门槛，快速把数据转化为价值。",
+  "sections": [
+    {
+      "heading": "简易数据接入",
+      "summary": "通过统一的API与可视化界面，用户可快速上传或连接CSV、JSON等常见数据格式，无需编写复杂代码。"
+    },
+    {
+      "heading": "多场景 AI 应用",
+      "summary": "数据接入后，用户可让模型完成文本分析、情感判断、代码生成、业务报告等多种任务，实现一次性投入、多场景复用。"
+    },
+    {
+      "heading": "安全合规保障",
+      "summary": "平台在数据传输、存储和模型推理各环节采用加密与访问控制，确保用户数据仅在授权范围内使用，符合行业合规要求。"
+    }
+  ],
+  "id": "put-data-to-work",
+  "title": "Now everyone can put data to work",
+  "url": "https://openai.com/index/put-data-to-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-10",
+  "hasFullText": false,
+  "generatedAt": "2026-09-11T12:33:14.333086+08:00"
+}
