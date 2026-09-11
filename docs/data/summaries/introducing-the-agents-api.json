@@ -1,0 +1,26 @@
+{
+  "titleCn": "介绍 Agents API",
+  "overview": "OpenAI 正式发布 Agents API，为开发者提供统一接口来构建可调用工具、执行多步骤任务的 AI 代理。该 API 支持函数调用、会话上下文管理以及安全沙箱，简化对话系统与外部服务的集成，帮助开发者快速搭建自动化工作流和智能助理。",
+  "sections": [
+    {
+      "heading": "统一 API 接口",
+      "summary": "提供统一的编程接口，开发者只需一次调用即可创建、配置并管理 AI 代理的生命周期，支持多轮对话和状态持久化。"
+    },
+    {
+      "heading": "函数调用与工具集成",
+      "summary": "内置函数调用机制，代理能够直接请求外部 API、执行代码或查询数据库，实现无缝工具集成。"
+    },
+    {
+      "heading": "安全沙箱与工作流",
+      "summary": "提供安全沙箱环境运行不可信代码，限制资源使用并记录审计日志，帮助构建可靠的多步骤自动化工作流。"
+    }
+  ],
+  "id": "introducing-the-agents-api",
+  "title": "Introducing the Agents API",
+  "url": "https://openai.com/index/introducing-the-agents-api",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-10",
+  "hasFullText": false,
+  "generatedAt": "2026-09-11T12:35:44.761052+08:00"
+}
