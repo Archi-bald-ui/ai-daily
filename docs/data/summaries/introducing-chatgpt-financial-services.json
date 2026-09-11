@@ -1,0 +1,26 @@
+{
+  "titleCn": "面向金融服务的 ChatGPT 介绍",
+  "overview": "OpenAI 推出面向金融服务的 ChatGPT，专注于在银行、保险、财富管理等领域提供安全、合规的 AI 对话能力。该模型基于金融语料微调，支持实时行情接入、风险提示、合规报告等场景，并通过严格的数据隔离与审计机制，确保客户信息私密可控。",
+  "sections": [
+    {
+      "heading": "金融行业专属模型",
+      "summary": "基于大规模金融语料微调，能够理解专业术语、监管要求并提供精准答案，适用于风险评估、合规审查等高要求场景。"
+    },
+    {
+      "heading": "数据安全与合规保障",
+      "summary": "采用多租户隔离、加密传输与审计日志，满足金融监管对数据保密和可追溯性的严格要求，并支持第三方合规审查和实时风险监控，确保模型输出符合行业规范。"
+    },
+    {
+      "heading": "多场景落地案例",
+      "summary": "已在财富管理智能投顾、银行卡客服对话、反欺诈风险提示等业务中试点，实现响应速度提升和用户满意度增长。"
+    }
+  ],
+  "id": "introducing-chatgpt-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-10",
+  "hasFullText": false,
+  "generatedAt": "2026-09-11T12:34:41.124345+08:00"
+}
