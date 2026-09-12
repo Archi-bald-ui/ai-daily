@@ -1,0 +1,26 @@
+{
+  "titleCn": "Perplexity 信任 GPT-6 Astra 用于端到端系统",
+  "overview": "本文报道 Perplexity 宣布将 OpenAI 最新的大语言模型 GPT-6 Astra 深度嵌入其搜索与答案生成的完整链路，标志对其模型安全性、推理速度和多模态能力的信任。文章分析了该合作在提升信息检索准确性、降低延迟以及推动行业 AI 应用标准方面的潜在影响。",
+  "sections": [
+    {
+      "heading": "端到端系统深度集成",
+      "summary": "Perplexity 将 GPT-6 Astra 直接嵌入搜索、推理和回复全流程，实现从用户查询到答案输出的闭环，显著提升响应速度和答案一致性。"
+    },
+    {
+      "heading": "模型安全与可信机制",
+      "summary": "Perplexity 认可 GPT-6 Astra 在对齐、红队测试和合规审查方面的成熟表现，因而决定全面信赖其在生产环境的运行，并持续监控模型安全更新。"
+    },
+    {
+      "heading": "性能与功能提升预期",
+      "summary": "借助 GPT-6 Astra 更低的推理时延、更高的答案准确率以及跨模态支持，Perplexity 预期用户体验将显著提升，并有望推动行业技术升级。"
+    }
+  ],
+  "id": "perplexity-improving-accuracy-with-astra",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-11",
+  "hasFullText": false,
+  "generatedAt": "2026-09-12T12:53:54.031892+08:00"
+}
