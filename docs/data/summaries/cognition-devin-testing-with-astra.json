@@ -1,0 +1,26 @@
+{
+  "titleCn": "Cognition 助力 Devin 使用 GPT‑6 Astra 进行自我测试",
+  "overview": "本文介绍 Cognition 如何帮助 Devin 使用最新的 GPT‑6 Astra 大模型进行自我测试与质量验证，阐述 AI 在自动化代码生成与测试中的协同工作方式，并展望该技术对提升开发效率和软件可靠性的潜在影响。",
+  "sections": [
+    {
+      "heading": "Cognition 与 Devin 的合作模式",
+      "summary": "Cognition 提供工具链，使 Devin 能够自动调用 GPT‑6 Astra 进行结果校验与错误定位。"
+    },
+    {
+      "heading": "GPT‑6 Astra 在测试中的关键作用",
+      "summary": "GPT‑6 Astra 具备强大的代码理解与生成能力，可快速生成测试用例并验证输出是否符合预期。"
+    },
+    {
+      "heading": "对开发效率与质量的潜在影响",
+      "summary": "通过自动化测试循环，Devin 可在代码提交后即时发现问题，显著缩短调试周期并提升最终交付的可靠性。"
+    }
+  ],
+  "id": "cognition-devin-testing-with-astra",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-11",
+  "hasFullText": false,
+  "generatedAt": "2026-09-12T12:54:57.444229+08:00"
+}
