@@ -1,0 +1,26 @@
+{
+  "titleCn": "安全为了谁？拒绝正确的主题子集，而非整个主题",
+  "overview": "本文围绕AI模型的安全边界展开讨论，提出应当针对具体的有害子集进行限制，而不是一刀切地封禁整个主题。作者分析了当前安全策略的局限，探讨如何在防止恶意信息扩散的同时保留有价值的内容，并给出实现细粒度过滤的技术思路与案例。",
+  "sections": [
+    {
+      "heading": "细粒度安全策略的必要性",
+      "summary": "通过识别并仅拒绝特定的有害子集，可在防止风险的同时保留大多数合法信息，提升模型的实用性与公平性。"
+    },
+    {
+      "heading": "实现子集过滤的技术路径",
+      "summary": "可采用细粒度标注、动态策略引擎或在推理阶段加入条件屏蔽，实现对特定子集的精准拦截而非整体阻断。"
+    },
+    {
+      "heading": "对不同受众的公平性与风险",
+      "summary": "通过仅限制有害子集，能够更好地保护弱势群体的同时，避免对普通用户的合法需求产生过度限制，实现安全与服务的平衡。"
+    }
+  ],
+  "id": "safety-for-whom",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-11",
+  "hasFullText": false,
+  "generatedAt": "2026-09-12T12:31:35.781164+08:00"
+}
