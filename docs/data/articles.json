@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-11T12:31:23.289668+08:00",
+  "lastUpdated": "2026-09-12T12:27:57.798493+08:00",
   "articles": [
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-11",
+      "score": 8,
+      "titleCn": "安全为谁？拒绝主题的正确子集，而不是整个主题"
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-11",
+      "score": 8,
+      "titleCn": "Anthropic 本周因网络安全问题陷入争议"
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.10656",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-11",
+      "score": 8,
+      "titleCn": "理解 LoRA 排名在扩散模型微调中的权衡"
+    },
+    {
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "url": "https://arxiv.org/abs/2609.10657",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-11",
+      "score": 8,
+      "titleCn": "量化记忆化到泛化的转变：Grokking 中的扩展律与相结构"
+    },
+    {
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "url": "https://arxiv.org/abs/2609.10712",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-11",
+      "score": 8,
+      "titleCn": "IMO 金牌的开放式配方：训练 Nemotron 参加奥林匹克数学"
+    },
+    {
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-11",
+      "score": 8
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-11",
+      "score": 7,
+      "titleCn": "Perplexity 将端到端系统交由 GPT-6 Astra 负责"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-11",
+      "score": 7,
+      "titleCn": "Cognition 帮助 Devin 使用 GPT-6 Astra 检验自己的工作"
+    },
+    {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-11",
+      "score": 7,
+      "titleCn": "律师因 AI 虚构证人在谋杀案中被罚款 5,000 美元"
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-11",
+      "score": 7,
+      "titleCn": "Slack 现在可以在聊天中 vibe‑code 交互式图表和报告"
+    },
+    {
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-11",
+      "score": 6
+    },
+    {
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "url": "https://www.qbitai.com/2026/09/487415.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-11",
+      "score": 6
+    },
     {
       "title": "Now everyone can put data to work",
       "url": "https://openai.com/index/put-data-to-work",
@@ -2668,95 +2773,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-08-13",
-      "score": 7
-    },
-    {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-12",
-      "score": 9,
-      "titleCn": "ChatGPT 与 Gemini 同时突破 10 亿用户"
-    },
-    {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "让知识蒸馏足够廉价以实现规模化运行"
-    },
-    {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "Meta 再次推出 Muse Glimmer：本地、代理式、多模态、开源"
-    },
-    {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "大规模供应链攻击致 TB 级凭证泄露"
-    },
-    {
-      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.09967",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "SPOTting 未来：深度强化学习的前瞻解释"
-    },
-    {
-      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
-      "url": "https://arxiv.org/abs/2608.09986",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "MIDAS：不确定性感知融合的互信息解耦用于不完整多模态情感分析"
-    },
-    {
-      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-      "url": "https://arxiv.org/abs/2608.09998",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-12",
-      "score": 8,
-      "titleCn": "迈向可持续人工智能：深度学习模型碳足迹综合综述"
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-12",
-      "score": 7,
-      "titleCn": "OlmoEarth 嵌入发布：从 OlmoEarth Studio 导出自定义嵌入用于下游分析"
-    },
-    {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-12",
-      "score": 7,
-      "titleCn": "Grok 现已成为可分配任务的 AI‘队友’"
-    },
-    {
-      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-      "url": "https://www.qbitai.com/2026/08/470874.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-12",
       "score": 7
     }
   ]
