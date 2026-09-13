@@ -1,0 +1,26 @@
+{
+  "titleCn": "快速扩展在线存储以服务超过十亿ChatGPT用户",
+  "overview": "文章介绍了OpenAI为应对ChatGPT用户突破十亿级别的需求，如何在全球范围内部署高速、可靠的在线存储系统。内容涵盖底层架构升级、容错与数据一致性策略、以及成本控制和可持续能源利用等关键措施，展示了在大规模 AI 服务中存储扩展的技术挑战与解决方案。",
+  "sections": [
+    {
+      "heading": "分布式存储架构",
+      "summary": "采用分层分片、跨区域复制的分布式存储系统，实现高吞吐、低延迟与自动故障恢复，保障1亿+用户随时访问。"
+    },
+    {
+      "heading": "容错与数据一致性",
+      "summary": "通过多副本同步、Paxos 共识与版本化日志，确保在节点故障或网络分区时仍保持强一致性，满足 AI 模型对实时训练与推理的需求。"
+    },
+    {
+      "heading": "成本控制与绿色能源",
+      "summary": "采用冷热分层存储、资源调度和自研高效压缩算法，结合数据中心使用可再生能源，有效降低每 TB 成本，实现可持续发展目标。"
+    }
+  ],
+  "id": "scaling-storage-one-billion-users-part-one",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-12",
+  "hasFullText": false,
+  "generatedAt": "2026-09-13T17:36:17.703211+08:00"
+}
