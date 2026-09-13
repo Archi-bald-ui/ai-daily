@@ -1,0 +1,26 @@
+{
+  "titleCn": "研究人员如何使用 Codex 和 ChatGPT 搜索新型抗菌分子",
+  "overview": "本文报道一位科研人员借助 OpenAI 的代码生成模型 Codex 与对话模型 ChatGPT，系统化搜索新型抗菌分子。研究通过自然语言指令快速生成化学结构与性质预测代码，再由对话接口进行筛选和优化，显著提升了分子筛选的效率与可解释性，为 AI 驱动的药物发现提供了新思路。",
+  "sections": [
+    {
+      "heading": "AI生成代码加速分子建模",
+      "summary": "Codex 能自动写出化学信息学脚本，快速实现分子结构生成、属性预测与对接模拟，显著缩短实验前的计算准备时间。"
+    },
+    {
+      "heading": "自然语言对话驱动候选筛选",
+      "summary": "ChatGPT 通过自然语言指令解析研究需求，从海量化合物库中筛选潜在活性分子，并给出结构解释与可合成性评估，帮助实验人员快速定位先导化合物。"
+    },
+    {
+      "heading": "实验验证与模型迭代",
+      "summary": "AI推荐的候选分子经体外抗菌测试后，将结果反馈给Codex与ChatGPT进行模型微调与更新，形成AI‑实验闭环，提升发现成功率。"
+    }
+  ],
+  "id": "using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-12",
+  "hasFullText": false,
+  "generatedAt": "2026-09-13T17:33:46.264125+08:00"
+}
