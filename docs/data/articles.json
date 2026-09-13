@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-12T12:27:57.798493+08:00",
+  "lastUpdated": "2026-09-13T12:41:01.528021+08:00",
   "articles": [
+    {
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "url": "https://www.qbitai.com/2026/09/487701.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-12",
+      "score": 9
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-12",
+      "score": 8,
+      "titleCn": "研究者利用 Codex 与 ChatGPT 搜索新型抗菌分子"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-12",
+      "score": 8,
+      "titleCn": "使用 GPT‑Live‑1 API 构建更自然的语音体验"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-12",
+      "score": 7,
+      "titleCn": "快速扩容在线存储，赋能超 10 亿 ChatGPT 用户"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-12",
+      "score": 7,
+      "titleCn": "OpenAI 只想要赢"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-12",
+      "score": 7,
+      "titleCn": "Anthropic CEO 概述放缓 AI 发展计划"
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-12",
+      "score": 7
+    },
+    {
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "url": "https://www.qbitai.com/2026/09/487688.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-12",
+      "score": 7
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-12",
+      "score": 6,
+      "titleCn": "Anthropic CEO 说该给 AI 踩刹车了"
+    },
     {
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -2669,111 +2747,6 @@
       "category": "中文资讯",
       "date": "2026-08-14",
       "score": 6
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-13",
-      "score": 8,
-      "titleCn": "构建者的 GPT‑5.6 指南"
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-13",
-      "score": 8,
-      "titleCn": "极速模式预览：GPT‑5.6 Sol 速度提升最高14倍"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-13",
-      "score": 8,
-      "titleCn": "OpenAI 推出‘极速’模式，使 GPT‑5.6 Sol 速度提升14倍"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-13",
-      "score": 8,
-      "titleCn": "Anthropic 让 AI 代理争夺同一任务，掀起地盘争夺"
-    },
-    {
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-13",
-      "score": 8
-    },
-    {
-      "title": "刚刚！Ilya首个模型曝光了",
-      "url": "https://www.qbitai.com/2026/08/471701.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-13",
-      "score": 8
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-13",
-      "score": 7,
-      "titleCn": "从辅助到执行：企业如何让 AI 落地"
-    },
-    {
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-13",
-      "score": 7,
-      "titleCn": "Google 真的想赢 AI 吗？"
-    },
-    {
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "url": "https://arxiv.org/abs/2608.11216",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-13",
-      "score": 7,
-      "titleCn": "AutoWorldModel‑Bench：以状态为中心的自动化世界模型研究基准"
-    },
-    {
-      "title": "Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction",
-      "url": "https://arxiv.org/abs/2608.11242",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-13",
-      "score": 7,
-      "titleCn": "在压缩中迷失：评估上下文压缩下的侧约束损失"
-    },
-    {
-      "title": "Diffuse to Compress: Leveraging Diffusion LMs for Lossless Compression",
-      "url": "https://arxiv.org/abs/2608.11249",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-13",
-      "score": 7,
-      "titleCn": "扩散压缩：利用扩散语言模型实现无损压缩"
-    },
-    {
-      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-      "url": "https://www.qbitai.com/2026/08/472067.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-13",
-      "score": 7
     }
   ]
 }
