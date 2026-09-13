@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 GPT‑Live‑1 在 API 中构建更自然的语音体验",
+  "overview": "本文介绍 OpenAI 在 API 中推出的新语音模型 GPT‑Live‑1，旨在帮助开发者构建更自然、响应更快的语音交互体验。该模型在语音生成的自然度、情感表达和延迟方面进行了显著优化，支持实时对话、流式输出和多语言语音，可直接通过 API 调用，简化了语音助手的开发流程。",
+  "sections": [
+    {
+      "heading": "更自然的语音生成",
+      "summary": "GPT‑Live‑1 通过大规模语音数据训练，显著提升音色、情感和韵律的自然度，使对话更贴近真人表达，并增强交互流畅度。"
+    },
+    {
+      "heading": "低延迟实时交互",
+      "summary": "GPT‑Live‑1 采用流式输出和轻量化推理，显著降低响应延迟，实现毫秒级语音生成，支持实时语音对话，并提升同步性。"
+    },
+    {
+      "heading": "简易 API 集成",
+      "summary": "通过统一 REST 接口，开发者可快速调用 GPT‑Live‑1，支持多语言语音合成与语音识别，具备灵活参数配置和安全保障。"
+    }
+  ],
+  "id": "introducing-gpt-live-1-in-the-api",
+  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-12",
+  "hasFullText": false,
+  "generatedAt": "2026-09-13T17:34:55.937801+08:00"
+}
