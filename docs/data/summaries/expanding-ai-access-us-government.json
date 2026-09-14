@@ -1,0 +1,26 @@
+{
+  "titleCn": "为联邦、州、地方和部落政府扩大AI访问与网络防御",
+  "overview": "OpenAI发布针对联邦、州、地方及部落政府的新计划，重点在扩大AI技术的获取渠道并强化网络防御能力。通过提供安全的大模型访问、定制培训以及共建网络安全平台，帮助政府提升公共服务、灾害响应和公共安全等关键领域的智能化水平。",
+  "sections": [
+    {
+      "heading": "AI访问扩展",
+      "summary": "通过安全的API和本地化模型服务，帮助联邦、州、地方及部落政府快速获取大模型能力，降低技术门槛。"
+    },
+    {
+      "heading": "网络防御提升",
+      "summary": "共建网络安全平台，结合AI实时检测与自动化响应，提升政府网络防御的响应速度和防御深度。"
+    },
+    {
+      "heading": "培训与生态合作",
+      "summary": "为政府技术团队提供专项培训与实践工作坊，构建跨部门合作网络，促进AI与安全经验的共享与创新。"
+    }
+  ],
+  "id": "expanding-ai-access-us-government",
+  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+  "url": "https://openai.com/index/expanding-ai-access-us-government",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-13",
+  "hasFullText": false,
+  "generatedAt": "2026-09-14T13:08:34.019471+08:00"
+}
