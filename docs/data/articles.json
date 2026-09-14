@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-09-13T12:41:01.528021+08:00",
+  "lastUpdated": "2026-09-14T12:48:21.409228+08:00",
   "articles": [
+    {
+      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+      "url": "https://arxiv.org/abs/2609.11977",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-13",
+      "score": 8,
+      "titleCn": "Occamy-1.0：协同工作的开源帕累托前沿35B智能"
+    },
+    {
+      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
+      "url": "https://arxiv.org/abs/2609.12105",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-13",
+      "score": 8,
+      "titleCn": "语言不足以支撑定量推理，关键领域需要大型定量模型"
+    },
+    {
+      "title": "The Cost of Compression: A Rate-Distortion Limit on Factual Hallucination",
+      "url": "https://arxiv.org/abs/2609.12111",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-13",
+      "score": 8,
+      "titleCn": "压缩的代价：事实幻觉的率-失真极限"
+    },
+    {
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-13",
+      "score": 8
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-13",
+      "score": 7,
+      "titleCn": "为联邦、州、地方及部落政府扩展AI访问与网络防御"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-13",
+      "score": 7,
+      "titleCn": "使用Gradio工作流重塑AUTOMATIC1111"
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-13",
+      "score": 7,
+      "titleCn": "OpenAI的恶意AI 5月试图入侵另一家公司"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-13",
+      "score": 7,
+      "titleCn": "Mecka AI 估值逼近5亿美元，红杉领投抢机器人训练数据"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-13",
+      "score": 7,
+      "titleCn": "Y Combinator的Garry Tan呼吁美国开源权重AI实验室也‘蒸馏’前沿模型"
+    },
+    {
+      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "url": "https://www.qbitai.com/2026/09/488694.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-13",
+      "score": 7
+    },
+    {
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "url": "https://www.qbitai.com/2026/09/488672.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-13",
+      "score": 7
+    },
     {
       "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
       "url": "https://www.qbitai.com/2026/09/487701.html",
@@ -2642,111 +2738,6 @@
       "category": "中文资讯",
       "date": "2026-08-15",
       "score": 7
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "RingCentral 从工程到运营构建 AI 原生工作"
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "复现 2200 篇 ICML 论文的收获"
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "Apple 与阿里巴巴合作，为中国训练自研 AI 模型"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "Meta 的‘开放’AI 与 2.5 亿美元交易失误"
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "OpenAI 与 Anthropic 打价格战，中国 AI 竞争者抢占市场"
-    },
-    {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "url": "https://arxiv.org/abs/2608.11215",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-14",
-      "score": 8,
-      "titleCn": "简易代理建模：在笔记本上模拟大型 LLM 代理系统"
-    },
-    {
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "url": "https://www.qbitai.com/2026/08/473379.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-14",
-      "score": 8
-    },
-    {
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-14",
-      "score": 8
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-14",
-      "score": 7,
-      "titleCn": "OpenAI 就德州负责任 AI 基础设施致信州长阿博特"
-    },
-    {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "url": "https://arxiv.org/abs/2608.11207",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-14",
-      "score": 7,
-      "titleCn": "多 LLM 代理系统的动态治理实现协作对话"
-    },
-    {
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2608.11212",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-14",
-      "score": 7,
-      "titleCn": "检测路由翻转比判断是否修复更容易：量化混合专家模型中的因果路由损伤"
-    },
-    {
-      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-      "url": "https://www.qbitai.com/2026/08/473153.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-14",
-      "score": 6
     }
   ]
 }
