@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 Gradio 工作流重建 AUTOMATIC1111",
+  "overview": "本文介绍如何利用 Gradio 工作流重新构建 AUTOMATIC1111 稳定扩散网页 UI，阐释迁移步骤、模块化优势以及交互体验提升，并分享模型加载和 API 对接的实战技巧。",
+  "sections": [
+    {
+      "heading": "迁移目标与动机",
+      "summary": "说明为何从原有架构转向 Gradio，包括提升可维护性、加速 UI 迭代以及支持更灵活的组件化需求。"
+    },
+    {
+      "heading": "Gradio 工作流优势",
+      "summary": "通过声明式 UI、事件流和共享状态实现模块复用，简化多模型切换并提供实时预览与调试能力。"
+    },
+    {
+      "heading": "实现关键技术与实战技巧",
+      "summary": "涵盖模型加载管道、API 异步调用、组件热更新以及部署至 HF Spaces 的注意事项和常见坑点。"
+    }
+  ],
+  "id": "gradio-workflow-1111",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-13",
+  "hasFullText": false,
+  "generatedAt": "2026-09-14T13:09:27.737737+08:00"
+}
