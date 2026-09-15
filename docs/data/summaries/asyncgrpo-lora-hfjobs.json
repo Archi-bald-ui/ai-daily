@@ -1,0 +1,26 @@
+{
+  "titleCn": "跨 HuggingFace 任务的异步 GRPO 与 LoRA：分桶、代理以及无 NCCL",
+  "overview": "文章介绍在 HuggingFace 平台上实现跨任务异步梯度共享的 GRPO 方法，结合 LoRA 进行参数高效微调。通过分桶机制聚合梯度、代理节点调度通信，实现了无需 NCCL 的轻量级跨节点协作，并给出实现要点与性能评估。",
+  "sections": [
+    {
+      "heading": "异步 GRPO + LoRA 微调",
+      "summary": "介绍在 HuggingFace 任务中如何利用异步梯度共享和 LoRA 低秩适配，实现大规模模型的快速参数高效微调。"
+    },
+    {
+      "heading": "分桶梯度 + 代理通信",
+      "summary": "说明梯度分桶聚合策略与代理节点如何调度跨节点通信，显著降低同步开销并避免 NCCL 依赖。"
+    },
+    {
+      "heading": "无 NCCL 实现与性能",
+      "summary": "阐述在不依赖 NCCL 的情况下通过 HTTP/gRPC 等轻量协议实现跨节点训练，并给出实验结果与资源占用对比。"
+    }
+  ],
+  "id": "asyncgrpo-lora-hfjobs",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-14",
+  "hasFullText": false,
+  "generatedAt": "2026-09-15T12:51:20.108044+08:00"
+}
