@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-09-14T12:48:21.409228+08:00",
+  "lastUpdated": "2026-09-15T12:47:29.329749+08:00",
   "articles": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-14",
+      "score": 8,
+      "titleCn": "Fyxer打造让人信任的AI执行助理"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-14",
+      "score": 8,
+      "titleCn": "跨HuggingFace任务的异步GRPO+LoRA：bucket、proxy与无需NCCL"
+    },
+    {
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-14",
+      "score": 8,
+      "titleCn": "ZGCM-1：全开源、极高效的数学与智能体搜索基础模型"
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-14",
+      "score": 8,
+      "titleCn": "迈向自适应物理AI：LLM智能体能否完成长时物理任务？"
+    },
+    {
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "url": "https://www.qbitai.com/2026/09/489023.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-14",
+      "score": 8
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-14",
+      "score": 7,
+      "titleCn": "大厂AI放缓：是安全协议还是垄断联盟？"
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-14",
+      "score": 7,
+      "titleCn": "iOS 27让我重新使用Siri"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-14",
+      "score": 7,
+      "titleCn": "Superhuman收购YC支持的笔记工具Fathom，生产力平台推动智能体化工作"
+    },
+    {
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.13406",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-14",
+      "score": 7,
+      "titleCn": "广义智能体迭代：一种迭代策略提升和递归自我提升的形式化框架"
+    },
+    {
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-14",
+      "score": 7
+    },
+    {
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "url": "https://www.qbitai.com/2026/09/488933.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-14",
+      "score": 6
+    },
     {
       "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
       "url": "https://arxiv.org/abs/2609.11977",
@@ -2633,111 +2729,6 @@
       "date": "2026-08-16",
       "score": 6,
       "titleCn": "我们的 35.3 万 vibe 编程课程内部揭秘"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-15",
-      "score": 8,
-      "titleCn": "开放模型现状：2026年夏季观察"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-15",
-      "score": 8,
-      "titleCn": "Anthropic 详解 Claude 新水印的实现方式"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-15",
-      "score": 8,
-      "titleCn": "马克·扎克伯格真的相信 AI “为所有人” 吗？"
-    },
-    {
-      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-      "url": "https://arxiv.org/abs/2608.12385",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-15",
-      "score": 8,
-      "titleCn": "双流 Transformer：解耦主 Prefill 路径与额外 Decode 计算"
-    },
-    {
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "url": "https://www.qbitai.com/2026/08/473876.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-15",
-      "score": 8
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-15",
-      "score": 7,
-      "titleCn": "Strands Agents、LeRobot 与 Hugging Face 存储桶：一体化记录、训练与部署"
-    },
-    {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-15",
-      "score": 7,
-      "titleCn": "LFM2.5‑VL‑3B：为边缘提供更快更强的视觉能力"
-    },
-    {
-      "title": "Suno is trying to look more like a real music production tool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-15",
-      "score": 7,
-      "titleCn": "Suno 正在向专业音乐制作工具看齐"
-    },
-    {
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "url": "https://arxiv.org/abs/2608.12325",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-15",
-      "score": 7,
-      "titleCn": "观点：推理是可学习的基于规则的过程"
-    },
-    {
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "url": "https://arxiv.org/abs/2608.12345",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-15",
-      "score": 7,
-      "titleCn": "诊断基准：评估 LLM 作为共同科学家的研究诚信"
-    },
-    {
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "url": "https://www.qbitai.com/2026/08/473669.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-15",
-      "score": 7
-    },
-    {
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "url": "https://www.qbitai.com/2026/08/473407.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-15",
-      "score": 7
     }
   ]
 }
