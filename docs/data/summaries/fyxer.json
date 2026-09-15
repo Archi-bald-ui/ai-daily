@@ -1,0 +1,26 @@
+{
+  "titleCn": "Fyxer 如何打造让人信任的 AI 行政助理",
+  "overview": "本文介绍 Fyxer 在 OpenAI 平台上开发 AI 高管助理的完整流程，涵盖需求调研、对话设计、可信度评估以及基于用户反馈的持续迭代，展示如何通过透明的模型解释、严格的安全过滤和可解释性输出，让用户真正信任并依赖智能助理。",
+  "sections": [
+    {
+      "heading": "需求调研与信任设计",
+      "summary": "Fyxer 通过深入访谈高管，明确助理功能边界与信任要素，构建以可靠性、隐私和可控性为核心的设计框架。"
+    },
+    {
+      "heading": "模型透明度与安全防护",
+      "summary": "在模型层面，Fyxer 引入可解释输出和实时安全过滤，使用户了解助理决策依据并防止误导信息泄露。"
+    },
+    {
+      "heading": "持续迭代与用户反馈",
+      "summary": "Fyxer 通过收集真实使用数据和用户反馈，快速迭代对话策略和功能模块，保证助理在真实场景中持续提升可信度。"
+    }
+  ],
+  "id": "fyxer",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "url": "https://openai.com/index/fyxer",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-14",
+  "hasFullText": false,
+  "generatedAt": "2026-09-15T12:50:43.097721+08:00"
+}
