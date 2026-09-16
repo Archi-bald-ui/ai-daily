@@ -1,0 +1,26 @@
+{
+  "titleCn": "你的 Agent 完成了任务。它还能再来一次吗？",
+  "overview": "文章探讨了AI智能体（Agent）在完成单一任务后，能否在类似或新场景中保持同等表现。通过分析任务迁移、提示词鲁棒性以及评估指标，揭示了模型在不同运行中的表现波动，并提出提升重复执行成功率的实用策略。",
+  "sections": [
+    {
+      "heading": "任务迁移的挑战",
+      "summary": "同一模型在不同任务或环境下执行时，可能因输入分布、提示词或资源差异导致性能波动显著。"
+    },
+    {
+      "heading": "评估指标的重要性",
+      "summary": "可靠的评估应覆盖多次运行、使用多样数据集并记录关键指标，以捕捉模型表现的偶然波动。"
+    },
+    {
+      "heading": "提升一致性的实践方法",
+      "summary": "通过改进提示设计、加入自监督反馈、采用多任务微调以及系统化回归测试，可显著提升 Agent 重复执行的成功率。"
+    }
+  ],
+  "id": "altk-evolve-consistency",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-15",
+  "hasFullText": false,
+  "generatedAt": "2026-09-16T12:46:27.760549+08:00"
+}
