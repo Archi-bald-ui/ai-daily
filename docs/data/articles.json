@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-09-15T12:47:29.329749+08:00",
+  "lastUpdated": "2026-09-16T12:42:57.516664+08:00",
   "articles": [
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-15",
+      "score": 8,
+      "titleCn": "OpenAI、Anthropic 与 Google 已就 AI 安全议题进行数周会谈"
+    },
+    {
+      "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
+      "url": "https://arxiv.org/abs/2609.15990",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-15",
+      "score": 8,
+      "titleCn": "Few‑Shot 退化并非表象：行为证据、表征分析与跨 12 模型、2 任务、2 架构的随机文本对照"
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "Google AI & Economy ATLAS 项目的新洞察"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "你的 AI 代理出色完成任务，它会再执行一次吗？"
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "Nvidia 首席执行官 Jensen Huang 表示：我们不需要 AI 监管，安全交给我们"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "Meta 现在让 AI 代理处理 WhatsApp Business 设置的枯燥环节"
+    },
+    {
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "url": "https://arxiv.org/abs/2609.13396",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "先收敛后发散：多目标贝叶斯优化中收敛与多样性的解耦"
+    },
+    {
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-15",
+      "score": 7,
+      "titleCn": "Vibe Patenting：评估 LLM 评审在专业专利起草代理中的表现"
+    },
+    {
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-15",
+      "score": 7
+    },
+    {
+      "title": "把记忆交给CPU，大模型会变快",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-15",
+      "score": 7
+    },
+    {
+      "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+      "url": "https://www.qbitai.com/2026/09/490109.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-15",
+      "score": 7
+    },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
@@ -2651,84 +2747,6 @@
       "date": "2026-08-17",
       "score": 6,
       "titleCn": "AI搜索模式助你畅享现实的五种方式"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-16",
-      "score": 8,
-      "titleCn": "Stripe 据报道将以 70 亿美元以上收购 AI 网关初创公司 OpenRouter"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-16",
-      "score": 8,
-      "titleCn": "Google 将允许用户移除其 AI 生成内容的可见水印"
-    },
-    {
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "url": "https://www.qbitai.com/2026/08/474140.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-16",
-      "score": 8
-    },
-    {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-16",
-      "score": 7,
-      "titleCn": "想用 ACE？更少 Token 也能实现"
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-16",
-      "score": 7,
-      "titleCn": "据报道，OpenAI 已解散其应急准备团队"
-    },
-    {
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-16",
-      "score": 7
-    },
-    {
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "url": "https://www.qbitai.com/2026/08/473866.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-16",
-      "score": 7
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-08-16",
-      "score": 6,
-      "titleCn": "用 Sheets 画布让电子表格数据活起来"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-08-16",
-      "score": 6,
-      "titleCn": "我们的 35.3 万 vibe 编程课程内部揭秘"
     }
   ]
 }
