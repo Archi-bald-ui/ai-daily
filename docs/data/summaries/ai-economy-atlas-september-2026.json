@@ -1,0 +1,26 @@
+{
+  "titleCn": "谷歌AI与经济ATLAS最新洞察",
+  "overview": "该报告基于Google的ATLAS项目，系统梳理了人工智能在全球主要经济体的渗透程度、增长贡献及行业差异，并结合政策环境与人才培养因素，提供了AI驱动经济转型的最新趋势与实践案例。",
+  "sections": [
+    {
+      "heading": "ATLAS平台概述",
+      "summary": "ATLAS是Google推出的AI与经济数据集成平台，整合多源信息，实时监测AI在各行业的部署情况。"
+    },
+    {
+      "heading": "AI对宏观经济的影响",
+      "summary": "报告指出，AI技术在制造、金融和服务业的应用显著提升产出效率，预计对全球GDP增长贡献率持续上升。"
+    },
+    {
+      "heading": "未来趋势与政策建议",
+      "summary": "报告建议各国加强AI人才培养、完善数据治理，并推动跨行业协作，以实现可持续的AI驱动经济增长。"
+    }
+  ],
+  "id": "ai-economy-atlas-september-2026",
+  "title": "New insights from Google’s AI & Economy ATLAS",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-15",
+  "hasFullText": false,
+  "generatedAt": "2026-09-16T12:45:54.961907+08:00"
+}
