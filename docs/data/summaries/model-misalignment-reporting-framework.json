@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们的模型错位报告框架",
+  "overview": "本文介绍OpenAI提出的模型错位报告框架，旨在标准化AI模型在安全、对齐和行为上出现偏差时的披露流程。框架包括错位定义、报告模板、评审机制等关键要素，帮助研究者和开发者系统地捕捉、评估并公开模型潜在风险，提高透明度和信任。",
+  "sections": [
+    {
+      "heading": "错位定义与分类",
+      "summary": "框架首先明确模型错位的概念，将其划分为安全、行为和价值三大类别，便于统一评估和比较。"
+    },
+    {
+      "heading": "报告模板与流程",
+      "summary": "提供结构化报告模板，要求包括错位实例、影响范围、检测方法和补救措施，帮助团队快速填写并保持信息完整。"
+    },
+    {
+      "heading": "评审与透明机制",
+      "summary": "报告提交后，由独立评审组进行审查，公开审查结果和改进建议，以提升社区对模型安全性的监督与信任。"
+    }
+  ],
+  "id": "model-misalignment-reporting-framework",
+  "title": "Our framework for reporting model misalignment",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-16",
+  "hasFullText": false,
+  "generatedAt": "2026-09-17T12:48:10.900309+08:00"
+}
