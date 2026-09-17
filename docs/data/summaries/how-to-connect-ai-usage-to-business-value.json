@@ -1,0 +1,26 @@
+{
+  "titleCn": "如何将AI使用与商业价值联系起来",
+  "overview": "本文探讨企业如何通过系统化方法将AI技术的实际使用转化为可量化的商业价值。内容涵盖从价值定位、关键指标设定到部署流程与持续评估的最佳实践，帮助组织实现AI投资的回报最大化，并提升整体竞争力。",
+  "sections": [
+    {
+      "heading": "价值定位与业务目标对齐",
+      "summary": "首先明确AI在业务链中的定位，确保项目直接支持企业的核心目标，从而提升投入的针对性和成功率。"
+    },
+    {
+      "heading": "关键指标与评估框架",
+      "summary": "通过设定可量化的KPIs（如成本降低、收入增长）并建立评估模型，持续监测AI项目对业务指标的实际贡献。"
+    },
+    {
+      "heading": "持续迭代与组织协同",
+      "summary": "AI落地后需建立跨部门协作机制，定期回顾模型表现并快速迭代，确保技术演进始终对齐业务变化。"
+    }
+  ],
+  "id": "how-to-connect-ai-usage-to-business-value",
+  "title": "How to connect AI usage to business value",
+  "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-16",
+  "hasFullText": false,
+  "generatedAt": "2026-09-17T12:54:14.547124+08:00"
+}
