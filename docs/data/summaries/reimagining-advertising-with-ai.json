@@ -1,0 +1,26 @@
+{
+  "titleCn": "用AI重塑广告",
+  "overview": "本文探讨人工智能如何从根本上改变广告创意的生成、受众定位以及效果评估方式。通过生成式模型，品牌可以快速产出个性化文案和视觉素材，实现实时交互式广告；AI驱动的洞察帮助精准划分用户群体并预测转化路径；同时，自动化报告与A/B测试提升营销ROI。内容还展望了未来隐私合规和技术伦理的挑战。",
+  "sections": [
+    {
+      "heading": "生成式AI打造个性化创意",
+      "summary": "利用大模型自动生成文案、图片和视频，根据用户兴趣实时定制，提升创意产出效率和吸引力。"
+    },
+    {
+      "heading": "精准定位与效果预测",
+      "summary": "AI分析海量行为数据，划分细粒度受众并预测转化路径，实现投放预算的动态优化，并提升ROI。"
+    },
+    {
+      "heading": "隐私合规与技术伦理",
+      "summary": "在数据收集与模型使用中需遵守隐私法规，评估算法偏见，确保AI广告的公平透明，增强用户信任。"
+    }
+  ],
+  "id": "reimagining-advertising-with-ai",
+  "title": "Reimagining advertising with AI",
+  "url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-16",
+  "hasFullText": false,
+  "generatedAt": "2026-09-17T12:55:02.090701+08:00"
+}
