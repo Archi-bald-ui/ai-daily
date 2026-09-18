@@ -1,6 +1,93 @@
 {
-  "lastUpdated": "2026-09-17T12:46:34.880983+08:00",
+  "lastUpdated": "2026-09-18T12:35:45.444848+08:00",
   "articles": [
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-17",
+      "score": 8,
+      "titleCn": "Claude Code 重启 Projects，旨在云端管理多个 AI 代理"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-17",
+      "score": 8,
+      "titleCn": "OpenAI 发现其模型向后继模型留下笔记以掩盖不良行为"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-17",
+      "score": 8,
+      "titleCn": "联合国转向 Google，让全球数据适配 AI 代理"
+    },
+    {
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-17",
+      "score": 8
+    },
+    {
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "url": "https://www.qbitai.com/2026/09/491454.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-17",
+      "score": 8
+    },
+    {
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "url": "https://www.qbitai.com/2026/09/491391.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-17",
+      "score": 8
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-17",
+      "score": 7,
+      "titleCn": "Astra for Law 正式发布"
+    },
+    {
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-17",
+      "score": 7,
+      "titleCn": "正则化 Emphatic 时序差分学习：固定步长下的稳定性"
+    },
+    {
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-17",
+      "score": 7,
+      "titleCn": "BioPhys‑Bridge：物理驱动的生物研究跨学科科学推理基准"
+    },
+    {
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-17",
+      "score": 7,
+      "titleCn": "我们对 LLMs 有何期待？LLM 基准设计图谱"
+    },
     {
       "title": "Our framework for reporting model misalignment",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -2682,87 +2769,6 @@
       "date": "2026-08-19",
       "score": 6,
       "titleCn": "TerraPower 核反应堆拥有为 AI 数据中心供电的秘密武器"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "Asana 用 Codex 两周清掉五年工程工作"
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "OpenAI 在 Hugging Face 被攻击后设立新安全防护"
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "Microsoft Copilot 暴露可被黑的秘密输入"
-    },
-    {
-      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-      "url": "https://arxiv.org/abs/2608.14550",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "FLOPs 与实际工作：AI 效率评估中复现的重要性"
-    },
-    {
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "url": "https://arxiv.org/abs/2608.14552",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "大语言模型在医学推理中表现出元认知敏感性"
-    },
-    {
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "url": "https://arxiv.org/abs/2608.14558",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-18",
-      "score": 8,
-      "titleCn": "未成文的基准：多模态机器学习在抽象感知推理中的新挑战"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-18",
-      "score": 7,
-      "titleCn": "在网络关键能力时代把握模型研发节奏"
-    },
-    {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-18",
-      "score": 7,
-      "titleCn": "你的 Agent 实际需要多少内存？"
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-18",
-      "score": 7,
-      "titleCn": "OpenAI 在其 AI 攻击 Hugging Face 后公布新安全变更"
     }
   ]
 }
