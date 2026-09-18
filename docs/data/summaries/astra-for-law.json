@@ -1,0 +1,26 @@
+{
+  "titleCn": "Astra for Law 简介",
+  "overview": "OpenAI 宣布推出面向法律行业的 AI 助手 Astra for Law，旨在为律师、法官及法务团队提供更精准的文书检索、合同审查和法律论据生成等能力。该模型基于最新大语言模型，针对法律术语和判例进行微调，提升专业回答质量，并加入数据隐私与合规机制，满足法律场景的严谨需求。",
+  "sections": [
+    {
+      "heading": "专属法律能力",
+      "summary": "基于大规模法律语料微调，提供文书检索、合同审查、案例分析等高精度任务，提升法律从业者的工作效率与准确性。"
+    },
+    {
+      "heading": "安全与合规机制",
+      "summary": "强化数据隐私与访问控制，提供合规审查日志，满足法律行业对信息安全的高标准要求，并支持多租户隔离和可追溯审计。"
+    },
+    {
+      "heading": "实际应用场景",
+      "summary": "已在多国律师事务所、法院及企业内部法务部门试点，帮助完成案例检索、合同草稿、合规审查等常见任务。"
+    }
+  ],
+  "id": "astra-for-law",
+  "title": "Introducing Astra for Law",
+  "url": "https://openai.com/index/astra-for-law",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-17",
+  "hasFullText": false,
+  "generatedAt": "2026-09-18T12:37:18.118996+08:00"
+}
