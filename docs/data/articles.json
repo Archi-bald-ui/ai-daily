@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-18T12:35:45.444848+08:00",
+  "lastUpdated": "2026-09-19T12:30:17.113707+08:00",
   "articles": [
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-18",
+      "score": 9
+    },
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-18",
+      "score": 8,
+      "titleCn": "安全研究人员借助 Claude 渗透 OpenAI"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-18",
+      "score": 8,
+      "titleCn": "Anthropic 运营进行生物学实验的实验室"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-18",
+      "score": 8,
+      "titleCn": "AI 水印使用时，LLM 对有害提示的响应不同"
+    },
+    {
+      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+      "url": "https://www.qbitai.com/2026/09/492175.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-18",
+      "score": 8
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-18",
+      "score": 7,
+      "titleCn": "Hex 借助 GPT‑6 Astra 将复杂分析转为可视化报告"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-18",
+      "score": 7,
+      "titleCn": "工作者如何解锁新工作方式"
+    },
+    {
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "url": "https://www.qbitai.com/2026/09/492426.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-18",
+      "score": 7
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-18",
+      "score": 6,
+      "titleCn": "Cooley 借助 ChatGPT 加速 IPO 工作"
+    },
     {
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
@@ -2673,102 +2751,6 @@
       "date": "2026-08-20",
       "score": 7,
       "titleCn": "观点：行为系统需要行为测试"
-    },
-    {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "url": "https://arxiv.org/abs/2608.16891",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-19",
-      "score": 8,
-      "titleCn": "运行时治理：Agentic AI 操作边界控制、受信任溯源与故障闭锁执行"
-    },
-    {
-      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-      "url": "https://arxiv.org/abs/2608.17067",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-19",
-      "score": 8,
-      "titleCn": "DiSCO：通过分布引导的对比提示优化防御文本到图像生成"
-    },
-    {
-      "title": "Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting",
-      "url": "https://arxiv.org/abs/2608.17075",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-19",
-      "score": 8,
-      "titleCn": "Foundation Agents 与自主深度研究结合：证据驱动的临床代码预测"
-    },
-    {
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "url": "https://www.qbitai.com/2026/08/475907.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-19",
-      "score": 8
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-19",
-      "score": 7,
-      "titleCn": "为前沿模型提供零数据保留"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-19",
-      "score": 7,
-      "titleCn": "研究者称 OpenAI 撤销其受限网络项目访问权限"
-    },
-    {
-      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-      "url": "https://www.qbitai.com/2026/08/476070.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-19",
-      "score": 7
-    },
-    {
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-19",
-      "score": 7
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-19",
-      "score": 6,
-      "titleCn": "Replit 通过 GPT-5.6 Luna 扩大软件创建权限"
-    },
-    {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-19",
-      "score": 6,
-      "titleCn": "帮助华尔街为 AI 算力定价的初创公司"
-    },
-    {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-19",
-      "score": 6,
-      "titleCn": "TerraPower 核反应堆拥有为 AI 数据中心供电的秘密武器"
     }
   ]
 }
