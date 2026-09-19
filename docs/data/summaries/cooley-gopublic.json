@@ -1,0 +1,26 @@
+{
+  "titleCn": "Cooley利用ChatGPT加速IPO工作",
+  "overview": "本文介绍律所Cooley如何借助ChatGPT提升首次公开募股（IPO）流程的效率，包括文件快速起草、合规审查自动化以及风险提示等关键环节，展示AI在法律业务中的实际价值。",
+  "sections": [
+    {
+      "heading": "AI助力IPO文档自动化",
+      "summary": "利用ChatGPT快速生成招股说明书初稿、问答草稿等，大幅缩短人工撰写时间，提高文档一致性。"
+    },
+    {
+      "heading": "提升合规审查效率",
+      "summary": "AI模型自动比对监管要求与文件内容，快速定位潜在合规风险并提供修正建议，降低人工审查负担。"
+    },
+    {
+      "heading": "挑战与风险控制",
+      "summary": "引入大模型仍需注意数据安全、模型偏见及人工复核必要性，制定严格的使用规范以规避合规和声誉风险。"
+    }
+  ],
+  "id": "cooley-gopublic",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "url": "https://openai.com/index/cooley-gopublic",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-18",
+  "hasFullText": false,
+  "generatedAt": "2026-09-19T12:32:57.708270+08:00"
+}
