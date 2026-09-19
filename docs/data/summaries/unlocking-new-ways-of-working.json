@@ -1,0 +1,26 @@
+{
+  "titleCn": "工作者如何解锁全新的工作方式",
+  "overview": "本文探讨了工作者如何借助人工智能技术解锁全新的工作方式，涵盖AI助手在日常任务中的应用、跨职能协作的增强以及因技术而生的新兴岗位与技能需求，展示AI如何提升效率并重塑组织文化。",
+  "sections": [
+    {
+      "heading": "AI 助手提升日常效率",
+      "summary": "通过自然语言生成和自动化脚本，AI 助手帮助工作者快速完成文档、邮件、数据分析等重复性任务，显著缩短工作周期。"
+    },
+    {
+      "heading": "跨界协作与创意激发",
+      "summary": "AI 在团队协作平台中充当桥梁，提供实时翻译、概念联想和原型生成，使不同背景的成员能够更流畅地共同创新。"
+    },
+    {
+      "heading": "新技能培养与职业转型",
+      "summary": "随着 AI 融入工作流程，企业开始重视提示词工程、数据素养等新能力，提供培训和职业路径帮助员工顺利转型。"
+    }
+  ],
+  "id": "unlocking-new-ways-of-working",
+  "title": "How workers are unlocking new ways of working",
+  "url": "https://openai.com/index/unlocking-new-ways-of-working",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-18",
+  "hasFullText": false,
+  "generatedAt": "2026-09-19T12:32:03.795921+08:00"
+}
