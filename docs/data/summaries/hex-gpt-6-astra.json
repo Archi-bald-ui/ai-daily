@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hex 将复杂分析转化为可视化报告，借助 GPT‑6 Astra",
+  "overview": "Hex 宣布通过集成 OpenAI 的 GPT‑6 Astra 模型，将复杂的分析过程自动化转化为交互式可视化报告。该功能让数据团队只需提供查询或分析意图，即可快速生成图表、仪表盘，并支持自然语言交互修改，大幅提升报告生成效率与可解释性。",
+  "sections": [
+    {
+      "heading": "AI自动生成可视化报告",
+      "summary": "Hex 通过 AI 将复杂的查询结果直接转化为交互式图表和仪表盘，省去手工绘图和排版的时间。"
+    },
+    {
+      "heading": "深度集成GPT‑6 Astra模型",
+      "summary": "Hex 与 OpenAI 的 GPT‑6 Astra 深度结合，实现自然语言指令驱动的报告生成，并支持多语言解释。"
+    },
+    {
+      "heading": "提升协作与可解释性",
+      "summary": "生成的报告支持实时注释和版本控制，团队成员可直接在图表上讨论，提升协作效率和数据可解释性。"
+    }
+  ],
+  "id": "hex-gpt-6-astra",
+  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "url": "https://openai.com/index/hex-gpt-6-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-18",
+  "hasFullText": false,
+  "generatedAt": "2026-09-19T12:31:14.282947+08:00"
+}
