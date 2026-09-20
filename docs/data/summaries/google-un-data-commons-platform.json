@@ -1,0 +1,26 @@
+{
+  "titleCn": "让全球数据更易于探索",
+  "overview": "Google AI 近期推出了一系列新工具和改进，旨在帮助研究者和开发者更便捷地发现、可视化和分析全球范围的公共数据集。通过统一的元数据索引、智能搜索建议以及内置的交互式地图和仪表盘，用户可以快速获取跨学科、跨地区的真实数据，并利用 API 直接在自定义应用中集成，从而显著提升数据探索效率。",
+  "sections": [
+    {
+      "heading": "统一的全球数据索引与检索",
+      "summary": "构建覆盖多源、跨地域的统一元数据目录，提供基于语义和关键词的智能搜索，让用户快速定位所需数据集。"
+    },
+    {
+      "heading": "交互式可视化与分析工具",
+      "summary": "内置地图、时间轴和统计图表等可视化组件，支持实时筛选、下钻和对比，并提供一键导出功能，帮助直观理解复杂全球趋势。"
+    },
+    {
+      "heading": "跨平台 API 与数据共享",
+      "summary": "提供统一 RESTful 接口与 SDK，支持多语言调用和大规模并发访问，并配备完整文档与示例，方便在不同平台和语言环境中查询、下载和共享数据，显著提升协作效率。"
+    }
+  ],
+  "id": "google-un-data-commons-platform",
+  "title": "Making global data easier to explore",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-19",
+  "hasFullText": false,
+  "generatedAt": "2026-09-20T12:50:38.301417+08:00"
+}
