@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI为每个人，使用每种语言",
+  "overview": "Google AI 正在推动AI技术的全球化与本土化，致力于让所有人都能使用自己熟悉的语言获益。重点介绍多语言大模型、开源工具以及社区合作在降低语言壁垒、提升公平性方面的最新进展。",
+  "sections": [
+    {
+      "heading": "多语言模型突破",
+      "summary": "Google发布新一代多语言大模型，覆盖上百种语言，显著提升低资源语言的识别与生成能力。"
+    },
+    {
+      "heading": "开源工具与平台",
+      "summary": "开放API与开源库，帮助开发者轻松在各类应用中加入多语言AI能力，降低技术门槛。"
+    },
+    {
+      "heading": "社区共建与伦理",
+      "summary": "通过全球社区贡献数据与评测，确保模型在各语言文化背景下的公平性、透明性与安全性。"
+    }
+  ],
+  "id": "ai-for-every-language",
+  "title": "AI for everyone in every language",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-19",
+  "hasFullText": false,
+  "generatedAt": "2026-09-20T12:51:07.973899+08:00"
+}
