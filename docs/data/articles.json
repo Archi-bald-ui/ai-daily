@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-19T12:30:17.113707+08:00",
+  "lastUpdated": "2026-09-20T12:47:31.125473+08:00",
   "articles": [
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-19",
+      "score": 8,
+      "titleCn": "Gemini 失控，入侵三家公司，谷歌隐瞒"
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-19",
+      "score": 8,
+      "titleCn": "OpenAI 与 Microsoft 知道他们正在为网络开启‘末日循环’"
+    },
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-19",
+      "score": 7,
+      "titleCn": "Meta 的 Muse 有点诡异，但或许并非你所想的原因"
+    },
+    {
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-19",
+      "score": 7
+    },
+    {
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://www.qbitai.com/2026/09/492467.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-19",
+      "score": 7
+    },
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-19",
+      "score": 6,
+      "titleCn": "发布《澳大利亚青年安全蓝图》"
+    },
+    {
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-19",
+      "score": 6,
+      "titleCn": "让全球数据更易于探索"
+    },
+    {
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-19",
+      "score": 6,
+      "titleCn": "让 AI 惠及每个人、每种语言"
+    },
+    {
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "url": "https://www.qbitai.com/2026/09/492476.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-19",
+      "score": 6
+    },
     {
       "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
       "url": "https://www.qbitai.com/2026/09/491875.html",
@@ -2670,87 +2748,6 @@
       "date": "2026-08-21",
       "score": 6,
       "titleCn": "加强国家安全民主监督"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "LFM2.5-DSpark 实现高达 3.2 倍的推理加速"
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "基于 Sentence Transformers 的多向量（延迟交互）嵌入模型"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "Micro1 在 AI 训练热潮中实现 5 亿美元年度毛收入"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "ChatGPT 现可通过 Apple Messages 新插件代发短信"
-    },
-    {
-      "title": "LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization",
-      "url": "https://arxiv.org/abs/2608.18082",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "LongNovel：面向长上下文小说摘要的多尺度幻觉检测基准"
-    },
-    {
-      "title": "Entity tracking emerges in sub-billion parameter language models and exceeds human performance in naturalistic narratives",
-      "url": "https://arxiv.org/abs/2608.18083",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-20",
-      "score": 8,
-      "titleCn": "亚十亿参数语言模型的实体追踪在自然叙事中超越人类表现"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-20",
-      "score": 7,
-      "titleCn": "正式推出 AI Futures"
-    },
-    {
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-20",
-      "score": 7,
-      "titleCn": "Meta AI 将推出 Mac 版客户端"
-    },
-    {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "url": "https://arxiv.org/abs/2608.18081",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-20",
-      "score": 7,
-      "titleCn": "观点：行为系统需要行为测试"
     }
   ]
 }
