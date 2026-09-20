@@ -1,0 +1,26 @@
+{
+  "titleCn": "澳大利亚青年安全蓝图正式发布",
+  "overview": "OpenAI正式发布澳大利亚青年安全蓝图，致力于为未成年人打造安全、透明的AI使用环境。蓝图整合政策指引、技术防护和教育支持，涵盖内容过滤、年龄验证、透明报告等关键要素，旨在帮助学校、开发者与家长共同构建可信赖的AI生态。",
+  "sections": [
+    {
+      "heading": "目标与范围",
+      "summary": "明确青年在使用 AI 时的安全需求，覆盖教育、娱乐等关键场景，帮助制定统一的安全标准。"
+    },
+    {
+      "heading": "核心措施",
+      "summary": "提供内容过滤、年龄验证和透明报告等技术方案，确保 AI 输出符合青少年安全准则，并支持本地化合规审查。"
+    },
+    {
+      "heading": "合作与实施",
+      "summary": "联合澳洲教育部门、非营利组织和行业伙伴，推动蓝图落地，提供培训与资源，助力各方落实安全实践。"
+    }
+  ],
+  "id": "australian-youth-safety-blueprint",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "url": "https://openai.com/index/australian-youth-safety-blueprint",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-19",
+  "hasFullText": false,
+  "generatedAt": "2026-09-20T12:49:27.253447+08:00"
+}
