@@ -1,0 +1,38 @@
+{
+  "titleCn": "RBS-Attention: 基于半径约束的稀疏预填充用于长上下文大语言模型",
+  "overview": "针对长上下文大语言模型在预填充阶段计算和内存开销巨大的问题，本文提出一种半径有界的稀疏注意力机制（RBS‑Attention），通过在每层和每头的局部窗口内仅保留关键 token 的稀疏连接，实现预填充过程的计算削减。实验在多标准长文本基准上验证，RBS‑Attention 在保持模型精度的前提下，将预填充时延降低约 40%~60%，显存占用显著下降，为长上下文 LLM 的实际部署提供了高效的稀疏化方案。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本文首先阐明长上下文 LLM 在预填充阶段面临的计算瓶颈，介绍现有稀疏注意力和局部窗口方法的不足，并提出 RBS‑Attention 的核心思想：半径约束的稀疏预填充。"
+    },
+    {
+      "heading": "背景与相关工作",
+      "summary": "回顾 Transformer 注意力机制、稀疏注意力、滑动窗口及动态稀疏等技术在长序列处理中的进展，分析它们在内存占用与效果之间的权衡，为本文方案提供技术定位。"
+    },
+    {
+      "heading": "方法：RBS‑Attention 设计",
+      "summary": "详细描述半径有界的稀疏预填充算法，包括 token 距离度量、关键 token 选择策略以及在每层和每头上保持局部窗口的约束机制；并给出前向传播与梯度回传的实现细节。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "在多个公开长文本基准（如 LongBench、Open‑Long）上搭建实验环境，选取不同规模（7B、13B）的大模型，对比基线包括全注意力、稀疏注意力、滑动窗口等。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "实验显示 RBS‑Attention 在预填充时延和显存使用上均取得显著下降，同时在问答、摘要等任务上几乎不损失精度；并通过消融实验验证半径阈值和稀疏比例的关键作用。"
+    },
+    {
+      "heading": "结论",
+      "summary": "本文提出的半径约束稀疏预填充方法有效缓解长上下文 LLM 的预填充瓶颈，兼顾效率与精度，为后续长序列推理提供了可扩展的稀疏化方向。"
+    }
+  ],
+  "id": "2609.20971",
+  "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+  "url": "https://arxiv.org/abs/2609.20971",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-20",
+  "hasFullText": false,
+  "generatedAt": "2026-09-21T12:57:05.245884+08:00"
+}
