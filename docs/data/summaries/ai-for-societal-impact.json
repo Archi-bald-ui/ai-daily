@@ -1,0 +1,26 @@
+{
+  "titleCn": "AI 用于社会影响",
+  "overview": "本文围绕Google AI如何利用人工智能技术解决气候变化、公共卫生、教育公平等重大社会挑战，介绍了负责任AI框架、开源工具和跨行业合作案例，展示了AI在推动积极社会影响方面的实践与前景，并阐述了评估指标与伦理审查机制的重要性。",
+  "sections": [
+    {
+      "heading": "负责任AI框架与实践",
+      "summary": "文章详解Google AI在公平性、隐私、安全等方面的负责任AI框架，以及在项目中的具体实施与审查流程。"
+    },
+    {
+      "heading": "跨领域合作与社会创新",
+      "summary": "通过与政府、非营利组织、学术机构等合作，Google AI提供开源模型、数据平台和技术支持，推动在气候变化、公共卫生等领域的创新解决方案。"
+    },
+    {
+      "heading": "评估指标与伦理审查机制",
+      "summary": "文章提出多维度社会影响力评估指标，包括可解释性、可持续性和公平性，并强调持续伦理审查在项目全生命周期的重要性。"
+    }
+  ],
+  "id": "ai-for-societal-impact",
+  "title": "AI for Societal Impact",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-09-20",
+  "hasFullText": false,
+  "generatedAt": "2026-09-21T12:58:56.918758+08:00"
+}
