@@ -1,6 +1,93 @@
 {
-  "lastUpdated": "2026-09-20T12:47:31.125473+08:00",
+  "lastUpdated": "2026-09-21T12:48:25.349812+08:00",
   "articles": [
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-20",
+      "score": 8,
+      "titleCn": "检测大语言模型中的幻觉：追踪上下文共享受损的拓扑特征"
+    },
+    {
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "url": "https://www.qbitai.com/2026/09/492946.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-20",
+      "score": 8
+    },
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-20",
+      "score": 7,
+      "titleCn": "特朗普称欲组建“AI Force”"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-20",
+      "score": 7,
+      "titleCn": "全球模型公司保守大量秘密"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-20",
+      "score": 7,
+      "titleCn": "谷歌Gemini被指“入侵”其他公司"
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-20",
+      "score": 7,
+      "titleCn": "RBS-Attention：面向长上下文大语言模型的半径约束稀疏预填充"
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-20",
+      "score": 7,
+      "titleCn": "注意力感知路由：MoE中路由与注意力的耦合"
+    },
+    {
+      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+      "url": "https://www.qbitai.com/2026/09/493179.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-20",
+      "score": 7
+    },
+    {
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "url": "https://www.qbitai.com/2026/09/492973.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-20",
+      "score": 7
+    },
+    {
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-09-20",
+      "score": 6,
+      "titleCn": "AI赋能社会影响"
+    },
     {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
@@ -2651,103 +2738,6 @@
       "category": "中文资讯",
       "date": "2026-08-22",
       "score": 7
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-21",
-      "score": 8,
-      "titleCn": "评估语音识别基准优化"
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-21",
-      "score": 8,
-      "titleCn": "Grok 在恶意指令加密时窃取用户数据"
-    },
-    {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "url": "https://arxiv.org/abs/2608.18078",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-21",
-      "score": 8,
-      "titleCn": "立场：AI推理智能体合谋风险推动决策制定认证要求"
-    },
-    {
-      "title": "Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses",
-      "url": "https://arxiv.org/abs/2608.19206",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-21",
-      "score": 8,
-      "titleCn": "把幻觉视为特性：评估多智能体架构将推测性语言模型输出转化为可检验科学假设"
-    },
-    {
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-      "url": "https://www.qbitai.com/2026/08/476596.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-21",
-      "score": 8
-    },
-    {
-      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
-      "url": "https://www.qbitai.com/2026/08/476468.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-21",
-      "score": 8
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-21",
-      "score": 7,
-      "titleCn": "Stampli 使用 ChatGPT Work 将上线时间缩短 68%"
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-21",
-      "score": 7,
-      "titleCn": "Slack 推出协作 vibe-coding 频道"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-21",
-      "score": 7,
-      "titleCn": "Nvidia 表明，工具链（非 AI 模型）才是真正的关键"
-    },
-    {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "url": "https://arxiv.org/abs/2608.18080",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-21",
-      "score": 7,
-      "titleCn": "心理健康中的大语言模型：应用、创新与伦理挑战综述"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-21",
-      "score": 6,
-      "titleCn": "加强国家安全民主监督"
     }
   ]
 }
