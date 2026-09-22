@@ -1,0 +1,26 @@
+{
+  "titleCn": "像物理学家一样剪枝LLM：将块删除视为伊辛优化问题",
+  "overview": "本文探讨将大语言模型（LLM）剪枝问题类比为统计物理中的伊辛模型，通过将完整的 transformer 块视为可删除的自旋变量，利用能量最小化进行块级裁剪，以实现模型压缩并保持性能。方法结合了梯度信息与伊辛求解器，实验显示在多种规模模型上可显著降低参数量与推理成本。",
+  "sections": [
+    {
+      "heading": "伊辛模型视角的块剪枝框架",
+      "summary": "将 transformer 块映射为自旋变量，构建伊辛哈密顿量，以全局能量最小化为目标，实现整块删除的离散优化。"
+    },
+    {
+      "heading": "能量驱动的高效求解策略",
+      "summary": "利用梯度信息初始化伊辛求解器，结合模拟退火或量子近似方法，加速搜索并避免陷入局部最优。"
+    },
+    {
+      "heading": "实验验证与性能收益",
+      "summary": "在多种规模 LLM 上进行块剪枝实验，显著降低参数量和推理延迟，同时保持下游任务精度不掉。"
+    }
+  ],
+  "id": "pruning-llms-like-a-physicist-block-removal-as-an",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-21",
+  "hasFullText": false,
+  "generatedAt": "2026-09-22T12:48:23.006157+08:00"
+}
