@@ -1,0 +1,26 @@
+{
+  "titleCn": "tokenizers v1：编码、解码与扩展性测量",
+  "overview": "本文围绕 HuggingFace 最新发布的 tokenizers v1，深入解析其在 encode、decode 过程中的实现改进，并通过多语言、长短文本的基准测试，系统评估了编码速度、解码时延以及内存占用的扩展趋势，比较了 CPU 与 GPU 上的实际表现，为开发者在不同场景下选择合适的分词器提供数据依据。",
+  "sections": [
+    {
+      "heading": "编码/解码实现改进",
+      "summary": "v1 在底层采用 Rust 实现，重新设计了 Unicode 处理流程和字节级映射，显著提升了 encode 与 decode 的速度与稳定性，在多语言场景下仍保持低错误率。"
+    },
+    {
+      "heading": "性能基准测试方案",
+      "summary": "本文通过构造从短句到超长文档的多个长度梯度，分别在 CPU 与 GPU 上运行 encode/decode，记录平均耗时、峰值内存及吞吐量，以量化 v1 的性能表现。"
+    },
+    {
+      "heading": "扩展性与硬件对比",
+      "summary": "实验显示，在短文本上 CPU 与 GPU 速度相近；随着 token 数增长，GPU 的吞吐量呈线性提升，而 CPU 受限于并行度出现瓶颈；内存占用随序列长度几乎呈线性增长，GPU 额外显存开销需关注。"
+    }
+  ],
+  "id": "tokenizers-v1",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "url": "https://huggingface.co/blog/tokenizers-v1",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-21",
+  "hasFullText": false,
+  "generatedAt": "2026-09-22T12:49:45.084555+08:00"
+}
