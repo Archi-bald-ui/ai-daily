@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-09-21T12:48:25.349812+08:00",
+  "lastUpdated": "2026-09-22T12:46:03.675669+08:00",
   "articles": [
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "V7 如何为 AI 智能体赋予机构记忆"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "像物理学家一样剪枝 LLM：块移除作为 Ising 优化问题"
+    },
+    {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "tokenizers v1：编码、解码与规模化的测量"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "OpenAI 组建数学顾问组，因其 AI 已解决逾百个开放问题"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "Meta 超特权 AI 助手 Muse 曝出严重 0‑day"
+    },
+    {
+      "title": "TreeSpark: Calibrated, Load-Adaptive Draft Trees for Semi-Autoregressive Speculative Decoding",
+      "url": "https://arxiv.org/abs/2609.22098",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "TreeSpark：面向半自回归推测解码的校准负载自适应草稿树"
+    },
+    {
+      "title": "AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2609.22100",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-21",
+      "score": 8,
+      "titleCn": "AdaMem：面向检索增强生成的软压缩自适应记忆 token 分配"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-21",
+      "score": 7,
+      "titleCn": "Meta 的 Muse 在早期移动端推出上超越 ChatGPT"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-21",
+      "score": 7,
+      "titleCn": "CaLR：因果潜在修正提升扩散推理鲁棒性"
+    },
+    {
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "url": "https://www.qbitai.com/2026/09/493218.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-21",
+      "score": 7
+    },
+    {
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "url": "https://www.qbitai.com/2026/09/493231.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-21",
+      "score": 6
+    },
     {
       "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
       "url": "https://arxiv.org/abs/2609.21096",
@@ -2686,57 +2783,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-08-23",
-      "score": 7
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-22",
-      "score": 8,
-      "titleCn": "欢迎来到数学领域的AI危机"
-    },
-    {
-      "title": "OpenAI hit the brakes. Now what?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-22",
-      "score": 8,
-      "titleCn": "OpenAI 踩下刹车，接下来怎么办？"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-22",
-      "score": 8,
-      "titleCn": "Inherent（DeepMind 前员工创立）称其AI‘搭档’在复现研究中超越Anthropic与OpenAI"
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-22",
-      "score": 8
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477016.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-22",
-      "score": 8
-    },
-    {
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "url": "https://www.qbitai.com/2026/08/477246.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-22",
       "score": 7
     }
   ]
