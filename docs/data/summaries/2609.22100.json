@@ -1,0 +1,38 @@
+{
+  "titleCn": "AdaMem：检索增强生成中用于软压缩的自适应记忆Token分配",
+  "overview": "本文针对检索增强生成（RAG）中长上下文导致记忆Token预算不足的问题，提出AdaMem，一种自适应记忆Token分配与软压缩协同的机制。AdaMem通过在解码阶段动态评估每段检索文档的信息密度和查询相关性，实时调整软压缩权重与Token分配，实现高效压缩的同时最大化关键信息的保留。实验在多项开放域问答和文档推理任务上验证，AdaMem在保持生成质量的前提下，将记忆Token使用量降低约30%，并显著提升答案准确率。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本节介绍检索增强生成在处理长文档时面临的记忆Token受限问题，阐述软压缩的研究现状，并指出现有方法缺乏对检索内容的动态适配性，进而提出AdaMem的核心思想与主要贡献。"
+    },
+    {
+      "heading": "背景与相关工作",
+      "summary": "本节回顾RAG的基本流程、记忆Token的概念以及软压缩技术的最新进展，分析现有压缩策略在信息保留和计算开销之间的权衡，为AdaMem的自适应机制奠定理论基础。"
+    },
+    {
+      "heading": "AdaMem框架",
+      "summary": "AdaMem由检索文档编码、软压缩模块和信息驱动的Token分配三部分组成。通过评估每段文档的查询相关度和信息密度，动态调整压缩比例与记忆Token预算，实现关键信息的优先保留和冗余的快速压缩。"
+    },
+    {
+      "heading": "实验设置",
+      "summary": "实验在Natural Questions、TriviaQA和Multi-doc QA三个数据集上进行，选用T5、GPT-3.5等骨干模型作为基线，对比HMT、Dynamic RAG等方法，采用答案准确率和Token使用率作为主要评测指标。"
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "结果显示AdaMem在相同Token预算下答案准确率提升约3%~5%，并实现Token消耗下降约30%。Ablation实验验证了信息密度评估和自适应分配模块的贡献；定性分析表明压缩后仍保留关键答案线索。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "本文总结AdaMem通过自适应记忆Token分配提升RAG系统在长文档场景下的效率和效果，指出在多模态检索和更复杂上下文建模方面的局限，并提出未来将探索跨任务Token共享与增量压缩策略。"
+    }
+  ],
+  "id": "2609.22100",
+  "title": "AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation",
+  "url": "https://arxiv.org/abs/2609.22100",
+  "source": "arXiv cs.CL",
+  "category": "论文",
+  "date": "2026-09-21",
+  "hasFullText": false,
+  "generatedAt": "2026-09-22T12:55:01.421122+08:00"
+}
