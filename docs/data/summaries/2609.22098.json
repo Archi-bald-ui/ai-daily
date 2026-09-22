@@ -1,0 +1,34 @@
+{
+  "titleCn": "TreeSpark：面向半自回归推测解码的校准、负载自适应草稿树",
+  "overview": "本文提出TreeSpark，一种在半自回归推测解码框架下构建校准且负载自适应的草稿树方法。通过对草稿树进行概率校准和动态分支调度，TreeSpark在高并发请求下仍能保持高接受率并显著提升吞吐量。实验在多个语言模型和基准数据集上实现2-3倍加速，且对生成质量的影响可忽略不计，验证了该方法的有效性和实用性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍大模型推理中推测解码的动机，指出传统方法在负载波动时效率受限，明确TreeSpark旨在通过校准草稿树实现负载自适应和高吞吐。"
+    },
+    {
+      "heading": "相关工作与背景",
+      "summary": "概述投机解码、树形草稿模型以及负载均衡技术，分析现有方法的接受率与调度瓶颈，为本文提供技术定位。"
+    },
+    {
+      "heading": "方法设计",
+      "summary": "详细阐述TreeSpark的树结构构建、概率校准算法以及负载感知的分支调度策略，说明如何在运行时动态调整树的深度与宽度。"
+    },
+    {
+      "heading": "实验与结果",
+      "summary": "在多个公开基准和不同并发负载下评估TreeSpark，比较接受率、延迟和吞吐量等指标，结果显示2-3倍加速且质量损失极小。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结TreeSpark在提升半自回归推测解码效率方面的贡献，讨论局限并提出未来研究方向，如更细粒度的负载调度和多模态扩展。"
+    }
+  ],
+  "id": "2609.22098",
+  "title": "TreeSpark: Calibrated, Load-Adaptive Draft Trees for Semi-Autoregressive Speculative Decoding",
+  "url": "https://arxiv.org/abs/2609.22098",
+  "source": "arXiv cs.CL",
+  "category": "论文",
+  "date": "2026-09-21",
+  "hasFullText": false,
+  "generatedAt": "2026-09-22T12:54:24.745715+08:00"
+}
