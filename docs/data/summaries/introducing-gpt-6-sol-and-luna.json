@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 推出 GPT-6 Sol 与 Luna",
+  "overview": "OpenAI 正式推出新一代语言模型 GPT-6 Sol 与 Luna。该系列在多模态理解、推理效率和安全性方面实现显著提升，响应更快、资源消耗更低，并强化了对有害内容的防御。开发者可通过 API 直接体验新模型的强大能力。",
+  "sections": [
+    {
+      "heading": "多模态能力升级",
+      "summary": "GPT-6 Sol 与 Luna 在文本、图像和音频的跨模态理解上实现突破，支持更自然的多模态交互。"
+    },
+    {
+      "heading": "安全性与对齐提升",
+      "summary": "通过强化学习与人类反馈，新模型在有害内容检测和价值对齐方面显著增强，降低误导风险。"
+    },
+    {
+      "heading": "性能与易用性优化",
+      "summary": "推理速度提升并降低计算资源需求，提供更简洁的 API 接口，方便开发者快速集成与部署。"
+    }
+  ],
+  "id": "introducing-gpt-6-sol-and-luna",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-22",
+  "hasFullText": false,
+  "generatedAt": "2026-09-23T12:43:13.554796+08:00"
+}
