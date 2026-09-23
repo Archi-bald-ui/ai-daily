@@ -1,0 +1,26 @@
+{
+  "titleCn": "Transformers 现在支持运行 llama.cpp 量化模型",
+  "overview": "这篇文章介绍了 HuggingFace Transformers 库新增对 llama.cpp 量化模型的支持。通过直接加载 llama.cpp 生成的量化权重（如 4‑bit、8‑bit），用户可以在不损失太多精度的前提下显著降低显存占用并加速推理。该功能现已整合进 Transformers 的 from_pretrained 接口，使用简单，兼容多数 LLaMA 系列模型，为大模型本地部署提供了更轻量的方案。",
+  "sections": [
+    {
+      "heading": "新增 llama.cpp 量化支持",
+      "summary": "Transformers 现可直接加载 llama.cpp 生成的量化权重，如 4‑bit、8‑bit，简化本地部署流程。"
+    },
+    {
+      "heading": "显存占用大幅下降",
+      "summary": "量化模型相比原始 FP16 可节省约 50% 以上显存，使得更大模型在普通显卡上也能运行。"
+    },
+    {
+      "heading": "推理速度提升",
+      "summary": "在 CPU 或 GPU 上使用量化模型可获得 1.5‑2 倍的推理加速，降低延迟提升交互体验。"
+    }
+  ],
+  "id": "transformers-llama-cpp-quants",
+  "title": "Transformers now runs llama.cpp quants",
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-22",
+  "hasFullText": false,
+  "generatedAt": "2026-09-23T12:44:02.820042+08:00"
+}
