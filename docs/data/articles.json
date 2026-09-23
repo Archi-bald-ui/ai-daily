@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-22T12:46:03.675669+08:00",
+  "lastUpdated": "2026-09-23T12:41:16.993919+08:00",
   "articles": [
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-22",
+      "score": 9,
+      "titleCn": "OpenAI 发布 GPT-6 Sol 与 Luna，宣称成本更低、错误更少"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "GPT-6 Sol 与 Luna 正式发布"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "Transformers 现已支持运行 llama.cpp 量化模型"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "Anthropic 发布 Claude Opus 5.5，强化网络安全防护"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "高通发布两款聚焦 AI 的新智能手机芯片"
+    },
+    {
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "url": "https://arxiv.org/abs/2609.25165",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "Ovis-Embedding：突破通用全模态嵌入的前沿"
+    },
+    {
+      "title": "AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search",
+      "url": "https://arxiv.org/abs/2609.25047",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-22",
+      "score": 8,
+      "titleCn": "AIBuildAI-2.5：通过 LLM 引导树搜索实现高效自主 AI 模型开发"
+    },
+    {
+      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+      "url": "https://www.qbitai.com/2026/09/494179.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-22",
+      "score": 8
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-22",
+      "score": 7,
+      "titleCn": "GPT-6 提示缓存进一步优化"
+    },
+    {
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "url": "https://arxiv.org/abs/2609.25013",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-22",
+      "score": 7,
+      "titleCn": "现有预条件器能否提升生物医学表格基础学习？TabPFN 优化的实证研究"
+    },
+    {
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "url": "https://www.qbitai.com/2026/09/494263.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-22",
+      "score": 7
+    },
+    {
+      "title": "Agent时代，CPU的价值该重估了",
+      "url": "https://www.qbitai.com/2026/09/494430.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-22",
+      "score": 6
+    },
     {
       "title": "How V7 gives AI agents institutional memory",
       "url": "https://openai.com/index/v7",
@@ -2733,57 +2838,6 @@
       "date": "2026-08-24",
       "score": 6,
       "titleCn": "Instinct 强大的 AI 助手引发隐私和安全担忧"
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-23",
-      "score": 8,
-      "titleCn": "现在是格雷格·布罗克曼的 OpenAI"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-23",
-      "score": 8,
-      "titleCn": "在版权书籍上训练 AI 模型是否合法？情况很复杂"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-23",
-      "score": 8,
-      "titleCn": "OpenAI 表示加州应加强其人工智能安全法案"
-    },
-    {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "url": "https://www.qbitai.com/2026/08/478191.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-23",
-      "score": 7
-    },
-    {
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "url": "https://www.qbitai.com/2026/08/478164.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-23",
-      "score": 7
-    },
-    {
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "url": "https://www.qbitai.com/2026/08/478093.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-23",
-      "score": 7
     }
   ]
 }
