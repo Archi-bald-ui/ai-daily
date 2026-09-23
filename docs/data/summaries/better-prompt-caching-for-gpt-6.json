@@ -1,0 +1,26 @@
+{
+  "titleCn": "更高效的 GPT-6 提示缓存",
+  "overview": "OpenAI发布了针对GPT-6的提示缓存改进，旨在通过更智能的缓存复用机制降低推理延迟和成本。新的缓存策略在保持模型精度的同时，显著提升长对话和批量请求的响应速度，并简化开发者在生产环境的部署流程。",
+  "sections": [
+    {
+      "heading": "缓存机制升级",
+      "summary": "通过层级式缓存和动态失效策略，实现对重复提示的高效复用，显著降低计算资源消耗，并提升响应速度。"
+    },
+    {
+      "heading": "成本与延迟优化",
+      "summary": "改进的缓存显著减少每次调用的token计费，降低长对话和多轮交互的总体费用，同时缩短首token到达时间。"
+    },
+    {
+      "heading": "开发者使用体验",
+      "summary": "API新增缓存状态反馈字段，帮助开发者监控缓存命中率，并提供更灵活的配置选项以适配不同业务场景。"
+    }
+  ],
+  "id": "better-prompt-caching-for-gpt-6",
+  "title": "Better prompt caching for GPT-6",
+  "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-22",
+  "hasFullText": false,
+  "generatedAt": "2026-09-23T12:55:04.008433+08:00"
+}
