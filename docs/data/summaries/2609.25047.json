@@ -1,0 +1,38 @@
+{
+  "titleCn": "AIBuildAI-2.5：通过大型语言模型引导的树搜索实现高效自主AI模型开发",
+  "overview": "本文针对传统AI模型开发耗时、计算资源需求大等挑战，提出AIBuildAI-2.5框架。该框架利用大型语言模型（LLM）引导的树搜索，在代码生成、评估与选择阶段进行高效探索，显著降低迭代次数并提升模型性能。实验在多个基准任务上实现比基线方法更快的收敛速度和更高的最终精度，验证了LLM‑树搜索结合的有效性。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本文首先阐述传统AI模型开发的高成本与低效率问题，指出自动化模型生成的需求，随后提出利用大型语言模型（LLM）引导树搜索的AIBuildAI‑2.5框架，以实现更高效的自主模型构建。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾自动机器学习（AutoML）、神经架构搜索（NAS）以及LLM在代码生成中的研究进展，分析现有方法的不足，并强调本文在结合LLM与树搜索进行模型开发的创新点。"
+    },
+    {
+      "heading": "方法",
+      "summary": "详细描述AIBuildAI‑2.5的核心技术：基于LLM的节点生成、基于评估函数的树搜索策略、层次化的剪枝机制以及多轮迭代的强化学习式奖励更新。"
+    },
+    {
+      "heading": "实现细节",
+      "summary": "说明采用的LLM模型规模、训练语料、系统实现平台（分布式GPU集群）以及在搜索过程中的资源调度与容错策略。"
+    },
+    {
+      "heading": "实验与结果",
+      "summary": "在CIFAR‑10、ImageNet和语言建模等基准上实验，结果显示AIBuildAI‑2.5相较于传统NAS方法，收敛速度提升约30%，最终性能提升2%~5%，且算力消耗下降约40%。"
+    },
+    {
+      "heading": "结论",
+      "summary": "总结AIBuildAI‑2.5在自主模型开发中的优势，指出可扩展性与实际部署的挑战，提出后续将探索更大规模搜索空间与多模态模型的计划。"
+    }
+  ],
+  "id": "2609.25047",
+  "title": "AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search",
+  "url": "https://arxiv.org/abs/2609.25047",
+  "source": "arXiv cs.CL",
+  "category": "论文",
+  "date": "2026-09-22",
+  "hasFullText": false,
+  "generatedAt": "2026-09-23T17:18:42.027129+08:00"
+}
