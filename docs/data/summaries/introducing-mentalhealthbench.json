@@ -1,0 +1,26 @@
+{
+  "titleCn": "正式推出 MentalHealthBench",
+  "overview": "本文介绍了OpenAI最新推出的MentalHealthBench基准，旨在评估语言模型在心理健康领域的对话、风险识别和支持性回复等关键能力。基准覆盖多种真实场景，并提供统一评测流程，帮助研究人员和开发者衡量模型在心理健康干预中的安全性与有效性。",
+  "sections": [
+    {
+      "heading": "基准目标与构成",
+      "summary": "该基准聚焦于心理健康对话、风险识别和支持性回复三大核心任务，提供统一的评估框架与标准。"
+    },
+    {
+      "heading": "评估维度与方法",
+      "summary": "评估维度包括同理心表达、风险检测准确率、回复安全性及信息可靠性，采用自动化指标与专家人工评审相结合的方式。"
+    },
+    {
+      "heading": "应用前景与意义",
+      "summary": "该基准为研发安全可靠的心理健康模型提供统一检验平台，促进模型改进并支持监管机构制定更严格的使用规范。"
+    }
+  ],
+  "id": "introducing-mentalhealthbench",
+  "title": "Introducing MentalHealthBench",
+  "url": "https://openai.com/index/introducing-mentalhealthbench",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-23",
+  "hasFullText": false,
+  "generatedAt": "2026-09-24T12:44:30.134576+08:00"
+}
