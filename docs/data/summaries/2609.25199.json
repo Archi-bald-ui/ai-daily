@@ -1,0 +1,38 @@
+{
+  "titleCn": "Lean Pool：AI 维护的形式化数学档案",
+  "overview": "Lean Pool 是一个利用人工智能自动监控、更新和维护的形式化数学档案系统。它通过与 Lean 源码库深度集成，实现对新增定理、证明及改动的实时捕获、智能检索与自动修复，并在 Web 平台上提供可搜索、可视化和可重用的数学知识库。实验表明，Lean Pool 显著提升了形式化数学资源的时效性、覆盖率和可用性，为数学家和 AI 研究者提供了高效的知识共享基础设施。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "介绍形式化数学库的快速增长与维护难题，阐述构建自动化档案的动机，明确本文的主要贡献：提出 Lean Pool 系统并实现 AI 驱动的持续更新与检索。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾 Lean/MathLib、Coq Community、Isabelle/HOL 等形式化库以及 AI 辅助证明的研究进展，分析现有系统在实时更新和智能检索方面的不足。"
+    },
+    {
+      "heading": "系统设计",
+      "summary": "描述 Lean Pool 的整体架构，包括源码监测模块、变更检测引擎、智能检索接口、自动化证明修复组件以及前端可视化展示层，说明各模块的数据流与交互方式。"
+    },
+    {
+      "heading": "实现技术",
+      "summary": "基于 Lean 4 的元编程框架和 LSP 协议实现源码监控；使用机器学习模型预测受影响的定理并生成修复建议；通过 Docker 与 CI/CD 流程自动化构建、测试和发布。"
+    },
+    {
+      "heading": "实验与评估",
+      "summary": "在 MathLib 上进行大规模实验，评估更新延迟、覆盖率提升、检索准确率和自动化修复成功率；与手动维护的基线系统对比，验证系统在时效性和可靠性方面的显著优势。"
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "总结 Lean Pool 在实现持续、可信的数学知识库方面的创新贡献，讨论局限性与扩展方向，提出将多语言形式化库纳入平台以及进一步提升 AI 修复能力的未来计划。"
+    }
+  ],
+  "id": "2609.25199",
+  "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+  "url": "https://arxiv.org/abs/2609.25199",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-23",
+  "hasFullText": false,
+  "generatedAt": "2026-09-24T12:51:22.076425+08:00"
+}
