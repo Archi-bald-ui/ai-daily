@@ -1,0 +1,26 @@
+{
+  "titleCn": "英国 AISI 与 EvalEval 如何让基准测试结果可复现",
+  "overview": "文章介绍英国人工智能安全研究所（AISI）与EvalEval合作，针对AI基准测试结果难以复现的痛点，推出标准化评估流程、开放代码与环境描述以及自动化测试管道，实现结果可验证与共享，提升社区对基准测试的信任。",
+  "sections": [
+    {
+      "heading": "标准化评估脚本与流程",
+      "summary": "提供统一、可版本控制的评估脚本与配置，覆盖模型加载、数据预处理和指标计算，确保不同实验环境的步骤一致。"
+    },
+    {
+      "heading": "开放环境描述与容器化",
+      "summary": "详细记录硬件、库版本与系统配置，并提供 Docker 镜像或环境模板，使用户能够在相同环境中重新运行实验。"
+    },
+    {
+      "heading": "自动化测试与结果公开平台",
+      "summary": "构建自动化评测管道，自动记录每一次运行指标并上传至公开平台，支持可视化对比与社区审阅，保证结果可追溯。"
+    }
+  ],
+  "id": "evaleval-aisi",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "url": "https://huggingface.co/blog/evaleval-aisi",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-23",
+  "hasFullText": false,
+  "generatedAt": "2026-09-24T12:45:53.948546+08:00"
+}
