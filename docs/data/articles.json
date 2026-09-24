@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-09-23T12:41:16.993919+08:00",
+  "lastUpdated": "2026-09-24T12:40:12.118206+08:00",
   "articles": [
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "Sam Altman 在联合国安全理事会的讲话"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "发布 MentalHealthBench"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "UK AISI 与 EvalEval 如何让基准结果可复现"
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "Meta 让 Muse 更强大并支持视频聊天"
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "Meta Connect 2026：重磅新闻与公告"
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "Meta AI 代理 Muse 的新功能全览"
+    },
+    {
+      "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
+      "url": "https://arxiv.org/abs/2609.26913",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-09-23",
+      "score": 8,
+      "titleCn": "COMED：多 LLM 推理中路由与协作的缺失环节"
+    },
+    {
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-23",
+      "score": 8
+    },
+    {
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2609.25187",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-23",
+      "score": 7,
+      "titleCn": "X‑Planner：面向具身智能的事件结构化任务规划"
+    },
+    {
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "url": "https://arxiv.org/abs/2609.25199",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-23",
+      "score": 7,
+      "titleCn": "Lean Pool：AI 维护的形式化数学档案"
+    },
+    {
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "url": "https://www.qbitai.com/2026/09/496493.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-23",
+      "score": 7
+    },
     {
       "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
       "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
@@ -2751,93 +2848,6 @@
       "date": "2026-08-25",
       "score": 6,
       "titleCn": "丰盈智能背后的完整技术栈"
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-24",
-      "score": 8,
-      "titleCn": "据报道，Hugging Face 正就以130亿美元被收购进行谈判"
-    },
-    {
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "url": "https://arxiv.org/abs/2608.20342",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-24",
-      "score": 8,
-      "titleCn": "PrimeAgentOrchestrator：记忆驱动的智能体生成，赋能个人 AI 基础设施"
-    },
-    {
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "url": "https://arxiv.org/abs/2608.20378",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-24",
-      "score": 8,
-      "titleCn": "真相深藏：利用潜在意图验证对抗语义伪装"
-    },
-    {
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-      "url": "https://arxiv.org/abs/2608.20397",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-24",
-      "score": 8,
-      "titleCn": "Nexus：统一记忆上针对代理型 LLM 的深度自适应 KV-Cache 拼接与检索解耦工具路由"
-    },
-    {
-      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
-      "url": "https://www.qbitai.com/2026/08/478675.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-24",
-      "score": 8
-    },
-    {
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "url": "https://www.qbitai.com/2026/08/478469.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-24",
-      "score": 8
-    },
-    {
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "url": "https://www.qbitai.com/2026/08/478421.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-24",
-      "score": 8
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-24",
-      "score": 7,
-      "titleCn": "Kiro 通过 GPT-5.6 为开发者提升性价比"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-24",
-      "score": 7,
-      "titleCn": "OpenAI 正在打造面向万物的 AI 智能体。每个人都会使用吗？"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-24",
-      "score": 6,
-      "titleCn": "Instinct 强大的 AI 助手引发隐私和安全担忧"
     }
   ]
 }
