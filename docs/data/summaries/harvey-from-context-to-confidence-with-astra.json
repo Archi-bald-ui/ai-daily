@@ -1,0 +1,26 @@
+{
+  "titleCn": "Harvey利用GPT-6 Astra将法律文本转化为更强的草稿",
+  "overview": "Harvey宣布集成OpenAI最新GPT-6 Astra模型，显著提升法律文档起草能力。该技术能够理解复杂法律上下文，自动生成更准确、更专业的法律文本草稿，帮助律师提高工作效率并降低错误风险。",
+  "sections": [
+    {
+      "heading": "GPT-6 Astra模型首次落地法律场景",
+      "summary": "Harvey成为首批将GPT-6 Astra模型应用于法律领域的公司，充分发挥其强大的语言理解和生成能力。"
+    },
+    {
+      "heading": "法律文档起草质量大幅提升",
+      "summary": "新模型能够准确理解法律术语和上下文关系，生成更规范、更专业的法律文本草稿，减少人工修改次数。"
+    },
+    {
+      "heading": "提高律师工作效率",
+      "summary": "通过自动化文档生成和优化，律师可以将更多时间投入到高价值工作中，提升整体工作效率。"
+    }
+  ],
+  "id": "harvey-from-context-to-confidence-with-astra",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-24",
+  "hasFullText": false,
+  "generatedAt": "2026-09-25T12:53:14.108026+08:00"
+}
