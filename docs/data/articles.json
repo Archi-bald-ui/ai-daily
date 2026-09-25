@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-24T12:40:12.118206+08:00",
+  "lastUpdated": "2026-09-25T12:48:04.290467+08:00",
   "articles": [
+    {
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-24",
+      "score": 9,
+      "titleCn": "一种新的RSA破解方法，速度超越以往所有"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-24",
+      "score": 8,
+      "titleCn": "利用LFM2.5-VL-DSpark加速视觉-语言模型"
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-24",
+      "score": 8,
+      "titleCn": "为何不能把恶意AI拒于互联网之外？"
+    },
+    {
+      "title": "Pistis Technical Report",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-24",
+      "score": 8,
+      "titleCn": "Pistis技术报告"
+    },
+    {
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "url": "https://www.qbitai.com/2026/09/496925.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-24",
+      "score": 8
+    },
+    {
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "url": "https://www.qbitai.com/2026/09/496767.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-24",
+      "score": 8
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-24",
+      "score": 7,
+      "titleCn": "Harvey借助GPT-6 Astra把法律文本转化为更强草案"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-24",
+      "score": 7,
+      "titleCn": "Ringg的AI代理借助OpenAI解决高达65%的客户来电"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-24",
+      "score": 7,
+      "titleCn": "Muse似乎允许你下载其完整文件系统"
+    },
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-24",
+      "score": 7,
+      "titleCn": "预测代理何时该推理？可靠性路由的行为压力测试"
+    },
+    {
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-24",
+      "score": 7,
+      "titleCn": "TW3Cast：在GIFT-Eval上使用轻度微调基础模型进行时间序列预测的冻结路由器，完全在训练集上选取"
+    },
+    {
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "url": "https://www.qbitai.com/2026/09/496816.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-24",
+      "score": 7
+    },
     {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -2743,111 +2848,6 @@
       "category": "中文资讯",
       "date": "2026-08-26",
       "score": 6
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-25",
-      "score": 8,
-      "titleCn": "Jalapeño的首批结果显示其在AI推理中具备行业领先的速度和效率"
-    },
-    {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-25",
-      "score": 8,
-      "titleCn": "量化感知修复：压缩至4位、超越全精度原版的模型"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-25",
-      "score": 8,
-      "titleCn": "基准测试显示，OpenAI的Jalapeño芯片专为大规模快速推理而打造"
-    },
-    {
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2608.21362",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-25",
-      "score": 8,
-      "titleCn": "KVBoost：基于偏差引导重计算的块级键值缓存复用，提升大型语言模型推理效率"
-    },
-    {
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "url": "https://arxiv.org/abs/2608.21366",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-25",
-      "score": 8,
-      "titleCn": "审视模型崩塌与应对策略"
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-25",
-      "score": 7,
-      "titleCn": "OpenAI称其Jalapeño芯片可提供比竞争对手更快的AI响应"
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-25",
-      "score": 7,
-      "titleCn": "Claude Cowork终于记住了你在聊天中对该应用说的话"
-    },
-    {
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "url": "https://arxiv.org/abs/2608.21363",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-25",
-      "score": 7,
-      "titleCn": "AIREP：用于AI运行时治理的逐决策证据协议"
-    },
-    {
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-25",
-      "score": 7
-    },
-    {
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
-      "url": "https://www.qbitai.com/2026/08/479192.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-25",
-      "score": 7
-    },
-    {
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "url": "https://www.qbitai.com/2026/08/479096.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-25",
-      "score": 7
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-25",
-      "score": 6,
-      "titleCn": "丰盈智能背后的完整技术栈"
     }
   ]
 }
