@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 LFM2.5-VL-DSpark 加速视觉‑语言模型",
+  "overview": "本文介绍了 HuggingFace 最新发布的 LFM2.5‑VL‑DSpark 框架，旨在通过深度优化的推理管线、分布式 Spark 计算以及混合精度量化等技术，大幅提升视觉‑语言模型的推理速度与吞吐量，同时保持模型精度，适用于大规模部署和实时交互场景。",
+  "sections": [
+    {
+      "heading": "高效推理优化",
+      "summary": "通过算子融合、显存复用和混合精度等手段，显著降低延迟并提升吞吐量，支持多种视觉‑语言模型即插即用。"
+    },
+    {
+      "heading": "分布式计算支持",
+      "summary": "利用 Spark 兼容的分布式调度和并行执行后端，实现跨 GPU 或多节点的大规模推理，提升资源利用率。"
+    },
+    {
+      "heading": "即插即用集成",
+      "summary": "提供简洁的 API 与预训练模型接口，用户只需几行代码即可在现有 pipeline 中启用加速，降低使用门槛。"
+    }
+  ],
+  "id": "lfm2-5-vl-dspark",
+  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-24",
+  "hasFullText": false,
+  "generatedAt": "2026-09-25T12:49:16.285215+08:00"
+}
