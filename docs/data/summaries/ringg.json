@@ -1,0 +1,26 @@
+{
+  "titleCn": "Ringg借助OpenAI的AI代理可自动处理高达65%的客户来电",
+  "overview": "该资讯介绍了Ringg公司利用OpenAI技术打造的AI客服代理，能够在不增加人工成本的情况下自动处理大量来电。研究显示其AI代理可独立完成约65%的通话，显著降低客服压力并提升响应效率，标志着生成式AI在呼叫中心场景的规模化落地。",
+  "sections": [
+    {
+      "heading": "AI代理技术核心",
+      "summary": "基于OpenAI的大语言模型，实现自然语言理解和对话生成，能够快速解答常见问题。"
+    },
+    {
+      "heading": "自动化处理率",
+      "summary": "AI代理可独立完成约65%的来电，剩余复杂问题转接人工，实现高效分流。"
+    },
+    {
+      "heading": "业务价值与前景",
+      "summary": "提升客服响应速度、降低运营成本，并为后续扩展更多场景奠定技术基础。"
+    }
+  ],
+  "id": "ringg",
+  "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "url": "https://openai.com/index/ringg",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-24",
+  "hasFullText": false,
+  "generatedAt": "2026-09-25T12:53:48.080325+08:00"
+}
