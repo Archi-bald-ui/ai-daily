@@ -1,0 +1,44 @@
+{
+  "titleCn": "TW3Cast：轻量微调基础模型的冻结路由器在 GIFT‑Eval 训练集上全选的时间序列预测方法",
+  "overview": "TW3Cast 针对时间序列预测中基础模型微调成本高、选择难的问题，提出一种冻结路由机制。该方法在大规模预训练基础模型上仅进行轻量微调，利用冻结的路由器在训练阶段直接挑选最优子模型进行组合，从而在 GIFT‑Eval 训练集上实现模型的全自动选择。实验表明，TW3Cast 在多个公开数据集上相比传统微调和模型选择方法，显著提升预测精度并降低计算开销。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "引言部分阐明时间序列预测的实际需求，指出预训练基础模型在跨任务迁移时的优势与微调成本之间的矛盾，并提出通过冻结路由器实现高效模型选择的研究动机。",
+      "score": 90
+    },
+    {
+      "heading": "相关工作",
+      "summary": "相关工作回顾了传统统计方法、深度学习预测模型以及近年来兴起的基础模型微调技术，综述了模型路由、模型集成和 GIFT‑Eval 基准的最新进展，为本文的创新提供对比依据。",
+      "score": 85
+    },
+    {
+      "heading": "方法",
+      "summary": "TW3Cast 首先在大规模时间序列数据上预训练基础模型；随后对其进行轻量化微调，仅更新少量参数；在训练阶段冻结路由网络，根据任务特征从多个微调模型中挑选最优子模型并加权聚合，实现端到端的预测。",
+      "score": 95
+    },
+    {
+      "heading": "实验设置",
+      "summary": "实验使用 GIFT‑Eval 中的多个子任务（包括电力、气象、交通等），采用 MSE、MAE、MSLL 等指标，与 ARIMA、Informer、Autoformer 等基线模型进行对比，并给出训练资源、路由选择频率等实现细节。",
+      "score": 88
+    },
+    {
+      "heading": "实验结果与分析",
+      "summary": "结果显示 TW3Cast 在大多数数据集上均取得最低预测误差，显著优于单独微调或随机路由的方案；消融实验进一步验证冻结路由器与轻量微调的协同效应，并展示不同任务对子模型的偏好分布。",
+      "score": 92
+    },
+    {
+      "heading": "结论与展望",
+      "summary": "论文总结了 TW3Cast 在提升预测精度和降低计算开销方面的贡献，指出冻结路由器为模型选择提供可解释的路径，并展望未来在更大规模基础模型和自适应路由策略上的研究方向。",
+      "score": 89
+    }
+  ],
+  "id": "2609.28506",
+  "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+  "url": "https://arxiv.org/abs/2609.28506",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-24",
+  "hasFullText": false,
+  "generatedAt": "2026-09-25T12:59:16.581854+08:00"
+}
