@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-25T12:48:04.290467+08:00",
+  "lastUpdated": "2026-09-26T12:49:21.135120+08:00",
   "articles": [
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-25",
+      "score": 8,
+      "titleCn": "Anthropic与Akamai达成116亿美元七年云协议"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-25",
+      "score": 8,
+      "titleCn": "美国IPO前，英国AI新云Nscale获得33.6亿美元可转换融资"
+    },
+    {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-25",
+      "score": 8,
+      "titleCn": "Meta的Muse抢走OpenAI和Anthropic的AI风头"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-25",
+      "score": 7,
+      "titleCn": "Proaction借助Codex提升销量60%，节省75+小时"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-25",
+      "score": 7,
+      "titleCn": "invideo利用GPT‑6 Astra将色彩分级提升3倍"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-25",
+      "score": 7,
+      "titleCn": "使用NVIDIA Warp和MjWarp加速机器人仿真与学习工作流"
+    },
+    {
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "url": "https://www.qbitai.com/2026/09/497108.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-25",
+      "score": 7
+    },
+    {
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-25",
+      "score": 7
+    },
+    {
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "url": "https://www.qbitai.com/2026/09/497177.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-25",
+      "score": 6
+    },
     {
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
@@ -2751,103 +2829,6 @@
       "date": "2026-08-27",
       "score": 6,
       "titleCn": "loveholidays 如何借助 Codex 让每个人成为构建者"
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-26",
-      "score": 9,
-      "titleCn": "英伟达接近收购Hugging Face"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "Hugging Face事件与未来之路"
-    },
-    {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "使用Sentence Transformers训练和微调多向量嵌入模型"
-    },
-    {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "Granite 4.2 大语言模型：构建方法"
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "亚马逊因需求激增将英伟达芯片订单提升三倍"
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "Anthropic与Nscale签署450亿美元协议，算力消耗继续攀升"
-    },
-    {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "url": "https://arxiv.org/abs/2608.23622",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-26",
-      "score": 8,
-      "titleCn": "LLM智能体使用仿真模型进行受控实验"
-    },
-    {
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "url": "https://arxiv.org/abs/2608.23568",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-26",
-      "score": 7,
-      "titleCn": "RENDER：控制LLM记忆评估中的读者可见证据"
-    },
-    {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "url": "https://arxiv.org/abs/2608.23569",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-26",
-      "score": 7,
-      "titleCn": "ESQ-Bench：多层企业Oracle基准，评估NL2SQL方言泛化与静默语义偏差"
-    },
-    {
-      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-      "url": "https://www.qbitai.com/2026/08/479834.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-26",
-      "score": 7
-    },
-    {
-      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
-      "url": "https://www.qbitai.com/2026/08/479811.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-26",
-      "score": 6
     }
   ]
 }
