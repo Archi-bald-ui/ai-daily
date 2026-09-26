@@ -1,0 +1,26 @@
+{
+  "titleCn": "如何利用 NVIDIA Warp 与 MjWarp 加速机器人仿真与学习工作流",
+  "overview": "本文系统讲解NVIDIA Warp与MjWarp的集成方法，展示在机器人仿真、强化学习和实时控制等环节的GPU加速优势，提供从环境配置到性能调优的完整流程，帮助研究者和工程师提升仿真效率并降低成本。",
+  "sections": [
+    {
+      "heading": "Warp 与 MjWarp 集成要点",
+      "summary": "介绍如何将 NVIDIA Warp 与 MuJoCo 的 MjWarp 插件结合，涵盖依赖安装、环境变量配置和 CUDA 加速模型的加载流程。"
+    },
+    {
+      "heading": "GPU 加速仿真与学习流程",
+      "summary": "阐述利用 Warp 的并行算子与 MjWarp 的多体动力学计算，在强化学习训练、动作规划和感知闭环中实现显著的帧率提升和延迟降低。"
+    },
+    {
+      "heading": "实战案例与性能提升",
+      "summary": "提供机器臂、无人机和移动平台的具体项目示例，展示通过 Warp 与 MjWarp 组合在仿真速度、训练迭代次数和实时控制精度上的具体收益。"
+    }
+  ],
+  "id": "how-to-use-nvidia-warp-and-mjwarp",
+  "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+  "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-25",
+  "hasFullText": false,
+  "generatedAt": "2026-09-26T12:52:19.170329+08:00"
+}
