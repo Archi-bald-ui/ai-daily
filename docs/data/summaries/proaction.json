@@ -1,0 +1,26 @@
+{
+  "titleCn": "Proaction 通过 Codex 提升销售额 60% 并节省 75+ 小时",
+  "overview": "本文介绍 Proaction 如何利用 OpenAI Codex 将销售业绩提升 60%，并在日常运营中节省超过 75 小时的手工时间。通过在报价、跟进邮件和数据分析等关键环节嵌入 AI 代码生成，实现流程自动化与错误率下降，为企业带来显著的效率与收益提升。",
+  "sections": [
+    {
+      "heading": "AI 代码生成提升销售效率",
+      "summary": "Proaction 在报价、跟进等关键环节引入 Codex，自动生成代码和文档，实现商机快速处理和成交率提升，并显著减少人工输入错误。"
+    },
+    {
+      "heading": "大幅节省人工时间",
+      "summary": "通过自动化生成报价、跟进邮件和数据分析脚本，Proaction 每周可节省超过 75 小时的手工操作，让团队专注于高价值任务。"
+    },
+    {
+      "heading": "业务效益与实施要点",
+      "summary": "案例展示了如何快速集成 Codex，选取关键销售节点进行自动化，并通过监控代码执行情况持续优化流程，确保业务增长可持续。"
+    }
+  ],
+  "id": "proaction",
+  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "url": "https://openai.com/index/proaction",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-25",
+  "hasFullText": false,
+  "generatedAt": "2026-09-26T12:50:43.242588+08:00"
+}
