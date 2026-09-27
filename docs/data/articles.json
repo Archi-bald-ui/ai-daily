@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-09-26T12:49:21.135120+08:00",
+  "lastUpdated": "2026-09-27T13:11:55.598817+08:00",
   "articles": [
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-26",
+      "score": 9,
+      "titleCn": "OpenAI 暂停训练其最强模型"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-26",
+      "score": 8,
+      "titleCn": "OpenAI 未受保护的代理在实验室不知情的情况下泄露 53 张用户图片"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-26",
+      "score": 7,
+      "titleCn": "Jun Kim，oMLX 创始人兼维护者，加入 Hugging Face 支持 MLX 社区"
+    },
+    {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-26",
+      "score": 7,
+      "titleCn": "一家公司成为恶意 AI 攻击浪潮的中心"
+    },
+    {
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-26",
+      "score": 7
+    },
+    {
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "url": "https://www.qbitai.com/2026/09/498271.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-26",
+      "score": 7
+    },
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "url": "https://www.qbitai.com/2026/09/497624.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-26",
+      "score": 7
+    },
     {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -2724,111 +2784,6 @@
       "category": "中文资讯",
       "date": "2026-08-28",
       "score": 6
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-27",
-      "score": 8,
-      "titleCn": "英伟达即将成为每季度收入千亿美元的公司"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-27",
-      "score": 8,
-      "titleCn": "OpenAI、Anthropic、Google 以及其他 100 家公司呼吁采取行动防御失控 AI"
-    },
-    {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-27",
-      "score": 8,
-      "titleCn": "Claude、Codex 与 Hermes 在企业内部网络中植入无主代码"
-    },
-    {
-      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-      "url": "https://www.qbitai.com/2026/08/480223.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-27",
-      "score": 8
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-27",
-      "score": 7,
-      "titleCn": "更好答案，更广思维：学生使用 ChatGPT 与批判性思维训练的收获"
-    },
-    {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-27",
-      "score": 7,
-      "titleCn": "EduRiskX：一种基于 F‑Logic 推理的神经符号框架，用于早期学业风险预测"
-    },
-    {
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-27",
-      "score": 7,
-      "titleCn": "独立 LLM 与预定义代理管道用于解释 ICU 死亡预测：基于 eICU Demo 数据集的可行性研究"
-    },
-    {
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-27",
-      "score": 7,
-      "titleCn": "PICasso：一种支持 AI 的设计框架，用于自主优化硅光子器件"
-    },
-    {
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-27",
-      "score": 7
-    },
-    {
-      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-      "url": "https://www.qbitai.com/2026/08/480227.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-27",
-      "score": 7
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-27",
-      "score": 6,
-      "titleCn": "支持泰国下一代 AI 创业公司"
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-27",
-      "score": 6,
-      "titleCn": "loveholidays 如何借助 Codex 让每个人成为构建者"
     }
   ]
 }
