@@ -1,0 +1,26 @@
+{
+  "titleCn": "Jun Kim（oMLX 创作者兼维护者）加入 Hugging Face 支持 MLX 社区",
+  "overview": "本文介绍了 oMLX 项目创始人 Jun Kim 加入 Hugging Face，旨在加强 MLX 社区的支持。作为 oMLX 的核心维护者，Jun Kim 在机器学习框架和工具方面拥有丰富经验，此次合作将推动开源模型的共享与技术生态的进一步发展。",
+  "sections": [
+    {
+      "heading": "Jun Kim 与 oMLX 的背景",
+      "summary": "Jun Kim 是 oMLX 的创始人和长期维护者，专注于提供高效的 MLX 工具和库，帮助开发者快速构建和部署模型。"
+    },
+    {
+      "heading": "加入 Hugging Face 的意义",
+      "summary": "通过加入 Hugging Face，Jun Kim 将把 oMLX 的经验带入更广阔的社区，提升 MLX 在开源生态中的可见度和兼容性。"
+    },
+    {
+      "heading": "对 MLX 社区的期待",
+      "summary": "此举有望加速 MLX 相关插件、模型和文档的完善，为研究者和工程师提供更丰富的资源和技术支持。"
+    }
+  ],
+  "id": "omlx",
+  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "url": "https://huggingface.co/blog/omlx",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-26",
+  "hasFullText": false,
+  "generatedAt": "2026-09-27T13:13:23.528330+08:00"
+}
