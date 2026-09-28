@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 为乌克兰提供网络访问权限以支持民用防御",
+  "overview": "OpenAI 宣布扩大对乌克兰的网络安全援助，向民用部门开放其 AI 计算平台和 API 接口，帮助检测并应对网络攻击、虚假信息传播以及关键基础设施的网络威胁。此举旨在通过生成式 AI 提升情报分析和实时防御能力，支持乌克兰在冲突期间的网络防线。",
+  "sections": [
+    {
+      "heading": "开放AI计算平台",
+      "summary": "OpenAI 向乌克兰民用机构提供强大的计算资源和 API 接口，便于其快速部署 AI 防御工具。"
+    },
+    {
+      "heading": "加强网络威胁防御",
+      "summary": "通过 AI 检测模型帮助识别网络攻击、虚假信息和关键设施的网络威胁，提升实时防御响应。"
+    },
+    {
+      "heading": "提升情报分析能力",
+      "summary": "生成式 AI 可快速分析海量数据，生成情报报告，帮助决策者实时了解战场网络态势，并提供可视化。"
+    }
+  ],
+  "id": "openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-27",
+  "hasFullText": false,
+  "generatedAt": "2026-09-28T13:21:54.951858+08:00"
+}
