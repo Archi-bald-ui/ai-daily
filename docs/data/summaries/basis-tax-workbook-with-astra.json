@@ -1,0 +1,26 @@
+{
+  "titleCn": "Basis 利用 GPT-6 Astra 将税务工作手册完成速度提升约两倍",
+  "overview": "本文介绍了金融服务公司Basis如何通过OpenAI最新的GPT-6Astra模型，实现税务工作手册编制的自动化，将原本耗时数天的工作压缩至数小时，速度提升约两倍，显著降低人工错误，提升合规性。",
+  "sections": [
+    {
+      "heading": "AI模型提升税务处理速度",
+      "summary": "GPT-6Astra通过自然语言理解和生成，自动化填充税表字段，压缩工作时间为原来的一半左右。"
+    },
+    {
+      "heading": "降低人工错误与合规风险",
+      "summary": "自动化流程大幅降低手工录入错误率，同时提供审计追踪功能，帮助企业快速满足税务合规与监管标准。"
+    },
+    {
+      "heading": "案例启示：AI在财税领域的规模化前景",
+      "summary": "Basis的成功实践表明，GPT-6Astra具备处理复杂税务文档的能力，可为更多财务团队提供可扩展的AI助理解决方案。"
+    }
+  ],
+  "id": "basis-tax-workbook-with-astra",
+  "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-28",
+  "hasFullText": false,
+  "generatedAt": "2026-09-29T13:57:11.200615+08:00"
+}
