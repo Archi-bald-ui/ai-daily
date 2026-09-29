@@ -1,0 +1,38 @@
+{
+  "titleCn": "DriveHierarchy: 从开环理解到闭环执行的视觉语言模型驾驶能力诊断基准",
+  "overview": "本文提出DriveHierarchy基准，旨在系统评估视觉语言模型（VLM）在自动驾驶场景中从开环感知理解到闭环决策执行的全链路能力。通过分层任务设计、真实道路数据与交互式仿真，构建多维度指标，对主流VLM进行诊断性测试，揭示其优势与不足，为后续模型改进提供明确方向。",
+  "sections": [
+    {
+      "heading": "引言",
+      "summary": "本节阐明自动驾驶对VLM的跨模态理解与实时决策需求，指出现有评测缺乏从感知到控制的完整链路，提出DriveHierarchy的动机与目标。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾视觉问答、驾驶仿真与VLM评估相关研究，总结现有基准的覆盖范围与局限性，说明本文在层次化闭环评测方面的创新点。"
+    },
+    {
+      "heading": "基准设计：任务层次与数据构建",
+      "summary": "详细介绍DriveHierarchy的分层任务：图像描述、情景问答、动作规划与闭环仿真；说明数据集来源、场景多样性与标注流程，确保任务难度与实际道路相符。"
+    },
+    {
+      "heading": "评价方法与指标",
+      "summary": "提出多维评估指标，包括感知准确率、指令遵循度、决策安全性和交互响应时延，阐述实验框架与自动评分机制，以保证评测的客观与可重复性。"
+    },
+    {
+      "heading": "实验与结果分析",
+      "summary": "在多种主流VLM（如CLIP‑Based、LLM‑Fusion等）上进行系统测试，结果显示开环感知表现良好但在闭环控制中出现决策延迟和安全违规，揭示模型在跨层协同上的瓶颈。"
+    },
+    {
+      "heading": "结论与未来展望",
+      "summary": "DriveHierarchy为VLM驾驶能力提供统一诊断平台，实验验证其有效性并指出未来改进方向，如增强时空推理和多模态安全约束，以推动实际自动驾驶的VLM落地。"
+    }
+  ],
+  "id": "2609.31814",
+  "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+  "url": "https://arxiv.org/abs/2609.31814",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-28",
+  "hasFullText": false,
+  "generatedAt": "2026-09-29T13:46:13.893862+08:00"
+}
