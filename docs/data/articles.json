@@ -1,6 +1,93 @@
 {
-  "lastUpdated": "2026-09-28T13:14:50.952228+08:00",
+  "lastUpdated": "2026-09-29T13:39:35.704038+08:00",
   "articles": [
+    {
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-28",
+      "score": 9
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-28",
+      "score": 8,
+      "titleCn": "Nvidia推出新平台管控失控AI代理"
+    },
+    {
+      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+      "url": "https://arxiv.org/abs/2609.31792",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-28",
+      "score": 8,
+      "titleCn": "ConflictVLA-Bench：评估视觉-语言-动作模型的前提冲突行为"
+    },
+    {
+      "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+      "url": "https://arxiv.org/abs/2609.31814",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-28",
+      "score": 8,
+      "titleCn": "DriveHierarchy：诊断VLM驾驶能力——从开环理解到闭环执行"
+    },
+    {
+      "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
+      "url": "https://arxiv.org/abs/2609.31868",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-28",
+      "score": 8,
+      "titleCn": "Metro-WM：基于可实现子目标的长期潜在规划"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-28",
+      "score": 7,
+      "titleCn": "Shopify向基于浏览器的AI代理开放结账功能"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-28",
+      "score": 6,
+      "titleCn": "Basis借助GPT-6 Astra，税务工作簿完成速度提升两倍"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-09-28",
+      "score": 6,
+      "titleCn": "Microsoft打击危害12,000账户的AI辅助平台"
+    },
+    {
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-28",
+      "score": 6
+    },
+    {
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-28",
+      "score": 6
+    },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -2715,84 +2802,6 @@
       "date": "2026-08-30",
       "score": 6,
       "titleCn": "ChatGPT 教师版进入更多美国学区"
-    },
-    {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-29",
-      "score": 8,
-      "titleCn": "索尼音乐与华纳查佩尔起诉 Anthropic"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-29",
-      "score": 8,
-      "titleCn": "索尼音乐、华纳起诉 Anthropic，指控其“公然”侵犯知识产权"
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-29",
-      "score": 8,
-      "titleCn": "Nvidia 的 AI 优势正迈向 GPU 之外"
-    },
-    {
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-29",
-      "score": 8
-    },
-    {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-29",
-      "score": 7,
-      "titleCn": "连线、运行、部署：Gradio 中的 AI 工作流"
-    },
-    {
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-29",
-      "score": 7
-    },
-    {
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "url": "https://www.qbitai.com/2026/08/480940.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-29",
-      "score": 7
-    },
-    {
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-08-29",
-      "score": 6,
-      "titleCn": "在 Search 中规划与预订旅行的 3 种新方式"
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-08-29",
-      "score": 6,
-      "titleCn": "借助全新 AI 工具提升营销"
     }
   ]
 }
