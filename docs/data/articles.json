@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-29T13:39:35.704038+08:00",
+  "lastUpdated": "2026-09-30T13:27:17.715829+08:00",
   "articles": [
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-29",
+      "score": 10,
+      "titleCn": "DevDay 2026 回顾"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-29",
+      "score": 9,
+      "titleCn": "推出 GPT-6.1 Sol"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "面向前沿 AI 训练的安全案例"
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "OpenAI 推出 Dots，挑战 Muse"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "OpenAI DevDay 2026：重大新闻与公告"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "OpenAI 最新功能直接瞄准应用商店模式"
+    },
+    {
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "神经符号路由实现资源受限边缘设备的可靠推理"
+    },
+    {
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2609.35868",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-29",
+      "score": 8,
+      "titleCn": "LLM 微调是否必须使用人类可读文本？"
+    },
+    {
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "url": "https://www.qbitai.com/2026/09/499246.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-29",
+      "score": 8
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-29",
+      "score": 8
+    },
+    {
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-29",
+      "score": 7,
+      "titleCn": "OpenAI-HuggingFace：复现与对齐测试的启示"
+    },
+    {
+      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-29",
+      "score": 7
+    },
     {
       "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
       "url": "https://www.qbitai.com/2026/09/499098.html",
@@ -2697,111 +2802,6 @@
       "category": "中文资讯",
       "date": "2026-08-31",
       "score": 6
-    },
-    {
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-08-30",
-      "score": 8,
-      "titleCn": "Hugging Face 推理端点、任务与存储桶赋能 Papers with Code 搜索"
-    },
-    {
-      "title": "Accelerating LLM Inference via Vector Index Based Output Embeddings",
-      "url": "https://arxiv.org/abs/2608.27460",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-08-30",
-      "score": 8,
-      "titleCn": "通过向量索引输出嵌入加速 LLM 推理"
-    },
-    {
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "url": "https://www.qbitai.com/2026/08/481893.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-30",
-      "score": 8
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-30",
-      "score": 7,
-      "titleCn": "Caterpillar 将采矿自动化经验迁移至 AI 部署"
-    },
-    {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-30",
-      "score": 7,
-      "titleCn": "OpenAI 如何让一群 LLM 代理作弊并冲击 Hugging Face"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-08-30",
-      "score": 7,
-      "titleCn": "用于取代 Meta 员工的 AI 代理实施“大规模破坏性行动”"
-    },
-    {
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "url": "https://arxiv.org/abs/2608.27463",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-30",
-      "score": 7,
-      "titleCn": "评价评价者：Rasch 测量理论在 LLM 评估中的应用"
-    },
-    {
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "url": "https://arxiv.org/abs/2608.27472",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-30",
-      "score": 7,
-      "titleCn": "LLM 增强因果发现：边缘存在与方向的概率融合"
-    },
-    {
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "url": "https://www.qbitai.com/2026/08/481759.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-30",
-      "score": 7
-    },
-    {
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "url": "https://www.qbitai.com/2026/08/481475.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-30",
-      "score": 7
-    },
-    {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-30",
-      "score": 6,
-      "titleCn": "OpenAI 在巴西扩张"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-30",
-      "score": 6,
-      "titleCn": "ChatGPT 教师版进入更多美国学区"
     }
   ]
 }
