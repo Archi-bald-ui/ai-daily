@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 发布 GPT-6.1 Sol",
+  "overview": "OpenAI 正式推出新一代大规模语言模型 GPT-6.1 Sol，聚焦多模态理解、超长上下文窗口和高效推理，在保持安全对齐的同时显著降低计算成本，标志着大模型技术的又一次重要突破。",
+  "sections": [
+    {
+      "heading": "多模态与长上下文提升",
+      "summary": "GPT-6.1 Sol 强化对图像、音频等多模态信息的理解，并支持数十万 token 的超长上下文窗口，实现跨段落深度推理。"
+    },
+    {
+      "heading": "计算效率显著提升",
+      "summary": "通过新型稀疏注意力机制和量化压缩技术，GPT-6.1 Sol 在保持高性能的同时，大幅降低推理时延和硬件资源消耗。"
+    },
+    {
+      "heading": "安全性与对齐技术升级",
+      "summary": "GPT-6.1 Sol 引入双向强化学习与多层次审查机制，显著降低有害输出风险，同时保持模型创造力和实用性。"
+    }
+  ],
+  "id": "introducing-gpt-6-1-sol",
+  "title": "Introducing GPT-6.1 Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-29",
+  "hasFullText": false,
+  "generatedAt": "2026-09-30T13:30:06.691350+08:00"
+}
