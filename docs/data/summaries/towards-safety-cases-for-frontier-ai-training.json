@@ -1,0 +1,26 @@
+{
+  "titleCn": "迈向前沿AI训练的安全案例",
+  "overview": "本文探讨在前沿AI模型训练中构建安全案例的方法，旨在通过系统化风险评估、证据收集与持续监控，形成可验证的安全保障体系，以提升模型部署的透明度与可信度，并应对潜在的伦理与安全挑战。",
+  "sections": [
+    {
+      "heading": "安全案例的核心概念",
+      "summary": "解释安全案例的定义、目的以及在AI研发中的关键价值，帮助团队统一安全评估语言。"
+    },
+    {
+      "heading": "训练过程风险评估框架",
+      "summary": "提出多层次风险模型，从数据、模型结构到部署场景逐级评估，配合证据收集与审计流程，确保安全可控。"
+    },
+    {
+      "heading": "持续监控与合规机制",
+      "summary": "强调在模型上线后实施实时监控、定期安全审计和响应流程，以实现长期安全治理和合规验证。"
+    }
+  ],
+  "id": "towards-safety-cases-for-frontier-ai-training",
+  "title": "Towards safety cases for frontier AI training",
+  "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-29",
+  "hasFullText": false,
+  "generatedAt": "2026-09-30T13:30:53.733964+08:00"
+}
