@@ -1,0 +1,38 @@
+{
+  "titleCn": "OpenAI‑HuggingFace：对齐测试的复现与经验教训",
+  "overview": "本文对OpenAI和HuggingFace两大对齐测试框架进行系统复现，评估其可重复性、评测一致性以及在不同语言模型上的表现。通过统一评测流程、相同数据集和指标，对比模型对齐度差异，发现现有测试在指标选择、阈值设定和实验报告方面存在显著差异，并提出改进建议，为提升对齐测试的可信度与标准化提供实证依据。",
+  "sections": [
+    {
+      "heading": "引言与动机",
+      "summary": "本节介绍对齐测试的重要性，阐述OpenAI与HuggingFace在对齐评估中的角色，并指出当前缺乏系统复现与比较的研究空白。"
+    },
+    {
+      "heading": "相关工作",
+      "summary": "回顾对齐技术发展历程，梳理OpenAI的Alignment Testing Suite与HuggingFace的Eval Harness，分析其在评测目标、指标选取及公开实现方面的异同。"
+    },
+    {
+      "heading": "复现框架设计",
+      "summary": "详细描述复现过程，包括统一的评测脚本、数据集划分、模型选取（GPT‑2、BERT‑base、T5‑small）以及指标实现（对齐度、幻觉率、指令遵循率）。"
+    },
+    {
+      "heading": "实验设置与评估指标",
+      "summary": "展示实验结果，比较两框架在相同模型上的对齐度得分、幻觉比例与指令遵循率，并统计复现误差（标准差、95%置信区间）以评估可重复性。"
+    },
+    {
+      "heading": "结果分析与经验教训",
+      "summary": "从实验发现提炼关键教训，如指标选取对结果敏感性、阈值设定缺乏统一标准、报告细节不完整导致复现困难，并提出改进建议：开放权重、细化日志、统一基准库。"
+    },
+    {
+      "heading": "结论与未来方向",
+      "summary": "总结本文贡献，确认复现框架的可行性，指出对齐测试仍需跨社区协作与标准化，并展望未来工作，包括更大模型评估、自动化对齐流程与安全性审计。"
+    }
+  ],
+  "id": "2609.35799",
+  "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+  "url": "https://arxiv.org/abs/2609.35799",
+  "source": "arXiv cs.AI",
+  "category": "论文",
+  "date": "2026-09-29",
+  "hasFullText": false,
+  "generatedAt": "2026-09-30T13:35:32.879404+08:00"
+}
