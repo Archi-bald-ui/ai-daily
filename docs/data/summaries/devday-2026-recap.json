@@ -1,0 +1,26 @@
+{
+  "titleCn": "DevDay 2026 回顾",
+  "overview": "OpenAI 在 2026 年的开发者日（DevDay）上回顾了过去一年的技术进展与生态建设。大会重点发布了下一代大模型、API 性能提升以及更灵活的微调方案，并分享了安全治理与开源工具的最新成果，帮助开发者更高效、可靠地构建 AI 应用。",
+  "sections": [
+    {
+      "heading": "新一代大模型发布",
+      "summary": "介绍了性能更强、上下文更长、支持多模态输入的新一代大模型，帮助开发者实现更丰富的 AI 应用场景。"
+    },
+    {
+      "heading": "API 性能与微调升级",
+      "summary": "新版 API 响应更快、成本更低，并推出更灵活的微调接口，使企业能够快速适配业务需求，同时提供更细粒度的使用统计和监控功能。"
+    },
+    {
+      "heading": "安全治理与开源工具",
+      "summary": "强调模型安全对齐与透明度，推出合规审查套件并开源多项治理工具，帮助社区共同提升 AI 安全性。"
+    }
+  ],
+  "id": "devday-2026-recap",
+  "title": "DevDay 2026 Recap",
+  "url": "https://openai.com/index/devday-2026-recap",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-29",
+  "hasFullText": false,
+  "generatedAt": "2026-09-30T13:29:14.374196+08:00"
+}
