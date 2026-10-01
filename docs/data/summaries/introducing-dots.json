@@ -1,0 +1,26 @@
+{
+  "titleCn": "推出 Dots",
+  "overview": "OpenAI 推出全新可视化工具 Dots，旨在帮助开发者通过交互式点状图直观探索模型的向量表示。该工具提供实时聚类、旋转缩放等交互功能，帮助用户快速发现嵌入空间的分布模式与异常点，并可在调试阶段直接查询向量相似度，提升模型调优和检索的效率。",
+  "sections": [
+    {
+      "heading": "交互式向量可视化",
+      "summary": "通过 Dots 能在浏览器中实时查看高维向量分布，支持旋转、缩放和点选等交互，便于直观了解模型输出的特征分布。"
+    },
+    {
+      "heading": "聚类与点状图功能",
+      "summary": "提供自动聚类与点状散点图展示，帮助用户在实验和生産环境中快速发现向量空间的分布模式与异常点。"
+    },
+    {
+      "heading": "提升调试与检索效率",
+      "summary": "结合 Dots 与 API，开发者可在调试阶段直接查询向量相似度，显著降低迭代时间并提升检索精度。"
+    }
+  ],
+  "id": "introducing-dots",
+  "title": "Introducing dots",
+  "url": "https://openai.com/index/introducing-dots",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-01T13:54:41.946341+08:00"
+}
