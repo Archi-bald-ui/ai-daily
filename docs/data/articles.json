@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-09-30T13:27:17.715829+08:00",
+  "lastUpdated": "2026-10-01T13:44:18.976388+08:00",
   "articles": [
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-30",
+      "score": 9,
+      "titleCn": "谷歌宣布Gemini 4，称其强大到仅限‘受信任的网络防御者’使用"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-09-30",
+      "score": 9,
+      "titleCn": "谷歌发布Gemini 4 Argon，被誉为迄今最强模型"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-30",
+      "score": 8,
+      "titleCn": "破坏协同模型蒸馏行动"
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-09-30",
+      "score": 8,
+      "titleCn": "特朗普协议下，科技领袖将如何自我监管AI安全"
+    },
+    {
+      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+      "url": "https://arxiv.org/abs/2609.38359",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-30",
+      "score": 8,
+      "titleCn": "超越模式崩溃：通过生成流网络生成多样化合成专家对话"
+    },
+    {
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "url": "https://www.qbitai.com/2026/09/499493.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-30",
+      "score": 8
+    },
+    {
+      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "url": "https://www.qbitai.com/2026/09/499308.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-30",
+      "score": 8
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-09-30",
+      "score": 7,
+      "titleCn": "发布dots"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-09-30",
+      "score": 7,
+      "titleCn": "Open TTS排行榜：可扩展的多语言文本转语音与语音克隆评估"
+    },
+    {
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-30",
+      "score": 7,
+      "titleCn": "AREX-2：通过长程反思任务推进自我改进智能体"
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-09-30",
+      "score": 7,
+      "titleCn": "MoFlow：多目标智能体工作流生成"
+    },
+    {
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-09-30",
+      "score": 6
+    },
     {
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
@@ -2714,94 +2819,6 @@
       "category": "中文资讯",
       "date": "2026-09-01",
       "score": 7
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-08-31",
-      "score": 8,
-      "titleCn": "Nvidia斥资35亿美元押注MediaTek，揭示其应对大型科技公司AI芯片扩张的计划"
-    },
-    {
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-31",
-      "score": 8
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "Polimill在日本打造下一代公共AI基础设施"
-    },
-    {
-      "title": "Debian won’t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "Debian不会禁止AI代码进入其Linux发行版"
-    },
-    {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "ChatGPT在欧盟将面临更严格监管"
-    },
-    {
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "url": "https://arxiv.org/abs/2608.27459",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "可检验人类知识的时间胶囊：41年Jeopardy!收录在单一免费本地模型中"
-    },
-    {
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "url": "https://arxiv.org/abs/2608.27464",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "并非所有解释都被寻求：面向人类中心XAI的信息寻求心理学"
-    },
-    {
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "url": "https://arxiv.org/abs/2608.27475",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-08-31",
-      "score": 7,
-      "titleCn": "假设、评估、精炼：未知空间系数场PDE发现的科学代理"
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-08-31",
-      "score": 6,
-      "titleCn": "AI普及的里程碑"
-    },
-    {
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "url": "https://www.qbitai.com/2026/08/481923.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-08-31",
-      "score": 6
     }
   ]
 }
