@@ -1,0 +1,26 @@
+{
+  "titleCn": "Open TTS 排行榜：可扩展的多语言文本转语音与声音克隆评估",
+  "overview": "该文介绍了一个开源的文本转语音（TTS）排行榜，旨在提供可扩展的多语言评估框架，涵盖语音合成和声音克隆两大任务。平台支持自动化的质量度量、社区提交模型以及跨语言一致性分析，为研究者和开发者提供统一的性能基准。",
+  "sections": [
+    {
+      "heading": "多语言评估覆盖",
+      "summary": "排行榜覆盖数十种语言，提供统一的测评数据集和多维指标，帮助比较不同语言下的合成质量和自然度。"
+    },
+    {
+      "heading": "可扩展自动化评估",
+      "summary": "平台实现自动化的评分流程，支持模型上传、批量推理和结果可视化，并提供可重复的实验配置，降低人工评估成本。"
+    },
+    {
+      "heading": "开源共享与社区贡献",
+      "summary": "排行榜所有代码、数据和模型均开源，鼓励社区提交新模型和评测脚本，推动 TTS 研究透明化。"
+    }
+  ],
+  "id": "open-tts-leaderboard",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-09-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-01T13:55:54.248820+08:00"
+}
