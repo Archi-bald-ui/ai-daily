@@ -1,0 +1,26 @@
+{
+  "titleCn": "破坏协同模型蒸馏活动",
+  "overview": "本文介绍OpenAI发现并破获一起针对其模型的协同蒸馏攻击事件，攻击者通过滥用API和逆向手段尝试提取模型知识。OpenAI公开了攻击手法、检测过程以及防御措施，强调加强访问控制、模型安全审计和社区协作的重要性，并呼吁行业共同防范此类模型蒸馏威胁。",
+  "sections": [
+    {
+      "heading": "攻击手法揭秘",
+      "summary": "攻击者通过批量API请求、模型逆向和知识蒸馏技术，尝试提取模型内部知识并复制。"
+    },
+    {
+      "heading": "检测与响应措施",
+      "summary": "OpenAI通过异常流量监控、行为分析和临时封禁等手段快速定位攻击者，并公开技术细节协助社区防御。"
+    },
+    {
+      "heading": "防范建议与行业合作",
+      "summary": "建议加强API访问控制、实施模型审计并推动跨组织情报共享，以共同遏制模型蒸馏威胁。"
+    }
+  ],
+  "id": "disrupting-a-coordinated-model-distillation-campaign",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-09-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-01T13:45:39.394455+08:00"
+}
