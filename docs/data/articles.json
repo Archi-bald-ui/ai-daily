@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-01T13:44:18.976388+08:00",
+  "lastUpdated": "2026-10-02T13:29:07.673073+08:00",
   "articles": [
+    {
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-01",
+      "score": 9
+    },
+    {
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-01",
+      "score": 8,
+      "titleCn": "Olmo-core 3：面向大规模 MoE 的开放可扩展训练基础设施"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-01",
+      "score": 8,
+      "titleCn": "Holo4：赋能通用计算机使用智能体"
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-01",
+      "score": 8,
+      "titleCn": "OpenAI 新代理挑战 Meta——能否与免费产品竞争？"
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-01",
+      "score": 8,
+      "titleCn": "从提案到验证效应：Praxa——基于证据的治理 AI 代理执行框架"
+    },
+    {
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.00061",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-01",
+      "score": 8,
+      "titleCn": "梯度对齐配对选择实现个性化偏好优化"
+    },
+    {
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-01",
+      "score": 8
+    },
+    {
+      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+      "url": "https://www.qbitai.com/2026/09/499592.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-01",
+      "score": 8
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-01",
+      "score": 7,
+      "titleCn": "AutoSynthData：为企业代理生成训练数据"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-01",
+      "score": 7,
+      "titleCn": "OpenAI 解除与三名安全研究员的合作，WSJ 报道"
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-01",
+      "score": 7,
+      "titleCn": "Amazon 发布自有 Jev 克隆版——决策模型在网络上泛滥"
+    },
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-01",
+      "score": 7,
+      "titleCn": "长程语言代理中的重尾记忆痕迹"
+    },
     {
       "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
       "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
@@ -2713,111 +2818,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-02",
-      "score": 7
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "Astra之路：关键能力与前沿安全防护"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "发布@huggingface/kernels：200+ WebGPU内核助力本地AI"
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "Anthropic推出Claude Fable 5.1，称代理任务成本降低高达45%"
-    },
-    {
-      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "Nvidia争议的DLSS 5将于9月3日发布，需强劲GPU算力"
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "OpenAI的Astra模型即将到来——擅长渗透计算机系统"
-    },
-    {
-      "title": "From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling",
-      "url": "https://arxiv.org/abs/2609.00051",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "从检测到拒绝：电路引导权重缩放提升LLM安全性"
-    },
-    {
-      "title": "CUDA-Harness: Harnessing Agentic CUDA Kernel Generation and Optimization from Natural Language",
-      "url": "https://arxiv.org/abs/2609.00058",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-01",
-      "score": 8,
-      "titleCn": "CUDA‑Harness：利用自然语言实现代理式CUDA内核生成与优化"
-    },
-    {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "url": "https://www.qbitai.com/2026/09/482652.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-01",
-      "score": 8
-    },
-    {
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-01",
-      "score": 8
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-01",
-      "score": 7,
-      "titleCn": "医疗机构现在可将EHR及其他行业数据接入ChatGPT"
-    },
-    {
-      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-      "url": "https://arxiv.org/abs/2609.00002",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-01",
-      "score": 7,
-      "titleCn": "HyperWorld：超图结构状态序列化提升学习型文本世界模型"
-    },
-    {
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-01",
       "score": 7
     }
   ]
