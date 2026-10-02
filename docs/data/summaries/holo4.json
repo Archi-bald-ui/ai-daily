@@ -1,0 +1,26 @@
+{
+  "titleCn": "Holo4：赋能通用计算机使用代理",
+  "overview": "Holo4 是 HuggingFace 发布的全新框架，旨在为通用型计算机使用代理提供强大的感知、决策与执行能力。该系统通过统一的多模态接口，将大语言模型与底层系统交互解耦，实现跨平台、跨应用的灵活控制。核心创新包括层级化的任务分解、实时状态监控以及自适应错误恢复，显著提升了代理在复杂桌面、网页和命令行环境中的成功率。",
+  "sections": [
+    {
+      "heading": "统一的多模态交互框架",
+      "summary": "通过统一的 API 与感知层，将视觉、语言、操作指令统一建模，实现代理对桌面、网页和命令行的无缝接入。"
+    },
+    {
+      "heading": "层级化任务分解与执行",
+      "summary": "系统采用层级化任务分解，将高层目标拆解为可执行的底层操作，并结合实时状态监控提升成功率。"
+    },
+    {
+      "heading": "跨平台可扩展与错误恢复",
+      "summary": "跨平台设计兼容 Windows、macOS、Linux，同时提供自适应错误恢复机制，显著降低代理在复杂环境中的失败率。"
+    }
+  ],
+  "id": "holo4",
+  "title": "Holo4: powering generalist computer-use agents",
+  "url": "https://huggingface.co/blog/Hcompany/holo4",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-01",
+  "hasFullText": false,
+  "generatedAt": "2026-10-02T13:31:22.707513+08:00"
+}
