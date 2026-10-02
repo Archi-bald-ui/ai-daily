@@ -1,0 +1,26 @@
+{
+  "titleCn": "AutoSynthData：为企业代理生成训练数据",
+  "overview": "AutoSynthData 是一个自动化合成训练数据的框架，旨在帮助企业在缺乏标注数据的情况下，快速生成高质量的对话或任务数据，以提升 AI 代理在特定业务场景的表现。核心思路是利用大模型进行可控生成，并通过过滤和后处理确保数据质量和安全。",
+  "sections": [
+    {
+      "heading": "自动化合成流程",
+      "summary": "系统利用大模型根据业务模板和种子输入批量生成对话或任务数据，支持多种类型和规模的自定义。"
+    },
+    {
+      "heading": "质量过滤与安全审查",
+      "summary": "通过多阶段评估、语义一致性检查和隐私合规过滤，去除噪声和敏感信息，确保训练数据的可靠性与合规性。"
+    },
+    {
+      "heading": "企业落地与收益",
+      "summary": "已在金融、客服和运营等业务线部署，显著降低人工标注成本，加速 AI 代理的冷启动与持续迭代。"
+    }
+  ],
+  "id": "autosynthdata",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-01",
+  "hasFullText": false,
+  "generatedAt": "2026-10-02T13:33:35.281964+08:00"
+}
