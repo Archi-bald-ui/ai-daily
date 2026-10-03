@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-02T13:29:07.673073+08:00",
+  "lastUpdated": "2026-10-03T13:10:40.850851+08:00",
   "articles": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-02",
+      "score": 8,
+      "titleCn": "GPT-6 家族模型指南"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-02",
+      "score": 8,
+      "titleCn": "NVIDIA Kumo Tabular 为表格预测树立精度-效率新标杆"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-02",
+      "score": 8,
+      "titleCn": "来源感知验证：为 MCP 代理确保来源正确"
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-02",
+      "score": 8,
+      "titleCn": "Apple 因 AI 代理新风险收紧 macOS「完全磁盘访问」控制"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-02",
+      "score": 8,
+      "titleCn": "Apple 调整全盘访问权限以遏制 AI 代理滥用"
+    },
+    {
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-02",
+      "score": 8
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-02",
+      "score": 7,
+      "titleCn": "Meta 开源代码，助你打造 Muse AI 小工具"
+    },
+    {
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "url": "https://www.qbitai.com/2026/10/500148.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-02",
+      "score": 7
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-02",
+      "score": 7
+    },
     {
       "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
       "url": "https://www.qbitai.com/2026/10/499663.html",
@@ -2713,111 +2791,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-03",
-      "score": 7
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-02",
-      "score": 9,
-      "titleCn": "OpenAI新推理技术引起AI安全专家担忧"
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "2026年8月我们发布的最新AI新闻"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "BenchMIRT：LLM基准测试到底在衡量什么？"
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "OpenAI Astra发布在即，研究人员担忧安全灾难"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "美国政府在训练LLM使用版权材料问题上支持OpenAI"
-    },
-    {
-      "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2609.01658",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "PRO-Step：检索增强生成的步骤级过程奖励优化"
-    },
-    {
-      "title": "How Do Prompt Variations Affect Energy Consumption in On-Device LLMs?",
-      "url": "https://arxiv.org/abs/2609.01798",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-02",
-      "score": 8,
-      "titleCn": "提示变体对设备端LLM能耗的影响"
-    },
-    {
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-02",
-      "score": 8
-    },
-    {
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "url": "https://www.qbitai.com/2026/09/483101.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-02",
-      "score": 8
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-02",
-      "score": 7,
-      "titleCn": "面向政府和企业的主动网络防御"
-    },
-    {
-      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-      "url": "https://arxiv.org/abs/2609.01852",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-02",
-      "score": 7,
-      "titleCn": "记忆信任缺口：持久记忆智能体的能力依赖性故障"
-    },
-    {
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-02",
       "score": 7
     }
   ]
