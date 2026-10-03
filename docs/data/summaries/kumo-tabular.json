@@ -1,0 +1,26 @@
+{
+  "titleCn": "NVIDIA Kumo Tabular 为表格预测树立精度-效率新标杆",
+  "overview": "NVIDIA 推出专为表格数据设计的 Kumo Tabular 模型，通过融合深度学习与自研算子，在保持低延迟推理的同时显著提升预测精度，刷新了传统梯度提升树的性能基准，为工业级数据科学工作流提供更高效的解决方案。",
+  "sections": [
+    {
+      "heading": "全新架构专为表格数据打造",
+      "summary": "融合注意力机制与轻量化网络，在保持模型容量的同时降低参数规模，提升并行计算效率和可扩展性。"
+    },
+    {
+      "heading": "GPU 加速实现低延迟推理",
+      "summary": "借助 CUDA 优化和自定义算子，模型在 NVIDIA GPU 上实现毫秒级推理，兼顾吞吐量和实时性，在大规模特征集上仍保持稳定延迟，满足生产环境需求。"
+    },
+    {
+      "heading": "精度-效率双重突破，刷新基准",
+      "summary": "在多个公开表格数据集上，Kumo Tabular 超越传统 GBDT 与深度学习模型，实现更高准确率的同时保持资源消耗的可控。"
+    }
+  ],
+  "id": "kumo-tabular",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-02",
+  "hasFullText": false,
+  "generatedAt": "2026-10-03T13:13:34.744449+08:00"
+}
