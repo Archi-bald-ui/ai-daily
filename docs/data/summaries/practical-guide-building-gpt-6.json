@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI GPT‑6 系列模型指南",
+  "overview": "本文是 OpenAI 发布的 GPT‑6 系列模型官方指南，概述其全新架构、训练规模与性能提升，详细说明新增的多模态和长上下文能力，并提供模型选型、微调以及安全对齐的实践建议，帮助开发者快速落地。",
+  "sections": [
+    {
+      "heading": "模型架构与性能提升",
+      "summary": "GPT‑6采用全新Transformer变体和高效注意力机制，实现更高的算力利用率，显著降低推理延迟，并在多项基准上取得领先成绩。"
+    },
+    {
+      "heading": "多模态与长上下文支持",
+      "summary": "新增原生图像、音频输入能力并扩展至200k token超长上下文，使模型能够进行跨模态推理和长篇文档分析。"
+    },
+    {
+      "heading": "安全对齐与使用指南",
+      "summary": "指南提供RLHF与红队测试的最佳实践，阐述模型在有害输出过滤、隐私保护以及合规部署方面的技术细节，帮助开发者构建可信赖的AI系统。"
+    }
+  ],
+  "id": "practical-guide-building-gpt-6",
+  "title": "A model guide for the GPT-6 family",
+  "url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-02",
+  "hasFullText": false,
+  "generatedAt": "2026-10-03T13:12:17.246876+08:00"
+}
