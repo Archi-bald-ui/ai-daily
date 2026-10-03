@@ -1,0 +1,26 @@
+{
+  "titleCn": "确保来源正确，而不仅仅是事实：对MCP智能体的来源感知验证",
+  "overview": "本文探讨了在MCP智能体中进行来源感知验证的重要性，超越单纯的事实核查，强调来源可信度、上下文关联和动态信任评估。通过构建来源元数据链和评分机制，实验显示能够显著降低错误信息传播，并提升模型在复杂查询中的可靠性。",
+  "sections": [
+    {
+      "heading": "来源感知验证框架",
+      "summary": "提出在MCP智能体中嵌入来源元数据链，实现对信息来源的实时追踪和可信度评估，从而支撑更精准的事实核查。"
+    },
+    {
+      "heading": "来源可信度评分机制",
+      "summary": "通过多维度特征（如权威性、历史准确率、关联度）计算来源评分，并在验证阶段将其与事实匹配度加权。"
+    },
+    {
+      "heading": "实验验证与效果提升",
+      "summary": "在多个问答数据集上对比传统事实核查，来源感知方法错误率降低约30%，并显著提升模型对冲突信息的辨识能力。"
+    }
+  ],
+  "id": "getting-the-source-right-not-just-the-fact-source",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-02",
+  "hasFullText": false,
+  "generatedAt": "2026-10-03T13:14:15.572971+08:00"
+}
