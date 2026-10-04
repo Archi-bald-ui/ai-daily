@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-03T13:10:40.850851+08:00",
+  "lastUpdated": "2026-10-04T13:44:03.388924+08:00",
   "articles": [
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-10-03",
+      "score": 8,
+      "titleCn": "2026年9月我们公布的最新AI资讯"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-03",
+      "score": 8,
+      "titleCn": "开源AstaBrief：Asta快速报告生成模型"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-03",
+      "score": 8,
+      "titleCn": "OpenAI安全员工离职并发出警告"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-03",
+      "score": 7,
+      "titleCn": "Chatham借助OpenAI扩展资本市场专业能力"
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-03",
+      "score": 7,
+      "titleCn": "苹果限制Mac磁盘访问，因AI代理“大幅”提升风险"
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-03",
+      "score": 7,
+      "titleCn": "OpenAI的Dot代理：企业软件还能帮你订餐"
+    },
+    {
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://www.qbitai.com/2026/10/501368.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-03",
+      "score": 7
+    },
+    {
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-03",
+      "score": 7
+    },
+    {
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-03",
+      "score": 6
+    },
     {
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -2687,111 +2765,6 @@
       "date": "2026-09-04",
       "score": 6,
       "titleCn": "苹果 Ternus 时代开启，Nvidia 押注全栈 AI"
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-03",
-      "score": 10,
-      "titleCn": "英伟达确认将以129亿美元收购Hugging Face"
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-03",
-      "score": 9,
-      "titleCn": "OpenAI的下一代大型AI模型已进入AGI时代"
-    },
-    {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-03",
-      "score": 9,
-      "titleCn": "英伟达将以近130亿美元收购Hugging Face"
-    },
-    {
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "url": "https://www.qbitai.com/2026/09/483898.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-03",
-      "score": 9
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-03",
-      "score": 8,
-      "titleCn": "前线守护者的曙光：10亿美元保护关键服务"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-03",
-      "score": 8,
-      "titleCn": "安全概览：GPT-6 Astra"
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-03",
-      "score": 8,
-      "titleCn": "NeoMME：高效的多模态原生多语言编码器"
-    },
-    {
-      "title": "Margins, Not Windows: Training-Free Per-Step Lossy Speculative Decoding",
-      "url": "https://arxiv.org/abs/2609.02897",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-03",
-      "score": 8,
-      "titleCn": "边际而非窗口：无需训练的逐步有损推测解码"
-    },
-    {
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-      "url": "https://www.qbitai.com/2026/09/483189.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-03",
-      "score": 8
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-03",
-      "score": 7,
-      "titleCn": "MasterControl Seventeen：每一次"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-03",
-      "score": 7,
-      "titleCn": "推测性宏提交加速工具使用代理"
-    },
-    {
-      "title": "陈大年复出，入局大模型",
-      "url": "https://www.qbitai.com/2026/09/483600.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-03",
-      "score": 7
     }
   ]
 }
