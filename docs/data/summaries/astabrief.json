@@ -1,0 +1,26 @@
+{
+  "titleCn": "开源 AstaBrief：Asta 中的快速报告生成模型",
+  "overview": "本文宣布在 HuggingFace 上开源 AstaBrief 模型，旨在为 Asta 平台提供高速、结构化的报告生成能力。该模型采用轻量化 Transformer 架构，推理速度比传统方案提升数倍，并支持自定义模板和批量输出，适合在数据分析、客服和文档自动化等场景快速部署。",
+  "sections": [
+    {
+      "heading": "模型架构与速度",
+      "summary": "采用轻量化 Transformer，专为低延迟推理设计，报告生成速度比传统方法提升数倍，支持批量并行。"
+    },
+    {
+      "heading": "开源与易用性",
+      "summary": "已在 HuggingFace 发布，提供预训练权重和简洁 API，几行代码即可完成报告生成与自定义模板集成。"
+    },
+    {
+      "heading": "应用场景与性能",
+      "summary": "适用于数据分析、客服机器人、文档自动化等场景，评测显示生成质量与速度均领先同类开源模型。"
+    }
+  ],
+  "id": "astabrief",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "url": "https://huggingface.co/blog/allenai/astabrief",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-03",
+  "hasFullText": false,
+  "generatedAt": "2026-10-04T13:46:07.151561+08:00"
+}
