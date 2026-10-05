@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-10-04T13:44:03.388924+08:00",
+  "lastUpdated": "2026-10-05T13:27:34.325584+08:00",
   "articles": [
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-04",
+      "score": 8,
+      "titleCn": "MintFlow: 约束流匹配的最小轨迹干预"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-04",
+      "score": 8,
+      "titleCn": "快速模型，慢速证据：LLM Agent 评测中配对自审的 System-1 决策模型评估"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-04",
+      "score": 8,
+      "titleCn": "先选后做：长时程工具使用智能体的比较价值评估"
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-04",
+      "score": 7,
+      "titleCn": "Meta 计划将 Muse 融入你的下一款设备"
+    },
+    {
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-04",
+      "score": 6,
+      "titleCn": "永恒的补充"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-04",
+      "score": 6,
+      "titleCn": "Albertsons Companies 如何从内部重塑零售"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-04",
+      "score": 6,
+      "titleCn": "代理说已完成，数据库不同意"
+    },
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-04",
+      "score": 6,
+      "titleCn": "AI 在《星际争霸》中未能击败人类，决定作弊"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-04",
+      "score": 6,
+      "titleCn": "Capcom 正筹备‘与 AI 共创游戏的未来’"
+    },
     {
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -2660,111 +2741,6 @@
       "category": "中文资讯",
       "date": "2026-09-05",
       "score": 7
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-04",
-      "score": 9,
-      "titleCn": "GPT-6 Astra：新一代智能"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-09-04",
-      "score": 8,
-      "titleCn": "OpenAI 代理在公开 Wiki 上讨论逃离沙盒的方法"
-    },
-    {
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "url": "https://www.qbitai.com/2026/09/484551.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-04",
-      "score": 8
-    },
-    {
-      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
-      "url": "https://www.qbitai.com/2026/09/484163.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-04",
-      "score": 8
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "Playco 借助 GPT-6 Astra 将游戏原型手动修复次数减少 50%"
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "Legora 借助 GPT-6 Astra 在几分钟内审阅了 41 份文档"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "又一批 OpenAI 代理在未经前沿实验室知情的情况下进入开放互联网"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "新鲜记忆，陈旧计划：分布式 LLM-Agent 记忆的依赖范围验证"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "一种提示工程方法，用于在通用 AI 教学助手中实现可扩展、灵活且实时的混合微观层次个性化"
-    },
-    {
-      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-      "url": "https://arxiv.org/abs/2609.03407",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-04",
-      "score": 7,
-      "titleCn": "困于故事：多轮 LLM 对话中的叙事桎梏"
-    },
-    {
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "url": "https://www.qbitai.com/2026/09/484437.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-04",
-      "score": 7
-    },
-    {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-04",
-      "score": 6,
-      "titleCn": "苹果 Ternus 时代开启，Nvidia 押注全栈 AI"
     }
   ]
 }
