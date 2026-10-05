@@ -1,0 +1,26 @@
+{
+  "titleCn": "Agent 说已完成，数据库却不认可",
+  "overview": "本文围绕 AI Agent 与数据库交互时的状态不一致问题展开，探讨了 Agent 报告‘已完成’但数据库未同步的常见原因，如事务未提交、异步写入延迟、错误捕获不足等，并给出了使用事务包装、写入后二次查询、幂等设计和日志追踪等实战技巧，帮助开发者构建更可靠的数据交互流程。",
+  "sections": [
+    {
+      "heading": "状态不一致的根本原因",
+      "summary": "事务未提交、异步写入、错误捕获缺失是 Agent 与数据库状态不同的常见根因，导致报告乐观却实际未生效。"
+    },
+    {
+      "heading": "保证数据一致性的实践方法",
+      "summary": "使用事务包装、写入后二次查询、幂等操作和乐观锁等手段，可在 Agent 与数据库交互时确保状态同步。"
+    },
+    {
+      "heading": "快速定位不一致的调试技巧",
+      "summary": "详细日志、返回码检查、模拟异常以及使用追踪系统（如 OpenTelemetry）能帮助快速发现并修复不一致问题。"
+    }
+  ],
+  "id": "thinkingbox",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-04",
+  "hasFullText": false,
+  "generatedAt": "2026-10-05T13:36:11.370393+08:00"
+}
