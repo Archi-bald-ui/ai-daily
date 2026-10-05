@@ -1,0 +1,26 @@
+{
+  "titleCn": "永恒的互补",
+  "overview": "OpenAI 发布博文《永恒的互补》，阐述人工智能作为人类创造与决策的长期伙伴，如何在不同场景中提供增强、灵感和协作功能，而非替代人类角色。文章探讨协同进化、创意互补及面向未来的共生治理框架，为实现人机共赢提供思考路径。",
+  "sections": [
+    {
+      "heading": "AI与人类的协同进化",
+      "summary": "探讨AI如何在长期发展中与人类协同进化，形成互补而非替代的关系，强调共同成长的价值。"
+    },
+    {
+      "heading": "增强创造力的互补机制",
+      "summary": "分析AI在创意工作中的互补角色，如何通过提供灵感、素材和迭代反馈，提升人类创意的深度和广度。"
+    },
+    {
+      "heading": "面向未来的共生路径",
+      "summary": "提出构建可持续人类‑AI共生生态的路径，包括技术标准、伦理框架以及社会政策的协同治理。"
+    }
+  ],
+  "id": "the-eternal-complement",
+  "title": "The eternal complement",
+  "url": "https://openai.com/index/the-eternal-complement",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-04",
+  "hasFullText": false,
+  "generatedAt": "2026-10-05T13:34:43.977300+08:00"
+}
