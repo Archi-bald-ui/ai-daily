@@ -1,0 +1,26 @@
+{
+  "titleCn": "为人与AI的交互方式构建广告",
+  "overview": "本文探讨了在AI时代如何重新定义广告体验。介绍了如何根据用户与AI的交互习惯设计广告策略，包括对话式广告、情境感知推荐等新形式，并讨论了技术实现与用户体验平衡的关键要素。",
+  "sections": [
+    {
+      "heading": "AI驱动的广告交互新模式",
+      "summary": "深入探讨对话式广告、语音交互等新型广告形式如何无缝融入AI使用场景，显著提升用户参与度与广告效果。"
+    },
+    {
+      "heading": "以用户意图为中心的广告设计",
+      "summary": "分析如何利用AI强大的语义理解能力深度洞察用户意图，实现更精准、个性化的广告推荐与智能展示策略。"
+    },
+    {
+      "heading": "技术实现与用户体验平衡",
+      "summary": "重点讨论在AI广告系统中如何保持透明度、加强隐私保护，同时实现广告效果最大化的技术实现路径与平衡策略。"
+    }
+  ],
+  "id": "new-chatgpt-ads-format-and-measurement",
+  "title": "Building advertising for the way people use AI",
+  "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-05",
+  "hasFullText": false,
+  "generatedAt": "2026-10-06T14:27:39.568888+08:00"
+}
