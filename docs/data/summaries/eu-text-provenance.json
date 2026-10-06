@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们对欧盟文本来源规则的方案",
+  "overview": "OpenAI发布针对欧盟即将实施的人工智能文本来源合规要求的应对方案，阐述遵守欧盟《AI法案》和《通用数据保护条例》的技术路径、文档披露机制以及审计流程，旨在提升模型训练数据的透明度和可追溯性。",
+  "sections": [
+    {
+      "heading": "欧盟文本来源合规要求",
+      "summary": "说明欧盟《AI法案》与GDPR对训练数据来源、版权和可追溯性的具体要求，为后续技术实现提供监管依据。"
+    },
+    {
+      "heading": "数据溯源技术方案",
+      "summary": "采用唯一标识符、元数据标记和水印技术，实现训练语料的全链路溯源，确保每段文本的来源可查询、不可篡改。"
+    },
+    {
+      "heading": "公开文档与审计机制",
+      "summary": "发布公开的来源报告和合规指南，配合第三方审计验证，确保外部利益相关方能够审查并信任模型的数据来源。"
+    }
+  ],
+  "id": "eu-text-provenance",
+  "title": "Our approach to EU text provenance rules",
+  "url": "https://openai.com/index/eu-text-provenance",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-05",
+  "hasFullText": false,
+  "generatedAt": "2026-10-06T14:25:31.153320+08:00"
+}
