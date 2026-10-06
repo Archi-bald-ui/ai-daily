@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎强化学习环境加入Hub",
+  "overview": "HuggingFace宣布在Hub中新增强化学习（RL）环境支持，用户可以在平台上托管、搜索、复用各类RL环境卡片，获取统一元数据和文档，并直接对接主流RL框架，实现快速实验与模型共享。",
+  "sections": [
+    {
+      "heading": "统一环境卡片与元数据",
+      "summary": "Hub为每个RL环境提供类似模型卡片的环境卡片，包含描述、依赖、接口等信息，便于快速了解和复用。"
+    },
+    {
+      "heading": "与主流RL框架无缝对接",
+      "summary": "Hub环境可直接被StableBaselines3、RLlib、PyTorch等常用库加载，省去手动配置步骤，加速实验迭代。"
+    },
+    {
+      "heading": "社区共享与可复现性",
+      "summary": "研究者和开发者可上传自己的RL环境，标注版本与依赖，让实验更易复现并促进社区协作。"
+    }
+  ],
+  "id": "rl-environments",
+  "title": "Welcome RL Environments to the hub",
+  "url": "https://huggingface.co/blog/rl-environments",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-05",
+  "hasFullText": false,
+  "generatedAt": "2026-10-06T14:26:28.350202+08:00"
+}
