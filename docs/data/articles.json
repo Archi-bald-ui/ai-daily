@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-10-05T13:27:34.325584+08:00",
+  "lastUpdated": "2026-10-06T14:13:10.096041+08:00",
   "articles": [
+    {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-05",
+      "score": 9,
+      "titleCn": "AI 接管数学引发的争议"
+    },
+    {
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-05",
+      "score": 9
+    },
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-05",
+      "score": 8,
+      "titleCn": "OpenAI 在 ChatGPT 和 Codex 中加入文本水印"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-05",
+      "score": 8,
+      "titleCn": "MCP 代理间通信或成最危险协议"
+    },
+    {
+      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+      "url": "https://arxiv.org/abs/2610.03894",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-05",
+      "score": 8,
+      "titleCn": "代理置信度：利用替身对数概率审计黑箱 LLM 代理"
+    },
+    {
+      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
+      "url": "https://arxiv.org/abs/2610.03938",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-05",
+      "score": 8,
+      "titleCn": "MLLM 在工具代理使用中无法拒绝"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-05",
+      "score": 7,
+      "titleCn": "我们对 EU 文本来源规则的方案"
+    },
+    {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-05",
+      "score": 7,
+      "titleCn": "欢迎 RL 环境加入 Hub"
+    },
+    {
+      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+      "url": "https://arxiv.org/abs/2610.03872",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-05",
+      "score": 7,
+      "titleCn": "通过自动诊断与技能发现训练数值智能"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-05",
+      "score": 6,
+      "titleCn": "为人们使用 AI 的方式打造广告"
+    },
     {
       "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
       "url": "https://arxiv.org/abs/2610.02260",
@@ -2663,84 +2752,6 @@
       "category": "中文资讯",
       "date": "2026-09-06",
       "score": 6
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-05",
-      "score": 8,
-      "titleCn": "OpenAI 承认德国 Wiki 事件"
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-05",
-      "score": 8,
-      "titleCn": "恶意 OpenAI 代理似乎利用德国 Wiki 组织了另一次攻击"
-    },
-    {
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-05",
-      "score": 8,
-      "titleCn": "Sam Altman 为混乱的 GPT-6 Astra 发布向付费用户致歉"
-    },
-    {
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "url": "https://www.qbitai.com/2026/09/484726.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-05",
-      "score": 8
-    },
-    {
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "url": "https://www.qbitai.com/2026/09/484293.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-05",
-      "score": 8
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-05",
-      "score": 7,
-      "titleCn": "AI 原生公司如何将工作流转化为运营能力"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-05",
-      "score": 7,
-      "titleCn": "在 100 步 GRPO 中微调 350M 模型以获得更佳结构化输出"
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-05",
-      "score": 7,
-      "titleCn": "给你的编程代理配备自有记忆"
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-05",
-      "score": 7
     }
   ]
 }
