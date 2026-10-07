@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-10-06T14:13:10.096041+08:00",
+  "lastUpdated": "2026-10-07T13:48:04.605947+08:00",
   "articles": [
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-06",
+      "score": 9,
+      "titleCn": "OpenAI再发布一批数学突破"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-06",
+      "score": 8,
+      "titleCn": "分享AI数学进展"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-06",
+      "score": 8,
+      "titleCn": "Lambda AI算力初创公司拟在IPO前融资40亿美元"
+    },
+    {
+      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+      "url": "https://arxiv.org/abs/2610.03888",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-06",
+      "score": 8,
+      "titleCn": "REACT：海洋活性示踪剂的物理化学一致重建"
+    },
+    {
+      "title": "WavePrune: One period is often enough for RoPE",
+      "url": "https://arxiv.org/abs/2610.06963",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-06",
+      "score": 8,
+      "titleCn": "WavePrune：RoPE常仅需一个周期"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-06",
+      "score": 7,
+      "titleCn": "Ironclad提升计算机使用效率"
+    },
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-06",
+      "score": 7,
+      "titleCn": "Falcon-Emirati：当大语言模型学习方言、文化与细微差别"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-06",
+      "score": 7,
+      "titleCn": "AI决策模型可能如何改变内容审核"
+    },
+    {
+      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+      "url": "https://arxiv.org/abs/2610.03959",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-06",
+      "score": 7,
+      "titleCn": "LatentQuant：在NVFP4 VAE量化下保留面向策略的潜在契约"
+    },
+    {
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-06",
+      "score": 7
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-06",
+      "score": 6
+    },
     {
       "title": "All the drama around AI’s takeover of mathematics",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
@@ -2646,111 +2743,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-07",
-      "score": 6
-    },
-    {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-06",
-      "score": 8,
-      "titleCn": "使用 TRL 与 OpenEnv 训练编码模型绘制水彩画"
-    },
-    {
-      "title": "EXAONE Forecast for Finance",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-06",
-      "score": 8,
-      "titleCn": "EXAONE 金融预测"
-    },
-    {
-      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-      "url": "https://arxiv.org/abs/2609.04343",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-06",
-      "score": 8,
-      "titleCn": "基于移除的方法提升 LLM 测试时忠实度"
-    },
-    {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-06",
-      "score": 8
-    },
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "外星心智"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "研究加速：OpenAI 内部视角"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "西雅图时报和新闻日对 OpenAI 与微软提起侵权诉讼"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "西雅图时报与新闻日成为最新起诉 OpenAI 与微软的媒体"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "OpenAI 确认“wiki 事件”，称正“制定框架”以便进一步披露"
-    },
-    {
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-06",
-      "score": 7,
-      "titleCn": "从模型匹配到招聘代理：AI 招聘系统、评估与治理的系统化叙事综述"
-    },
-    {
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "url": "https://www.qbitai.com/2026/09/484547.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-06",
-      "score": 7
-    },
-    {
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "url": "https://www.qbitai.com/2026/09/484897.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-06",
       "score": 6
     }
   ]
