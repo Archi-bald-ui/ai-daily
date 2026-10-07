@@ -1,0 +1,26 @@
+{
+  "titleCn": "猎鹰-阿联酋：语言模型学习方言、文化与细微差别",
+  "overview": "本文介绍了HuggingFace推出的Falcon-Emirati模型，这是一款针对阿联酋阿拉伯语方言及其文化背景进行微调的大语言模型。通过大量本土化语料和跨文化知识注入，模型在方言识别、文化隐喻理解和本地化生成方面表现突出，为中东地区的智能应用提供更自然的交互体验。",
+  "sections": [
+    {
+      "heading": "方言与本土语料构建",
+      "summary": "通过收集阿联酋本地口语、社交媒体及新闻等语料，构建高质量方言数据集，为模型奠定语言基础。"
+    },
+    {
+      "heading": "文化感知微调技术",
+      "summary": "在标准语言模型基础上引入文化标签与隐喻库，使用强化学习与人类反馈微调，使模型理解本土价值观与表达方式。"
+    },
+    {
+      "heading": "应用场景与未来展望",
+      "summary": "该模型可赋能阿拉伯语客服、内容审核及本地化创作，提升交互自然度，为中东市场AI落地提供新路径。"
+    }
+  ],
+  "id": "falcon-emirati",
+  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-06",
+  "hasFullText": false,
+  "generatedAt": "2026-10-07T13:54:07.824293+08:00"
+}
