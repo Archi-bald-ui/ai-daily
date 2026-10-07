@@ -1,0 +1,26 @@
+{
+  "titleCn": "分享AI在数学领域的进展",
+  "overview": "本文概述OpenAI在数学研究和应用方面的最新进展，包括更强大的数学推理模型、在标准数学基准上的突破、与数学家合作的案例以及开源的工具与数据集，旨在展示AI在解决复杂数学问题上的潜力与未来方向。",
+  "sections": [
+    {
+      "heading": "更强数学推理模型",
+      "summary": "介绍最新模型在符号推理、定理证明等任务上的改进，展示其处理多步推理的能力。通过更大规模预训练和强化学习，实现更高的推理精度与鲁棒性。"
+    },
+    {
+      "heading": "数学基准成绩突破",
+      "summary": "在新发布的MATH数据集上，模型准确率显著提升，尤其在高等代数与几何问题上取得领先成绩，表明AI具备处理复杂数学问题的潜力。"
+    },
+    {
+      "heading": "开源工具与社区合作",
+      "summary": "公开了用于形式化验证和自动化推理的工具包，并邀请数学家共同评测和改进，以促进AI在学术研究中的实际应用。"
+    }
+  ],
+  "id": "sharing-ai-progress-in-mathematics",
+  "title": "Sharing AI progress in mathematics",
+  "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-06",
+  "hasFullText": false,
+  "generatedAt": "2026-10-07T13:49:36.263120+08:00"
+}
