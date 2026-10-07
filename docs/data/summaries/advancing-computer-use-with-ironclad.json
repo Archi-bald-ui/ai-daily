@@ -1,0 +1,26 @@
+{
+  "titleCn": "借助 Ironclad 推进计算机使用",
+  "overview": "OpenAI 与 Ironclad 合作，推出基于大语言模型的计算机使用新方案，旨在把 AI 能力嵌入合同全生命周期，实现自动化文档分析、风险识别和决策支持，提升法务与运营团队效率并降低错误率。",
+  "sections": [
+    {
+      "heading": "合作背景与目标",
+      "summary": "OpenAI 与 Ironclad 合作，旨在将大模型能力嵌入合同全生命周期，帮助企业实现文档处理的自动化与智能化。"
+    },
+    {
+      "heading": "核心功能与技术创新",
+      "summary": "通过自然语言理解，模型可自动抽取关键条款、标注风险并生成摘要，支持实时问答与批量审查，提高合同审查的准确性和效率。"
+    },
+    {
+      "heading": "实际价值与行业影响",
+      "summary": "企业部署后，合同处理时间大幅缩短，风险预警更及时，法务与采购团队的协作更顺畅，推动 AI 在企业合规与运营中的规模化落地。"
+    }
+  ],
+  "id": "advancing-computer-use-with-ironclad",
+  "title": "Advancing computer use with Ironclad",
+  "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-06",
+  "hasFullText": false,
+  "generatedAt": "2026-10-07T13:53:29.976237+08:00"
+}
