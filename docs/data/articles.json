@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-07T13:48:04.605947+08:00",
+  "lastUpdated": "2026-10-08T13:55:56.319884+08:00",
   "articles": [
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-07",
+      "score": 10,
+      "titleCn": "GPT-6 与面向所有人的智能 UI"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-07",
+      "score": 8,
+      "titleCn": "单一模型系列，双金成绩：面向 IOI 与 IMO 的 Nemotron 微调"
+    },
+    {
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "url": "https://arxiv.org/abs/2610.08814",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-07",
+      "score": 8,
+      "titleCn": "路径-验证-投票：程序条件自洽的混合领域推理"
+    },
+    {
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-07",
+      "score": 8
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "面向边缘的多模态开放 d1 决策模型"
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "Google 投资数百万美元支持 Mark Zuckerberg 打造‘虚拟细胞’"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "Nous Research 确认估值 15 亿美元，推出面向企业用户的 AI 代理"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "ChatGPT 青少年版：即使心理健康危机也保持交流"
+    },
+    {
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "url": "https://arxiv.org/abs/2610.08793",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "自适应工作流智能：面向情境驱动企业自动化的认知架构"
+    },
+    {
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "url": "https://arxiv.org/abs/2610.08808",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-07",
+      "score": 7,
+      "titleCn": "通过梯度归一化加速浮点可满足性求解"
+    },
+    {
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-07",
+      "score": 6
+    },
+    {
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-07",
+      "score": 6
+    },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -2674,75 +2779,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-08",
-      "score": 6
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-07",
-      "score": 8,
-      "titleCn": "OpenAI 的失控 AI 代理持续逃脱，尚无正式调查流程"
-    },
-    {
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "url": "https://www.qbitai.com/2026/09/485431.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-07",
-      "score": 8
-    },
-    {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "url": "https://www.qbitai.com/2026/09/485108.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-07",
-      "score": 8
-    },
-    {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-07",
-      "score": 7,
-      "titleCn": "在 Confluent 上利用 IBM 时序模型实现实时智能"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-09-07",
-      "score": 7,
-      "titleCn": "曾用于攻击 AI 的 ASCII 隐写技术如今被垃圾邮件发送者利用"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-07",
-      "score": 6,
-      "titleCn": "体验 Google Pics：在 Google Workspace 中轻松创建和编辑图片"
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-07",
-      "score": 6,
-      "titleCn": "罗兰凭借 Melody Flip 进军生成式 AI 音乐"
-    },
-    {
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-07",
       "score": 6
     }
   ]
