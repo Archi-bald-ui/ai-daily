@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT‑6 与面向所有人的智能 UI",
+  "overview": "本文介绍了 OpenAI 最新一代大模型 GPT‑6 的核心升级，包括更强的推理、多模态与效率，并重点阐述了“Intelligent UI”理念——通过自然语言描述即可生成可交互的用户界面，让非技术人员也能快速搭建应用。展示了在教育、创意和商业场景中的潜在用例以及对新生态的展望。",
+  "sections": [
+    {
+      "heading": "GPT‑6 模型升级亮点",
+      "summary": "相比前代，GPT‑6 在推理深度、上下文窗口和多模态理解上实现显著突破，并进一步压缩算力需求，提升响应速度。"
+    },
+    {
+      "heading": "Intelligent UI 核心理念",
+      "summary": "通过自然语言描述即可生成完整 UI，降低界面设计门槛，让非技术用户也能快速构建交互式应用，并支持实时预览与迭代。"
+    },
+    {
+      "heading": "应用场景与生态展望",
+      "summary": "在教育、创意和商业等场景展示 GPT‑6+Intelligent UI 的潜力，帮助开发者快速原型，提升内容创作与业务效率，构建全新 AI 驱动生态。"
+    }
+  ],
+  "id": "gpt-6-for-everyone",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-07",
+  "hasFullText": false,
+  "generatedAt": "2026-10-08T13:57:54.252795+08:00"
+}
