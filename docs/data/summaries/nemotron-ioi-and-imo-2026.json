@@ -1,0 +1,26 @@
+{
+  "titleCn": "一个模型家族，两枚金牌级成绩：针对IOI和IMO的Nemotron微调",
+  "overview": "本文介绍在单一模型家族Nemotron基础上，通过针对性微调，使其在国际信息学奥林匹克（IOI）和国际数学奥林匹克（IMO）中均取得金牌水平的成绩。探讨了模型适配、数据构造及评估方法，展示了跨学科竞赛任务的成功迁移。",
+  "sections": [
+    {
+      "heading": "模型适配与任务对齐",
+      "summary": "通过分析IOI与IMO的题目特征，选择适合的预训练模型并进行任务对齐，实现跨学科的通用能力。"
+    },
+    {
+      "heading": "微调策略与数据构造",
+      "summary": "利用高质量的赛题解析和代码实现构建微调数据集，采用多任务学习和逐步升温的策略提升模型性能。"
+    },
+    {
+      "heading": "金牌水平的结果与启示",
+      "summary": "在IOI和IMO的官方评测中取得金牌级成绩，验证了模型在复杂推理和代码生成方面的潜力，并指出进一步优化的方向。"
+    }
+  ],
+  "id": "nemotron-ioi-and-imo-2026",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-07",
+  "hasFullText": false,
+  "generatedAt": "2026-10-08T13:58:30.598139+08:00"
+}
