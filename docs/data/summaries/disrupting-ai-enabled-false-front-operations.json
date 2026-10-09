@@ -1,0 +1,26 @@
+{
+  "titleCn": "颠覆AI驱动的“虚假前台”行动",
+  "overview": "本文探讨了OpenAI在防止AI被用于制造虚假前台（即利用AI生成伪装身份或组织进行信息操控）方面的技术进展与治理策略，介绍了最新的检测模型、跨平台协作机制以及对恶意使用的防御措施。",
+  "sections": [
+    {
+      "heading": "AI虚假身份检测技术",
+      "summary": "通过多模态特征比对和行为分析，构建可识别AI生成伪造身份的高精度模型。"
+    },
+    {
+      "heading": "跨平台协同治理",
+      "summary": "与社交媒体、新闻机构和监管机构合作，共享AI滥用情报并统一响应流程，以遏制虚假前台扩散。"
+    },
+    {
+      "heading": "防御策略与未来布局",
+      "summary": "强化模型鲁棒性，引入水印与溯源技术，并制定伦理框架防止技术被恶意利用。"
+    }
+  ],
+  "id": "disrupting-ai-enabled-false-front-operations",
+  "title": "Disrupting AI-enabled “false front” operations",
+  "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-08",
+  "hasFullText": false,
+  "generatedAt": "2026-10-09T14:16:53.091046+08:00"
+}
