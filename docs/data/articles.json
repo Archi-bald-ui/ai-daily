@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-08T13:55:56.319884+08:00",
+  "lastUpdated": "2026-10-09T14:01:08.933656+08:00",
   "articles": [
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-08",
+      "score": 8,
+      "titleCn": "Google推出一站式Gemini智能体，助您完成工作任务"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-08",
+      "score": 8,
+      "titleCn": "Google为企业推出代理式AI，首站Gemini"
+    },
+    {
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-08",
+      "score": 8,
+      "titleCn": "代理控制的遗忘机制：为工具使用智能体提供可逆上下文管理"
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-08",
+      "score": 8,
+      "titleCn": "代理式AI的验证与自我提升：基础与局限"
+    },
+    {
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-08",
+      "score": 8,
+      "titleCn": "唯一可变表面：合规限制下LLM智能体在信贷流程中的自我进化，配以可测量准入门"
+    },
+    {
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "url": "https://www.qbitai.com/2026/10/502096.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-08",
+      "score": 8
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-08",
+      "score": 7,
+      "titleCn": "推出Falcon ASR"
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-08",
+      "score": 7,
+      "titleCn": "Anthropic为开源项目提供免费AI安全扫描"
+    },
+    {
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "url": "https://www.qbitai.com/2026/10/502125.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-08",
+      "score": 7
+    },
+    {
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "url": "https://www.qbitai.com/2026/10/502106.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-08",
+      "score": 7
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-08",
+      "score": 6,
+      "titleCn": "LegalOn在保持开发速度的同时将Codex成本减半"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-08",
+      "score": 6,
+      "titleCn": "扰乱AI驱动的‘虚假前线’行动"
+    },
     {
       "title": "GPT-6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone",
@@ -2675,111 +2780,6 @@
       "category": "中文资讯",
       "date": "2026-09-09",
       "score": 7
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-08",
-      "score": 9,
-      "titleCn": "论纳维-斯托克斯千年大奖问题"
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-08",
-      "score": 9,
-      "titleCn": "OpenAI传奇数学里程碑引发热议"
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-08",
-      "score": 9,
-      "titleCn": "Mistral融资30亿欧元，主权AI成大产业"
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "GPT-5.6 Sol助力量子计算实验"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "ChatGPT Images 2.5正式发布"
-    },
-    {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "Meta押注AI代理Muse，力图在AI竞赛中追赶"
-    },
-    {
-      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-      "url": "https://arxiv.org/abs/2609.05439",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "CriticGen：生成感知评估即可操作反馈"
-    },
-    {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2609.05441",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "何时记忆有帮助？工具使用LLM代理的长期记忆成本感知评估"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2609.05446",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-08",
-      "score": 8,
-      "titleCn": "AutoFyn技术报告：非参数专家迭代助力长时程代理"
-    },
-    {
-      "title": "王云鹤创业后交出首个模型",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-08",
-      "score": 7
-    },
-    {
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-08",
-      "score": 6
-    },
-    {
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-08",
-      "score": 6
     }
   ]
 }
