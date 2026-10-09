@@ -1,0 +1,26 @@
+{
+  "titleCn": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+  "overview": "LegalOn 通过优化 Codex 调用策略和提示工程，实现调用成本下降约 50%，同时保持原有代码生成速度。文章介绍了具体的技术手段、成本效益以及对类似 AI 应用的参考价值。",
+  "sections": [
+    {
+      "heading": "成本削减的技术手段",
+      "summary": "通过缓存请求、批量调用和提示压缩等方法，显著降低 Codex API 消耗。"
+    },
+    {
+      "heading": "保持开发效率的关键",
+      "summary": "优化提示结构并使用快速模型切换，确保代码生成延迟不增，满足业务迭代需求，并实时监控响应时间，动态调节资源分配。"
+    },
+    {
+      "heading": "对行业的启示",
+      "summary": "案例表明，通过精细化 API 使用与模型调度，企业可在 AI 代码生成上实现成本与效率双赢的可行性。"
+    }
+  ],
+  "id": "legalon-halves-codex-costs",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "url": "https://openai.com/index/legalon-halves-codex-costs",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-08",
+  "hasFullText": false,
+  "generatedAt": "2026-10-09T14:16:27.915240+08:00"
+}
