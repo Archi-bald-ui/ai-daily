@@ -1,0 +1,26 @@
+{
+  "titleCn": "Falcon ASR 正式发布",
+  "overview": "HuggingFace 推出全新开源自动语音识别模型 Falcon ASR，基于 Transformer 架构，支持多语言实时转录。该模型在保持高识别准确率的同时，大幅提升推理速度，兼容 Transformers 库，提供简洁 API，帮助开发者快速集成语音识别功能。",
+  "sections": [
+    {
+      "heading": "模型架构与技术创新",
+      "summary": "Falcon ASR 采用基于 Transformer 的编码器-解码器结构，引入轻量化注意力机制和量化压缩，实现高效推理与低内存占用。"
+    },
+    {
+      "heading": "多语言与实时转录能力",
+      "summary": "模型支持数十种语言的自动转录，并在流式推理模式下实现低延迟实时输出，适合语音助手、字幕生成等场景。"
+    },
+    {
+      "heading": "便捷部署与社区支持",
+      "summary": "通过 Transformers 一行代码加载模型，支持 ONNX 与 TensorFlow Lite 导出，配套文档帮助快速部署。"
+    }
+  ],
+  "id": "falcon-asr",
+  "title": "Introducing Falcon ASR",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-08",
+  "hasFullText": false,
+  "generatedAt": "2026-10-09T14:15:42.899951+08:00"
+}
