@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPU集群的高效调度",
+  "overview": "本文聚焦于大规模GPU集群的调度难题，探讨如何通过优先级调度、抢占式资源分配和动态作业装箱等技术提升资源利用率、缩短作业等待时间，并兼顾公平性与吞吐量。案例展示了在实际训练任务中引入调度优化后，集群整体效率显著提升的路径。",
+  "sections": [
+    {
+      "heading": "调度挑战与需求",
+      "summary": "大规模多租户GPU集群面临资源碎片、作业抢占和公平性等挑战，需要兼顾利用率与响应速度。"
+    },
+    {
+      "heading": "核心调度策略",
+      "summary": "提出基于优先级与抢占的混合调度、作业装箱和回填机制，实现资源高效复用与作业快速启动，并兼顾公平性。"
+    },
+    {
+      "heading": "实现与效果",
+      "summary": "集成Kubernetes插件与主流训练框架，实验显示调度延迟下降30%，GPU利用率提升至90%以上。"
+    }
+  ],
+  "id": "impactful-scheduling",
+  "title": "Impactful scheduling for GPU clusters",
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-09",
+  "hasFullText": false,
+  "generatedAt": "2026-10-10T13:45:29.030133+08:00"
+}
