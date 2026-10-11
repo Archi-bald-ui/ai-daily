@@ -1,0 +1,26 @@
+{
+  "titleCn": "模型根本不存在，所以你自己动手做了一个",
+  "overview": "这篇文章讲述了在面对特定任务或语言没有现成模型时，如何利用Hugging Face平台自行构建、训练并发布自定义模型。内容包括模型架构选择、数据准备、训练技巧以及模型共享的最佳实践，帮助读者从零开始实现自己的AI模型。",
+  "sections": [
+    {
+      "heading": "为何自行构建模型",
+      "summary": "当现有模型无法满足特定任务或语言需求时，自定义模型成为唯一出路，文章阐述这一动因。"
+    },
+    {
+      "heading": "模型架构与数据准备",
+      "summary": "介绍如何在Hugging Face生态中挑选合适的预训练框架，构建Tokenizer并准备高质量训练数据。"
+    },
+    {
+      "heading": "训练、评估与社区共享",
+      "summary": "分享分布式训练技巧、超参数调试经验，以及如何编写模型卡片并上传至Hub供他人复用。"
+    }
+  ],
+  "id": "building-with-ml-intern",
+  "title": "The model that didn't exist, so you made it yourself",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-10",
+  "hasFullText": false,
+  "generatedAt": "2026-10-11T13:42:08.889357+08:00"
+}
