@@ -1,0 +1,26 @@
+{
+  "titleCn": "Sophos通过OpenAI Daybreak将威胁调查时间缩短96%",
+  "overview": "这篇报道介绍安全公司Sophos如何借助OpenAI的Daybreak平台，大幅提升威胁调查效率。通过自动化分析、关联取证与响应，Sophos将调查时间缩短至原来的96%以下，显著降低了人工负担，并加速了安全运营中心（SOC）的响应速度。",
+  "sections": [
+    {
+      "heading": "AI驱动的威胁分析",
+      "summary": "Daybreak使用大语言模型自动解析日志、恶意代码和行为数据，实现秒级分类与关联，大幅降低人工审查时间。"
+    },
+    {
+      "heading": "自动化工作流与快速响应",
+      "summary": "通过预设剧本和自动化修复建议，Sophos SOC能够一键生成处置方案，响应速度提升至分钟级别。"
+    },
+    {
+      "heading": "运营效益与行业影响",
+      "summary": "缩短96%调查时间意味着每年可节省大量人力成本，同时提升整体安全态势，对同类安全厂商具有示范效应。"
+    }
+  ],
+  "id": "sophos",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "url": "https://openai.com/index/sophos",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-10",
+  "hasFullText": false,
+  "generatedAt": "2026-10-11T13:38:00.511116+08:00"
+}
