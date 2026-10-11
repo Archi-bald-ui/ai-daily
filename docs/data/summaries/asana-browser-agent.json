@@ -1,0 +1,26 @@
+{
+  "titleCn": "Asana 在浏览器测试中使用 GPT-6.1 Sol 将模型成本削减 76 倍",
+  "overview": "Asana 与 OpenAI 合作，在浏览器环境中部署 GPT-6.1 Sol，通过模型压缩与本地推理实现成本下降约 76 倍。测试显示在保持响应质量的前提下，延迟显著降低，且数据无需离开用户设备，提升隐私安全性。此次突破为下一代轻量化 AI 应用提供了可行路径。",
+  "sections": [
+    {
+      "heading": "浏览器端模型部署实现成本骤降",
+      "summary": "通过在浏览器内直接运行 GPT-6.1 Sol，结合模型压缩和本地推理，显著降低了云端计算费用，实现了约 76 倍的成本下降。"
+    },
+    {
+      "heading": "保持响应质量并降低延迟",
+      "summary": "在浏览器环境下，模型响应质量与云端相当，但首字节时间大幅缩短，提升交互流畅度，满足实时协作需求。"
+    },
+    {
+      "heading": "提升隐私安全与轻量化应用前景",
+      "summary": "模型全程在用户设备上运行，数据不离开本地，减少泄露风险，同时为轻量级 AI 浏览器插件和离线工具奠定基础。"
+    }
+  ],
+  "id": "asana-browser-agent",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "url": "https://openai.com/index/asana-browser-agent",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-10",
+  "hasFullText": false,
+  "generatedAt": "2026-10-11T13:38:43.329506+08:00"
+}
