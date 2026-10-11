@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-10T13:43:31.090071+08:00",
+  "lastUpdated": "2026-10-11T13:36:52.485713+08:00",
   "articles": [
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-10",
+      "score": 8,
+      "titleCn": "Anthropic 切断内部评估的互联网访问"
+    },
+    {
+      "title": "Memory executives expect RAM shortage to continue through 2028",
+      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-10",
+      "score": 8,
+      "titleCn": "内存行业高管预计 RAM 短缺将持续至 2028 年"
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-10",
+      "score": 7,
+      "titleCn": "萨蒂亚·纳德拉称应假设所有 AI 模型均已‘被攻陷’"
+    },
+    {
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "url": "https://www.qbitai.com/2026/10/502330.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-10",
+      "score": 7
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-10",
+      "score": 6,
+      "titleCn": "Sophos 通过 OpenAI Daybreak 将威胁调查时间缩短 96%"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-10",
+      "score": 6,
+      "titleCn": "Asana 在浏览器测试中利用 GPT-6.1 Sol 将模型成本降低 76 倍"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-10",
+      "score": 6,
+      "titleCn": "不存在的模型，你自己打造"
+    },
+    {
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "url": "https://www.qbitai.com/2026/10/502467.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-10",
+      "score": 6
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-10",
+      "score": 6
+    },
     {
       "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
@@ -2657,111 +2735,6 @@
       "category": "中文资讯",
       "date": "2026-09-11",
       "score": 6
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-10",
-      "score": 8,
-      "titleCn": "现在每个人都能让数据发挥作用"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-10",
-      "score": 8,
-      "titleCn": "ChatGPT 金融版正式推出"
-    },
-    {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-10",
-      "score": 8,
-      "titleCn": "推出 Agents API"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-10",
-      "score": 8,
-      "titleCn": "黄仁勋阐释英伟达明年将增长 70% 的原因"
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-10",
-      "score": 8,
-      "titleCn": "Anthropic 详解阿里巴巴、Moonshot AI 与 DeepSeek 的蒸馏计划"
-    },
-    {
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "url": "https://www.qbitai.com/2026/09/486900.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-10",
-      "score": 8
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-10",
-      "score": 7,
-      "titleCn": "数学家要求 OpenAI 证明未使用其成果"
-    },
-    {
-      "title": "Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu",
-      "url": "https://arxiv.org/abs/2609.10758",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-10",
-      "score": 7,
-      "titleCn": "仅名义多语言？大语言模型在乌尔都语的文化与语言弱点"
-    },
-    {
-      "title": "Detectable Only Where It Is Confounded: What Verified Duplication Counts Say About Membership Evidence in Language Models",
-      "url": "https://arxiv.org/abs/2609.10830",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-10",
-      "score": 7,
-      "titleCn": "仅在混淆时可检测：验证重复计数揭示的语言模型成员证据"
-    },
-    {
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-10",
-      "score": 7
-    },
-    {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "url": "https://www.qbitai.com/2026/09/486747.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-10",
-      "score": 7
-    },
-    {
-      "title": "CMNIE: An Information Extraction Benchmark for Chinese Military News",
-      "url": "https://arxiv.org/abs/2609.10722",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-10",
-      "score": 6,
-      "titleCn": "CMNIE：中文军事新闻信息抽取基准"
     }
   ]
 }
