@@ -1,0 +1,26 @@
+{
+  "titleCn": "Pollo AI借助OpenAI将创意快速转化为营销活动",
+  "overview": "Pollo AI借助OpenAI强大的语言模型，帮助营销团队把零散的创意点快速转化为完整的营销方案。通过简单的指令，系统即可生成文案、设计概念、渠道策略并进行跨平台适配，显著缩短策划周期并提升创意质量。",
+  "sections": [
+    {
+      "heading": "快速生成创意内容",
+      "summary": "Pollo AI结合OpenAI模型，只需输入简要需求，即可自动产出文案、图片概念等多元创意素材。"
+    },
+    {
+      "heading": "跨渠道内容适配",
+      "summary": "系统根据不同平台特性自动调整语言风格与视觉元素，确保营销信息在社交、搜索等渠道保持一致且高效。"
+    },
+    {
+      "heading": "一体化工作流协同",
+      "summary": "Pollo AI提供项目管理、团队协作和效果追踪功能，帮助营销团队在单一平台完成从创意到投放的全链路管理。"
+    }
+  ],
+  "id": "pollo-ai",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "url": "https://openai.com/index/pollo-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-11",
+  "hasFullText": false,
+  "generatedAt": "2026-10-12T14:11:35.604140+08:00"
+}
