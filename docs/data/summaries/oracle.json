@@ -1,0 +1,26 @@
+{
+  "titleCn": "Oracle 如何通过 ChatGPT 与 Codex 将数日工作缩短至数分钟",
+  "overview": "Oracle 与 OpenAI 合作，将 ChatGPT 与 Codex 集成进企业开发与运维流程，实现代码自动生成、文档快速撰写、问题即席分析等关键环节的 AI 加持。原本需要数天的重复性工作如今在几分钟内即可完成，大幅提升团队响应速度与研发效能。",
+  "sections": [
+    {
+      "heading": "AI 代码生成加速开发",
+      "summary": "通过 Codex 的代码补全与自动生成能力，开发者可以在数分钟内完成原本需要数小时编写的业务逻辑和脚本，显著降低手工编码的错误率。"
+    },
+    {
+      "heading": "自动化文档与知识提取",
+      "summary": "ChatGPT 根据代码注释和业务需求快速生成技术文档、API 说明以及运维手册，减少文档维护的人力成本。"
+    },
+    {
+      "heading": "企业级安全与集成",
+      "summary": "Oracle 在 AI 服务与企业身份、权限及数据治理框架之间构建安全桥接，确保 AI 生成内容符合合规要求并可直接嵌入现有 CI/CD 流程。"
+    }
+  ],
+  "id": "oracle",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "url": "https://openai.com/index/oracle",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-11",
+  "hasFullText": false,
+  "generatedAt": "2026-10-12T14:09:02.870648+08:00"
+}
