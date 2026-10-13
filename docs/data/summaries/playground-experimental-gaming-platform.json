@@ -1,0 +1,26 @@
+{
+  "titleCn": "Playground 介绍：创建和玩自定义游戏",
+  "overview": "Google AI 推出 Playground，一个帮助用户通过 AI 生成技术快速构建、测试并分享自定义游戏的平台，提供可视化编辑、实时预览和多人协作功能，旨在降低游戏创作门槛，激发创新。",
+  "sections": [
+    {
+      "heading": "零代码编辑器",
+      "summary": "提供拖拽式界面，用户无需编程即可组合场景、角色和规则，快速完成游戏原型并即时预览效果。"
+    },
+    {
+      "heading": "AI 生成能力",
+      "summary": "内置大语言模型和图像生成模型，可自动生成对话、角色外观及关卡布局，减少手工设计时间。"
+    },
+    {
+      "heading": "多人协作与分享",
+      "summary": "支持多人实时编辑、评论和版本管理，创作者可一键发布至社区，供他人试玩与再创作，并获取反馈。"
+    }
+  ],
+  "id": "playground-experimental-gaming-platform",
+  "title": "Introducing Playground: Create and play custom games",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-10-12",
+  "hasFullText": false,
+  "generatedAt": "2026-10-13T14:44:04.876475+08:00"
+}
