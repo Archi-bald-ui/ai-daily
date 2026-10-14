@@ -1,0 +1,26 @@
+{
+  "titleCn": "Higgsfield将AI视频时长从1分钟提升至10分钟以上",
+  "overview": "Higgsfield是OpenAI发布的视频生成模型，能够在保持画面连贯和细节的前提下，将原本约1分钟的视频生成能力提升至超过10分钟。这一突破显著降低了长视频内容的创作门槛，为影视预告、虚拟主播、教育演示等场景提供更高效的解决方案。",
+  "sections": [
+    {
+      "heading": "技术架构升级",
+      "summary": "Higgsfield采用新型扩散Transformer和时序注意力机制，大幅提升生成效率与时空一致性。"
+    },
+    {
+      "heading": "视频时长突破",
+      "summary": "模型实现从约1分钟到超过10分钟的长视频生成，保持画面细节与动作连贯，大幅降低长视频制作成本。"
+    },
+    {
+      "heading": "创作与生态影响",
+      "summary": "长视频生成能力为影视预告、虚拟主播、教育演示等场景提供新可能，推动AI内容创作生态快速发展。"
+    }
+  ],
+  "id": "higgsfield-longer-videos-voice",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-13",
+  "hasFullText": false,
+  "generatedAt": "2026-10-14T12:51:49.565201+08:00"
+}
