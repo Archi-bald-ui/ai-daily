@@ -1,0 +1,26 @@
+{
+  "titleCn": "Gemini 4 Argon：专为解决最难问题而打造",
+  "overview": "谷歌 AI 发布 Gemini 4 Argon，旨在为企业和开发者提供更强大的推理与多模态处理能力，以应对复杂任务和大规模数据挑战。新版本在模型架构上实现显著提升，支持更长上下文窗口并强化安全对齐，帮助用户在科学研究、工程设计、自动化决策等场景中快速获取可靠答案。",
+  "sections": [
+    {
+      "heading": "全新推理引擎",
+      "summary": "Gemini 4 Argon 采用全新推理引擎和多步推理模块，提升复杂问题的抽象思维和逻辑推导能力，帮助用户在科研、工程等高难度场景快速得到可靠答案。"
+    },
+    {
+      "heading": "更长上下文窗口",
+      "summary": "Gemini 4 Argon 将上下文窗口显著扩大，能够一次性读取并理解长篇文档、代码库和对话历史，减少信息遗漏并提升连贯性。"
+    },
+    {
+      "heading": "企业级安全与对齐",
+      "summary": "新模型内置多层安全过滤和对齐机制，符合行业合规要求，可帮助企业在大规模部署时降低风险并提升模型行为的可解释性。"
+    }
+  ],
+  "id": "introducing-gemini-4-argon",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-10-13",
+  "hasFullText": false,
+  "generatedAt": "2026-10-14T12:46:51.479716+08:00"
+}
