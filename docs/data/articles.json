@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-13T14:42:29.674912+08:00",
+  "lastUpdated": "2026-10-14T12:45:16.962148+08:00",
   "articles": [
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-10-13",
+      "score": 9,
+      "titleCn": "Gemini 4 Argon：专为解决最棘手问题而构建"
+    },
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-13",
+      "score": 9,
+      "titleCn": "谷歌终于发布 Gemini 4 Argon"
+    },
+    {
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-13",
+      "score": 9
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-13",
+      "score": 8,
+      "titleCn": "LFM2.5-24B-A2B：在设备上运行快速、私密代理"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-13",
+      "score": 8,
+      "titleCn": "Industrial Next 让工厂机器人几分钟切换任务，而非数周"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-13",
+      "score": 8,
+      "titleCn": "Facebook 为用户提供更多算法控制权"
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-13",
+      "score": 8
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-13",
+      "score": 7,
+      "titleCn": "Higgsfield 把 AI 视频时长从 1 分钟提升至 10 分钟以上"
+    },
+    {
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "url": "https://www.qbitai.com/2026/10/502954.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-13",
+      "score": 7
+    },
     {
       "title": "Meta has some Wonder Full new AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
@@ -2604,102 +2682,6 @@
       "category": "中文资讯",
       "date": "2026-09-14",
       "score": 6
-    },
-    {
-      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
-      "url": "https://arxiv.org/abs/2609.11977",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-13",
-      "score": 8,
-      "titleCn": "Occamy-1.0：协同工作的开源帕累托前沿35B智能"
-    },
-    {
-      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
-      "url": "https://arxiv.org/abs/2609.12105",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-13",
-      "score": 8,
-      "titleCn": "语言不足以支撑定量推理，关键领域需要大型定量模型"
-    },
-    {
-      "title": "The Cost of Compression: A Rate-Distortion Limit on Factual Hallucination",
-      "url": "https://arxiv.org/abs/2609.12111",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-13",
-      "score": 8,
-      "titleCn": "压缩的代价：事实幻觉的率-失真极限"
-    },
-    {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "url": "https://www.qbitai.com/2026/09/488380.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-13",
-      "score": 8
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-13",
-      "score": 7,
-      "titleCn": "为联邦、州、地方及部落政府扩展AI访问与网络防御"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-13",
-      "score": 7,
-      "titleCn": "使用Gradio工作流重塑AUTOMATIC1111"
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-13",
-      "score": 7,
-      "titleCn": "OpenAI的恶意AI 5月试图入侵另一家公司"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-13",
-      "score": 7,
-      "titleCn": "Mecka AI 估值逼近5亿美元，红杉领投抢机器人训练数据"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-13",
-      "score": 7,
-      "titleCn": "Y Combinator的Garry Tan呼吁美国开源权重AI实验室也‘蒸馏’前沿模型"
-    },
-    {
-      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-      "url": "https://www.qbitai.com/2026/09/488694.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-13",
-      "score": 7
-    },
-    {
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-13",
-      "score": 7
     }
   ]
 }
