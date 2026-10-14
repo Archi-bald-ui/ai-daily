@@ -1,0 +1,26 @@
+{
+  "titleCn": "在设备上运行快速、私密的代理：LFM2.5-24B-A2B",
+  "overview": "本文介绍在终端设备上部署 LFM2.5-24B-A2B 模型，实现快速且高度私密的 AI 代理。通过优化推理框架和模型压缩技术，显著降低延迟和资源占用，同时保证数据不离开本地，满足隐私合规需求。文章还展示了在移动端和边缘设备上的实际应用效果。",
+  "sections": [
+    {
+      "heading": "设备端推理加速",
+      "summary": "通过轻量化模型结构和推理优化，实现毫秒级响应，适合实时交互，并支持多轮对话，可在本地完成复杂任务。"
+    },
+    {
+      "heading": "隐私保护和数据本地化",
+      "summary": "所有数据在本地处理，无需上传云端，采用差分隐私等技术防止泄露，满足企业合规要求，并提供细粒度访问控制。"
+    },
+    {
+      "heading": "跨平台部署与生态兼容",
+      "summary": "支持移动端、嵌入式系统及云端混合部署，提供统一API和工具链，兼容主流框架和无缝迁移，便于快速集成。"
+    }
+  ],
+  "id": "lfm25-24b-a2b",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-13",
+  "hasFullText": false,
+  "generatedAt": "2026-10-14T12:49:34.577809+08:00"
+}
