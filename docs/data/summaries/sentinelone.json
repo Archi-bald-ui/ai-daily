@@ -1,0 +1,26 @@
+{
+  "titleCn": "SentinelOne 将恶意软件分析时间从数周缩短至数小时",
+  "overview": "SentinelOne 通过 AI 自动化把原本需要数周的恶意软件分析流程压缩到数小时，大幅提升安全运营效率，并能在发现新威胁时快速响应。该技术结合静态、动态分析与大模型推理，帮助分析师快速获取完整行为报告。",
+  "sections": [
+    {
+      "heading": "AI 自动化加速分析",
+      "summary": "利用大模型对二进制进行快速逆向和行为预测，省去人工深度分析步骤，实现数小时完成全流程。"
+    },
+    {
+      "heading": "端点防护无缝集成",
+      "summary": "与现有 SentinelOne 端点安全平台融合，直接在告警后触发分析，输出报告供分析师快速决策，并可自动生成威胁情报标签，提升整体防御协同。"
+    },
+    {
+      "heading": "提升安全运营效率",
+      "summary": "把分析时间压缩至数小时后，安全团队可在同一工作日内完成从检测到响应的完整闭环，显著降低风险暴露。"
+    }
+  ],
+  "id": "sentinelone",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "url": "https://openai.com/index/sentinelone",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-14",
+  "hasFullText": false,
+  "generatedAt": "2026-10-15T12:37:31.922365+08:00"
+}
