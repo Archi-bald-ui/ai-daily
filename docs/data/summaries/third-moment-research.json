@@ -1,0 +1,26 @@
+{
+  "titleCn": "Third Moment Research 如何在 36+ 小时内运行 10,000 个代理",
+  "overview": "本文介绍 Third Moment Research 团队在 OpenAI 平台上，搭建可支撑 10,000 个智能体并行运行超过 36 小时的大规模实验环境。详细阐述分布式调度、资源隔离、容错恢复等关键技术，以及长时间运行带来的性能波动和观测结果，为大规模多智能体系统研究提供实践参考。",
+  "sections": [
+    {
+      "heading": "大规模并行架构",
+      "summary": "介绍为支撑万级代理并行而设计的分布式调度、GPU 资源池化及网络拓扑优化，实现高效任务分发与负载均衡。"
+    },
+    {
+      "heading": "长时间运行的挑战与容错",
+      "summary": "分析在 36 小时以上连续运行中出现的资源泄漏、节点故障和日志规模问题，探讨健康检查、自动重启及容错策略的有效性。"
+    },
+    {
+      "heading": "实验洞察与未来方向",
+      "summary": "从大规模代理交互中提炼出行为模式、协同效率及安全风险的关键洞见，并提出后续规模化训练与评估的改进思路。"
+    }
+  ],
+  "id": "third-moment-research",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "url": "https://openai.com/index/third-moment-research",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-14",
+  "hasFullText": false,
+  "generatedAt": "2026-10-15T12:30:43.574123+08:00"
+}
