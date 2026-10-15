@@ -1,0 +1,26 @@
+{
+  "titleCn": "HiRO‑ACEv2：以极低成本实现 3 公里分辨率的极端天气模拟",
+  "overview": "这篇资讯介绍了HiRO‑ACEv2模型，能够在3 km分辨率下高效模拟极端天气事件，计算成本仅为传统数值模式的数分之一，适用于短期预报和气候风险评估，并通过深度学习与高效数值耦合，实现实时或近实时模拟，支持在资源受限环境下快速部署。",
+  "sections": [
+    {
+      "heading": "3 km 高分辨率模拟",
+      "summary": "实现公里级网格的极端天气细节捕捉，提升局地暴雨、台风等事件的可视化与预测精度。"
+    },
+    {
+      "heading": "成本大幅下降",
+      "summary": "通过AI加速与模型压缩，计算资源需求降至传统数值模式的十几分之一，显著降低运行成本。"
+    },
+    {
+      "heading": "快速部署与实时预报",
+      "summary": "模型可在普通GPU或云计算平台快速部署，支持近实时输出，适配应急响应和气候风险评估。"
+    }
+  ],
+  "id": "hiro-acev2",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-14",
+  "hasFullText": false,
+  "generatedAt": "2026-10-15T12:38:05.486914+08:00"
+}
