@@ -1,0 +1,26 @@
+{
+  "titleCn": "Granite Switch 4.1：一个端点实现聊天、决策与语音",
+  "overview": "Granite Switch 4.1 是 IBM 推出的一款统一 AI 推理平台，可在单一端点同时提供对话、决策和语音交互能力。新版本强化了多模态融合、实时响应和低延迟部署，帮助开发者快速构建聊天机器人、决策辅助系统和语音助手，适用于企业级对话、客服与自动化场景。",
+  "sections": [
+    {
+      "heading": "多模态统一端点",
+      "summary": "在单一端点融合聊天、决策与语音，简化系统架构，实现低延迟交互、统一管理与灵活扩展。"
+    },
+    {
+      "heading": "实时决策引擎",
+      "summary": "内置决策引擎支持规则与机器学习模型，提供快速、可解释的业务决策服务，提升自动化水平。"
+    },
+    {
+      "heading": "语音交互升级",
+      "summary": "新版语音模块支持流式识别与合成，实现自然对话体验，并兼容主流语音平台，便于快速上线。"
+    }
+  ],
+  "id": "granite-switch-4-1",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-15",
+  "hasFullText": false,
+  "generatedAt": "2026-10-16T12:44:46.938221+08:00"
+}
