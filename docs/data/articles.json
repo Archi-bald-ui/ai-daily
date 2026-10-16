@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-15T12:29:10.533595+08:00",
+  "lastUpdated": "2026-10-16T12:23:42.522732+08:00",
   "articles": [
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-15",
+      "score": 9,
+      "titleCn": "欢迎 Muse Spark Open：Meta 开源的前沿多模态混合专家模型"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-15",
+      "score": 9,
+      "titleCn": "时不我待：在实时时钟下评估与训练智能体"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-15",
+      "score": 8,
+      "titleCn": "扩展 Indic 预训练：2.8 万亿 token 与开放数据生成管线"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-15",
+      "score": 8,
+      "titleCn": "Anthropic 向 METR 研究人员提供员工级访问权限"
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-15",
+      "score": 8,
+      "titleCn": "Anthropic 警告：小型 AI 模型或通过 IoT 设备自我复制"
+    },
+    {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-15",
+      "score": 8,
+      "titleCn": "基准饱和后评估模型能力"
+    },
+    {
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2610.20669",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-15",
+      "score": 8,
+      "titleCn": "价值感知调度剪枝加速离散扩散中的序列蒙特卡罗引导"
+    },
+    {
+      "title": "苹果AI国内上线，阿里百度浮出水面",
+      "url": "https://www.qbitai.com/2026/10/503497.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-15",
+      "score": 8
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-15",
+      "score": 7,
+      "titleCn": "Granite Switch 4.1：单端点实现聊天、决策与语音"
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-15",
+      "score": 7,
+      "titleCn": "Meta 与 Apple 合作提升 Muse AI 模型在 Mac 上的运行"
+    },
+    {
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-15",
+      "score": 7
+    },
+    {
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-15",
+      "score": 6
+    },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
@@ -2595,102 +2700,6 @@
       "category": "中文资讯",
       "date": "2026-09-16",
       "score": 6
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-15",
-      "score": 8,
-      "titleCn": "OpenAI、Anthropic 与 Google 已就 AI 安全议题进行数周会谈"
-    },
-    {
-      "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
-      "url": "https://arxiv.org/abs/2609.15990",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-15",
-      "score": 8,
-      "titleCn": "Few‑Shot 退化并非表象：行为证据、表征分析与跨 12 模型、2 任务、2 架构的随机文本对照"
-    },
-    {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "Google AI & Economy ATLAS 项目的新洞察"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "你的 AI 代理出色完成任务，它会再执行一次吗？"
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "Nvidia 首席执行官 Jensen Huang 表示：我们不需要 AI 监管，安全交给我们"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "Meta 现在让 AI 代理处理 WhatsApp Business 设置的枯燥环节"
-    },
-    {
-      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-      "url": "https://arxiv.org/abs/2609.13396",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "先收敛后发散：多目标贝叶斯优化中收敛与多样性的解耦"
-    },
-    {
-      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-      "url": "https://arxiv.org/abs/2609.13422",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-15",
-      "score": 7,
-      "titleCn": "Vibe Patenting：评估 LLM 评审在专业专利起草代理中的表现"
-    },
-    {
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "url": "https://www.qbitai.com/2026/09/490185.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-15",
-      "score": 7
-    },
-    {
-      "title": "把记忆交给CPU，大模型会变快",
-      "url": "https://www.qbitai.com/2026/09/489724.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-15",
-      "score": 7
-    },
-    {
-      "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
-      "url": "https://www.qbitai.com/2026/09/490109.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-15",
-      "score": 7
     }
   ]
 }
