@@ -1,0 +1,26 @@
+{
+  "titleCn": "规模化 Indic 预训练：2.8 万亿 Tokens 与开放数据生成流水线",
+  "overview": "本文介绍在 Indic 语言预训练中实现规模化扩展，使用约 2.8 万亿词元的超大规模语料，并公开了一套完整的数据生成与清洗流水线，以提升多语言模型的覆盖度和性能。该工作旨在帮助研究社区快速构建高质量 Indic 语料，推动相关任务的效果提升。",
+  "sections": [
+    {
+      "heading": "海量 Indic 预训练语料",
+      "summary": "通过抓取、清洗与合成等步骤，构建约 2.8 万亿词元的 Indic 语言语料，覆盖多种主要语言。"
+    },
+    {
+      "heading": "开放数据生成流水线",
+      "summary": "提供完整脚本与工具，支持从原始网页、文本到高质量训练数据的自动化处理与质量评估。"
+    },
+    {
+      "heading": "模型性能提升与社区影响",
+      "summary": "在多项 Indic 语言任务上取得显著提升，公开的模型与数据鼓励社区复用与二次创新。"
+    }
+  ],
+  "id": "scaling-indic-pretraining",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-15",
+  "hasFullText": false,
+  "generatedAt": "2026-10-16T12:34:29.571305+08:00"
+}
