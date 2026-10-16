@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 Muse Spark Open：Meta 的开源权重前沿多模态混合专家模型",
+  "overview": "Meta 正式开源Muse Spark，一款前沿的多模态混合专家（MoE）模型，权重在HuggingFace公开。该模型通过稀疏专家结构兼顾文本与图像等多模态信息，在多项跨模态基准上刷新SOTA，展现出高效且强大的理解和生成能力，适合研究与实际应用。",
+  "sections": [
+    {
+      "heading": "开源权重发布",
+      "summary": "Meta 在 HuggingFace 上公开模型权重，支持研究者和开发者免费使用与微调。"
+    },
+    {
+      "heading": "多模态混合专家架构",
+      "summary": "采用稀疏的 MoE 结构，文本与图像等模态共享专家，实现高效跨模态理解和生成。"
+    },
+    {
+      "heading": "前沿性能表现",
+      "summary": "在多模态 benchmark 上取得 SOTA，显著提升图像描述、视觉问答等任务的效果。"
+    }
+  ],
+  "id": "meta-muse-spark-open",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-15",
+  "hasFullText": false,
+  "generatedAt": "2026-10-16T12:25:27.011214+08:00"
+}
