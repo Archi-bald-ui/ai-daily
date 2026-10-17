@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-16T12:23:42.522732+08:00",
+  "lastUpdated": "2026-10-17T12:15:28.094874+08:00",
   "articles": [
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-16",
+      "score": 9,
+      "titleCn": "欢迎 Beam：501B 参数开源模型，可拥有、定制和扩展"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-16",
+      "score": 8,
+      "titleCn": "欢迎 FLUX.3 Image Klein 加入 Diffusers"
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-16",
+      "score": 8,
+      "titleCn": "Meta 新条款可能允许其免费在新闻网站上训练 AI"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-16",
+      "score": 8,
+      "titleCn": "Elorian 首个 AI 模型想对图像进行推理，而不仅止于图像"
+    },
+    {
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "url": "https://www.qbitai.com/2026/10/503843.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-16",
+      "score": 8
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-16",
+      "score": 7,
+      "titleCn": "Itaú 如何为全体客户构建生成式 AI"
+    },
+    {
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-16",
+      "score": 7,
+      "titleCn": "Bluesky AI 工具现已支持制作游戏和应用并发布至社交平台"
+    },
+    {
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2610.20675",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-16",
+      "score": 7,
+      "titleCn": "AlphaDiana：可验证推理任务的智能体评测系统"
+    },
+    {
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "url": "https://arxiv.org/abs/2610.20676",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-16",
+      "score": 7,
+      "titleCn": "正确性反馈抹除证据：Verus 中相位分离的完整性审计"
+    },
+    {
+      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.20679",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-16",
+      "score": 7,
+      "titleCn": "反事实邻域风险场：基于证据的视觉‑语言模型选择性安全"
+    },
+    {
+      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "url": "https://www.qbitai.com/2026/10/503829.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-16",
+      "score": 7
+    },
+    {
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "url": "https://www.qbitai.com/2026/10/503779.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-16",
+      "score": 7
+    },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -2595,111 +2700,6 @@
       "date": "2026-09-17",
       "score": 7,
       "titleCn": "我们对 LLMs 有何期待？LLM 基准设计图谱"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "我们的模型错位报告框架"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "Anthropic 与 OpenAI 欲嵌入安全评估器，能否保持独立？"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "AI 代理现在可以控制你的 Google Home 设备"
-    },
-    {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "url": "https://arxiv.org/abs/2609.17632",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "EvolveTrade：经验驱动的自进化 LLM 交易代理策略优化"
-    },
-    {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "看不见的仍是所学：60 项实验预先注册证实证据掩盖驱动组合泛化"
-    },
-    {
-      "title": "DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling",
-      "url": "https://arxiv.org/abs/2609.17535",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-16",
-      "score": 8,
-      "titleCn": "DANTINOX：多范式语言建模的统一框架"
-    },
-    {
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "url": "https://www.qbitai.com/2026/09/490756.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-16",
-      "score": 8
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-16",
-      "score": 7,
-      "titleCn": "如何将 AI 使用与业务价值挂钩"
-    },
-    {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-16",
-      "score": 7,
-      "titleCn": "AI 数据中心电子废料问题巨大且日益严重"
-    },
-    {
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-16",
-      "score": 7
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-16",
-      "score": 6,
-      "titleCn": "AI 重塑广告"
-    },
-    {
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-16",
-      "score": 6
     }
   ]
 }
