@@ -1,0 +1,26 @@
+{
+  "titleCn": "伊塔乌银行如何为其全部客户打造生成式AI",
+  "overview": "本文介绍了伊塔乌银行通过统一的生成式AI平台，为其个人、企业等全渠道客户打造智能化服务，覆盖客服、营销、风控等关键业务，并重点阐述在数据安全、合规和模型可解释性方面的技术创新与实践。",
+  "sections": [
+    {
+      "heading": "统一生成式AI平台",
+      "summary": "通过自研或基于OpenAI模型搭建统一平台，实现跨渠道、跨业务的模型统一管理与部署。"
+    },
+    {
+      "heading": "覆盖全业务流程的AI应用",
+      "summary": "在客服、营销、风控等关键业务中部署生成式AI，实现自动化对话、个性化推荐和实时风险评估。"
+    },
+    {
+      "heading": "数据安全与合规治理",
+      "summary": "通过数据脱敏、审计追踪和模型可解释性机制，确保生成式AI在金融监管框架下的安全可靠运行。"
+    }
+  ],
+  "id": "itau-generative-ai",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-16",
+  "hasFullText": false,
+  "generatedAt": "2026-10-17T12:18:23.466043+08:00"
+}
