@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 Beam：可拥有、可定制、可扩展的 501B 开源模型",
+  "overview": "本文介绍 HuggingFace 推出的 Beam 模型，这是一款拥有 501B 参数的开源语言模型，用户可以完全拥有、灵活定制并在大规模部署时轻松扩展。文章重点阐述了其开放许可、定制化微调方法以及分布式推理的架构优势。",
+  "sections": [
+    {
+      "heading": "开源许可与所有权",
+      "summary": "Beam 采用宽松的开源许可证，用户可完整拥有模型权重并用于商业或研究，无需受限于平台锁定。"
+    },
+    {
+      "heading": "灵活定制与微调",
+      "summary": "提供模块化的权重和结构，用户可以使用自有数据进行高效微调，适配特定业务或语言需求。"
+    },
+    {
+      "heading": "大规模扩展与分布式推理",
+      "summary": "模型支持分布式部署和自动切分，可在不同硬件规模上保持低延迟高吞吐，满足企业级生产环境需求。"
+    }
+  ],
+  "id": "reflection-beam",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-16",
+  "hasFullText": false,
+  "generatedAt": "2026-10-17T12:16:50.265143+08:00"
+}
