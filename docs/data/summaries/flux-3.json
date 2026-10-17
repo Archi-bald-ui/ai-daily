@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 FLUX.3 Image Klein 入驻 Diffusers",
+  "overview": "本文介绍 Flux.3 系列的最新图像生成模型 Image Klein，及其在 HuggingFace Diffusers 库的完整集成。通过简化的 API，用户可快速加载模型进行高质量图像合成，并在生成速度与显存占用上实现显著优化，适合研究与应用场景。",
+  "sections": [
+    {
+      "heading": "模型亮点",
+      "summary": "FLUX.3 Image Klein 采用全新轻量化设计，提供更快的推理速度和更低的显存占用，同时保持高质量图像生成。"
+    },
+    {
+      "heading": "Diffusers 集成",
+      "summary": "通过 Diffusers 的 Pipeline，一行代码即可加载 FLUX.3 Klein 模型进行图像生成，支持自定义尺寸与采样参数。"
+    },
+    {
+      "heading": "应用场景",
+      "summary": "适用于快速原型设计、实时交互式艺术创作以及资源受限的移动端部署，帮助开发者轻松实现高效图像生成。"
+    }
+  ],
+  "id": "flux-3",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "url": "https://huggingface.co/blog/flux-3",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-16",
+  "hasFullText": false,
+  "generatedAt": "2026-10-17T12:17:50.186326+08:00"
+}
