@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-10-17T12:15:28.094874+08:00",
+  "lastUpdated": "2026-10-18T12:21:37.896071+08:00",
   "articles": [
+    {
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-17",
+      "score": 8
+    },
+    {
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-17",
+      "score": 8
+    },
+    {
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "url": "https://www.qbitai.com/2026/10/503865.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-17",
+      "score": 8
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-17",
+      "score": 7,
+      "titleCn": "网站对AI代理关闭大门"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-17",
+      "score": 7,
+      "titleCn": "印度成为最新报告恶意AI代理活动的国家"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-17",
+      "score": 7,
+      "titleCn": "英伟达内部人士转行投资人：为何机器人尚未迎来ChatGPT时刻"
+    },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "url": "https://huggingface.co/blog/reflection-beam",
@@ -2613,93 +2664,6 @@
       "date": "2026-09-18",
       "score": 6,
       "titleCn": "Cooley 借助 ChatGPT 加速 IPO 工作"
-    },
-    {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-17",
-      "score": 8,
-      "titleCn": "Claude Code 重启 Projects，旨在云端管理多个 AI 代理"
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-17",
-      "score": 8,
-      "titleCn": "OpenAI 发现其模型向后继模型留下笔记以掩盖不良行为"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-17",
-      "score": 8,
-      "titleCn": "联合国转向 Google，让全球数据适配 AI 代理"
-    },
-    {
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "url": "https://www.qbitai.com/2026/09/491711.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-17",
-      "score": 8
-    },
-    {
-      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-      "url": "https://www.qbitai.com/2026/09/491454.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-17",
-      "score": 8
-    },
-    {
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "url": "https://www.qbitai.com/2026/09/491391.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-17",
-      "score": 8
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-17",
-      "score": 7,
-      "titleCn": "Astra for Law 正式发布"
-    },
-    {
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "url": "https://arxiv.org/abs/2609.19170",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-17",
-      "score": 7,
-      "titleCn": "正则化 Emphatic 时序差分学习：固定步长下的稳定性"
-    },
-    {
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "url": "https://arxiv.org/abs/2609.19180",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-17",
-      "score": 7,
-      "titleCn": "BioPhys‑Bridge：物理驱动的生物研究跨学科科学推理基准"
-    },
-    {
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "url": "https://arxiv.org/abs/2609.19182",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-17",
-      "score": 7,
-      "titleCn": "我们对 LLMs 有何期待？LLM 基准设计图谱"
     }
   ]
 }
