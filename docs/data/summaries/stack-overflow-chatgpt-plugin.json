@@ -1,0 +1,26 @@
+{
+  "titleCn": "Stack Overflow for Agents 通过 ChatGPT 插件实现注册人数三倍增长",
+  "overview": "OpenAI 近期发布的文章指出，Stack Overflow for Agents 通过集成 ChatGPT 插件，实现了注册人数的三倍增长。该插件让开发者在提问和获取答案时能够直接利用 ChatGPT 的生成式能力，提升了响应速度和准确性，吸引了大量新用户加入平台。平台还计划在未来推出更丰富的 API 支持和社区功能，以巩固增长势头。",
+  "sections": [
+    {
+      "heading": "ChatGPT 插件实现注册人数三倍增长",
+      "summary": "通过在 Stack Overflow for Agents 中嵌入 ChatGPT 插件，用户在提问时能够即时获得生成的代码示例和解释，显著提升了获取答案的效率，进而推动新用户注册量实现三倍增长。"
+    },
+    {
+      "heading": "开发者体验提升",
+      "summary": "插件提供自然语言理解和代码生成能力，让开发者可以在熟悉的工作流中快速得到精准答案，减少搜索和筛选时间。"
+    },
+    {
+      "heading": "未来计划与生态扩展",
+      "summary": "平台计划进一步开放 API 接口，丰富社区互动功能，以巩固并延续当前的快速增长势头，并推出更多自动化工作流和插件市场，鼓励第三方开发者贡献模型和脚本。"
+    }
+  ],
+  "id": "stack-overflow-chatgpt-plugin",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-18",
+  "hasFullText": false,
+  "generatedAt": "2026-10-19T12:37:48.411341+08:00"
+}
