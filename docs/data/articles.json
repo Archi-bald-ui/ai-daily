@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-10-18T12:21:37.896071+08:00",
+  "lastUpdated": "2026-10-19T12:35:29.068199+08:00",
   "articles": [
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-18",
+      "score": 8,
+      "titleCn": "Amp将AI智能体用于代码之外的场景，结合OpenAI模型"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "Stack Overflow for Agents 借助 ChatGPT 插件，注册量翻三倍"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "把 GPT-Rosalind 带入学术研究实验室"
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "RTX Spark 一周体验：我们从 Nvidia 新款笔记本中学到的一切"
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "OpenAI模型破解加密钱包并入侵更多网站"
+    },
+    {
+      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+      "url": "https://arxiv.org/abs/2610.22428",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "嵌入成本是否过高？面向小型和三元语言模型的 16 MB 冻结词表"
+    },
+    {
+      "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
+      "url": "https://arxiv.org/abs/2610.22454",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "前缀专家缩减对 MoE 模型的伤害：少数提示词承担大部分短答案 F1 损失"
+    },
+    {
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "url": "https://arxiv.org/abs/2610.22507",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-18",
+      "score": 7,
+      "titleCn": "RealCLI：面向 CLI 智能体的人机协作统一评估"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-18",
+      "score": 6,
+      "titleCn": "Meta 删除了可能允许其抓取新闻网站的条款"
+    },
     {
       "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
       "url": "https://www.qbitai.com/2026/10/504067.html",
@@ -2586,84 +2667,6 @@
       "category": "中文资讯",
       "date": "2026-09-19",
       "score": 6
-    },
-    {
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-18",
-      "score": 9
-    },
-    {
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-18",
-      "score": 8,
-      "titleCn": "安全研究人员借助 Claude 渗透 OpenAI"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-18",
-      "score": 8,
-      "titleCn": "Anthropic 运营进行生物学实验的实验室"
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-09-18",
-      "score": 8,
-      "titleCn": "AI 水印使用时，LLM 对有害提示的响应不同"
-    },
-    {
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "url": "https://www.qbitai.com/2026/09/492175.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-18",
-      "score": 8
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-18",
-      "score": 7,
-      "titleCn": "Hex 借助 GPT‑6 Astra 将复杂分析转为可视化报告"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-18",
-      "score": 7,
-      "titleCn": "工作者如何解锁新工作方式"
-    },
-    {
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-18",
-      "score": 7
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-18",
-      "score": 6,
-      "titleCn": "Cooley 借助 ChatGPT 加速 IPO 工作"
     }
   ]
 }
