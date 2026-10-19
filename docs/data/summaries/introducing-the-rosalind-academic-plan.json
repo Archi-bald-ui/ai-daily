@@ -1,0 +1,26 @@
+{
+  "titleCn": "将 GPT‑Rosalind 带入学术研究实验室",
+  "overview": "OpenAI 推出面向科研的 GPT‑Rosalind 模型，经过学术文献与实验数据微调，可直接在实验室环境中进行文献检索、实验方案生成与结果解读，并通过统一 API 与实验室信息管理系统对接，旨在提升研究效率，同时提供使用规范与安全审查，确保数据隐私与模型可靠性。",
+  "sections": [
+    {
+      "heading": "针对科研场景的微调模型",
+      "summary": "模型在大量学术论文与实验数据上微调，掌握生物、化学等学科的专业术语与推理能力，可直接回答研究相关问题。"
+    },
+    {
+      "heading": "实验室工作流集成",
+      "summary": "通过统一 API 将模型嵌入实验室信息管理系统，支持文献检索、实验方案生成与结果解释，提升科研效率。"
+    },
+    {
+      "heading": "负责任使用与安全措施",
+      "summary": "为防止误用，OpenAI 为实验室提供使用指南与审查机制，确保数据隐私和模型输出的可靠性。"
+    }
+  ],
+  "id": "introducing-the-rosalind-academic-plan",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-18",
+  "hasFullText": false,
+  "generatedAt": "2026-10-19T12:38:27.103461+08:00"
+}
