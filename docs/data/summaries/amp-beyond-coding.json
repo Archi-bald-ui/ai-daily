@@ -1,0 +1,26 @@
+{
+  "titleCn": "Amp让AI智能体超越代码，借助OpenAI模型发挥作用",
+  "overview": "Amp是一个AI智能体编排平台，近日宣布将其能力扩展到代码之外的场景，并通过OpenAI模型实现自然语言理解、图像生成等高级功能。文章介绍了智能体在业务流程自动化、内容创作、数据分析等领域的实际案例，展示了将大语言模型与传统自动化结合的全新可能。",
+  "sections": [
+    {
+      "heading": "跨代码场景扩展",
+      "summary": "通过OpenAI模型，将AI智能体从代码自动化扩展到文档处理、客服对话等业务环节。"
+    },
+    {
+      "heading": "自然语言+多模态能力",
+      "summary": "集成OpenAI大模型后，智能体可进行自然语言理解、图像生成等高级任务，提升交互质量。"
+    },
+    {
+      "heading": "业务自动化新范式",
+      "summary": "将大模型与传统自动化工具结合，实现从决策到执行的闭环，加速企业数字化流程的落地。"
+    }
+  ],
+  "id": "amp-beyond-coding",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "url": "https://openai.com/index/amp-beyond-coding",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-18",
+  "hasFullText": false,
+  "generatedAt": "2026-10-19T12:36:46.488159+08:00"
+}
