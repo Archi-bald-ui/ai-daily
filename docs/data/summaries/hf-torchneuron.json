@@ -1,0 +1,26 @@
+{
+  "titleCn": "TorchNeuron：在 AWS Trainium 上运行 Hugging Face 模型比以往更轻松",
+  "overview": "TorchNeuron 是 AWS 为 Trainium 加速器推出的 PyTorch 扩展，让在 Trainium 硬件上运行 Hugging Face 模型变得前所未有地简单。通过统一的 API、自动化模型分割与并行化、以及即插即用的预训练模型库，开发者无需深入底层硬件即可实现高效推理，同时兼顾成本与性能。",
+  "sections": [
+    {
+      "heading": "一键部署 Hugging Face 模型",
+      "summary": "TorchNeuron 提供简洁 API，仅需几行代码即可将 HF 模型加载并部署至 Trainium，免除手动硬件配置。"
+    },
+    {
+      "heading": "自动化模型并行与分割",
+      "summary": "内置自动分割算法将大模型拆分为多核并行计算，无需用户手动调优，即可实现高吞吐量推理。"
+    },
+    {
+      "heading": "成本与性能优势",
+      "summary": "Trainium 专用加速芯片提供高能效比，结合 TorchNeuron 自动优化，可在保持低延迟的同时显著降低部署成本。"
+    }
+  ],
+  "id": "hf-torchneuron",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-19",
+  "hasFullText": false,
+  "generatedAt": "2026-10-20T12:57:29.357007+08:00"
+}
