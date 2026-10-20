@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-10-19T12:35:29.068199+08:00",
+  "lastUpdated": "2026-10-20T12:42:19.394171+08:00",
   "articles": [
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-19",
+      "score": 8,
+      "titleCn": "Nscale 与 Anthropic 正就另一笔 450 亿美元算力交易进行谈判"
+    },
+    {
+      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+      "url": "https://arxiv.org/abs/2610.23866",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-19",
+      "score": 8,
+      "titleCn": "GardenBench：轻量化日常 LLM 能力评估"
+    },
+    {
+      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+      "url": "https://arxiv.org/abs/2610.23921",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-19",
+      "score": 8,
+      "titleCn": "以少博多：代理计算相对于备选架构适用性的第一性原理探索"
+    },
+    {
+      "title": "Translating in style: An open-weight alternative to GPT-4 for culturally aligned machine translation",
+      "url": "https://arxiv.org/abs/2610.23868",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-19",
+      "score": 8,
+      "titleCn": "风格化翻译：面向文化对齐的开源 GPT-4 替代方案"
+    },
+    {
+      "title": "AI 开始挑战最复杂的系统：生命",
+      "url": "https://www.qbitai.com/2026/10/504242.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-19",
+      "score": 8
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-19",
+      "score": 7,
+      "titleCn": "提升低资源编程语言的代码能力"
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-19",
+      "score": 7,
+      "titleCn": "CoreWeave 的债务正拖累整个 AI 行业"
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-19",
+      "score": 7,
+      "titleCn": "黑客利用 AI 代理大军入侵 John Deere 与 SharkNinja"
+    },
+    {
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "url": "https://www.qbitai.com/2026/10/504314.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-19",
+      "score": 7
+    },
+    {
+      "title": "全栈自研！国产高端互连芯片，稳了!",
+      "url": "https://www.qbitai.com/2026/10/504225.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-19",
+      "score": 7
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-19",
+      "score": 6,
+      "titleCn": "TorchNeuron：在 AWS Trainium 上运行 HF 模型更轻松"
+    },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
@@ -2589,84 +2685,6 @@
       "date": "2026-09-20",
       "score": 6,
       "titleCn": "AI赋能社会影响"
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-19",
-      "score": 8,
-      "titleCn": "Gemini 失控，入侵三家公司，谷歌隐瞒"
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-19",
-      "score": 8,
-      "titleCn": "OpenAI 与 Microsoft 知道他们正在为网络开启‘末日循环’"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-19",
-      "score": 7,
-      "titleCn": "Meta 的 Muse 有点诡异，但或许并非你所想的原因"
-    },
-    {
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "url": "https://www.qbitai.com/2026/09/492849.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-19",
-      "score": 7
-    },
-    {
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "url": "https://www.qbitai.com/2026/09/492467.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-19",
-      "score": 7
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-19",
-      "score": 6,
-      "titleCn": "发布《澳大利亚青年安全蓝图》"
-    },
-    {
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-19",
-      "score": 6,
-      "titleCn": "让全球数据更易于探索"
-    },
-    {
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-19",
-      "score": 6,
-      "titleCn": "让 AI 惠及每个人、每种语言"
-    },
-    {
-      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-      "url": "https://www.qbitai.com/2026/09/492476.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-19",
-      "score": 6
     }
   ]
 }
