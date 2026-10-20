@@ -1,0 +1,26 @@
+{
+  "titleCn": "推进低资源编程语言的编码",
+  "overview": "本文围绕在大型语言模型中提升对低资源编程语言的支持展开，讨论了数据稀缺、语法差异等挑战，并介绍了跨语言预训练、语言特定提示微调以及发布的低资源语言基准和IDE插件，帮助开发者在Haskell、Lua、R等语言上获得更准确的代码补全和错误检测。",
+  "sections": [
+    {
+      "heading": "支持挑战",
+      "summary": "低资源语言缺乏大规模公开代码库，导致模型训练数据不足，同时语言语法和库生态差异大，增加了代码生成的难度。"
+    },
+    {
+      "heading": "跨语言微调",
+      "summary": "通过跨语言预训练获取通用语义，再在目标语言子集上进行微调，并引入语言特定提示，使模型更好适配低资源语言的代码结构和库调用。"
+    },
+    {
+      "heading": "基准与插件",
+      "summary": "文章发布了针对低资源语言的基准测试集和配套的IDE插件，开发者可直接在编辑器中体验模型提供的代码补全和错误提示。"
+    }
+  ],
+  "id": "low-resource-programming-languages",
+  "title": "Advancing coding in low‑resource programming languages",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-19",
+  "hasFullText": false,
+  "generatedAt": "2026-10-20T12:56:49.295548+08:00"
+}
