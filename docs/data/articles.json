@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-20T12:42:19.394171+08:00",
+  "lastUpdated": "2026-10-21T12:35:13.396570+08:00",
   "articles": [
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "Terminal X 与资深投资人判断匹配率达 88.6%（使用 GPT‑6.1）"
+    },
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "FairStress：深度评估 LLM 决策公平性"
+    },
+    {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "ALTK‑Evolve：学习记忆在 τ²‑bench 客服任务榜单中超越前沿模型"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "Anthropic 提出 AI 安全法案，若可能导致 50 人以上死亡则可能封禁模型"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "Google 与亚马逊联手，以 AI 应用开发者挑战 Nvidia 的主导地位"
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-20",
+      "score": 8,
+      "titleCn": "Navalia：通过可验证任务合成与长期后训练提升协作 Agent"
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-20",
+      "score": 7,
+      "titleCn": "Google 更个性化的 Gemini AI 将进入车载系统"
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-20",
+      "score": 7,
+      "titleCn": "Pareto‑最优 RTL 代码生成：基于大型语言模型的多目标强化学习"
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-20",
+      "score": 7,
+      "titleCn": "DataPraxis：通过验证工作区演进实现分析任务规模化"
+    },
+    {
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-20",
+      "score": 7
+    },
+    {
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-20",
+      "score": 7
+    },
+    {
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-20",
+      "score": 6
+    },
     {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
@@ -2598,93 +2703,6 @@
       "category": "中文资讯",
       "date": "2026-09-21",
       "score": 6
-    },
-    {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "url": "https://arxiv.org/abs/2609.21096",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-20",
-      "score": 8,
-      "titleCn": "检测大语言模型中的幻觉：追踪上下文共享受损的拓扑特征"
-    },
-    {
-      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "url": "https://www.qbitai.com/2026/09/492946.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-20",
-      "score": 8
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-20",
-      "score": 7,
-      "titleCn": "特朗普称欲组建“AI Force”"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-20",
-      "score": 7,
-      "titleCn": "全球模型公司保守大量秘密"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-20",
-      "score": 7,
-      "titleCn": "谷歌Gemini被指“入侵”其他公司"
-    },
-    {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-20",
-      "score": 7,
-      "titleCn": "RBS-Attention：面向长上下文大语言模型的半径约束稀疏预填充"
-    },
-    {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-20",
-      "score": 7,
-      "titleCn": "注意力感知路由：MoE中路由与注意力的耦合"
-    },
-    {
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "url": "https://www.qbitai.com/2026/09/493179.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-20",
-      "score": 7
-    },
-    {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "url": "https://www.qbitai.com/2026/09/492973.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-20",
-      "score": 7
-    },
-    {
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-09-20",
-      "score": 6,
-      "titleCn": "AI赋能社会影响"
     }
   ]
 }
