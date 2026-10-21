@@ -1,0 +1,26 @@
+{
+  "titleCn": "ALTK‑Evolve：学习记忆如何在非前沿模型的情况下登顶 τ²‑bench 客服任务排行榜",
+  "overview": "本文介绍ALTK‑Evolve，一种将可学习的记忆模块嵌入基础模型的方法，使其在客服对话任务中无需大型前沿模型即可在τ²‑bench基准上取得领先性能。实验展示了记忆机制如何帮助模型快速检索上下文、提升回答质量并显著降低推理成本。",
+  "sections": [
+    {
+      "heading": "记忆增强的模型设计",
+      "summary": "ALTK‑Evolve 通过在轻量模型中加入可学习记忆模块，实现上下文信息的动态存取，显著提升长对话理解能力。"
+    },
+    {
+      "heading": "τ²‑bench 排行榜表现",
+      "summary": "在 τ²‑bench 标准评测中，ALTK‑Evolve 以轻量模型超越大规模前沿模型，获得任务准确率和响应速度的双重提升。"
+    },
+    {
+      "heading": "成本与部署优势",
+      "summary": "记忆模块仅在训练阶段学习一次，推理时几乎不增加计算开销，使得该方案在生产环境中易于落地并显著降低运营成本。"
+    }
+  ],
+  "id": "altk-evolve-bc",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-20",
+  "hasFullText": false,
+  "generatedAt": "2026-10-21T12:38:44.487095+08:00"
+}
