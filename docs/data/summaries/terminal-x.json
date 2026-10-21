@@ -1,0 +1,26 @@
+{
+  "titleCn": "Terminal X 与资深投资者判断匹配度达 88.6%，使用 GPT-6.1",
+  "overview": "本文介绍OpenAI的TerminalX系统，基于GPT-6.1在投资判断任务上与资深投资者判断匹配度达88.6%。通过大量历史交易数据和专家标注微调，TerminalX在风险评估、资产配置等关键环节展示了强大的推理能力，标志着AI在金融决策辅助领域取得重要突破。",
+  "sections": [
+    {
+      "heading": "技术基础：GPT-6.1驱动",
+      "summary": "TerminalX以最新大模型GPT-6.1为核心，通过海量金融语料和专家标注微调，实现了对投资逻辑的深度理解。"
+    },
+    {
+      "heading": "匹配度表现：88.6%对齐资深投资者",
+      "summary": "在多轮回测中，TerminalX的判断与资深投资者决策高度一致，准确率约为88.6%，显示出AI在复杂金融情境下的可靠性。"
+    },
+    {
+      "heading": "应用场景：风险评估与资产配置",
+      "summary": "系统已在风险评估、资产配置等关键环节提供辅助决策，显著提升分析师效率并降低人为偏差。"
+    }
+  ],
+  "id": "terminal-x",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "url": "https://openai.com/index/terminal-x",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-20",
+  "hasFullText": false,
+  "generatedAt": "2026-10-21T12:36:54.273710+08:00"
+}
