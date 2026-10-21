@@ -1,0 +1,26 @@
+{
+  "titleCn": "FairStress：对 LLM 决策公平性的深入评估",
+  "overview": "FairStress 是一个针对大语言模型（LLM）决策公平性的深度评估框架，通过多情境、敏感属性组合的压力测试揭示模型在不同群体间的偏差，并提供量化指标。研究对比多种主流模型，探讨模型规模、提示策略等因素对公平性的影响，指出公平性并不随规模自然提升，建议在训练中加入公平约束并在部署时进行动态监测。",
+  "sections": [
+    {
+      "heading": "FairStress 基准框架",
+      "summary": "通过构建多维度情境，对大语言模型在不同敏感属性下的公平性进行系统性压力测试，评估其在性别、地域、职业等维度的偏差。"
+    },
+    {
+      "heading": "公平性实验与关键发现",
+      "summary": "在不同模型规模、提示策略下进行实验，发现主流模型在跨群体公平性上存在显著差异，且随模型规模增大不必然提升公平表现。"
+    },
+    {
+      "heading": "对模型开发与应用的启示",
+      "summary": "研究提示在模型训练中加入公平约束微调，并建议在实际部署时进行动态公平监测，以降低潜在歧视风险。"
+    }
+  ],
+  "id": "fairstress",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "url": "https://huggingface.co/blog/allenai/fairstress",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-20",
+  "hasFullText": false,
+  "generatedAt": "2026-10-21T12:38:00.391330+08:00"
+}
