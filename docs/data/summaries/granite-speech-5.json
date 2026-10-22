@@ -1,0 +1,26 @@
+{
+  "titleCn": "Granite Speech 5.0：更准确、更快速地转录、翻译与识别说话者",
+  "overview": "文章介绍 Granite Speech 5.0 的语音处理能力升级，重点聚焦更准确、更快速的语音转录、翻译及说话者归属。通过增强模型在识别、跨语言理解和发言者区分方面的表现，旨在提升语音内容处理的效率、清晰度与可靠性。",
+  "sections": [
+    {
+      "heading": "核心能力升级",
+      "summary": "Granite Speech 5.0 围绕转录、翻译和说话者归属进行升级，兼顾识别准确度与处理速度，面向更可靠的语音理解任务。"
+    },
+    {
+      "heading": "多语言处理",
+      "summary": "模型强化跨语言语音内容的识别与翻译能力，使外语音频能够更顺畅地转为文本，并支持后续检索、分析与信息提取。"
+    },
+    {
+      "heading": "说话者区分",
+      "summary": "通过更精确的说话者归属与区分，模型能够定位不同发言者的内容，为会议记录、访谈整理和音频分析提供更清晰的支持。"
+    }
+  ],
+  "id": "granite-speech-5",
+  "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-21",
+  "hasFullText": false,
+  "generatedAt": "2026-10-22T12:31:22.238140+08:00"
+}
