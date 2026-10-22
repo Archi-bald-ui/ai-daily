@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 模型将登陆 Google Cloud",
+  "overview": "OpenAI 宣布其模型将进入 Google Cloud，意味着用户与企业客户有望通过谷歌云平台使用 OpenAI 的智能模型，同时获得云端部署、管理与安全能力。这一合作值得关注之处在于，它可能扩大模型的可及性，并让企业在不同云环境与工具链之间作出更灵活的选择。",
+  "sections": [
+    {
+      "heading": "模型登陆谷歌云",
+      "summary": "文章核心信息是 OpenAI 模型将登陆 Google Cloud，相关客户未来或能在谷歌云环境中访问这些模型，进一步拓宽模型使用与服务覆盖范围。"
+    },
+    {
+      "heading": "企业采用价值",
+      "summary": "对看云上部署的企业而言，重点在于能否结合既有云资源、权限管理和运维体系使用模型，从而降低接入门槛并提升方案选择的灵活性。"
+    },
+    {
+      "heading": "云生态竞争",
+      "summary": "此事体现生成式 AI 市场的生态整合趋势，OpenAI 与大型云平台的协作可能加剧企业客户、开发者及云服务之间的竞争与合作。"
+    }
+  ],
+  "id": "openai-models-google-cloud",
+  "title": "OpenAI models are coming to Google Cloud",
+  "url": "https://openai.com/index/openai-models-google-cloud",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-21",
+  "hasFullText": false,
+  "generatedAt": "2026-10-22T12:31:09.470775+08:00"
+}
