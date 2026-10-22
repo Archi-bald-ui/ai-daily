@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hugging Face × TorchTPU：原生支持 TPU",
+  "overview": "文章介绍 Hugging Face 与 TorchTPU 的结合，重点在于让 PyTorch 工作负载能够原生利用 TPU 加速。借助这一集成，用户有望在熟悉的模型与训练工具链中更顺畅地完成 TPU 适配、训练和部署，进一步降低从 GPU 迁移到 TPU 的使用门槛。",
+  "sections": [
+    {
+      "heading": "原生 TPU 支持",
+      "summary": "TorchTPU 将 PyTorch 与 TPU 硬件更直接地结合，使模型计算能够原生面向 TPU 执行，减少额外适配带来的复杂性。"
+    },
+    {
+      "heading": "生态协同",
+      "summary": "Hugging Face 的模型、工具与社区资源可与 TorchTPU 配合使用，为开发、调试和部署 TPU 模型提供更统一的路径。"
+    },
+    {
+      "heading": "迁移价值",
+      "summary": "对需要大规模算力的团队，原生 TPU 支持有望加速训练与推理工作流，同时保留较为熟悉的 PyTorch 使用体验。"
+    }
+  ],
+  "id": "hf-torchtpu",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "url": "https://huggingface.co/blog/hf-torchtpu",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-21",
+  "hasFullText": false,
+  "generatedAt": "2026-10-22T12:31:34.838335+08:00"
+}
