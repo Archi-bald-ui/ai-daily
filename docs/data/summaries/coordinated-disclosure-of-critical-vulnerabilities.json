@@ -1,0 +1,26 @@
+{
+  "titleCn": "修补星球：当智能体发现严重漏洞时的全球响应协调",
+  "overview": "文章探讨人工智能智能体在发现关键安全漏洞后，如何推动跨组织、跨地区的快速响应与协同修复。重点关注漏洞披露、风险验证、补丁部署和责任分担，展望以全球协作应对新型网络威胁的机制与实践。",
+  "sections": [
+    {
+      "heading": "智能体发现安全风险",
+      "summary": "随着智能体具备更强的分析和探测能力，它们可能更快发现关键漏洞，促使安全问题从人工发现转向自动化辅助识别。"
+    },
+    {
+      "heading": "全球协同修复漏洞",
+      "summary": "面对跨平台、跨地域且影响广泛的安全风险，需要相关方共享信息、验证影响并协调补丁发布，尽量缩短风险暴露时间。"
+    },
+    {
+      "heading": "从发现到行动",
+      "summary": "文章强调漏洞响应不只是技术修补，还涉及披露流程、责任边界和持续监测，建立更高效、更可信的全球协作方式。"
+    }
+  ],
+  "id": "coordinated-disclosure-of-critical-vulnerabilities",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-22",
+  "hasFullText": false,
+  "generatedAt": "2026-10-23T12:36:59.982785+08:00"
+}
