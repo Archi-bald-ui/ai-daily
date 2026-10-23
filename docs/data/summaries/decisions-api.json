@@ -1,0 +1,23 @@
+{
+  "titleCn": "使用 Decisions API 构建响应更迅速的应用",
+  "overview": "OpenAI 介绍 Decisions API，旨在帮助开发者构建更具响应性与交互能力的应用。核心思路是将决策过程封装为可调用的接口，使应用能够结合上下文作出判断并采取后续行动；文章重点涵盖其适用场景、接入思路及实际应用价值。",
+  "sections": [
+    {
+      "heading": "提升应用响应能力",
+      "summary": "通过让应用结合上下文动态作出判断并执行后续操作，可改善交互体验，使系统对用户请求和任务变化作出更及时的反应。",
+      "summary_note": ""
+    },
+    {
+      "heading": "面向实际场景接入",
+      "summary": "文章可能通过典型应用场景说明如何接入 Decisions API，并强调其在智能代理、业务流程和交互式应用中的使用价值。"
+    }
+  ],
+  "id": "decisions-api",
+  "title": "Build more responsive apps with the Decisions API",
+  "url": "https://openai.com/index/decisions-api",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-22",
+  "hasFullText": false,
+  "generatedAt": "2026-10-23T12:36:52.152391+08:00"
+}
