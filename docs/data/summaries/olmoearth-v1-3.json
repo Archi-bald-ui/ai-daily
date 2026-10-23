@@ -1,0 +1,26 @@
+{
+  "titleCn": "OlmoEarth v1.3：面向整个地球的尖端嵌入模型",
+  "overview": "Hugging Face 推出 OlmoEarth v1.3，聚焦面向全球范围的地球观测嵌入模型，旨在将多源卫星与地理数据转化为可复用的向量表示。其看点在于“全星球”覆盖视角，以及为土地变化、气候与环境分析等下游任务提供统一特征基础。",
+  "sections": [
+    {
+      "heading": "全星球尺度",
+      "summary": "OlmoEarth v1.3 强调跨区域、跨数据集的全球地球观测建模，为分析广袤地表及不同地理环境提供统一的表征基础。"
+    },
+    {
+      "heading": "嵌入能力升级",
+      "summary": "该版本将复杂地理信息编码为便于检索、比较和复用的特征向量，减少下游应用直接处理原始遥感数据的负担。"
+    },
+    {
+      "heading": "应用前景",
+      "summary": "统一表征有望降低不同地区与任务重复构建特征的成本，可服务于土地覆盖、环境变化、气候风险等空间分析场景。"
+    }
+  ],
+  "id": "olmoearth-v1-3",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-22",
+  "hasFullText": false,
+  "generatedAt": "2026-10-23T12:37:11.043122+08:00"
+}
