@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-22T12:30:33.933199+08:00",
+  "lastUpdated": "2026-10-23T12:36:05.458020+08:00",
   "articles": [
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-22",
+      "score": 9,
+      "titleCn": "OpenAI拟在IPO前以1.25万亿美元估值筹集300亿美元新资金"
+    },
+    {
+      "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
+      "url": "https://arxiv.org/abs/2610.30277",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-22",
+      "score": 9,
+      "titleCn": "利用人机协同发现循环突破勒默问题的高次障碍"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-22",
+      "score": 8,
+      "titleCn": "使用Decisions API构建响应更迅速的应用"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-22",
+      "score": 8,
+      "titleCn": "修补地球：智能体发现关键漏洞后的全球协同响应"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-22",
+      "score": 8,
+      "titleCn": "OlmoEarth v1.3：面向全球的顶尖嵌入模型"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-22",
+      "score": 8,
+      "titleCn": "决策模型竞争升温，OpenAI让其Jev竞品广泛可用"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-22",
+      "score": 8,
+      "titleCn": "微软穆斯塔法·苏莱曼称其AI在棘手病例上胜过医生，目标是实现“医疗超级智能”"
+    },
+    {
+      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+      "url": "https://arxiv.org/abs/2610.30151",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-22",
+      "score": 7,
+      "titleCn": "“你好”的成本：AI智能体通信协议中握手开销的实证研究"
+    },
+    {
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "url": "https://arxiv.org/abs/2610.30157",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-22",
+      "score": 7,
+      "titleCn": "AI智能体使用MCP还是CLI：自主系统工具集成策略比较分析"
+    },
+    {
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-22",
+      "score": 7
+    },
+    {
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-22",
+      "score": 7
+    },
+    {
+      "title": "谁在给OpenAI供应具身数据？",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-22",
+      "score": 6
+    },
     {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
@@ -2590,111 +2695,6 @@
       "category": "中文资讯",
       "date": "2026-09-23",
       "score": 7
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-22",
-      "score": 9,
-      "titleCn": "OpenAI 发布 GPT-6 Sol 与 Luna，宣称成本更低、错误更少"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "GPT-6 Sol 与 Luna 正式发布"
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "Transformers 现已支持运行 llama.cpp 量化模型"
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "Anthropic 发布 Claude Opus 5.5，强化网络安全防护"
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "高通发布两款聚焦 AI 的新智能手机芯片"
-    },
-    {
-      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
-      "url": "https://arxiv.org/abs/2609.25165",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "Ovis-Embedding：突破通用全模态嵌入的前沿"
-    },
-    {
-      "title": "AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search",
-      "url": "https://arxiv.org/abs/2609.25047",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-22",
-      "score": 8,
-      "titleCn": "AIBuildAI-2.5：通过 LLM 引导树搜索实现高效自主 AI 模型开发"
-    },
-    {
-      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-      "url": "https://www.qbitai.com/2026/09/494179.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-22",
-      "score": 8
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-22",
-      "score": 7,
-      "titleCn": "GPT-6 提示缓存进一步优化"
-    },
-    {
-      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-      "url": "https://arxiv.org/abs/2609.25013",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-22",
-      "score": 7,
-      "titleCn": "现有预条件器能否提升生物医学表格基础学习？TabPFN 优化的实证研究"
-    },
-    {
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "url": "https://www.qbitai.com/2026/09/494263.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-22",
-      "score": 7
-    },
-    {
-      "title": "Agent时代，CPU的价值该重估了",
-      "url": "https://www.qbitai.com/2026/09/494430.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-22",
-      "score": 6
     }
   ]
 }
