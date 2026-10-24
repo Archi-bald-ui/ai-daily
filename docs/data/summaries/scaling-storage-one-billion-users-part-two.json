@@ -1,0 +1,26 @@
+{
+  "titleCn": "快速扩展在线存储，以服务超过10亿 ChatGPT 用户（第二部分）",
+  "overview": "文章聚焦 OpenAI 如何将在线存储基础设施扩展到可支撑超过10亿 ChatGPT 用户，并在第二部分延续前文，探讨高并发、高增长场景下的容量规划、架构演进与可靠性挑战，分享规模化存储系统的经验与权衡。",
+  "sections": [
+    {
+      "heading": "存储规模化挑战",
+      "summary": "介绍在线存储随用户规模快速增长而面临的核心问题，包括容量、吞吐、延迟与成本之间的平衡，以及系统设计需要作出的关键取舍。"
+    },
+    {
+      "heading": "架构演进路径",
+      "summary": "分析超大规模下扩展存储服务的路径，重点讨论分层架构、数据流动、缓存与负载分担等设计如何提升整体吞吐和可用性。"
+    },
+    {
+      "heading": "可靠性与运维",
+      "summary": "总结大规模存储系统在故障、迁移和日常维护中的风险，并说明监控、冗余与弹性机制对稳定服务海量用户的重要性。"
+    }
+  ],
+  "id": "scaling-storage-one-billion-users-part-two",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-23",
+  "hasFullText": false,
+  "generatedAt": "2026-10-24T12:25:49.505536+08:00"
+}
