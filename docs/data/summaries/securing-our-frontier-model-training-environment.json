@@ -1,0 +1,26 @@
+{
+  "titleCn": "保障前沿模型训练环境的安全",
+  "overview": "文章聚焦前沿模型训练环境的安全保障，介绍如何通过强化访问控制、隔离关键系统、持续监控风险与完善应急响应，降低模型、算力及数据在训练流程中遭遇滥用或攻击的可能性。",
+  "sections": [
+    {
+      "heading": "收紧环境访问权限",
+      "summary": "强调对训练任务、管理后台和关键基础设施实施身份认证、最小权限与操作审计，限制未经授权的人员或程序访问模型与数据。"
+    },
+    {
+      "heading": "加强系统隔离与监控",
+      "summary": "通过隔离训练组件、持续监测异常行为及实时追踪资源使用，尽早发现可疑活动，并为潜在安全事件提供可追溯记录。"
+    },
+    {
+      "heading": "完善安全运营机制",
+      "summary": "介绍在日常维护、事件处置和复盘流程中强化安全责任，确保漏洞与配置问题能够及时修复，持续提升训练环境的整体防护能力。"
+    }
+  ],
+  "id": "securing-our-frontier-model-training-environment",
+  "title": "Securing our frontier model training environment",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-23",
+  "hasFullText": false,
+  "generatedAt": "2026-10-24T12:25:56.077154+08:00"
+}
