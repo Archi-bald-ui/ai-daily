@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-10-23T12:36:05.458020+08:00",
+  "lastUpdated": "2026-10-24T12:25:22.745767+08:00",
   "articles": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-23",
+      "score": 8,
+      "titleCn": "快速扩展在线存储，服务超10亿 ChatGPT 用户（第二部分）"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-23",
+      "score": 8,
+      "titleCn": "保障前沿模型训练环境安全"
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-23",
+      "score": 8,
+      "titleCn": "OpenAI 现在训练前沿 AI 模型时已无互联网访问"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-23",
+      "score": 8,
+      "titleCn": "OpenAI 称因存在“重大风险”，将不再使用开放互联网训练 AI 模型"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-23",
+      "score": 8,
+      "titleCn": "闲来无事，AI 智能体开始玩了起来"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-23",
+      "score": 7,
+      "titleCn": "Uber 携手 OpenAI，向全体员工推出 ChatGPT Work"
+    },
+    {
+      "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+      "url": "https://arxiv.org/abs/2610.30154",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-23",
+      "score": 7,
+      "titleCn": "baseVultra：重新分配容量的紧凑型非线性递推模型"
+    },
+    {
+      "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30162",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-23",
+      "score": 7,
+      "titleCn": "FusionEval：面向大语言模型的模型融合基准测试"
+    },
+    {
+      "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-23",
+      "score": 7,
+      "titleCn": "AQL-Lite：通过以数据为中心的持续预训练，高效提升阿拉伯语 LLM 的知识获取能力"
+    },
+    {
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "url": "https://www.qbitai.com/2026/10/504653.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-23",
+      "score": 7
+    },
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-23",
+      "score": 6
+    },
     {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -2597,103 +2694,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-24",
-      "score": 7
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "Sam Altman 在联合国安全理事会的讲话"
-    },
-    {
-      "title": "Introducing MentalHealthBench",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "发布 MentalHealthBench"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "UK AISI 与 EvalEval 如何让基准结果可复现"
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "Meta 让 Muse 更强大并支持视频聊天"
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "Meta Connect 2026：重磅新闻与公告"
-    },
-    {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "Meta AI 代理 Muse 的新功能全览"
-    },
-    {
-      "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
-      "url": "https://arxiv.org/abs/2609.26913",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-09-23",
-      "score": 8,
-      "titleCn": "COMED：多 LLM 推理中路由与协作的缺失环节"
-    },
-    {
-      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-      "url": "https://www.qbitai.com/2026/09/496578.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-23",
-      "score": 8
-    },
-    {
-      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2609.25187",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-23",
-      "score": 7,
-      "titleCn": "X‑Planner：面向具身智能的事件结构化任务规划"
-    },
-    {
-      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
-      "url": "https://arxiv.org/abs/2609.25199",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-23",
-      "score": 7,
-      "titleCn": "Lean Pool：AI 维护的形式化数学档案"
-    },
-    {
-      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-      "url": "https://www.qbitai.com/2026/09/496493.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-23",
       "score": 7
     }
   ]
