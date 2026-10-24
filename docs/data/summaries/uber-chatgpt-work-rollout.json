@@ -1,0 +1,26 @@
+{
+  "titleCn": "Uber携OpenAI向全体员工开放ChatGPT Work",
+  "overview": "OpenAI与Uber合作，将面向企业场景的ChatGPT Work向Uber全体员工开放，员工可借助这一生成式AI工具辅助日常工作与信息处理。文章看点在于，Uber正把AI从个别试点推进至全员部署，体现大型企业在知识工作、效率提升及组织变革中的采用趋势。",
+  "sections": [
+    {
+      "heading": "全员推广",
+      "summary": "Uber将通过与OpenAI的合作，让所有员工使用ChatGPT Work，扩大企业内部生成式AI的覆盖范围，服务日常办公和工作流程优化。"
+    },
+    {
+      "heading": "企业场景",
+      "summary": "文章聚焦ChatGPT Work在企业中的实际定位，强调其作为工作辅助工具的价值，帮助员工处理信息、撰写内容和提升任务效率。"
+    },
+    {
+      "heading": "组织趋势",
+      "summary": "Uber的推广被视为大型科技公司拥抱企业级AI的信号，也反映竞争加剧背景下，企业正加速将生成式AI纳入员工工具链。"
+    }
+  ],
+  "id": "uber-chatgpt-work-rollout",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-23",
+  "hasFullText": false,
+  "generatedAt": "2026-10-24T12:26:03.178517+08:00"
+}
