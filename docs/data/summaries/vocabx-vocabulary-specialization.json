@@ -1,0 +1,26 @@
+{
+  "titleCn": "如何通过定制 SLM 词表，在真实应用中降低 77% 的推理成本",
+  "overview": "文章聚焦小型语言模型（SLM）在实际业务中的推理成本优化，介绍如何针对具体领域定制词表，让模型更高效地表示专业术语与常见表达，从而减少计算开销、提升推理效率。看点在于词表专项化如何结合真实应用需求落地，以及它对模型能力、部署资源和成本控制的影响。",
+  "sections": [
+    {
+      "heading": "定制领域词表",
+      "summary": "面向医疗、代码或客服等垂直场景，将高频术语和常见表达纳入词表，使专业内容被更紧凑地编码，减少序列长度与后续计算负担。"
+    },
+    {
+      "heading": "降低真实成本",
+      "summary": "文章强调，词表调整的价值不只在实验室指标，还体现在真实推理请求中的延迟、吞吐量、显存占用或云端调用成本改善。"
+    },
+    {
+      "heading": "兼顾效率与效果",
+      "summary": "定制词表需要结合目标领域数据、模型分词器和下游任务表现进行评估，避免只追求效率而损害通用理解或实际应用效果。"
+    }
+  ],
+  "id": "vocabx-vocabulary-specialization",
+  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-24",
+  "hasFullText": false,
+  "generatedAt": "2026-10-25T12:29:46.207938+08:00"
+}
