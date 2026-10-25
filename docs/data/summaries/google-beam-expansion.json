@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google Beam扩展：新增区域、合作伙伴与客户",
+  "overview": "Google Beam宣布扩大服务覆盖范围，并新增合作伙伴与客户。Google Beam是一项将企业网络与设备安全连接到Google Cloud的托管专用网络服务。此次更新显示其生态建设持续推进，将提升云端AI工作负载的连接灵活性，并拓展跨区域部署与规模化应用空间。",
+  "sections": [
+    {
+      "heading": "服务版图扩大",
+      "summary": "Google Beam新增更多可用区域，让分散在不同地点的设备和网络更便捷、更可靠地接入Google Cloud。"
+    },
+    {
+      "heading": "合作生态完善",
+      "summary": "随着新合作伙伴加入，相关网络、终端与云服务生态进一步完善，为企业采用托管专用连接能力提供更多选择。"
+    },
+    {
+      "heading": "客户应用增长",
+      "summary": "新增客户表明Google Beam正获得更广泛的企业采用，有助于支撑AI项目、云服务及分布式业务的部署。"
+    }
+  ],
+  "id": "google-beam-expansion",
+  "title": "Google Beam expands with new regions, partners, and customers",
+  "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-10-24",
+  "hasFullText": false,
+  "generatedAt": "2026-10-25T12:30:07.631792+08:00"
+}
