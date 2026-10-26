@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-10-25T12:29:16.196260+08:00",
+  "lastUpdated": "2026-10-26T12:32:48.974676+08:00",
   "articles": [
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-25",
+      "score": 8,
+      "titleCn": "NVIDIA Kumo Relational 在关系数据上优于监督式机器学习，无需训练"
+    },
+    {
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-25",
+      "score": 8,
+      "titleCn": "重试许可：AI 智能体工作流中的授权与恢复机制研究"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "LitPivot：通过文献情境化动态激发研究创意"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 对智能体进行后训练"
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "Google AI 搜索的变革颠覆了在线出版业"
+    },
+    {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "杰克·多西的 Block 打造出一款像笨拙新朋友般与你聊天的 AI 模型"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "Block 的新语音模型听起来逼真得诡异"
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "Phronix：面向智能体的能力中心学习范式"
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-25",
+      "score": 7,
+      "titleCn": "PaperFormalizer：在 Lean 中自动形式化研究论文的作者在环方法"
+    },
     {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
@@ -2582,84 +2663,6 @@
       "category": "中文资讯",
       "date": "2026-09-26",
       "score": 7
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-25",
-      "score": 8,
-      "titleCn": "Anthropic与Akamai达成116亿美元七年云协议"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-25",
-      "score": 8,
-      "titleCn": "美国IPO前，英国AI新云Nscale获得33.6亿美元可转换融资"
-    },
-    {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-25",
-      "score": 8,
-      "titleCn": "Meta的Muse抢走OpenAI和Anthropic的AI风头"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-25",
-      "score": 7,
-      "titleCn": "Proaction借助Codex提升销量60%，节省75+小时"
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-25",
-      "score": 7,
-      "titleCn": "invideo利用GPT‑6 Astra将色彩分级提升3倍"
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-25",
-      "score": 7,
-      "titleCn": "使用NVIDIA Warp和MjWarp加速机器人仿真与学习工作流"
-    },
-    {
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "url": "https://www.qbitai.com/2026/09/497108.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-25",
-      "score": 7
-    },
-    {
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "url": "https://www.qbitai.com/2026/09/497070.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-25",
-      "score": 7
-    },
-    {
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-25",
-      "score": 6
     }
   ]
 }
