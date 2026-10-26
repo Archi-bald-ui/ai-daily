@@ -1,0 +1,26 @@
+{
+  "titleCn": "NVIDIA Kumo Relational 在关系数据上优于监督式机器学习，且无需训练",
+  "overview": "文章介绍 NVIDIA 提出的 Kumo Relational，并聚焦其在关系型数据上的表现：相较于需要训练过程的监督式机器学习方法，该方法无需额外训练即可取得更优效果。核心看点是其处理关系数据的能力，以及降低模型使用门槛、简化部署流程的潜力。",
+  "sections": [
+    {
+      "heading": "无需训练的新路径",
+      "summary": "Kumo Relational 被定位为无需训练即可处理关系型数据的方法，重点比较其与监督式机器学习的效果，突出少配置、易使用的应用价值。"
+    },
+    {
+      "heading": "关系数据优势",
+      "summary": "文章关注模型在关系型数据上的表现，标题给出的结论是其优于传统监督式学习，展示了不依赖训练也能挖掘关系信息的可能性。"
+    },
+    {
+      "heading": "实践与部署意义",
+      "summary": "如果这一优势可在更多任务和环境中复现，Kumo Relational 有望减少训练成本与流程复杂度，为关系数据分析和快速接入现有系统提供新选择。"
+    }
+  ],
+  "id": "kumo-relational",
+  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-25",
+  "hasFullText": false,
+  "generatedAt": "2026-10-26T12:33:14.957265+08:00"
+}
