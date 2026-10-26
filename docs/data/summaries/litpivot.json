@@ -1,0 +1,26 @@
+{
+  "titleCn": "LitPivot：在文献全景中通过动态语境化发展研究构想",
+  "overview": "文章介绍 LitPivot，一种在文献全景中动态语境化研究构想的方法：它将相关论文置于不断变化的学术脉络中，帮助研究者理解议题关联、发现知识空白，并把已有工作转化为可继续推进的研究方向。其看点在于连接文献阅读、趋势定位与选题构思，为 AI 辅助科研提供系统化的思路。",
+  "sections": [
+    {
+      "heading": "动态语境化文献",
+      "summary": "LitPivot 强调在整体文献景观中理解单篇研究，通过动态关联相关工作、主题与脉络，避免孤立阅读，从而提升研究问题的定位能力。"
+    },
+    {
+      "heading": "识别研究空白",
+      "summary": "系统将论文分布、引用关系和主题演进纳入分析语境，用于识别研究热点、交叉方向及尚未充分探索的问题，为科研选题提供依据。"
+    },
+    {
+      "heading": "从洞察到构想",
+      "summary": "其核心价值是把持续更新的文献信息转化为研究灵感，帮助研究者从已有成果出发，提出更连贯、可验证且具有创新性的研究构想。"
+    }
+  ],
+  "id": "litpivot",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-25",
+  "hasFullText": false,
+  "generatedAt": "2026-10-26T12:33:36.072822+08:00"
+}
