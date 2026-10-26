@@ -1,0 +1,26 @@
+{
+  "titleCn": "将数据库评分转化为强化学习奖励：用 ThinkingBox 对智能体进行后训练",
+  "overview": "文章探讨如何将数据库中的可验证评分转化为强化学习奖励，并借助 ThinkingBox 对智能体进行后训练。整体思路是以结构化、客观的评测反馈替代纯示范学习，引导模型在查询、推理和工具调用过程中持续改进；亮点在于把数据库任务与奖励优化更紧密地连接起来。",
+  "sections": [
+    {
+      "heading": "数据库评分即奖励",
+      "summary": "把数据库任务中的正确性、结果匹配或规则校验结果整理为可计算的奖励信号，为智能体后训练提供稳定反馈。"
+    },
+    {
+      "heading": "ThinkingBox 后训练流程",
+      "summary": "ThinkingBox 将智能体在数据库环境中的交互轨迹与评分反馈结合，通过强化学习更新策略，强化任务执行与纠错能力。"
+    },
+    {
+      "heading": "可验证反馈的优势",
+      "summary": "相较于只提供人工示范或最终对错，结构化奖励更易规模化，并能持续反映模型在查询规划、工具使用和结果验证上的表现。"
+    }
+  ],
+  "id": "thinkingbox-training",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-25",
+  "hasFullText": false,
+  "generatedAt": "2026-10-26T12:33:47.267317+08:00"
+}
