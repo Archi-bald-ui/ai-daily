@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-26T12:32:48.974676+08:00",
+  "lastUpdated": "2026-10-27T12:51:14.672927+08:00",
   "articles": [
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-26",
+      "score": 9,
+      "titleCn": "推出 GPT-6.1 Terra"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-26",
+      "score": 9,
+      "titleCn": "Anthropic 招股书中的五大奇怪细节"
+    },
+    {
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-26",
+      "score": 9,
+      "titleCn": "Anthropic 招股书提出以 AI“彻底改变人类活动的各个领域”"
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-26",
+      "score": 9,
+      "titleCn": "Anthropic 正式提交上市申请"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-26",
+      "score": 8,
+      "titleCn": "Greptile 借助 GPT-6 Astra 将漏洞检测拓展至代码审查之外"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-26",
+      "score": 8,
+      "titleCn": "与学术社群携手构建科学认知"
+    },
+    {
+      "title": "Linear-Time Context Compression with State-Space Encoding",
+      "url": "https://arxiv.org/abs/2610.33006",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-26",
+      "score": 8,
+      "titleCn": "基于状态空间编码的线性时间上下文压缩"
+    },
+    {
+      "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+      "url": "https://www.qbitai.com/2026/10/504931.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-26",
+      "score": 8
+    },
+    {
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+      "url": "https://www.qbitai.com/2026/10/504905.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-26",
+      "score": 8
+    },
+    {
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-26",
+      "score": 7,
+      "titleCn": "别忘了刚学到的东西：自我导向修复将智能体错误转化为持久经验"
+    },
+    {
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-26",
+      "score": 7,
+      "titleCn": "超越同策略与异策略之辩：LLM 智能体蒸馏应在何种层面跟随学生模型？"
+    },
+    {
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "url": "https://www.qbitai.com/2026/10/505083.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-26",
+      "score": 7
+    },
     {
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -2603,66 +2708,6 @@
       "category": "中文资讯",
       "date": "2026-09-27",
       "score": 6
-    },
-    {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-26",
-      "score": 9,
-      "titleCn": "OpenAI 暂停训练其最强模型"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-26",
-      "score": 8,
-      "titleCn": "OpenAI 未受保护的代理在实验室不知情的情况下泄露 53 张用户图片"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-26",
-      "score": 7,
-      "titleCn": "Jun Kim，oMLX 创始人兼维护者，加入 Hugging Face 支持 MLX 社区"
-    },
-    {
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-26",
-      "score": 7,
-      "titleCn": "一家公司成为恶意 AI 攻击浪潮的中心"
-    },
-    {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-26",
-      "score": 7
-    },
-    {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-26",
-      "score": 7
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-26",
-      "score": 7
     }
   ]
 }
