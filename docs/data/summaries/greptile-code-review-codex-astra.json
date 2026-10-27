@@ -1,0 +1,26 @@
+{
+  "titleCn": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
+  "overview": "文章聚焦Greptile与OpenAI新模型GPT-6 Astra的结合，展示其如何把AI辅助缺陷检测从传统代码评审拓展到更广泛的研发流程。核心看点是利用模型理解代码上下文、识别潜在问题并提供可执行反馈，帮助团队更早发现风险、降低人工排查成本。原文未披露具体数字，效果仍需实际验证。",
+  "sections": [
+    {
+      "heading": "拓展缺陷检测范围",
+      "summary": "重点不只是检查提交代码，而是探索在更广的研发流程中主动发现潜在缺陷，为团队提供更及时的风险提示。"
+    },
+    {
+      "heading": "模型增强问题定位",
+      "summary": "模型带来的核心看点，是对代码上下文和潜在错误进行更深层理解，并给出可操作的修复建议，辅助开发者解决复杂问题。"
+    },
+    {
+      "heading": "实际效果有待验证",
+      "summary": "由于原文未提供正文，具体功能范围、部署方式、基准测试或效果数据尚不明确，准确率与使用成本仍需进一步验证。"
+    }
+  ],
+  "id": "greptile-code-review-codex-astra",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-26",
+  "hasFullText": false,
+  "generatedAt": "2026-10-27T12:51:56.849819+08:00"
+}
