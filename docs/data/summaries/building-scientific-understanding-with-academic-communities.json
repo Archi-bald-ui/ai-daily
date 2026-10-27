@@ -1,0 +1,22 @@
+{
+  "titleCn": "与学术社区合作构建科学理解",
+  "overview": "文章聚焦如何与学术研究者及各类学术社区协作，通过开放对话、分享专业知识与共同推进项目来增进对科学问题的理解。其看点在于强调AI研究与学术生态的连接：不仅提供工具，也重视信任、反馈、知识共享和长期合作，让研究成果更贴近真实科研需求。",
+  "sections": [
+    {
+      "heading": "协作视角",
+      "summary": "文章认为，科学研究不能仅靠孤立推进，而应借助学术社区的讨论、批评与验证，形成对复杂问题更全面的理解，并持续完善研究方向。"
+    },
+    {
+      "heading": "实践路径",
+      "summary": "可能包括主动倾听研究者需求、开放模型与研究方法、共享资源和成果，以及利用反馈改进系统，使AI能力与学术工作流更紧密衔接。"
+    }
+  ],
+  "id": "building-scientific-understanding-with-academic-communities",
+  "title": "Working with academic communities to build scientific understanding",
+  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-26",
+  "hasFullText": false,
+  "generatedAt": "2026-10-27T12:52:05.315147+08:00"
+}
