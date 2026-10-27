@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 推出 GPT-6.1 Terra",
+  "overview": "OpenAI 推出 GPT-6.1 Terra，本文聚焦这一新模型的发布与定位，并梳理其名称所代表的版本迭代方向、潜在能力侧重及适用场景。由于现有信息仅来自标题，文章价值主要在于揭示 OpenAI 对 Terra 的初步安排，为关注后续模型能力、接口表现与生态更新的读者提供线索。",
+  "sections": [
+    {
+      "heading": "模型发布",
+      "summary": "文章介绍 GPT-6.1 Terra 的亮相，重点传达 OpenAI 已推出该版本，并引发读者对 Terra 这一命名的关注。"
+    },
+    {
+      "heading": "版本演进",
+      "summary": "从 GPT-6.1 的命名来看，内容可能围绕现有系列的新阶段迭代展开，为后续能力变化与应用扩展埋下伏笔。"
+    },
+    {
+      "heading": "后续关注",
+      "summary": "读者可重点留意 Terra 的具体能力、基准表现、开放范围及实际使用方式；这些细节尚需以正式发布说明为准。"
+    }
+  ],
+  "id": "introducing-gpt-6-1-terra",
+  "title": "Introducing GPT-6.1 Terra",
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-26",
+  "hasFullText": false,
+  "generatedAt": "2026-10-27T12:51:43.774022+08:00"
+}
