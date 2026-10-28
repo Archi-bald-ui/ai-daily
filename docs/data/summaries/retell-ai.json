@@ -1,0 +1,26 @@
+{
+  "titleCn": "Retell 利用 OpenAI 模型支撑每月 1 亿次通话",
+  "overview": "这篇资讯介绍了 Retell 如何采用 OpenAI 模型，为其语音智能通话服务提供底层能力。每月约 1 亿次通话的规模，显示生成式 AI 已进入高频、实用的客户服务场景；文章看点在于语音应用与基础模型平台的结合，以及模型能力在真实通话流量中的规模化落地。",
+  "sections": [
+    {
+      "heading": "模型能力落地",
+      "summary": "Retell 将 OpenAI 模型引入语音智能通话产品，使底层模型能力服务于大量真实来电，而不只是停留在原型演示阶段。"
+    },
+    {
+      "heading": "通话规模领先",
+      "summary": "每月约 1 亿次通话是文章最直观的数据点，体现了语音 AI 在规模化商用和用户高频使用方面取得的进展。"
+    },
+    {
+      "heading": "技术合作价值",
+      "summary": "合作展示了应用公司与模型平台协同落地的路径，以模型能力支撑语音服务，为自动化通话场景提供技术基础。"
+    }
+  ],
+  "id": "retell-ai",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "url": "https://openai.com/index/retell-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-27",
+  "hasFullText": false,
+  "generatedAt": "2026-10-28T13:26:56.603943+08:00"
+}
