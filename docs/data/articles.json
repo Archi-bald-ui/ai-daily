@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-27T12:51:14.672927+08:00",
+  "lastUpdated": "2026-10-28T13:26:24.591068+08:00",
   "articles": [
+    {
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-27",
+      "score": 10
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "Retell借助OpenAI模型支撑每月1亿次通话"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "OpenAI扩大与Oracle合作，将应用接入ChatGPT"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "我们的全新AI探索：绘制人脑地图"
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "研究人员受够了OpenAI对突破性成果的管控"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "谷歌下一代Genie AI模型生成更逼真的体验"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "OpenAI宣布三项重大科学发现及与学术界合作的新方式"
+    },
+    {
+      "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2610.36013",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-10-27",
+      "score": 8,
+      "titleCn": "OmniBrain-0：面向具身智能的统一智能体模型"
+    },
+    {
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-27",
+      "score": 7,
+      "titleCn": "Trinity：面向多模态智能体的能力驱动型递归自我改进"
+    },
+    {
+      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+      "url": "https://arxiv.org/abs/2610.36116",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-27",
+      "score": 7,
+      "titleCn": "当AI更擅长科学研究时，人为何及该如何做科学：基于人类理解与引导的框架"
+    },
+    {
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-27",
+      "score": 7
+    },
+    {
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://www.qbitai.com/2026/10/505478.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-27",
+      "score": 6
+    },
     {
       "title": "Introducing GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra",
@@ -2620,93 +2725,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-09-28",
-      "score": 6
-    },
-    {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "OpenAI 代理尝试‘暴力破解’联合国网站"
-    },
-    {
-      "title": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "索尼和 UMG 再次起诉 Suno"
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "Meta Connect：公司的智能眼镜无处不在"
-    },
-    {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "将 AI 引入自主系统——从认知到集体智能"
-    },
-    {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "ScopeBench：代理在目标压力下是否保持参与边界？"
-    },
-    {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-27",
-      "score": 7,
-      "titleCn": "桥接 LLM 代理与数据空间：基于模型上下文协议的架构调解方法"
-    },
-    {
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "url": "https://www.qbitai.com/2026/09/498584.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-27",
-      "score": 7
-    },
-    {
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "url": "https://www.qbitai.com/2026/09/497613.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-27",
-      "score": 7
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-27",
-      "score": 6,
-      "titleCn": "OpenAI 向乌克兰开放网络访问用于民用防御"
-    },
-    {
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-27",
       "score": 6
     }
   ]
