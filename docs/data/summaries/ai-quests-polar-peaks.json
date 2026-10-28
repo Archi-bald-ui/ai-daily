@@ -1,0 +1,26 @@
+{
+  "titleCn": "最新AI探索项目：绘制人类大脑图谱",
+  "overview": "Google AI介绍其最新“AI Quest”项目，聚焦以人工智能辅助绘制和理解人脑结构与功能。文章预计探讨相关模型、工具及研究方法如何处理复杂的脑数据，并结合神经科学与医学应用，展示AI在脑图谱、疾病研究及健康技术中的潜力。",
+  "sections": [
+    {
+      "heading": "项目目标",
+      "summary": "项目以人脑图谱为核心，尝试借助AI整合与分析海量神经科学数据，帮助研究者更系统地理解大脑结构、功能及其复杂关系。"
+    },
+    {
+      "heading": "技术路径",
+      "summary": "内容可能涉及机器学习、空间建模与多模态数据处理等方法，重点提升脑区识别、关联分析和可视化能力，同时关注结果的可解释性。"
+    },
+    {
+      "heading": "应用价值",
+      "summary": "文章将呈现这项探索对神经科学、疾病机制和精准医疗的潜在意义，并为AI与生命科学交叉研究提供新的思路与工具基础。"
+    }
+  ],
+  "id": "ai-quests-polar-peaks",
+  "title": "Our newest AI Quest: Mapping the human brain",
+  "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-10-27",
+  "hasFullText": false,
+  "generatedAt": "2026-10-28T13:27:17.232307+08:00"
+}
