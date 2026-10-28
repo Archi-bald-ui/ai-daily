@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI扩大与Oracle合作，将Oracle应用引入ChatGPT",
+  "overview": "OpenAI宣布扩大与Oracle的合作关系，计划将Oracle旗下应用接入ChatGPT。此举有望丰富ChatGPT可提供的企业服务与工具，让用户通过对话界面更便捷地调用相关应用，同时也体现双方在AI平台生态建设上的进一步合作。",
+  "sections": [
+    {
+      "heading": "深化Oracle合作",
+      "summary": "双方将在现有合作基础上进一步拓展，将Oracle应用带到ChatGPT平台，强化生成式AI与企业软件生态的连接。"
+    },
+    {
+      "heading": "应用生态更丰富",
+      "summary": "借助ChatGPT的对话式入口，用户或能以更自然、便捷的方式使用Oracle应用，拓宽AI辅助企业工作的场景。"
+    },
+    {
+      "heading": "平台协同价值",
+      "summary": "此次合作有助于OpenAI增强平台服务能力，也让Oracle扩大应用触达渠道，形成双方资源协同。"
+    }
+  ],
+  "id": "oracle-apps-in-chatgpt",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-27",
+  "hasFullText": false,
+  "generatedAt": "2026-10-28T13:27:09.138905+08:00"
+}
