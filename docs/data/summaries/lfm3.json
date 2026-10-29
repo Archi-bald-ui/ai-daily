@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 LFM3 构建专用多模态模型",
+  "overview": "文章介绍如何以 LFM3 为基础构建面向特定任务的多模态模型，涵盖模型适配、训练与部署思路。重点在于借助通用多模态能力，通过数据组织和专业化训练形成更贴合具体场景的模型，为视觉与语言融合应用提供可复用路径。",
+  "sections": [
+    {
+      "heading": "从通用模型出发",
+      "summary": "以 LFM3 的通用多模态能力为起点，通过任务定义、针对性数据与适配训练，将模型能力收敛到具体业务需求。"
+    },
+    {
+      "heading": "专业化训练流程",
+      "summary": "梳理从数据准备、训练配置到评估迭代的关键环节，帮助开发者探索兼顾效果与可控性的专用模型构建方法。"
+    },
+    {
+      "heading": "面向实际场景落地",
+      "summary": "讨论多模态模型在视觉理解与语言交互场景中的应用价值，并强调可复用工作流对快速试验和落地的重要性。"
+    }
+  ],
+  "id": "lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-28",
+  "hasFullText": false,
+  "generatedAt": "2026-10-29T13:35:51.145943+08:00"
+}
