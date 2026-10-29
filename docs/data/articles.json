@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-28T13:26:24.591068+08:00",
+  "lastUpdated": "2026-10-29T13:35:27.048998+08:00",
   "articles": [
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-28",
+      "score": 9,
+      "titleCn": "Google 发布 Gemini 4 Carbon，网络安全能力显著跃升"
+    },
+    {
+      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+      "url": "https://www.qbitai.com/2026/10/505719.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-28",
+      "score": 9
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-28",
+      "score": 8,
+      "titleCn": "使用 LFM3 构建专用多模态模型"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-28",
+      "score": 8,
+      "titleCn": "微软从 OpenAI 获得 100 亿美元收入"
+    },
+    {
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-28",
+      "score": 8
+    },
+    {
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-28",
+      "score": 8
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "OpenAI 与 ServiceNow 扩大企业工作流合作"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：可通过提示词控制和适配的智能多语言转录技术"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "微软公布 Azure 实际营收：332 亿美元"
+    },
+    {
+      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+      "url": "https://arxiv.org/abs/2610.36100",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "CohortFlow：具备本地化语义校正的可控临床队列筛选智能体"
+    },
+    {
+      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+      "url": "https://arxiv.org/abs/2610.36146",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "从结构化反馈到提示词策略：学习忠实的文生图提示词编辑器"
+    },
+    {
+      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+      "url": "https://arxiv.org/abs/2610.36169",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-28",
+      "score": 7,
+      "titleCn": "别选赢家：知识冲突需要先验，而非规则"
+    },
     {
       "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
       "url": "https://www.qbitai.com/2026/10/505551.html",
@@ -2639,93 +2744,6 @@
       "category": "中文资讯",
       "date": "2026-09-29",
       "score": 7
-    },
-    {
-      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-      "url": "https://www.qbitai.com/2026/09/499098.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-28",
-      "score": 9
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-28",
-      "score": 8,
-      "titleCn": "Nvidia推出新平台管控失控AI代理"
-    },
-    {
-      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
-      "url": "https://arxiv.org/abs/2609.31792",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-28",
-      "score": 8,
-      "titleCn": "ConflictVLA-Bench：评估视觉-语言-动作模型的前提冲突行为"
-    },
-    {
-      "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
-      "url": "https://arxiv.org/abs/2609.31814",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-28",
-      "score": 8,
-      "titleCn": "DriveHierarchy：诊断VLM驾驶能力——从开环理解到闭环执行"
-    },
-    {
-      "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
-      "url": "https://arxiv.org/abs/2609.31868",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-28",
-      "score": 8,
-      "titleCn": "Metro-WM：基于可实现子目标的长期潜在规划"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-28",
-      "score": 7,
-      "titleCn": "Shopify向基于浏览器的AI代理开放结账功能"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-28",
-      "score": 6,
-      "titleCn": "Basis借助GPT-6 Astra，税务工作簿完成速度提升两倍"
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-09-28",
-      "score": 6,
-      "titleCn": "Microsoft打击危害12,000账户的AI辅助平台"
-    },
-    {
-      "title": "HC归来，华为正重新定义AIDC基础设施",
-      "url": "https://www.qbitai.com/2026/09/498787.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-28",
-      "score": 6
-    },
-    {
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-28",
-      "score": 6
     }
   ]
 }
