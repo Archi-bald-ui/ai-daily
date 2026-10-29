@@ -1,0 +1,26 @@
+{
+  "titleCn": "NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：可提示、可适配的智能多语言转录",
+  "overview": "Hugging Face 介绍 NVIDIA Nemotron 3.5 Transcribe 与 Granary v2，聚焦可通过提示控制并灵活适配的多语言语音转录。文章预计涵盖模型定位、提示式使用方式、跨语言转录能力及适配路径，亮点在于让开发者更快构建满足特定场景与数据需求的转录方案。",
+  "sections": [
+    {
+      "heading": "模型与定位",
+      "summary": "文章围绕 Nemotron 3.5 Transcribe 与 Granary v2 展开，介绍其作为多语言转录模型的能力定位，以及通过提示和适配支持不同使用场景的核心思路。"
+    },
+    {
+      "heading": "提示式转录",
+      "summary": "重点说明如何借助提示调整转录行为，使同一模型适应不同语言、任务要求与输出偏好，同时保留统一工作流带来的便利。"
+    },
+    {
+      "heading": "适配与应用",
+      "summary": "文章还将讨论模型适配方式和开发集成路径，帮助开发者面向特定数据与业务需求优化转录效果。"
+    }
+  ],
+  "id": "nemotron-transcribe-granary",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-28",
+  "hasFullText": false,
+  "generatedAt": "2026-10-29T13:36:09.026056+08:00"
+}
