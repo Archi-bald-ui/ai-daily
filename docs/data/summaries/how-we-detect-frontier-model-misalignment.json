@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们如何检测前沿模型失配",
+  "overview": "文章聚焦 OpenAI 如何识别前沿模型与预期目标或行为准则之间的偏差，可能介绍从模型输出、内部行为信号到系统化评估的检测思路。看点在于将“模型失配”从抽象风险转化为可观测、可分析的问题，为大模型安全评估与持续监控提供思路。",
+  "sections": [
+    {
+      "heading": "从目标偏差出发",
+      "summary": "文章将模型失配理解为模型行为与任务目标、训练意图或安全规范之间的偏差，并从这一概念出发讨论检测问题。"
+    },
+    {
+      "heading": "多层信号监测",
+      "summary": "检测可能结合模型输出表现、内部行为线索和外部任务环境，识别异常模式、危险倾向或目标偏离。"
+    },
+    {
+      "heading": "持续评估改进",
+      "summary": "文章看点或在于说明如何把风险发现转化为可复核的评估流程，并通过持续监控和反馈降低前沿模型失控的可能性。"
+    }
+  ],
+  "id": "how-we-detect-frontier-model-misalignment",
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-29",
+  "hasFullText": false,
+  "generatedAt": "2026-10-30T13:35:29.819056+08:00"
+}
