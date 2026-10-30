@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 Le Chonk：Mistral Large 4 登陆 Hugging Face",
+  "overview": "Hugging Face 宣布迎来 Le Chonk，即 Mistral Large 4，并向社区开放相关模型资源。文章聚焦该模型在平台上的发布与使用入口，介绍其定位、社区关注点及可探索方向，帮助开发者了解如何接触、评估并尝试这一新模型。",
+  "sections": [
+    {
+      "heading": "模型亮相",
+      "summary": "文章介绍 Le Chonk 是 Mistral Large 4 的昵称，并宣布模型登陆 Hugging Face。亮点在于大型模型被正式纳入社区平台，便于开发者关注后续资料与工具支持。"
+    },
+    {
+      "heading": "平台资源",
+      "summary": "借助 Hugging Face 的模型托管与社区生态，读者可期待获取模型页面、相关文件和使用说明。文章的重点是展示这一发布的平台入口与生态价值。"
+    },
+    {
+      "heading": "实践关注",
+      "summary": "对开发者和研究者而言，此次上线提供了接触 Mistral Large 4 的新起点，可围绕模型能力、适用场景和实际效果开展进一步评估。"
+    }
+  ],
+  "id": "mistral-large4",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-29",
+  "hasFullText": false,
+  "generatedAt": "2026-10-30T13:35:11.831067+08:00"
+}
