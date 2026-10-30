@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-29T13:35:27.048998+08:00",
+  "lastUpdated": "2026-10-30T13:34:37.421778+08:00",
   "articles": [
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-29",
+      "score": 9,
+      "titleCn": "欢迎 Le Chonk：Mistral Large 4 上线 Hugging Face"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-29",
+      "score": 9,
+      "titleCn": "Mistral 发布万亿参数 AI 模型权重，瞄准网络安全"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-29",
+      "score": 8,
+      "titleCn": "更新模型规范，打造更强大且更有益的 AI"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-29",
+      "score": 8,
+      "titleCn": "我们如何检测前沿模型失准"
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-29",
+      "score": 8,
+      "titleCn": "现可在 Gemini 对话中直接生成和编辑 Google Docs 文件"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-29",
+      "score": 8,
+      "titleCn": "OpenAI 支持的 Thrive Holdings 收购 ADT"
+    },
+    {
+      "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
+      "url": "https://www.qbitai.com/2026/10/506477.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-29",
+      "score": 8
+    },
+    {
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-29",
+      "score": 7
+    },
+    {
+      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+      "url": "https://www.qbitai.com/2026/10/506569.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-29",
+      "score": 7
+    },
     {
       "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
       "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
@@ -2639,111 +2717,6 @@
       "category": "中文资讯",
       "date": "2026-09-30",
       "score": 6
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-29",
-      "score": 10,
-      "titleCn": "DevDay 2026 回顾"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-29",
-      "score": 9,
-      "titleCn": "推出 GPT-6.1 Sol"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "面向前沿 AI 训练的安全案例"
-    },
-    {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "OpenAI 推出 Dots，挑战 Muse"
-    },
-    {
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "OpenAI DevDay 2026：重大新闻与公告"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "OpenAI 最新功能直接瞄准应用商店模式"
-    },
-    {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "神经符号路由实现资源受限边缘设备的可靠推理"
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "url": "https://arxiv.org/abs/2609.35868",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-29",
-      "score": 8,
-      "titleCn": "LLM 微调是否必须使用人类可读文本？"
-    },
-    {
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "url": "https://www.qbitai.com/2026/09/499246.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-29",
-      "score": 8
-    },
-    {
-      "title": "OpenAI因新模型太强叫停发布",
-      "url": "https://www.qbitai.com/2026/09/499140.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-29",
-      "score": 8
-    },
-    {
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-29",
-      "score": 7,
-      "titleCn": "OpenAI-HuggingFace：复现与对齐测试的启示"
-    },
-    {
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "url": "https://www.qbitai.com/2026/09/499263.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-29",
-      "score": 7
     }
   ]
 }
