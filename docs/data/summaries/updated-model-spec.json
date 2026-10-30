@@ -1,0 +1,26 @@
+{
+  "titleCn": "更新模型规范，打造更强大且更有益的 AI",
+  "overview": "OpenAI 更新模型规范（Model Spec），为能力更强、用途更广的 AI 系统明确行为准则与安全边界。内容聚焦如何提升模型在复杂任务中的可靠性，同时通过一致的价值取向、风险控制与人类监督，推动系统能力增长与公共利益更协调地结合。",
+  "sections": [
+    {
+      "heading": "更强能力的行为要求",
+      "summary": "新版规范面向更复杂、更具自主性的 AI 应用，进一步明确模型在理解指令、调用工具和完成任务时应遵循的行为准则。"
+    },
+    {
+      "heading": "安全边界与价值对齐",
+      "summary": "规范强调在提升模型能力的同时守住安全边界，通过一致的价值取向与风险控制，减少不可预测或有害的行为。"
+    },
+    {
+      "heading": "人类监督与公共利益",
+      "summary": "文章关注如何让 AI 的能力增长更可靠、更负责任，并强调人类监督以及有益社会目标在系统设计中的重要性。"
+    }
+  ],
+  "id": "updated-model-spec",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-29",
+  "hasFullText": false,
+  "generatedAt": "2026-10-30T13:35:22.407347+08:00"
+}
