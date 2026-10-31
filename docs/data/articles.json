@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-10-30T13:34:37.421778+08:00",
+  "lastUpdated": "2026-10-31T13:23:21.585181+08:00",
   "articles": [
+    {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-30",
+      "score": 8,
+      "titleCn": "Nemotron 万圣节"
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-30",
+      "score": 8,
+      "titleCn": "Apple Intelligence 终于将随 iOS 27.3 登陆中国"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-30",
+      "score": 8,
+      "titleCn": "AI 支出热潮正出现裂痕"
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-10-30",
+      "score": 8,
+      "titleCn": "Anthropic 的 VS Code 扩展在 Cursor 上遭植入后门近 12 小时"
+    },
+    {
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-30",
+      "score": 8
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-30",
+      "score": 7,
+      "titleCn": "让网站更容易表达 AI 训练偏好"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-10-30",
+      "score": 7,
+      "titleCn": "社区安全报告及面向青少年的新保护措施"
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-30",
+      "score": 7,
+      "titleCn": "LRMoE：面向内存受限节点的高效 MoE 训练需求侧负载再校准"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-30",
+      "score": 7,
+      "titleCn": "OpenFrontiers：开放研究问题集与科学重现基准"
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-10-30",
+      "score": 7,
+      "titleCn": "WebAnything：从真实网络到可扩展智能体环境"
+    },
+    {
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-30",
+      "score": 7
+    },
+    {
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-30",
+      "score": 6
+    },
     {
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "url": "https://huggingface.co/blog/mistral-large4",
@@ -2612,111 +2717,6 @@
       "date": "2026-10-01",
       "score": 7,
       "titleCn": "长程语言代理中的重尾记忆痕迹"
-    },
-    {
-      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-30",
-      "score": 9,
-      "titleCn": "谷歌宣布Gemini 4，称其强大到仅限‘受信任的网络防御者’使用"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-09-30",
-      "score": 9,
-      "titleCn": "谷歌发布Gemini 4 Argon，被誉为迄今最强模型"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-30",
-      "score": 8,
-      "titleCn": "破坏协同模型蒸馏行动"
-    },
-    {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-09-30",
-      "score": 8,
-      "titleCn": "特朗普协议下，科技领袖将如何自我监管AI安全"
-    },
-    {
-      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "url": "https://arxiv.org/abs/2609.38359",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-30",
-      "score": 8,
-      "titleCn": "超越模式崩溃：通过生成流网络生成多样化合成专家对话"
-    },
-    {
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-30",
-      "score": 8
-    },
-    {
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "url": "https://www.qbitai.com/2026/09/499308.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-30",
-      "score": 8
-    },
-    {
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-09-30",
-      "score": 7,
-      "titleCn": "发布dots"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-09-30",
-      "score": 7,
-      "titleCn": "Open TTS排行榜：可扩展的多语言文本转语音与语音克隆评估"
-    },
-    {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "url": "https://arxiv.org/abs/2609.38288",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-30",
-      "score": 7,
-      "titleCn": "AREX-2：通过长程反思任务推进自我改进智能体"
-    },
-    {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "url": "https://arxiv.org/abs/2609.38294",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-09-30",
-      "score": 7,
-      "titleCn": "MoFlow：多目标智能体工作流生成"
-    },
-    {
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-09-30",
-      "score": 6
     }
   ]
 }
