@@ -1,0 +1,26 @@
+{
+  "titleCn": "Nemotron 万圣节特辑模型",
+  "overview": "HuggingFace 上出现了名为“nemotron-halloween”的模型条目，名称显示它很可能以 NVIDIA 的 Nemotron 系列模型为基础， 针对万圣节主题做了专门的指令微调或偏好对齐，主打角色扮演、恐怖风格创意写作等场景。这篇文章应会介绍该模型的发布内容、配置与使用方式，看点在于用轻量的主题化微调，把通用基座快速改造成有氛围感的对话模型，为社区提供了一个可直接试用、可二次创作的开源范例。",
+  "sections": [
+    {
+      "heading": "模型发布背景",
+      "summary": "文章介绍 Nemotron-halloween 的诞生思路与命名由来，说明其与 NVIDIA Nemotron 系列基座模型的继承关系，以及选择万圣节主题进行微调的动机和趣味性。"
+    },
+    {
+      "heading": "主题化微调做法",
+      "summary": "梳理该模型在训练数据构造、指令模板与参数配置上的处理思路，说明如何让基座模型稳定输出符合万圣节氛围、保留通用能力的角色扮演风格。"
+    },
+    {
+      "heading": "上手与二次开发",
+      "summary": "给出模型权重的获取方式、加载与对话示例，以及基于它继续做风格调整、角色扩展或部署推理的可行路径，方便读者快速动手。"
+    }
+  ],
+  "id": "nemotron-halloween",
+  "title": "nemotron-halloween",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-31T13:23:44.555890+08:00"
+}
