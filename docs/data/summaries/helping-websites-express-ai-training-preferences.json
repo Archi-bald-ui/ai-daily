@@ -1,0 +1,26 @@
+{
+  "titleCn": "让网站更容易表达 AI 训练偏好",
+  "overview": "OpenAI 探讨如何让网站更便捷地声明其内容是否允许被用于 AI 模型训练。核心方向是建立统一、易采用的偏好表达机制，使站点所有者能够清楚表达授权或限制，并方便相关工具识别和尊重这些设置，从而改善内容授权生态。",
+  "sections": [
+    {
+      "heading": "统一偏好表达",
+      "summary": "文章聚焦如何标准化记录网站的 AI 训练用途偏好，让站点所有者以更简单的方式表达允许或拒绝态度。"
+    },
+    {
+      "heading": "便于工具识别",
+      "summary": "相关偏好信息需要便于抓取和解析，使训练数据采集工具能够准确获取并尊重网站设置的授权边界。"
+    },
+    {
+      "heading": "改善授权生态",
+      "summary": "清晰且易用的表达方式有望减少网站与 AI 工具之间的误解和冲突，推动更规范的内容使用实践。"
+    }
+  ],
+  "id": "helping-websites-express-ai-training-preferences",
+  "title": "Making it easier for websites to express AI training preferences",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-31T13:23:51.642374+08:00"
+}
