@@ -1,0 +1,26 @@
+{
+  "titleCn": "社区安全报告与面向青少年的新保护措施",
+  "overview": "OpenAI发布社区安全报告，并公布面向青少年的新一轮保护措施。内容聚焦青少年使用生成式AI时可能遇到的有害内容、隐私与互动风险，以及平台在产品设计、家长监督和滥用处置方面提供的防护。看点在于将安全实践与产品改进结合，进一步提升青少年使用体验的可信度与可控性。",
+  "sections": [
+    {
+      "heading": "报告聚焦安全风险",
+      "summary": "社区安全报告梳理青少年使用AI平台时值得关注的安全问题，呈现潜在风险与平台责任，为改进线上防护提供参考。"
+    },
+    {
+      "heading": "强化青少年保护",
+      "summary": "新措施针对未成年用户的使用场景，可能涉及年龄适配、风险拦截、隐私控制及举报申诉机制，以减少不当接触和互动。"
+    },
+    {
+      "heading": "推动家庭协同治理",
+      "summary": "文章强调家长、监护人与平台协同治理的重要性，帮助家庭了解使用风险，为未成年人建立更安全、透明且可监督的数字体验。"
+    }
+  ],
+  "id": "community-safety-report-and-new-protections-for-teens",
+  "title": "Community safety report and new protections for teens",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-10-30",
+  "hasFullText": false,
+  "generatedAt": "2026-10-31T13:23:58.719831+08:00"
+}
