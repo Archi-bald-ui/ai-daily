@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-10-31T13:23:21.585181+08:00",
+  "lastUpdated": "2026-11-01T13:49:55.045953+08:00",
   "articles": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-10-31",
+      "score": 8,
+      "titleCn": "OpenAI据报道下调新一轮融资目标"
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-31",
+      "score": 8
+    },
+    {
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "url": "https://www.qbitai.com/2026/10/506785.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-31",
+      "score": 8
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-31",
+      "score": 7,
+      "titleCn": "Granite Switch 4.1.1：像更新软件一样更新模型"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-31",
+      "score": 7,
+      "titleCn": "Project ProtoStar发布：让公共资助的科学研究具备AI应用能力"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-10-31",
+      "score": 7,
+      "titleCn": "AnySpeechRecognizer与AnyDecisionModel：面向苹果平台的语音与决策开放模型"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-31",
+      "score": 7,
+      "titleCn": "AI巨头支持拒绝被抓取的新机制"
+    },
+    {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-10-31",
+      "score": 7,
+      "titleCn": "谷歌卫星AI服务器首次向地球传输响应"
+    },
+    {
+      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+      "url": "https://www.qbitai.com/2026/10/506771.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-10-31",
+      "score": 7
+    },
     {
       "title": "nemotron-halloween",
       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -2612,111 +2690,6 @@
       "category": "中文资讯",
       "date": "2026-10-02",
       "score": 7
-    },
-    {
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-01",
-      "score": 9
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-01",
-      "score": 8,
-      "titleCn": "Olmo-core 3：面向大规模 MoE 的开放可扩展训练基础设施"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-01",
-      "score": 8,
-      "titleCn": "Holo4：赋能通用计算机使用智能体"
-    },
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-01",
-      "score": 8,
-      "titleCn": "OpenAI 新代理挑战 Meta——能否与免费产品竞争？"
-    },
-    {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-01",
-      "score": 8,
-      "titleCn": "从提案到验证效应：Praxa——基于证据的治理 AI 代理执行框架"
-    },
-    {
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "url": "https://arxiv.org/abs/2610.00061",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-01",
-      "score": 8,
-      "titleCn": "梯度对齐配对选择实现个性化偏好优化"
-    },
-    {
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-01",
-      "score": 8
-    },
-    {
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "url": "https://www.qbitai.com/2026/09/499592.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-01",
-      "score": 8
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-01",
-      "score": 7,
-      "titleCn": "AutoSynthData：为企业代理生成训练数据"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-01",
-      "score": 7,
-      "titleCn": "OpenAI 解除与三名安全研究员的合作，WSJ 报道"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-01",
-      "score": 7,
-      "titleCn": "Amazon 发布自有 Jev 克隆版——决策模型在网络上泛滥"
-    },
-    {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-01",
-      "score": 7,
-      "titleCn": "长程语言代理中的重尾记忆痕迹"
     }
   ]
 }
