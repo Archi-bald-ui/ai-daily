@@ -1,0 +1,26 @@
+{
+  "titleCn": "Granite Switch 4.1.1：像更新软件一样更新模型",
+  "overview": "Hugging Face 发布 Granite Switch 4.1.1，聚焦让模型更新流程更接近常见的软件升级体验。文章预计介绍如何更方便地替换、迭代和部署模型，以及版本管理对持续实验与上线维护的价值，方便开发者快速了解此次更新的核心方向。",
+  "sections": [
+    {
+      "heading": "更简单的模型更新",
+      "summary": "此次更新把重点放在降低模型替换与升级门槛，让开发者能够沿用类似软件更新的方式迭代模型。"
+    },
+    {
+      "heading": "版本化迭代",
+      "summary": "通过版本化思路管理模型变化，有助于追踪配置与版本差异，减少反复调整时的不确定性。"
+    },
+    {
+      "heading": "衔接模型部署",
+      "summary": "内容预计强调模型更新与部署流程的衔接，方便在实验、验证和上线阶段之间更快推进。"
+    }
+  ],
+  "id": "granite-switch-4-1-1",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-31",
+  "hasFullText": false,
+  "generatedAt": "2026-11-01T13:50:16.726135+08:00"
+}
