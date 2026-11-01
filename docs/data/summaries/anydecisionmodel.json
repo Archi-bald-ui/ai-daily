@@ -1,0 +1,26 @@
+{
+  "titleCn": "AnySpeechRecognizer 与 AnyDecisionModel：面向 Apple 平台的语音与决策开放模型",
+  "overview": "文章介绍了 AnySpeechRecognizer 和 AnyDecisionModel 两款面向 Apple 平台的开放模型，分别聚焦语音识别与决策能力。其看点在于将语音输入理解和任务决策以开放模型形式引入苹果设备生态，为开发者构建语音交互、智能辅助及决策类应用提供更多选择。",
+  "sections": [
+    {
+      "heading": "开放模型组合",
+      "summary": "两款模型分别覆盖语音识别与决策任务，形成从感知输入到辅助判断的基础能力组合，便于开发者评估和集成。"
+    },
+    {
+      "heading": "适配 Apple 生态",
+      "summary": "模型主要面向 Apple 平台与相关设备场景，为移动端和桌面端应用提供可组合的语音及决策能力。"
+    },
+    {
+      "heading": "开放生态价值",
+      "summary": "开放模型有助于降低使用和二次开发门槛，可用于语音交互、智能辅助与决策原型，并支持效果对比。"
+    }
+  ],
+  "id": "anydecisionmodel",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-10-31",
+  "hasFullText": false,
+  "generatedAt": "2026-11-01T13:50:34.314467+08:00"
+}
