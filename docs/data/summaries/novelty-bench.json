@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们能相信大语言模型判断研究创意是否新颖吗？",
+  "overview": "文章探讨利用大语言模型评估研究想法新颖性的可靠性，重点关注模型判断可能受到训练数据、提示方式和既有认知的影响。看点在于揭示自动化评审的优势、偏差与局限，并反思其能否真正替代专家对原创性的判断。",
+  "sections": [
+    {
+      "heading": "模型如何评审创意",
+      "summary": "介绍让大语言模型比较研究想法与已有工作的基本思路，以及通过提示和上下文辅助判断新颖性的可能路径。"
+    },
+    {
+      "heading": "判断偏差与盲区",
+      "summary": "模型可能依赖训练语料中的相似表述，对熟悉或新颖程度不同的想法产生不一致判断，因此评审结果需要谨慎解读。"
+    },
+    {
+      "heading": "专家判断仍不可替代",
+      "summary": "大模型适合用于初步筛选和辅助讨论，但创意价值依赖具体语境与专业判断，不能将自动评分直接视为可靠结论。"
+    }
+  ],
+  "id": "novelty-bench",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-01",
+  "hasFullText": false,
+  "generatedAt": "2026-11-02T13:52:16.425966+08:00"
+}
