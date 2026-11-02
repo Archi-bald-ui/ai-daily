@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-01T13:49:55.045953+08:00",
+  "lastUpdated": "2026-11-02T13:51:29.896738+08:00",
   "articles": [
+    {
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-01",
+      "score": 9
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-01",
+      "score": 8,
+      "titleCn": "我们能相信 LLM 判断研究创意是否新颖吗？"
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-01",
+      "score": 8,
+      "titleCn": "无需环境复制的智能体世界建模，实现智能体测试时扩展"
+    },
+    {
+      "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+      "url": "https://arxiv.org/abs/2610.40747",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-01",
+      "score": 8,
+      "titleCn": "Mage-VL-Cowork：从进化型框架中学习混合计算机操作的完整训练方案"
+    },
+    {
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-01",
+      "score": 8
+    },
+    {
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-01",
+      "score": 8
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-01",
+      "score": 7,
+      "titleCn": "合理使用惠及所有人"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-01",
+      "score": 7,
+      "titleCn": "英伟达考虑为 Nscale 西弗吉尼亚州 AI 数据中心提供联合担保"
+    },
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-01",
+      "score": 7,
+      "titleCn": "规则更多、清单更长？在隐藏规则课程中评测自我进化智能体"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-01",
+      "score": 6,
+      "titleCn": "Ropes & Gray 如何开发用于交易尽职调查的 AI"
+    },
+    {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-01",
+      "score": 6,
+      "titleCn": "利奥教皇呼吁解除 AI 武装：“机器是工具，不是人”"
+    },
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-11-01",
+      "score": 6,
+      "titleCn": "用户分享对话时，Meta Muse 会暴露其个人及商业秘密"
+    },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -2612,84 +2717,6 @@
       "category": "中文资讯",
       "date": "2026-10-03",
       "score": 6
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-02",
-      "score": 8,
-      "titleCn": "GPT-6 家族模型指南"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-02",
-      "score": 8,
-      "titleCn": "NVIDIA Kumo Tabular 为表格预测树立精度-效率新标杆"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-02",
-      "score": 8,
-      "titleCn": "来源感知验证：为 MCP 代理确保来源正确"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-02",
-      "score": 8,
-      "titleCn": "Apple 因 AI 代理新风险收紧 macOS「完全磁盘访问」控制"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-10-02",
-      "score": 8,
-      "titleCn": "Apple 调整全盘访问权限以遏制 AI 代理滥用"
-    },
-    {
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-02",
-      "score": 8
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-02",
-      "score": 7,
-      "titleCn": "Meta 开源代码，助你打造 Muse AI 小工具"
-    },
-    {
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-02",
-      "score": 7
-    },
-    {
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-02",
-      "score": 7
     }
   ]
 }
