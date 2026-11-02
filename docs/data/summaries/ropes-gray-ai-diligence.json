@@ -1,0 +1,26 @@
+{
+  "titleCn": "Ropes & Gray如何利用人工智能开展交易尽调",
+  "overview": "OpenAI聚焦律师事务所Ropes & Gray探索人工智能在交易尽调中的应用，重点涉及利用生成式AI辅助审阅海量文件、识别潜在风险并提升尽调效率。看点在于法律服务如何结合大模型能力，缩短重复性工作耗时，同时支持律师完成更复杂的判断与决策。",
+  "sections": [
+    {
+      "heading": "人工智能辅助文件审阅",
+      "summary": "交易尽调通常涉及大量合同、披露文件和合规材料。生成式AI可帮助快速梳理和审阅文件，提取关键信息，减少律师处理重复性内容的时间。"
+    },
+    {
+      "heading": "风险识别与尽调效率",
+      "summary": "通过自然语言处理和数据分析，AI能够辅助发现异常条款、遗漏事项及潜在合规问题，为交易风险判断提供支持，并提升整体尽调效率。"
+    },
+    {
+      "heading": "人机协作的法律实践",
+      "summary": "文章重点呈现Ropes & Gray探索AI的实际思路：将其作为律师工作的辅助工具，而非取代专业判断，同时重视准确性、保密性与结果复核。"
+    }
+  ],
+  "id": "ropes-gray-ai-diligence",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-01",
+  "hasFullText": false,
+  "generatedAt": "2026-11-02T13:54:22.928431+08:00"
+}
