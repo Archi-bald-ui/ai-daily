@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-02T13:51:29.896738+08:00",
+  "lastUpdated": "2026-11-03T14:32:44.498106+08:00",
   "articles": [
+    {
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-02",
+      "score": 9
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-02",
+      "score": 8,
+      "titleCn": "OpenAI 的 Git 规模化实践"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-02",
+      "score": 8,
+      "titleCn": "《纽约时报》起诉 Brave 浏览器，指控其抓取 AI 数据并绕过付费墙"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-02",
+      "score": 8,
+      "titleCn": "Anthropic 警告：其能力已非常接近 RSI，即自我构建 AI"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-02",
+      "score": 8,
+      "titleCn": "42AI 结束隐身，融资 6250 万美元，推出可预测人类行为的世界模型"
+    },
+    {
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "url": "https://www.qbitai.com/2026/11/507225.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-02",
+      "score": 8
+    },
+    {
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-02",
+      "score": 7,
+      "titleCn": "LifeVal"
+    },
+    {
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-02",
+      "score": 7
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-02",
+      "score": 6,
+      "titleCn": "推出 Grid Protectors 计划"
+    },
     {
       "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
       "url": "https://www.qbitai.com/2026/10/506904.html",
@@ -2639,84 +2717,6 @@
       "date": "2026-10-04",
       "score": 6,
       "titleCn": "Capcom 正筹备‘与 AI 共创游戏的未来’"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-10-03",
-      "score": 8,
-      "titleCn": "2026年9月我们公布的最新AI资讯"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-03",
-      "score": 8,
-      "titleCn": "开源AstaBrief：Asta快速报告生成模型"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-03",
-      "score": 8,
-      "titleCn": "OpenAI安全员工离职并发出警告"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-03",
-      "score": 7,
-      "titleCn": "Chatham借助OpenAI扩展资本市场专业能力"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-03",
-      "score": 7,
-      "titleCn": "苹果限制Mac磁盘访问，因AI代理“大幅”提升风险"
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-03",
-      "score": 7,
-      "titleCn": "OpenAI的Dot代理：企业软件还能帮你订餐"
-    },
-    {
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-03",
-      "score": 7
-    },
-    {
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-03",
-      "score": 7
-    },
-    {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-03",
-      "score": 6
     }
   ]
 }
