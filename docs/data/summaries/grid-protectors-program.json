@@ -1,0 +1,26 @@
+{
+  "titleCn": "电网保护者计划",
+  "overview": "OpenAI推出“电网保护者计划”，聚焦如何借助人工智能与跨领域协作，提升电网的稳定性、安全性与韧性。文章将介绍计划背景、核心目标及参与方式，展示AI在识别风险、优化电力系统和应对电网挑战方面的潜力。",
+  "sections": [
+    {
+      "heading": "计划定位",
+      "summary": "该计划面向电力系统中的安全、稳定与韧性议题，探索将人工智能用于风险识别、运行监测和资源调度等关键环节。"
+    },
+    {
+      "heading": "核心价值",
+      "summary": "文章强调，电网保护需要技术能力与实际场景结合；AI可通过分析复杂数据、辅助判断和提升决策效率，支持更可靠的电力供应。"
+    },
+    {
+      "heading": "合作展望",
+      "summary": "OpenAI希望借助外部合作与创新实践推动电网能力建设，并为技术开发者、研究者和行业伙伴提供共同探索的框架。"
+    }
+  ],
+  "id": "grid-protectors-program",
+  "title": "Introducing the Grid Protectors Program",
+  "url": "https://openai.com/index/grid-protectors-program",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-02",
+  "hasFullText": false,
+  "generatedAt": "2026-11-03T14:33:51.128330+08:00"
+}
