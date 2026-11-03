@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 如何规模化扩展 Git",
+  "overview": "这篇 OpenAI 技术文章聚焦于在大规模研发环境中扩展 Git 的实践，讨论代码仓库规模增长后，版本控制、协作流程、权限管理及基础设施可能面临的挑战，并分享提升 Git 使用效率与可维护性的系统化思路。",
+  "sections": [
+    {
+      "heading": "规模带来的挑战",
+      "summary": "随着代码、团队和仓库数量增加，Git 在性能、可靠性与协作体验方面的压力也会上升，需要系统性应对。"
+    },
+    {
+      "heading": "工程化扩展路径",
+      "summary": "内容预计围绕仓库治理、工作流标准化、自动化工具和基础设施优化，介绍如何承载更大规模的 Git 使用需求。"
+    },
+    {
+      "heading": "协作与安全治理",
+      "summary": "大规模使用 Git 还需兼顾权限控制、代码审查和变更追踪，确保多人协作过程既高效、安全，也便于维护。"
+    }
+  ],
+  "id": "scaling-git-at-openai",
+  "title": "Scaling Git at OpenAI",
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-02",
+  "hasFullText": false,
+  "generatedAt": "2026-11-03T14:33:13.896934+08:00"
+}
