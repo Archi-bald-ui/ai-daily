@@ -1,0 +1,26 @@
+{
+  "titleCn": "CWE-bench v2：更广覆盖、更高质量与更强透明度",
+  "overview": "文章介绍 CWE-bench v2 这一面向真实软件漏洞修复任务的评测基准新版，重点扩大漏洞与项目覆盖范围，提升任务和测试质量，并增强数据来源、构建流程及评测结果的可追溯性，帮助研究者更可靠地比较模型发现、修复与验证 CWE 漏洞的能力。",
+  "sections": [
+    {
+      "heading": "扩大评测覆盖",
+      "summary": "新版纳入更多类型的 CWE 漏洞与软件项目，以减少单一场景局限，更全面地检验模型面对不同漏洞时的分析、修复和验证能力。"
+    },
+    {
+      "heading": "提升基准质量",
+      "summary": "通过优化任务设计、测试用例和结果判定，基准更强调修复方案能否正确生效，并减少误判与评测偏差。"
+    },
+    {
+      "heading": "增强过程透明度",
+      "summary": "公开并梳理数据来源、构建步骤及评测方法，使各模型成绩更具可复现性和可解释性，便于社区核查与横向比较。"
+    }
+  ],
+  "id": "cwe-bench",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-03",
+  "hasFullText": false,
+  "generatedAt": "2026-11-04T14:03:08.149310+08:00"
+}
