@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-11-03T14:32:44.498106+08:00",
+  "lastUpdated": "2026-11-04T14:02:02.223933+08:00",
   "articles": [
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-03",
+      "score": 8,
+      "titleCn": "AI 推理初创公司 Fal 估值翻倍至 160 亿美元，需求激增"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-03",
+      "score": 8,
+      "titleCn": "Anthropic 仍在应对算力经济性难题"
+    },
+    {
+      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "url": "https://arxiv.org/abs/2611.03698",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-03",
+      "score": 8,
+      "titleCn": "利用 RSI-Dojo 训练 LLM 智能体，实现 LLM 后训练自动化"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "加速实体世界的工程开发"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "StateBench：测试语言模型在长文档中跟踪状态变化的能力"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "CWE-bench v2：提升覆盖率、质量与透明度"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "Apple 开始允许 Siri AI 访问第三方应用"
+    },
+    {
+      "title": "Alignment Faking Depends on the Value, Not Just the Model",
+      "url": "https://arxiv.org/abs/2611.03650",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "对齐伪装取决于价值观，而非仅仅取决于模型"
+    },
+    {
+      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+      "url": "https://arxiv.org/abs/2611.03662",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-03",
+      "score": 7,
+      "titleCn": "MCPGuard：通过双轨分析与动态裁决发现 MCP SDK 的符合性缺口"
+    },
+    {
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-03",
+      "score": 7
+    },
+    {
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-03",
+      "score": 6
+    },
     {
       "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
       "url": "https://www.qbitai.com/2026/11/507322.html",
@@ -2636,87 +2733,6 @@
       "date": "2026-10-05",
       "score": 6,
       "titleCn": "为人们使用 AI 的方式打造广告"
-    },
-    {
-      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-04",
-      "score": 8,
-      "titleCn": "MintFlow: 约束流匹配的最小轨迹干预"
-    },
-    {
-      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-04",
-      "score": 8,
-      "titleCn": "快速模型，慢速证据：LLM Agent 评测中配对自审的 System-1 决策模型评估"
-    },
-    {
-      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-      "url": "https://arxiv.org/abs/2610.02330",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-04",
-      "score": 8,
-      "titleCn": "先选后做：长时程工具使用智能体的比较价值评估"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-04",
-      "score": 7,
-      "titleCn": "Meta 计划将 Muse 融入你的下一款设备"
-    },
-    {
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-04",
-      "score": 6,
-      "titleCn": "永恒的补充"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-04",
-      "score": 6,
-      "titleCn": "Albertsons Companies 如何从内部重塑零售"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-04",
-      "score": 6,
-      "titleCn": "代理说已完成，数据库不同意"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-04",
-      "score": 6,
-      "titleCn": "AI 在《星际争霸》中未能击败人类，决定作弊"
-    },
-    {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-04",
-      "score": 6,
-      "titleCn": "Capcom 正筹备‘与 AI 共创游戏的未来’"
     }
   ]
 }
