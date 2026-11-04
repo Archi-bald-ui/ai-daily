@@ -1,0 +1,26 @@
+{
+  "titleCn": "StateBench：测试语言模型如何在长文档中跟踪状态变化",
+  "overview": "StateBench 是 Hugging Face 推出的长文档状态跟踪评测基准，重点考察语言模型能否在阅读过程中持续记录实体与事件变化，并在后文查询时准确理解当前状态。其看点在于将跨段落、跨时间的信息更新转化为更贴近复杂文档理解的测试任务。",
+  "sections": [
+    {
+      "heading": "评测任务设计",
+      "summary": "基准通过包含多次状态变化的长文档，检验模型能否识别哪些事实已经失效、哪些信息仍然成立，而非只依赖局部文本匹配。"
+    },
+    {
+      "heading": "核心能力考察",
+      "summary": "关注模型对实体、属性与事件的持续追踪，尤其测试其在信息先后出现、条件改变或事件推进后，能否形成一致的状态判断。"
+    },
+    {
+      "heading": "实际应用价值",
+      "summary": "结果可帮助研究者比较不同模型在长上下文理解、记忆更新和可靠推理上的差异，为文档分析、信息抽取等应用选择模型提供参考。"
+    }
+  ],
+  "id": "statebench",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-03",
+  "hasFullText": false,
+  "generatedAt": "2026-11-04T14:02:57.774894+08:00"
+}
