@@ -1,0 +1,26 @@
+{
+  "titleCn": "加速实体世界的工程开发",
+  "overview": "文章聚焦人工智能如何赋能实体世界的工程与产业创新，讨论从设计、仿真到制造和部署的智能化升级路径。核心看点在于借助先进模型、机器人和自动化工具，缩短研发周期、提升迭代效率，并推动人与技术更紧密地协作。",
+  "sections": [
+    {
+      "heading": "从数字设计走向现实落地",
+      "summary": "文章可能探讨人工智能如何连接虚拟设计、物理实验与实际生产，帮助工程师更快验证方案，并把创新成果从概念阶段推进到规模化应用。"
+    },
+    {
+      "heading": "重塑工程研发流程",
+      "summary": "通过生成式设计、仿真建模和数据驱动的决策方式，传统依赖人工试错的流程有望获得更高效率，同时降低开发阶段的复杂度与不确定性。"
+    },
+    {
+      "heading": "人机协作的新范式",
+      "summary": "先进模型与机器人可承担重复、繁重或高精度任务，让工程团队把精力集中在创造性判断和关键问题上，推动实体产业形成更敏捷的创新模式。"
+    }
+  ],
+  "id": "accelerating-engineering-for-the-physical-world",
+  "title": "Accelerating engineering for the physical world",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-03",
+  "hasFullText": false,
+  "generatedAt": "2026-11-04T14:02:48.425695+08:00"
+}
