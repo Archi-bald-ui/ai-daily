@@ -1,0 +1,26 @@
+{
+  "titleCn": "Daybreak Red 现已在 AWS GovCloud（美国东部）可用",
+  "overview": "OpenAI宣布，Daybreak Red现已上线AWS GovCloud（美国东部）区域，面向美国政府及受监管机构的云端使用场景。此举意味着相关AI能力可在符合GovCloud合规与安全要求的边界内部署和使用，重点在于提升敏感数据工作负载的可用性与落地便利性。",
+  "sections": [
+    {
+      "heading": "GovCloud正式上线",
+      "summary": "此次更新将Daybreak Red的可用范围扩展至AWS GovCloud美国东部，使政府及受监管组织能够在专属云环境中访问相关能力。"
+    },
+    {
+      "heading": "强化合规部署",
+      "summary": "GovCloud强调针对政府工作负载的隔离、访问控制与合规要求。此次上线的主要看点，是让相关AI服务进入更严格的云部署边界。"
+    },
+    {
+      "heading": "拓宽公共部门应用",
+      "summary": "对于需要满足采购、审计和数据驻留要求的团队，新区域提供了更直接的部署路径，有助于评估Daybreak Red在公共部门中的应用。"
+    }
+  ],
+  "id": "daybreak-red-aws-govcloud",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-04",
+  "hasFullText": false,
+  "generatedAt": "2026-11-05T14:30:35.260518+08:00"
+}
