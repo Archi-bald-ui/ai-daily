@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-11-05T14:29:38.670351+08:00",
+  "lastUpdated": "2026-11-06T14:24:47.393840+08:00",
   "articles": [
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-05",
+      "score": 9,
+      "titleCn": "GPT-6 Cyber：推进对齐网络安全智能体的前沿"
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-05",
+      "score": 9,
+      "titleCn": "OpenAI称其新网络安全模型更善于不去入侵其他公司"
+    },
+    {
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-05",
+      "score": 9
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "Gemini Omni 1.2 Flash：快速经济，支持更长片段"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "英伟达推出用于交互式世界模拟的新 Cosmos 3 开放模型"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "Perplexity推出面向办公场景的自家 AI 智能体"
+    },
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "Claude AI 可直接接入你的银行账户"
+    },
+    {
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "通过弹性专家并行实现资源高效的后训练强化学习"
+    },
+    {
+      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "url": "https://arxiv.org/abs/2611.06995",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-05",
+      "score": 8,
+      "titleCn": "自主 AI 智能体在证明形式化中系统性偏离人类偏好"
+    },
+    {
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-05",
+      "score": 7,
+      "titleCn": "AI 时代的逆问题形式化：可能性、陷阱与邀请"
+    },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -2651,103 +2740,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-10-07",
-      "score": 6
-    },
-    {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-06",
-      "score": 9,
-      "titleCn": "OpenAI再发布一批数学突破"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-06",
-      "score": 8,
-      "titleCn": "分享AI数学进展"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-06",
-      "score": 8,
-      "titleCn": "Lambda AI算力初创公司拟在IPO前融资40亿美元"
-    },
-    {
-      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-      "url": "https://arxiv.org/abs/2610.03888",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-06",
-      "score": 8,
-      "titleCn": "REACT：海洋活性示踪剂的物理化学一致重建"
-    },
-    {
-      "title": "WavePrune: One period is often enough for RoPE",
-      "url": "https://arxiv.org/abs/2610.06963",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-06",
-      "score": 8,
-      "titleCn": "WavePrune：RoPE常仅需一个周期"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-06",
-      "score": 7,
-      "titleCn": "Ironclad提升计算机使用效率"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-06",
-      "score": 7,
-      "titleCn": "Falcon-Emirati：当大语言模型学习方言、文化与细微差别"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-06",
-      "score": 7,
-      "titleCn": "AI决策模型可能如何改变内容审核"
-    },
-    {
-      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-      "url": "https://arxiv.org/abs/2610.03959",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-06",
-      "score": 7,
-      "titleCn": "LatentQuant：在NVFP4 VAE量化下保留面向策略的潜在契约"
-    },
-    {
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-06",
-      "score": 7
-    },
-    {
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-06",
       "score": 6
     }
   ]
