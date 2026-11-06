@@ -1,0 +1,27 @@
+{
+  "titleCn": "Gemini Omni 1.2 Flash：更快、更具成本效益，支持更长片段",
+  "overview": "Google AI 介绍了 Gemini Omni 1.2 Flash，重点在于兼顾处理速度与使用成本，并支持更长的视频片段。该版本适合快速分析、批量处理及长视频理解等场景，文章将帮助开发者根据延迟、费用和内容长度选择更合适的模型方案。",
+  "sections": [
+    {
+      "heading": "速度与效率",
+      "summary": "Gemini Omni 1.2 Flash 将处理速度作为核心优势，面向需要快速反馈、批量分析或高频调用的应用场景，旨在降低等待时间并提升工作流效率。",
+      "summary2": ""
+    },
+    {
+      "heading": "支持更长视频",
+      "summary": "此次更新突出更长视频片段的处理能力，使模型能够覆盖更完整的内容范围，为长视频摘要、内容检索和跨片段理解提供支持。"
+    },
+    {
+      "heading": "成本更可控",
+      "summary": "文章强调新版本在提升效率的同时兼顾成本控制，适合希望在处理能力、响应速度和预算之间取得平衡的开发团队与应用。"
+    }
+  ],
+  "id": "introducing-gemini-omni-1-2-flash",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-11-05",
+  "hasFullText": false,
+  "generatedAt": "2026-11-06T14:25:19.635317+08:00"
+}
