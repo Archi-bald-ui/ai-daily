@@ -1,0 +1,26 @@
+{
+  "titleCn": "NVIDIA Cosmos 3 开放模型：打造可交互式世界模拟",
+  "overview": "Hugging Face 介绍了 NVIDIA Cosmos 3 开放模型，聚焦可交互式世界模拟。相关模型可用于构建和操控动态虚拟环境，并探索其在机器人训练、仿真及物理 AI 研究中的应用。其开放性与交互能力，为开发者开展世界模型实验提供了更易用的基础工具。",
+  "sections": [
+    {
+      "heading": "交互式世界模拟",
+      "summary": "Cosmos 3 聚焦可交互式世界模拟，使模型可根据输入或动作持续反馈并更新场景，为动态环境构建与仿真实验提供支持。"
+    },
+    {
+      "heading": "开放模型生态",
+      "summary": "开放模型及相关资源有望降低研究与开发门槛，方便团队在 Hugging Face 生态中测试、适配并探索更多应用方向。"
+    },
+    {
+      "heading": "物理 AI 应用",
+      "summary": "世界模型与交互仿真结合后，可用于研究智能体行为、场景变化及物理一致性，为机器人和具身智能开发提供参考。"
+    }
+  ],
+  "id": "cosmos-interactive-world-simulation",
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-05",
+  "hasFullText": false,
+  "generatedAt": "2026-11-06T14:25:28.075693+08:00"
+}
