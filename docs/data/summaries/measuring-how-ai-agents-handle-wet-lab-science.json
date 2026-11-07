@@ -1,0 +1,26 @@
+{
+  "titleCn": "衡量 AI 智能体处理日常湿实验室工作的能力",
+  "overview": "OpenAI 探讨 AI 智能体在日常湿实验室科学任务中的表现，重点关注其理解实验流程、操作设备、记录分析数据及协助研究的能力。该评测旨在了解智能体能否可靠融入真实科研环境，并识别其在准确性、安全性与实用性方面的局限。",
+  "sections": [
+    {
+      "heading": "真实实验任务评测",
+      "summary": "文章关注 AI 智能体如何应对湿实验室中的常规工作，考察其理解实验要求并完成多步骤操作的实际能力。"
+    },
+    {
+      "heading": "科研流程中的可靠性",
+      "summary": "评估重点不只是任务是否完成，还包括实验步骤是否准确、数据记录是否规范，以及输出结果能否供研究人员复核。"
+    },
+    {
+      "heading": "安全与落地挑战",
+      "summary": "文章也提示智能体进入真实实验室仍面临设备操作、流程偏差和安全风险等问题，实际部署仍需严格验证。"
+    }
+  ],
+  "id": "measuring-how-ai-agents-handle-wet-lab-science",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-06",
+  "hasFullText": false,
+  "generatedAt": "2026-11-07T13:48:18.670146+08:00"
+}
