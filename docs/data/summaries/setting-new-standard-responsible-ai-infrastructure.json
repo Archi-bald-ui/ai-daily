@@ -1,0 +1,26 @@
+{
+  "titleCn": "为负责任的人工智能基础设施树立新标准",
+  "overview": "文章聚焦负责任人工智能基础设施的建设标准，强调平台在安全、透明、可控与风险管理方面建立更高要求。核心看点在于把模型能力扩展与责任治理同步推进，并通过更严谨的基础设施设计、评估与部署机制，帮助开发者和组织降低滥用风险、提升可信度与可审计性。",
+  "sections": [
+    {
+      "heading": "基础设施责任",
+      "summary": "文章认为，负责任AI不能只依赖模型层优化，还需在算力、数据、工具调用和部署流程等基础设施环节建立明确的安全规范与评估机制。"
+    },
+    {
+      "heading": "全程风险治理",
+      "summary": "通过将安全评测、访问控制、行为监控与风险处置融入基础设施，可在模型上线前识别问题，并在运行过程中持续降低误用、偏差和意外影响。"
+    },
+    {
+      "heading": "透明可审计",
+      "summary": "其亮点是将技术能力与治理流程结合，推动开发者和组织采用一致、可审计的实践，从而让AI扩展建立在可控、透明和可追责的基础上。"
+    }
+  ],
+  "id": "setting-new-standard-responsible-ai-infrastructure",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-06",
+  "hasFullText": false,
+  "generatedAt": "2026-11-07T13:48:33.043836+08:00"
+}
