@@ -1,0 +1,26 @@
+{
+  "titleCn": "携手 Hacktron 发现 OpenAI 系统中的漏洞",
+  "overview": "OpenAI介绍与安全研究机构或平台 Hacktron 合作，通过外部专业力量对自身系统开展漏洞挖掘与安全评估。此举体现其借助第三方能力主动发现风险、完善防护的思路，也使AI系统安全测试及协作披露机制受到关注。",
+  "sections": [
+    {
+      "heading": "外部安全协作",
+      "summary": "文章聚焦OpenAI与Hacktron的合作，体现通过第三方专业安全视角补充内部测试，尽早识别系统中的潜在漏洞。"
+    },
+    {
+      "heading": "主动排查风险",
+      "summary": "合作旨在以安全评估方式排查系统弱点，而非被动等待攻击，为后续漏洞修复和安全加固提供依据。"
+    },
+    {
+      "heading": "AI安全透明度",
+      "summary": "此次合作也引发外界关注漏洞挖掘、验证及修复流程，以及外部协作在AI系统安全保障中的实际价值。"
+    }
+  ],
+  "id": "partnering-with-hacktron",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-06",
+  "hasFullText": false,
+  "generatedAt": "2026-11-07T13:48:25.692850+08:00"
+}
