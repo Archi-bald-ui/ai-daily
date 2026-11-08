@@ -1,0 +1,26 @@
+{
+  "titleCn": "深入解读 Phonon TTS：推出登顶基准的高质量端侧语音",
+  "overview": "文章深入介绍 Phonon TTS，一款面向端侧运行的高质量语音合成方案，重点展示其技术设计、模型表现与部署潜力。核心看点是兼顾自然度和生成质量，并在相关基准测试中取得领先成绩，为移动端及离线场景提供更可靠、低延迟的语音交互选择。",
+  "sections": [
+    {
+      "heading": "端侧语音方案",
+      "summary": "围绕语音生成质量与端侧推理展开，介绍 Phonon TTS 如何在本地设备上提供高质量语音，并兼顾响应速度、资源占用和离线可用性。"
+    },
+    {
+      "heading": "基准表现",
+      "summary": "文章强调模型在相关语音合成基准中取得领先成绩，以评测结果展示质量优势；具体指标与测试条件仍需结合正文或官方资料确认。"
+    },
+    {
+      "heading": "部署价值",
+      "summary": "突出低延迟、离线运行和隐私友好等端侧优势，说明该技术适合移动应用、语音助手及网络不稳定环境，为产品集成提供新选择。"
+    }
+  ],
+  "id": "phonon-tts",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-07",
+  "hasFullText": false,
+  "generatedAt": "2026-11-08T13:51:21.058125+08:00"
+}
