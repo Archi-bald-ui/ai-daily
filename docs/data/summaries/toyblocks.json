@@ -1,0 +1,26 @@
+{
+  "titleCn": "ToyBlocks：用于机器人学习与评估的受控世界",
+  "overview": "ToyBlocks 面向机器人学习与评估，提出一个可控、可重复的仿真世界，用于构造任务并系统比较不同算法。文章聚焦环境设计、学习实验与评测方法，帮助研究者减少真实机器人试验中的随机性和成本，并探索模型在受控条件下的泛化能力。",
+  "sections": [
+    {
+      "heading": "受控仿真环境",
+      "summary": "通过可调节的场景、物体与任务条件，为机器人智能体提供一致的实验空间，支持对行为表现进行细致观察与重复测试。"
+    },
+    {
+      "heading": "学习评测框架",
+      "summary": "在同一环境中比较训练方法、策略和模型，并利用统一指标评估效果，辅助研究者分析不同算法的表现差异。"
+    },
+    {
+      "heading": "降低实验门槛",
+      "summary": "受控设定能够减少真实设备带来的环境干扰，降低反复试验的成本，并为研究模型向复杂真实场景迁移提供基础。"
+    }
+  ],
+  "id": "toyblocks",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-07",
+  "hasFullText": false,
+  "generatedAt": "2026-11-08T13:51:28.077726+08:00"
+}
