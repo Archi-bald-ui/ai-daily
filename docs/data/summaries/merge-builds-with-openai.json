@@ -1,0 +1,26 @@
+{
+  "titleCn": "Merge 利用 OpenAI 技术构建产品与商业工具",
+  "overview": "文章介绍了 Merge 如何以 OpenAI 技术为核心，开发面向产品团队和商业场景的工具，推动生成式 AI 落地到实际工作流中。其看点在于将模型能力与具体业务需求结合，为产品建设、效率提升和规模化应用提供思路。",
+  "sections": [
+    {
+      "heading": "技术驱动产品开发",
+      "summary": "Merge 借助 OpenAI 的模型与平台能力，将生成式 AI 融入产品构建流程，探索更快实现和迭代功能的方法。"
+    },
+    {
+      "heading": "面向实际业务场景",
+      "summary": "重点并非展示单一模型，而是把技术用于业务工具与工作流，帮助团队处理更真实、复杂的任务。"
+    },
+    {
+      "heading": "企业落地价值",
+      "summary": "案例体现了 OpenAI 技术在产品化和商业化中的潜力，以及 AI 工具从实验走向日常使用的路径。"
+    }
+  ],
+  "id": "merge-builds-with-openai",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-07",
+  "hasFullText": false,
+  "generatedAt": "2026-11-08T13:51:44.621823+08:00"
+}
