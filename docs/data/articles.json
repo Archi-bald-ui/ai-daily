@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-07T13:47:58.112480+08:00",
+  "lastUpdated": "2026-11-08T13:50:58.022705+08:00",
   "articles": [
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-07",
+      "score": 8,
+      "titleCn": "深入 Phonon TTS：推出登顶基准的高质量端侧语音"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-07",
+      "score": 8,
+      "titleCn": "Anthropic 自动化 AI 开发报告为何令研究人员不安"
+    },
+    {
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-07",
+      "score": 8
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-07",
+      "score": 7,
+      "titleCn": "ToyBlocks：用于机器人学习与评估的受控世界"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-07",
+      "score": 7,
+      "titleCn": "美国允许 Nvidia 向中国一家空壳公司出售芯片"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-07",
+      "score": 7,
+      "titleCn": "Meta 推出 Spaces：与 Muse 智能体协作的新方式"
+    },
+    {
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-07",
+      "score": 7
+    },
+    {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-07",
+      "score": 7
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-07",
+      "score": 6,
+      "titleCn": "Merge 利用 OpenAI 技术打造产品与商业工具"
+    },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -2609,111 +2687,6 @@
       "category": "中文资讯",
       "date": "2026-10-09",
       "score": 6
-    },
-    {
-      "title": "Google is launching a one-stop Gemini agent for your work tasks",
-      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-08",
-      "score": 8,
-      "titleCn": "Google推出一站式Gemini智能体，助您完成工作任务"
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-08",
-      "score": 8,
-      "titleCn": "Google为企业推出代理式AI，首站Gemini"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-08",
-      "score": 8,
-      "titleCn": "代理控制的遗忘机制：为工具使用智能体提供可逆上下文管理"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-08",
-      "score": 8,
-      "titleCn": "代理式AI的验证与自我提升：基础与局限"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-08",
-      "score": 8,
-      "titleCn": "唯一可变表面：合规限制下LLM智能体在信贷流程中的自我进化，配以可测量准入门"
-    },
-    {
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "url": "https://www.qbitai.com/2026/10/502096.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-08",
-      "score": 8
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-08",
-      "score": 7,
-      "titleCn": "推出Falcon ASR"
-    },
-    {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-08",
-      "score": 7,
-      "titleCn": "Anthropic为开源项目提供免费AI安全扫描"
-    },
-    {
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-08",
-      "score": 7
-    },
-    {
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "url": "https://www.qbitai.com/2026/10/502106.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-08",
-      "score": 7
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-08",
-      "score": 6,
-      "titleCn": "LegalOn在保持开发速度的同时将Codex成本减半"
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-08",
-      "score": 6,
-      "titleCn": "扰乱AI驱动的‘虚假前线’行动"
     }
   ]
 }
