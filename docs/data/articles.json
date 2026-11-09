@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-08T13:50:58.022705+08:00",
+  "lastUpdated": "2026-11-09T14:04:00.757233+08:00",
   "articles": [
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-08",
+      "score": 8,
+      "titleCn": "英伟达调查黄仁勋与一名中国间谍的关系"
+    },
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-11-08",
+      "score": 8,
+      "titleCn": "Chainalysis称黑客窃取了其所有客户的凭证和令牌"
+    },
+    {
+      "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.08711",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-08",
+      "score": 8,
+      "titleCn": "RL-ATTACK：通过强化学习对语言模型实施通用黑盒对抗攻击"
+    },
+    {
+      "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
+      "url": "https://arxiv.org/abs/2611.08780",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-08",
+      "score": 8,
+      "titleCn": "领域微调大型语言模型中的护栏侵蚀：生物医学大语言模型知识型拒答的配对审计"
+    },
+    {
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-08",
+      "score": 8
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-08",
+      "score": 7,
+      "titleCn": "埃及英语和尼日利亚英语加入 Open ASR 排行榜"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-08",
+      "score": 7,
+      "titleCn": "Transformers 模型集成契约"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-08",
+      "score": 7,
+      "titleCn": "黄仁勋致英伟达备忘录全文"
+    },
+    {
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "url": "https://arxiv.org/abs/2611.08640",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-08",
+      "score": 7,
+      "titleCn": "用于测试时选择的分方面两两竞赛"
+    },
+    {
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-08",
+      "score": 7
+    },
+    {
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-08",
+      "score": 7
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-08",
+      "score": 6,
+      "titleCn": "澳大利亚大学正在培养 AI 原生毕业生"
+    },
     {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -2599,93 +2704,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-10-10",
-      "score": 6
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-09",
-      "score": 8,
-      "titleCn": "“纯粹疯狂”：数学家们需要数年才能理解 OpenAI 最新发布"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-09",
-      "score": 8,
-      "titleCn": "Anthropic 无法可靠控制其 AI 代理，转而切断内部评估与公网的连接"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-09",
-      "score": 8,
-      "titleCn": "非文本 AI 模型 Jev 的开发者在发布数周后估值 75 亿美元"
-    },
-    {
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-09",
-      "score": 8
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-09",
-      "score": 7,
-      "titleCn": "GPU 集群的高效调度"
-    },
-    {
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-09",
-      "score": 7,
-      "titleCn": "Plan-and-Patch：用于代理规划的扩散语言模型"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-09",
-      "score": 6,
-      "titleCn": "可解释的标题中心框架，用于大规模语义表格解读与数据质量评估"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-09",
-      "score": 6,
-      "titleCn": "模拟合成：通过可扩展的智能体‑系统交互生成连贯企业数据"
-    },
-    {
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-09",
-      "score": 6
-    },
-    {
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-09",
       "score": 6
     }
   ]
