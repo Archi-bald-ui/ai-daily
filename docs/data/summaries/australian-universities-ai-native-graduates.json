@@ -1,0 +1,26 @@
+{
+  "titleCn": "澳大利亚大学正在培养人工智能原生代毕业生",
+  "overview": "文章聚焦澳大利亚高校如何培养“AI原生”毕业生：高校正将人工智能工具、协作能力与负责任的伦理意识融入教学和人才培养体系，以回应快速变化的职场需求。看点在于教育模式从单纯传授知识，转向帮助学生与AI协作，并具备持续学习与创新能力。",
+  "sections": [
+    {
+      "heading": "课程融入人工智能",
+      "summary": "文章关注高校如何把人工智能知识、工具应用与伦理意识纳入课程和培养目标，使学生建立适应AI环境的基本能力。"
+    },
+    {
+      "heading": "教学方式加速转型",
+      "summary": "随着AI深入学习与工作场景，高校需要调整教学方法和评价方式，培养学生与AI协作、验证结果及解决复杂问题的能力。"
+    },
+    {
+      "heading": "面向未来职场",
+      "summary": "培养AI原生毕业生，旨在回应劳动力市场对数字技能、持续学习和创新能力的更高要求，也为学生未来就业提供更充分准备。"
+    }
+  ],
+  "id": "australian-universities-ai-native-graduates",
+  "title": "Australian universities are creating AI-native graduates",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-08",
+  "hasFullText": false,
+  "generatedAt": "2026-11-09T14:05:35.081072+08:00"
+}
