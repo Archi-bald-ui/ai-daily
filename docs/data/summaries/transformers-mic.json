@@ -1,0 +1,26 @@
+{
+  "titleCn": "Transformers 模型集成契约",
+  "overview": "文章聚焦 Hugging Face Transformers 模型在真实系统中的集成契约，讨论如何通过稳定接口连接模型、配置、分词器与推理流程，并明确输入输出、加载方式、版本兼容及扩展边界。其看点在于将模型接入从经验性调用转化为可验证、可维护的工程规范，帮助团队降低集成风险并提升模型复用能力。",
+  "sections": [
+    {
+      "heading": "明确接口边界",
+      "summary": "梳理模型接入过程中各组件的职责与交互方式，包括模型加载、配置读取、分词处理和结果输出，从而建立清晰、可预测的调用边界。"
+    },
+    {
+      "heading": "保障兼容与一致",
+      "summary": "强调版本变化、配置差异和预处理差异对集成结果的影响，提倡通过明确约定保持不同环境下的行为一致，并支持问题追踪与验证。"
+    },
+    {
+      "heading": "规范工程落地",
+      "summary": "介绍如何将集成契约用于模块设计、测试和后续维护，降低业务代码与具体模型实现的耦合，使模型替换与能力扩展更加安全高效。"
+    }
+  ],
+  "id": "transformers-mic",
+  "title": "Transformers Model Integration Contracts",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-08",
+  "hasFullText": false,
+  "generatedAt": "2026-11-09T14:05:02.807411+08:00"
+}
