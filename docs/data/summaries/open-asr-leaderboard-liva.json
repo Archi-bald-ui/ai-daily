@@ -1,0 +1,26 @@
+{
+  "titleCn": "埃及英语与尼日利亚英语加入 Open ASR 排行榜",
+  "overview": "Hugging Face 的 Open ASR 排行榜新增埃及英语和尼日利亚英语条目，用于展示并比较语音识别系统在两种英语变体上的表现。此次更新有助于开发者了解模型对不同地区口音和语言特征的适应能力，也为相关研究与工程选型提供参考。",
+  "sections": [
+    {
+      "heading": "新增英语变体",
+      "summary": "排行榜现纳入埃及英语与尼日利亚英语，使这两类地区性语音数据和相关识别结果获得更集中的展示与比较。"
+    },
+    {
+      "heading": "模型表现对比",
+      "summary": "内容聚焦不同语音识别方案在这两种英语变体上的表现，帮助观察模型面对口音、用语及数据差异时的识别能力。"
+    },
+    {
+      "heading": "研究与应用价值",
+      "summary": "多语言、多口音的公开对比可为自动语音识别研究、数据集建设以及实际应用中的模型评估和方案选择提供参考。"
+    }
+  ],
+  "id": "open-asr-leaderboard-liva",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-08",
+  "hasFullText": false,
+  "generatedAt": "2026-11-09T14:04:56.242999+08:00"
+}
