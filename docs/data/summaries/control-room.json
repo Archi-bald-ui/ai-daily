@@ -1,0 +1,26 @@
+{
+  "titleCn": "控制室：追踪并停止研究基础设施中模型工作负载的中央系统",
+  "overview": "文章介绍了 OpenAI 的 Control Room，这是一个面向研究基础设施的中央控制系统，用于统一追踪模型工作负载并支持停止相关任务。其看点在于提升计算资源与模型运行状态的可见性，帮助团队更有效地管理研究活动、降低异常负载带来的风险。",
+  "sections": [
+    {
+      "heading": "统一工作负载追踪",
+      "summary": "Control Room 汇聚研究基础设施中的模型工作负载信息，形成集中式管理视图，便于团队掌握任务状态与资源使用情况。"
+    },
+    {
+      "heading": "支持任务停止与控制",
+      "summary": "系统提供停止模型工作负载的能力，使研究团队能够及时干预不再需要的任务，并提升基础设施运行的可控性。"
+    },
+    {
+      "heading": "提升研究运营效率",
+      "summary": "通过集中监控和任务管理，Control Room 有助于优化计算资源分配、减少浪费，并增强模型研究环境的安全性与可靠性。"
+    }
+  ],
+  "id": "control-room",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "url": "https://openai.com/index/control-room",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-09",
+  "hasFullText": false,
+  "generatedAt": "2026-11-10T15:08:14.174740+08:00"
+}
