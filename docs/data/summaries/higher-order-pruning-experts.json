@@ -1,0 +1,26 @@
+{
+  "titleCn": "你的专家有伙伴：HOPE让它们保持协同",
+  "overview": "文章聚焦混合专家模型（MoE）中的“专家伙伴”关系：当不同专家被分配到相近或相关任务时，如何避免知识割裂与协作失效。HOPE思路强调让配套专家保持联动，以改善模型的学习效果、稳定性与资源效率，为大规模模型扩展提供新的设计方向。",
+  "sections": [
+    {
+      "heading": "专家如何互补",
+      "summary": "文章从MoE中不同专家承担不同子任务的机制出发，讨论专家之间如何形成伙伴关系，并通过知识共享与任务互补提升整体表现。"
+    },
+    {
+      "heading": "HOPE的协同思路",
+      "summary": "HOPE的核心看点，是探索让相关专家在训练或推理过程中保持紧密协作，避免各自孤立学习，从而增强模型对复杂任务的整合能力。"
+    },
+    {
+      "heading": "面向规模化训练",
+      "summary": "文章还关注专家协同对模型效率与扩展性的意义，为优化MoE的路由、训练效果和部署成本提供值得关注的解决思路。"
+    }
+  ],
+  "id": "higher-order-pruning-experts",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-09",
+  "hasFullText": false,
+  "generatedAt": "2026-11-10T15:08:29.256855+08:00"
+}
