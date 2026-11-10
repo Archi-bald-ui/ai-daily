@@ -1,0 +1,26 @@
+{
+  "titleCn": "ChatGPT Enterprise现已可通过AWS Marketplace购买",
+  "overview": "OpenAI宣布，ChatGPT Enterprise现已上线AWS Marketplace，企业客户可通过该渠道采购并部署企业级生成式AI服务。看点在于采购、账单与管理流程可纳入既有AWS体系，并便于企业统一开展访问控制、安全及合规治理。",
+  "sections": [
+    {
+      "heading": "采购部署更便捷",
+      "summary": "企业可通过AWS Marketplace统一采购、部署和管理ChatGPT Enterprise，简化服务引入、合同签署及账单处理流程。"
+    },
+    {
+      "heading": "融入现有云采购体系",
+      "summary": "借助AWS Marketplace成熟的商业与采购渠道，企业可更顺畅地将生成式AI纳入既有云服务预算和供应商管理体系。"
+    },
+    {
+      "heading": "强化企业级治理",
+      "summary": "集中管理有助于企业统一配置访问权限、制定使用规范，并持续关注数据安全、隐私保护与合规要求。"
+    }
+  ],
+  "id": "chatgpt-enterprise-aws-marketplace",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-09",
+  "hasFullText": false,
+  "generatedAt": "2026-11-10T15:08:38.696825+08:00"
+}
