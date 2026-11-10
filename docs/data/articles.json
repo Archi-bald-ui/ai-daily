@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-09T14:04:00.757233+08:00",
+  "lastUpdated": "2026-11-10T15:06:22.651653+08:00",
   "articles": [
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-09",
+      "score": 9,
+      "titleCn": "Anthropic 发布全新 Claude Fable 和 Mythos 5.2 模型"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-09",
+      "score": 8,
+      "titleCn": "amid RSI 担忧，Anthropic 发布新版 Mythos 和 Fable 模型"
+    },
+    {
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "url": "https://arxiv.org/abs/2611.08644",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-09",
+      "score": 8,
+      "titleCn": "决策上下文：AI 智能体的持久行为学习"
+    },
+    {
+      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "url": "https://arxiv.org/abs/2611.08647",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-09",
+      "score": 8,
+      "titleCn": "IWIBench：无梯度模型驱动的权重内注入评测"
+    },
+    {
+      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.08669",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-09",
+      "score": 8,
+      "titleCn": "ChainFlow：用于推测解码的少步潜在流匹配"
+    },
+    {
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-09",
+      "score": 8
+    },
+    {
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-09",
+      "score": 8
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-09",
+      "score": 7,
+      "titleCn": "Control Room：集中跟踪并停止研究基础设施中各类模型工作负载的系统"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-09",
+      "score": 7,
+      "titleCn": "您的专家有了伙伴，HOPE 助您保持协作"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-09",
+      "score": 7,
+      "titleCn": "Apple 推出 50 美元智能用量套餐，延长部分 AI 功能的使用期限"
+    },
+    {
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-09",
+      "score": 7
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-09",
+      "score": 6,
+      "titleCn": "ChatGPT Enterprise 现已上线 AWS Marketplace"
+    },
     {
       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
@@ -2626,84 +2731,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-10-11",
-      "score": 6
-    },
-    {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-10",
-      "score": 8,
-      "titleCn": "Anthropic 切断内部评估的互联网访问"
-    },
-    {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-10-10",
-      "score": 8,
-      "titleCn": "内存行业高管预计 RAM 短缺将持续至 2028 年"
-    },
-    {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-10",
-      "score": 7,
-      "titleCn": "萨蒂亚·纳德拉称应假设所有 AI 模型均已‘被攻陷’"
-    },
-    {
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "url": "https://www.qbitai.com/2026/10/502330.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-10",
-      "score": 7
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-10",
-      "score": 6,
-      "titleCn": "Sophos 通过 OpenAI Daybreak 将威胁调查时间缩短 96%"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-10",
-      "score": 6,
-      "titleCn": "Asana 在浏览器测试中利用 GPT-6.1 Sol 将模型成本降低 76 倍"
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-10",
-      "score": 6,
-      "titleCn": "不存在的模型，你自己打造"
-    },
-    {
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-10",
-      "score": 6
-    },
-    {
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-10",
       "score": 6
     }
   ]
