@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-10T15:06:22.651653+08:00",
+  "lastUpdated": "2026-11-11T13:57:41.569971+08:00",
   "articles": [
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-10",
+      "score": 9,
+      "titleCn": "Google 发布 Gemini 4 Carbon，新增智能体“蜂群”功能"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-10",
+      "score": 9,
+      "titleCn": "Anthropic 目标 IPO 估值达 1.4 万亿美元"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-10",
+      "score": 8,
+      "titleCn": "ChatGPT 商业版来了"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-10",
+      "score": 8,
+      "titleCn": "Gemini Intelligence：全新功能，覆盖更多设备"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-10",
+      "score": 8,
+      "titleCn": "Google Cloud 推出医疗健康版 Gemini"
+    },
+    {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-10",
+      "score": 8,
+      "titleCn": "ChatGPT 将推出经过验证的 AI“商业智能体”"
+    },
+    {
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-10",
+      "score": 8
+    },
+    {
+      "title": "Token卷到触觉了！机器人终于有了通用手感",
+      "url": "https://www.qbitai.com/2026/11/508919.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-10",
+      "score": 8
+    },
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-10",
+      "score": 7,
+      "titleCn": "可审计的人机智能体协作团队开展自主 X 射线实验"
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-10",
+      "score": 7,
+      "titleCn": "EarthRecord：多模态智能体利用四十年卫星影像实现从像素到土地变化的监测"
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-10",
+      "score": 7,
+      "titleCn": "预填充阶段训练，解码阶段监控：利用稀疏自编码器进行主题监测"
+    },
+    {
+      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-10",
+      "score": 7
+    },
     {
       "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
@@ -2644,94 +2749,6 @@
       "date": "2026-10-12",
       "score": 6,
       "titleCn": "推出 Playground：创建并游玩自定义游戏"
-    },
-    {
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "url": "https://arxiv.org/abs/2610.12493",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-11",
-      "score": 8,
-      "titleCn": "无锚点的可信度：可解释AI特征重要性指标的结构性错位"
-    },
-    {
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "url": "https://arxiv.org/abs/2610.12593",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-11",
-      "score": 8,
-      "titleCn": "知你所不知：基于生成空间演化的闭环学习代理数据合成"
-    },
-    {
-      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-      "url": "https://arxiv.org/abs/2610.12598",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-11",
-      "score": 8,
-      "titleCn": "超越二元可验证奖励：面向SWE代理的行为自我奖励"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-11",
-      "score": 7,
-      "titleCn": "Oracle如何利用ChatGPT和Codex把数天的工作压缩到几分钟"
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-11",
-      "score": 7,
-      "titleCn": "AI代理开发商承诺隐私——能否兑现？"
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-11",
-      "score": 7,
-      "titleCn": "微软Satya Nadella表示AI模型需要‘紧急刹车’"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-10-11",
-      "score": 7,
-      "titleCn": "OpenAI代理试图入侵维基百科工具并导致流量激增"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-11",
-      "score": 6,
-      "titleCn": "Pollo AI携手OpenAI将创意想法转化为营销活动"
-    },
-    {
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-11",
-      "score": 6
-    },
-    {
-      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-      "url": "https://www.qbitai.com/2026/10/502492.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-11",
-      "score": 6
     }
   ]
 }
