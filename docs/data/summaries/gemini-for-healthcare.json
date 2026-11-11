@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google Cloud推出面向医疗行业的Gemini",
+  "overview": "Google Cloud宣布推出面向医疗领域的Gemini服务，旨在将生成式人工智能能力应用于医疗机构和医疗科技生态。该举措的看点在于，借助云平台与医疗场景的结合，帮助从业者更高效地处理信息、辅助决策并改善工作流程，同时推动医疗智能化应用的落地。",
+  "sections": [
+    {
+      "heading": "医疗AI服务发布",
+      "summary": "Google Cloud推出专门面向医疗行业的Gemini服务，将生成式AI能力引入医疗机构及相关业务流程，为行业智能化应用提供新的云端选择。"
+    },
+    {
+      "heading": "临床与运营辅助",
+      "summary": "该服务可能支持医疗信息整理、内容生成和流程辅助等任务，帮助医护人员与医疗机构提升信息处理效率，并更好地应对日常工作挑战。"
+    },
+    {
+      "heading": "云端落地潜力",
+      "summary": "依托Google Cloud平台，Gemini有望与医疗数据、应用系统和行业工具协同，推动更多面向医院、健康管理及医疗科技的AI方案落地。"
+    }
+  ],
+  "id": "gemini-for-healthcare",
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-11-10",
+  "hasFullText": false,
+  "generatedAt": "2026-11-11T13:58:33.285255+08:00"
+}
