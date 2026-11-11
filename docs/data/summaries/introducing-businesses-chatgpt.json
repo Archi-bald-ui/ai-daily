@@ -1,0 +1,26 @@
+{
+  "titleCn": "ChatGPT 推出企业功能",
+  "overview": "OpenAI 发布“在 ChatGPT 中推出企业功能”的介绍，重点展示 ChatGPT 如何服务企业组织，而非仅面向个人用户。文章有望涉及团队使用、组织管理、协作流程以及企业级安全与隐私等议题，核心看点是把通用 AI 助手转化为可融入企业工作的工具，并关注其在不同组织中的落地方式。",
+  "sections": [
+    {
+      "heading": "从个人助手到企业工具",
+      "summary": "文章将 ChatGPT 放入企业场景，说明企业为何需要借助 AI 提升知识处理、内容生成与日常工作的效率，同时强调其定位是组织可用的智能助手。"
+    },
+    {
+      "heading": "企业协作与管理",
+      "summary": "在企业语境下，ChatGPT 可能被用于团队协作、信息整理和工作流程辅助；相关介绍预计会说明组织如何统一使用，并更好地管理员工与 AI 之间的协作。"
+    },
+    {
+      "heading": "安全与隐私是重点",
+      "summary": "企业落地 AI 的关键不只是功能，还包括数据保护、访问控制和使用边界。文章预计会强调这些企业级要求，帮助读者理解采用 ChatGPT 时需要关注的治理问题。"
+    }
+  ],
+  "id": "introducing-businesses-chatgpt",
+  "title": "Introducing Businesses in ChatGPT",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-10",
+  "hasFullText": false,
+  "generatedAt": "2026-11-11T13:58:19.150977+08:00"
+}
