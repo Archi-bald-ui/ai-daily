@@ -1,0 +1,26 @@
+{
+  "titleCn": "JioStar首席架构师谈5亿用户规模下的AI内容发现",
+  "overview": "文章围绕JioStar首席架构师在超大用户规模下推动AI内容发现的实践展开，分享将AI融入内容推荐与用户体验的思路，并关注模型能力与系统架构的协同。看点在于结合大规模业务场景，提供来自一线架构决策者的经验与启示。",
+  "sections": [
+    {
+      "heading": "规模化AI发现",
+      "summary": "讨论在数亿用户规模下，JioStar如何把AI用于内容发现与个性化体验，并强调数据、模型和线上系统必须共同支撑稳定服务。"
+    },
+    {
+      "heading": "架构与模型协同",
+      "summary": "从首席架构师视角梳理大规模AI系统的关键挑战，包括效果评估、系统效率、可扩展性与部署复杂度，突出工程和业务目标的平衡。"
+    },
+    {
+      "heading": "一线经验启示",
+      "summary": "文章的价值在于提供超大规模平台的一线经验，帮助读者理解AI发现能力如何从技术方案走向产品落地，并为相关团队提供架构启示。"
+    }
+  ],
+  "id": "jiostar-vijay-seshadri",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-11",
+  "hasFullText": false,
+  "generatedAt": "2026-11-12T15:00:47.163326+08:00"
+}
