@@ -1,0 +1,26 @@
+{
+  "titleCn": "在前沿工作：人工智能对自由职业的影响",
+  "overview": "文章聚焦人工智能正在如何改变自由职业：从任务承接、技能要求到工作方式与客户预期，探讨AI带来的效率机会、竞争压力和潜在风险，并关注自由职业者如何通过持续学习和调整服务来保持竞争力。文章未依赖具体数字，主要呈现趋势与思考方向。",
+  "sections": [
+    {
+      "heading": "工作方式变化",
+      "summary": "人工智能可能加速信息处理、内容创作和重复性任务，同时改变自由职业者与客户协作、完成项目和交付成果的方式。"
+    },
+    {
+      "heading": "技能与竞争力",
+      "summary": "面对工具迭代与行业门槛变化，自由职业者需要持续更新数字技能，理解AI能力，并结合自身经验提供更有价值的服务。"
+    },
+    {
+      "heading": "机会与挑战",
+      "summary": "AI既可能带来更高效率和新的服务机会，也可能加剧竞争、压低部分工作的价值；如何识别风险并保持专业判断将成为重要议题。"
+    }
+  ],
+  "id": "ai-effect-on-freelance-work",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "url": "https://openai.com/index/ai-effect-on-freelance-work",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-11",
+  "hasFullText": false,
+  "generatedAt": "2026-11-12T15:00:56.793533+08:00"
+}
