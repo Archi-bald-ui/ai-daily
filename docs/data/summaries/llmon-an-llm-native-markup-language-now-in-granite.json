@@ -1,0 +1,26 @@
+{
+  "titleCn": "LLMON：面向大语言模型的原生标记语言，现已支持 Granite 4.1 3B 和 8B",
+  "overview": "文章介绍 LLMON，一种专为大语言模型设计的新型标记语言，并宣布其已集成至 Granite 4.1 的 3B 与 8B 模型。核心方向是以更适合模型解析的方式表达结构化指令与生成内容，提升输出可控性、可读性及自动化处理能力，为模型调用与模板设计提供统一方案。",
+  "sections": [
+    {
+      "heading": "语言定位",
+      "summary": "LLMON 被定位为“LLM 原生”的标记语言，重点不是面向人类网页排版，而是让提示、约束、结构化输出等内容更贴合大模型的解析与生成方式。"
+    },
+    {
+      "heading": "模型集成",
+      "summary": "此次更新将 LLMMON 引入 Granite 4.1 3B 与 8B，使不同规模的模型都能采用统一机制处理相关标记，便于团队在现有 Granite 工作流中直接试用和评估。"
+    },
+    {
+      "heading": "核心价值",
+      "summary": "文章看点在于用标准化标记连接模型能力与下游程序，减少复杂输出被解析时的歧义，提升结果可组合、可验证和可自动消费的程度。"
+    }
+  ],
+  "id": "llmon-an-llm-native-markup-language-now-in-granite",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-12",
+  "hasFullText": false,
+  "generatedAt": "2026-11-13T14:27:56.165866+08:00"
+}
