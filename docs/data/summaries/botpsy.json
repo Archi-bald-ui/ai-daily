@@ -1,0 +1,26 @@
+{
+  "titleCn": "BotPsy：采用十亿参数以下智能体语言模型的端侧个人助理",
+  "overview": "文章介绍 BotPsy，一款面向个人设备的端侧智能助理，核心采用参数规模低于十亿的智能体语言模型，重点探索在本地运行的情况下完成日常任务理解与交互。其看点在于降低对云端服务的依赖、保护隐私，并提升响应速度与离线可用性，为资源受限设备上的轻量化 AI 应用提供思路。",
+  "sections": [
+    {
+      "heading": "端侧模型路线",
+      "summary": "BotPsy 将参数规模控制在十亿以下，并把模型直接部署在个人设备上，探索轻量化语言模型在本地执行任务的可行性。"
+    },
+    {
+      "heading": "智能体交互能力",
+      "summary": "项目聚焦个人助理场景，关注模型理解用户意图、连续交互并协同调用工具，以完成更贴近日常使用的辅助任务。"
+    },
+    {
+      "heading": "隐私与效率价值",
+      "summary": "端侧运行有望减少数据上传和云端依赖，同时改善响应时延与离线可用性，为移动设备和边缘计算场景提供参考。"
+    }
+  ],
+  "id": "botpsy",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-12",
+  "hasFullText": false,
+  "generatedAt": "2026-11-13T14:28:06.012531+08:00"
+}
