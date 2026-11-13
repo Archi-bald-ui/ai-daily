@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-12T15:00:04.570153+08:00",
+  "lastUpdated": "2026-11-13T14:27:14.567351+08:00",
   "articles": [
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-12",
+      "score": 9,
+      "titleCn": "Google 新款 Gemini 模型更擅理解复杂问题"
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-12",
+      "score": 9,
+      "titleCn": "一睹 CEO 变动期间 Nvidia 内部关于“极其艰难时期”的邮件"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-12",
+      "score": 9,
+      "titleCn": "黄仁勋离任引发 Nvidia 是否仍支持开源的疑问"
+    },
+    {
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-12",
+      "score": 9
+    },
+    {
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-12",
+      "score": 8
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-12",
+      "score": 7,
+      "titleCn": "LLMON：LLM 原生标记语言，现已用于 Granite 4.1 3B 和 8B"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-12",
+      "score": 7,
+      "titleCn": "BotPsy：采用十亿参数以下智能体语言模型的端侧个人助手"
+    },
+    {
+      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "url": "https://www.qbitai.com/2026/11/509291.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-12",
+      "score": 7
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-12",
+      "score": 6,
+      "titleCn": "我们将让 Adobe 创意与生产力工具更贴近你的日常 Google 应用"
+    },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
@@ -2688,84 +2766,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-10-14",
-      "score": 7
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-10-13",
-      "score": 9,
-      "titleCn": "Gemini 4 Argon：专为解决最棘手问题而构建"
-    },
-    {
-      "title": "Google finally releases Gemini 4 Argon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-13",
-      "score": 9,
-      "titleCn": "谷歌终于发布 Gemini 4 Argon"
-    },
-    {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-13",
-      "score": 9
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-13",
-      "score": 8,
-      "titleCn": "LFM2.5-24B-A2B：在设备上运行快速、私密代理"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-13",
-      "score": 8,
-      "titleCn": "Industrial Next 让工厂机器人几分钟切换任务，而非数周"
-    },
-    {
-      "title": "Facebook is giving users more control over their algorithm",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-13",
-      "score": 8,
-      "titleCn": "Facebook 为用户提供更多算法控制权"
-    },
-    {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-13",
-      "score": 8
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-13",
-      "score": 7,
-      "titleCn": "Higgsfield 把 AI 视频时长从 1 分钟提升至 10 分钟以上"
-    },
-    {
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-13",
       "score": 7
     }
   ]
