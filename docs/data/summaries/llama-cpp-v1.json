@@ -1,0 +1,26 @@
+{
+  "titleCn": "llama.cpp v1.0.0：为本地 AI 生态奠定更稳固的基础",
+  "overview": "llama.cpp 迎来 v1.0.0，标志着这一本地大模型推理项目进入更成熟稳定的发展阶段。文章聚焦新版如何巩固跨平台运行、模型兼容与工具链基础，进一步提升本地部署和社区协作体验，为离线及端侧 AI 生态提供更可靠支撑。",
+  "sections": [
+    {
+      "heading": "版本迈向成熟",
+      "summary": "v1.0.0 强调项目的稳定性与基础能力整合，意味着 llama.cpp 从快速迭代工具迈向更成熟、可持续维护的本地 AI 基础设施。"
+    },
+    {
+      "heading": "强化本地部署",
+      "summary": "更稳固的核心有望改善模型加载、推理和跨平台部署之间的一致性，降低个人开发者与团队搭建本地 AI 环境的维护成本。"
+    },
+    {
+      "heading": "完善开发生态",
+      "summary": "文章从开发者工具、项目治理和生态兼容性等角度，梳理此次版本升级对本地 AI 社区长期发展的价值。"
+    }
+  ],
+  "id": "llama-cpp-v1",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-13",
+  "hasFullText": false,
+  "generatedAt": "2026-11-14T14:06:30.563444+08:00"
+}
