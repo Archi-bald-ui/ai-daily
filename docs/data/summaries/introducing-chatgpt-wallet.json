@@ -1,0 +1,26 @@
+{
+  "titleCn": "ChatGPT 钱包正式推出",
+  "overview": "OpenAI 推出“ChatGPT Wallet”，为用户使用 ChatGPT 及其相关服务提供更统一的账户与支付入口。其核心看点在于把余额、付款方式及交易管理集中到 ChatGPT 生态中，可能简化购买订阅或按需付费的流程；具体规则与开放范围仍需以官方说明为准。",
+  "sections": [
+    {
+      "heading": "钱包定位",
+      "summary": "从标题判断，ChatGPT Wallet 旨在成为 ChatGPT 生态内的统一支付工具，可能覆盖余额管理、付款方式配置与交易记录。"
+    },
+    {
+      "heading": "核心体验",
+      "summary": "如果钱包与现有订阅、增值服务打通，用户有望在对话界面内更顺畅地完成充值、购买和账单处理，减少跨平台操作。"
+    },
+    {
+      "heading": "上线边界",
+      "summary": "目前仅能确认 OpenAI 宣布该产品；具体支持地区、支付渠道、费用结构及上线节奏，官方正文发布前不宜作确定推断。"
+    }
+  ],
+  "id": "introducing-chatgpt-wallet",
+  "title": "Introducing ChatGPT Wallet",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-13",
+  "hasFullText": false,
+  "generatedAt": "2026-11-14T14:06:23.107558+08:00"
+}
