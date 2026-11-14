@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-13T14:27:14.567351+08:00",
+  "lastUpdated": "2026-11-14T14:05:46.130894+08:00",
   "articles": [
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-13",
+      "score": 9,
+      "titleCn": "Google 搜索迎来重大升级，接入 Gemini 4 Hydrogen"
+    },
+    {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-13",
+      "score": 9,
+      "titleCn": "黄仁勋这场风波究竟牵动什么"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-13",
+      "score": 9,
+      "titleCn": "黄仁勋离职给 AI 融资带来巨大冲击，风投机构和创业者如是说"
+    },
+    {
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-13",
+      "score": 9
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-13",
+      "score": 8,
+      "titleCn": "ChatGPT Wallet 正式推出"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-13",
+      "score": 8,
+      "titleCn": "llama.cpp v1.0.0：为本地 AI 生态奠定更坚实的基础"
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-13",
+      "score": 8,
+      "titleCn": "ChatGPT Wallet 让 OpenAI 的 Dots 智能体代你购物"
+    },
+    {
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "url": "https://www.qbitai.com/2026/11/509663.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-13",
+      "score": 8
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-13",
+      "score": 7
+    },
     {
       "title": "Google’s new Gemini model is better at understanding complicated questions",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
@@ -2662,111 +2740,6 @@
       "category": "中文资讯",
       "date": "2026-10-15",
       "score": 6
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-14",
-      "score": 8,
-      "titleCn": "Third Moment Research 在 36 多小时运行 10,000 个代理"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "url": "https://arxiv.org/abs/2610.14005",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-14",
-      "score": 8,
-      "titleCn": "Artificiality 首次考试：面向超智能的 LLM 参考 C 测试"
-    },
-    {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "url": "https://arxiv.org/abs/2610.14118",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-14",
-      "score": 8,
-      "titleCn": "ClawLoop：利用 Harness 原生训练循环的自改进代理"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-14",
-      "score": 8,
-      "titleCn": "扩散模型的校正训练"
-    },
-    {
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "url": "https://www.qbitai.com/2026/10/503201.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-14",
-      "score": 8
-    },
-    {
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-14",
-      "score": 8
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-14",
-      "score": 7,
-      "titleCn": "SentinelOne 将恶意软件分析从数周缩短至数小时"
-    },
-    {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-14",
-      "score": 7,
-      "titleCn": "HiRO-ACE v2：以极低成本实现 3 公里分辨率极端天气模拟"
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-14",
-      "score": 7,
-      "titleCn": "微软推出新机器学习工具提升天气预报"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-14",
-      "score": 7,
-      "titleCn": "Ricursive Intelligence 押注 AI 设计芯片以解决算力危机"
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-14",
-      "score": 7,
-      "titleCn": "Apate 派遣 AI 代理潜伏被骗以收集欺诈情报"
-    },
-    {
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-14",
-      "score": 7
     }
   ]
 }
