@@ -1,0 +1,26 @@
+{
+  "titleCn": "Google 搜索迎来 Gemini 4 Hydrogen 驱动的重大升级",
+  "overview": "Google Search 将迎来由 Gemini 4 Hydrogen 驱动的重大升级，核心看点在于把新一代 AI 能力更深度地融入搜索流程，帮助用户以更自然、连贯的方式表达需求，并获得更贴合意图的答案与结果。官方暂未披露具体功能细节。",
+  "sections": [
+    {
+      "heading": "搜索能力升级",
+      "summary": "此次更新将 Gemini 4 Hydrogen 引入 Google Search，重点可能围绕需求理解、上下文处理和结果呈现展开，让传统关键词检索向对话式、智能化体验演进。"
+    },
+    {
+      "heading": "使用体验转变",
+      "summary": "对用户而言，搜索入口的使用方式可能更接近直接提问。系统能否准确理解复杂意图，并持续提供清晰、可靠的答案，将是体验提升的关键。"
+    },
+    {
+      "heading": "后续细节待解",
+      "summary": "目前信息仅来自标题，尚不清楚具体功能、覆盖范围及上线节奏。后续值得关注的细节包括 Gemini 能力如何接入搜索，以及不同用户能否实际使用。"
+    }
+  ],
+  "id": "gemini-4-hydrogen-search-upgrade",
+  "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-11-13",
+  "hasFullText": false,
+  "generatedAt": "2026-11-14T14:06:15.428799+08:00"
+}
