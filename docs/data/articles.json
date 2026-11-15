@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-14T14:05:46.130894+08:00",
+  "lastUpdated": "2026-11-15T14:12:28.946996+08:00",
   "articles": [
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-14",
+      "score": 8,
+      "titleCn": "3D生成模型微调终极指南"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-14",
+      "score": 8,
+      "titleCn": "英伟达的安全团队在哪里？"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-14",
+      "score": 8,
+      "titleCn": "马斯克等科技业高管签署请愿书，呼吁英伟达让黄仁勋复职"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-14",
+      "score": 8,
+      "titleCn": "亚洲各国政府回应英伟达CEO黄仁勋离任"
+    },
+    {
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-14",
+      "score": 8
+    },
+    {
+      "title": "突发！DeepSeek开放全家桶API",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-14",
+      "score": 8
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-14",
+      "score": 7,
+      "titleCn": "XYBench：助力解决问题背后的问题"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-14",
+      "score": 7,
+      "titleCn": "面向多向量嵌入模型的词元池化感知训练"
+    },
+    {
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "url": "https://www.qbitai.com/2026/11/510297.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-14",
+      "score": 6
+    },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -2635,111 +2713,6 @@
       "category": "中文资讯",
       "date": "2026-10-16",
       "score": 7
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-15",
-      "score": 9,
-      "titleCn": "欢迎 Muse Spark Open：Meta 开源的前沿多模态混合专家模型"
-    },
-    {
-      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "url": "https://arxiv.org/abs/2610.20665",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-15",
-      "score": 9,
-      "titleCn": "时不我待：在实时时钟下评估与训练智能体"
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-15",
-      "score": 8,
-      "titleCn": "扩展 Indic 预训练：2.8 万亿 token 与开放数据生成管线"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-15",
-      "score": 8,
-      "titleCn": "Anthropic 向 METR 研究人员提供员工级访问权限"
-    },
-    {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-10-15",
-      "score": 8,
-      "titleCn": "Anthropic 警告：小型 AI 模型或通过 IoT 设备自我复制"
-    },
-    {
-      "title": "Evaluating Model Capabilities After Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2610.20667",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-15",
-      "score": 8,
-      "titleCn": "基准饱和后评估模型能力"
-    },
-    {
-      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.20669",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-15",
-      "score": 8,
-      "titleCn": "价值感知调度剪枝加速离散扩散中的序列蒙特卡罗引导"
-    },
-    {
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "url": "https://www.qbitai.com/2026/10/503497.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-15",
-      "score": 8
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-15",
-      "score": 7,
-      "titleCn": "Granite Switch 4.1：单端点实现聊天、决策与语音"
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-15",
-      "score": 7,
-      "titleCn": "Meta 与 Apple 合作提升 Muse AI 模型在 Mac 上的运行"
-    },
-    {
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "url": "https://www.qbitai.com/2026/10/503532.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-15",
-      "score": 7
-    },
-    {
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "url": "https://www.qbitai.com/2026/10/503640.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-15",
-      "score": 6
     }
   ]
 }
