@@ -1,0 +1,26 @@
+{
+  "titleCn": "面向多向量嵌入模型的词元池化感知训练",
+  "overview": "文章聚焦多向量嵌入模型训练中的词元池化问题，探讨如何让训练过程与推理阶段的词元聚合方式保持一致，从而提升表示学习效果。核心看点是将池化行为纳入训练设计，并分析其对语义匹配、信息检索及下游应用效率的影响。",
+  "sections": [
+    {
+      "heading": "训练与池化衔接",
+      "summary": "在多向量嵌入训练中显式纳入词元池化机制，使模型优化目标更贴近实际推理过程，减少训练与使用之间的不一致。"
+    },
+    {
+      "heading": "池化策略的影响",
+      "summary": "分析不同词元保留与聚合方式对表示质量的影响，为兼顾语义表达、计算成本和推理效率的池化方案选择提供思路。"
+    },
+    {
+      "heading": "下游应用价值",
+      "summary": "讨论池化感知训练在语义搜索、检索增强生成等场景中的应用潜力，为多向量嵌入模型的训练、评估与部署提供参考。"
+    }
+  ],
+  "id": "token-pooling",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "url": "https://huggingface.co/blog/token-pooling",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-14",
+  "hasFullText": false,
+  "generatedAt": "2026-11-15T14:13:04.374101+08:00"
+}
