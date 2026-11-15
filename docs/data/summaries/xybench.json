@@ -1,0 +1,26 @@
+{
+  "titleCn": "XYBench：帮助解决“问题背后的难题”",
+  "overview": "文章介绍 XYBench，一项关注“问题背后真正问题”的评测基准。它通过考察模型能否从用户表述中识别核心需求、澄清隐含目标并给出有针对性的帮助，探索智能助手处理复杂、模糊请求的能力，也为改进交互式 AI 提供了新的评估视角。",
+  "sections": [
+    {
+      "heading": "关注隐含需求",
+      "summary": "XYBench 将重点放在用户问题背后的实际障碍，而不只衡量答案是否表面正确，强调理解意图与解决根因。"
+    },
+    {
+      "heading": "评估有效协助",
+      "summary": "评测模型识别关键约束、拆解模糊诉求并提供恰当建议的能力，检验智能助手能否真正减轻用户的困难。"
+    },
+    {
+      "heading": "助力系统改进",
+      "summary": "该基准为比较不同模型在复杂交互中的问题理解与帮助能力提供统一视角，可用于诊断现有系统的短板。"
+    }
+  ],
+  "id": "xybench",
+  "title": "XYBench: Helping with the problem behind the question",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-14",
+  "hasFullText": false,
+  "generatedAt": "2026-11-15T14:12:57.581311+08:00"
+}
