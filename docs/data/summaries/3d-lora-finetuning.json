@@ -1,0 +1,26 @@
+{
+  "titleCn": "3D生成模型微调终极指南",
+  "overview": "这篇指南系统梳理3D生成模型的微调方法，涵盖数据准备、训练流程、参数高效微调、效果评估与模型应用等关键环节，并通过实践建议降低入门门槛，帮助读者提升定制化3D模型的质量与稳定性。",
+  "sections": [
+    {
+      "heading": "微调流程解析",
+      "summary": "介绍微调3D生成模型的基本流程，包括数据清洗与整理、训练环境配置、模型参数设置，以及从实验验证到结果分析的完整步骤。"
+    },
+    {
+      "heading": "高效训练策略",
+      "summary": "对比全量微调与参数高效微调等思路，讨论训练数据规模、显存优化和超参数选择对生成效果、训练成本及模型稳定性的影响。"
+    },
+    {
+      "heading": "评估与应用",
+      "summary": "说明如何从视觉质量、几何一致性、文本对齐和生成多样性等维度评估模型，并给出面向创作与工程场景的优化和落地建议。"
+    }
+  ],
+  "id": "3d-lora-finetuning",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-14",
+  "hasFullText": false,
+  "generatedAt": "2026-11-15T14:12:50.500913+08:00"
+}
