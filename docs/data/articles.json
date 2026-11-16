@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-11-15T14:12:28.946996+08:00",
+  "lastUpdated": "2026-11-16T14:10:47.079169+08:00",
   "articles": [
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-15",
+      "score": 9,
+      "titleCn": "在格点上定义标准模型迈出一步"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-15",
+      "score": 8,
+      "titleCn": "英伟达间谍丑闻后，美国国会拟收紧AI芯片出口规则"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-11-15",
+      "score": 8,
+      "titleCn": "Grok Build编程智能体泄露大量机密信息，部分涉及SpaceXSI"
+    },
+    {
+      "title": "Tracing Knowledge and Reasoning in LLM",
+      "url": "https://arxiv.org/abs/2611.17461",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-15",
+      "score": 8,
+      "titleCn": "追踪大语言模型中的知识与推理"
+    },
+    {
+      "title": "See Every Block Once: Variance-Reduced Post-Training for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.17754",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-15",
+      "score": 8,
+      "titleCn": "每个区块仅处理一次：掩码扩散语言模型的方差缩减后训练"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-15",
+      "score": 7,
+      "titleCn": "Shield帮助技术人员借助OpenAI交接旧版门户项目"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-15",
+      "score": 7,
+      "titleCn": "亚马逊计划对全球在线购物数据建立索引"
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-15",
+      "score": 7,
+      "titleCn": "大语言模型智能体何时应该遗忘？查询关键解析器错误下的记忆过滤"
+    },
+    {
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-15",
+      "score": 6,
+      "titleCn": "我们的全新科学博客"
+    },
     {
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -2608,111 +2689,6 @@
       "date": "2026-10-17",
       "score": 7,
       "titleCn": "英伟达内部人士转行投资人：为何机器人尚未迎来ChatGPT时刻"
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-16",
-      "score": 9,
-      "titleCn": "欢迎 Beam：501B 参数开源模型，可拥有、定制和扩展"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-16",
-      "score": 8,
-      "titleCn": "欢迎 FLUX.3 Image Klein 加入 Diffusers"
-    },
-    {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-16",
-      "score": 8,
-      "titleCn": "Meta 新条款可能允许其免费在新闻网站上训练 AI"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-16",
-      "score": 8,
-      "titleCn": "Elorian 首个 AI 模型想对图像进行推理，而不仅止于图像"
-    },
-    {
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-16",
-      "score": 8
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-16",
-      "score": 7,
-      "titleCn": "Itaú 如何为全体客户构建生成式 AI"
-    },
-    {
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-16",
-      "score": 7,
-      "titleCn": "Bluesky AI 工具现已支持制作游戏和应用并发布至社交平台"
-    },
-    {
-      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-      "url": "https://arxiv.org/abs/2610.20675",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-16",
-      "score": 7,
-      "titleCn": "AlphaDiana：可验证推理任务的智能体评测系统"
-    },
-    {
-      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-      "url": "https://arxiv.org/abs/2610.20676",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-16",
-      "score": 7,
-      "titleCn": "正确性反馈抹除证据：Verus 中相位分离的完整性审计"
-    },
-    {
-      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.20679",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-16",
-      "score": 7,
-      "titleCn": "反事实邻域风险场：基于证据的视觉‑语言模型选择性安全"
-    },
-    {
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "url": "https://www.qbitai.com/2026/10/503829.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-16",
-      "score": 7
-    },
-    {
-      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "url": "https://www.qbitai.com/2026/10/503779.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-16",
-      "score": 7
     }
   ]
 }
