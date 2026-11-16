@@ -1,0 +1,26 @@
+{
+  "titleCn": "我们的全新科学博客",
+  "overview": "OpenAI推出新的科学主题博客，旨在集中呈现公司及研究团队在科学研究、技术探索和科学应用方面的最新进展。文章预计将涵盖研究思路、实验发现、模型能力与现实问题之间的联系，并提供面向读者和专业人士的洞察与解读。",
+  "sections": [
+    {
+      "heading": "博客定位",
+      "summary": "新博客将作为OpenAI对外分享科学研究成果与进展的主要窗口，帮助读者了解团队如何探索人工智能与科学问题的结合。"
+    },
+    {
+      "heading": "内容方向",
+      "summary": "内容预计围绕研究项目、实验结果、技术方法及科学应用展开，突出从模型研发到实际问题的完整探索过程。"
+    },
+    {
+      "heading": "阅读价值",
+      "summary": "文章将为技术从业者、研究人员和普通读者提供清晰背景与前沿观点，促进对AI参与科学研究趋势的理解和讨论。"
+    }
+  ],
+  "id": "our-new-blog-for-science",
+  "title": "Our new blog for science",
+  "url": "https://openai.com/index/our-new-blog-for-science",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-15",
+  "hasFullText": false,
+  "generatedAt": "2026-11-16T14:12:22.390262+08:00"
+}
