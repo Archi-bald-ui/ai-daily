@@ -1,0 +1,26 @@
+{
+  "titleCn": "Shield 帮助技术人员将旧门户工作交接给 OpenAI",
+  "overview": "文章介绍 OpenAI Shield 如何协助技术人员把旧有门户中的操作任务移交给 AI 处理，重点关注人机协作与任务交接流程。其看点在于，Shield 可承担传统门户工作、帮助团队减少重复操作，同时让技术人员保留监督与接管能力，推动遗留系统更平稳地过渡到智能工作流。",
+  "sections": [
+    {
+      "heading": "旧门户任务交接",
+      "summary": "Shield 的核心用途是让技术人员将旧门户中的日常操作交给 OpenAI 处理，形成更清晰的人机协作分工。"
+    },
+    {
+      "heading": "流程与监督",
+      "summary": "文章强调交接并非完全放手，技术人员仍需审核关键环节、纠正异常，并在需要时重新接管任务。"
+    },
+    {
+      "heading": "遗留系统升级",
+      "summary": "看点在于借助 AI 消化传统门户工作，降低重复劳动与迁移阻力，让团队以更可控方式推进流程现代化。"
+    }
+  ],
+  "id": "shield",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-15",
+  "hasFullText": false,
+  "generatedAt": "2026-11-16T14:11:57.287134+08:00"
+}
