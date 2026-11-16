@@ -1,0 +1,26 @@
+{
+  "titleCn": "迈向在格点上定义标准模型的一步",
+  "overview": "文章介绍了在格点上构建标准模型的初步探索：通过将连续时空离散化，把粒子与相互作用纳入可计算框架，以便研究其一致性和动力学。这是迈向更完整、可检验的格点理论的重要一步，也为相关模拟与研究奠定基础。",
+  "sections": [
+    {
+      "heading": "格点离散化",
+      "summary": "核心思路是将连续的时空与场论结构离散到有限网格，从而把标准模型转化为更适合分析和计算的形式，并便于处理量子效应。"
+    },
+    {
+      "heading": "标准模型构建",
+      "summary": "研究聚焦如何在格点框架中容纳标准模型的主要粒子、规范相互作用及其对称性，检验理论结构能否在离散体系中保持自洽。"
+    },
+    {
+      "heading": "研究意义",
+      "summary": "这项工作为理解标准模型的非微扰行为、探索数值模拟及其与实验现象的联系提供了基础性方向，但距离完整实现仍有后续工作。"
+    }
+  ],
+  "id": "step-toward-defining-the-standard-model",
+  "title": "A step toward defining the Standard Model on a lattice",
+  "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-15",
+  "hasFullText": false,
+  "generatedAt": "2026-11-16T14:11:13.687993+08:00"
+}
