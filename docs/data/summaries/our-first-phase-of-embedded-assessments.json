@@ -1,0 +1,26 @@
+{
+  "titleCn": "嵌入式评估的第一阶段",
+  "overview": "OpenAI介绍了其“嵌入式评估”的第一阶段，重点聚焦如何将评估机制更自然地嵌入模型任务与使用流程。文章将阐释这一阶段的目标、主要思路及后续推进方向，核心看点在于持续观察模型的实际表现，并为模型优化与可靠性提升提供依据。",
+  "sections": [
+    {
+      "heading": "阶段目标",
+      "summary": "此次更新旨在启动嵌入式评估实践，让评估不再只是独立测试，而是更贴近模型在真实任务中的表现。"
+    },
+    {
+      "heading": "融入实际流程",
+      "summary": "文章重点介绍如何把能力检验与安全评估嵌入日常交互和任务执行过程，从而获得更及时、具体的反馈。"
+    },
+    {
+      "heading": "后续发展方向",
+      "summary": "第一阶段也将为后续完善评估覆盖范围、建立更系统的反馈机制，以及持续改进模型能力与安全性奠定基础。"
+    }
+  ],
+  "id": "our-first-phase-of-embedded-assessments",
+  "title": "Our first phase of embedded assessments",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-16",
+  "hasFullText": false,
+  "generatedAt": "2026-11-17T15:46:10.720482+08:00"
+}
