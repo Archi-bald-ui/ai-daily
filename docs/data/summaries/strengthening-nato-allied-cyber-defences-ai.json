@@ -1,0 +1,22 @@
+{
+  "titleCn": "利用人工智能加强北约及盟友的网络防御",
+  "overview": "文章聚焦如何利用人工智能加强北约及其盟友的网络安全防御，探讨AI在识别威胁、分析攻击和提升响应效率方面的潜力，并强调在复杂地缘安全环境下构建可信、协作且负责任的AI能力。",
+  "sections": [
+    {
+      "heading": "AI赋能网络防御",
+      "summary": "文章讨论将AI引入网络防御体系，用于辅助发现异常、研判威胁并加快处置，从而提升北约及盟友应对持续性网络攻击的能力。"
+    },
+    {
+      "heading": "联盟协作与安全治理",
+      "summary": "面对跨境威胁与关键基础设施风险，需加强成员国之间的情报共享、方法协同与联合响应，同时重视模型安全、可靠使用及责任边界。"
+    }
+  ],
+  "id": "strengthening-nato-allied-cyber-defences-ai",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-16",
+  "hasFullText": false,
+  "generatedAt": "2026-11-17T15:46:34.462878+08:00"
+}
