@@ -1,0 +1,26 @@
+{
+  "titleCn": "让更多科学家能够使用 AI",
+  "overview": "OpenAI 探讨如何扩大 AI 在科学研究领域的可及性，让更多科学家便捷地使用相关工具与方法。文章的看点在于强调降低 AI 使用门槛对科研探索、跨学科协作及知识发现的推动作用，以及人工智能在解决科学问题中的广泛应用潜力。",
+  "sections": [
+    {
+      "heading": "降低科研使用门槛",
+      "summary": "文章聚焦如何减少科学家采用 AI 的障碍，让不同规模和背景的研究团队都能更便捷地接触并使用相关能力。"
+    },
+    {
+      "heading": "拓展科学研究路径",
+      "summary": "AI 可为信息处理、假设生成、实验分析和知识发现提供支持，帮助研究者拓展探索思路并提升分析效率。"
+    },
+    {
+      "heading": "促进开放协作",
+      "summary": "更广泛的 AI 可及性有助于释放科研潜力，推动跨学科交流与资源共享，使创新成果更好地服务科学共同体。"
+    }
+  ],
+  "id": "expanding-chatgpt-for-academic-researchers",
+  "title": "Broadening access to AI for scientists",
+  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-16",
+  "hasFullText": false,
+  "generatedAt": "2026-11-17T15:46:43.969087+08:00"
+}
