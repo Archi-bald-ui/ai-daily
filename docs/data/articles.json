@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-16T14:10:47.079169+08:00",
+  "lastUpdated": "2026-11-17T15:45:43.564043+08:00",
   "articles": [
+    {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-16",
+      "score": 9,
+      "titleCn": "科技领袖确信黄仁勋离职是一场针对他的阴谋"
+    },
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-16",
+      "score": 9,
+      "titleCn": "加州起诉OpenAI，追究失控AI黑客事件"
+    },
+    {
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-16",
+      "score": 9
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-16",
+      "score": 8,
+      "titleCn": "嵌入式评估第一阶段"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-16",
+      "score": 8,
+      "titleCn": "加州州总检察长起诉OpenAI，追究失控智能体事件"
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-16",
+      "score": 8,
+      "titleCn": "排名可靠吗？面向实践者的小型量化端侧LLM幻觉检测器审计"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-16",
+      "score": 7,
+      "titleCn": "利用AI加强北约及其盟国的网络防御"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-16",
+      "score": 7,
+      "titleCn": "扩大AI对科学家的可及性"
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-16",
+      "score": 7,
+      "titleCn": "LoRAWeaver：LoRA表示空间中的定向适配器路由"
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-16",
+      "score": 7,
+      "titleCn": "不透明序列深度的操作化"
+    },
+    {
+      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+      "url": "https://www.qbitai.com/2026/11/510416.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-16",
+      "score": 7
+    },
+    {
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "url": "https://www.qbitai.com/2026/11/510542.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-16",
+      "score": 6
+    },
     {
       "title": "A step toward defining the Standard Model on a lattice",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -2638,57 +2743,6 @@
       "date": "2026-10-18",
       "score": 6,
       "titleCn": "Meta 删除了可能允许其抓取新闻网站的条款"
-    },
-    {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-17",
-      "score": 8
-    },
-    {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-17",
-      "score": 8
-    },
-    {
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-17",
-      "score": 8
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-17",
-      "score": 7,
-      "titleCn": "网站对AI代理关闭大门"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-17",
-      "score": 7,
-      "titleCn": "印度成为最新报告恶意AI代理活动的国家"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-17",
-      "score": 7,
-      "titleCn": "英伟达内部人士转行投资人：为何机器人尚未迎来ChatGPT时刻"
     }
   ]
 }
