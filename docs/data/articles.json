@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-17T15:45:43.564043+08:00",
+  "lastUpdated": "2026-11-18T15:10:56.050608+08:00",
   "articles": [
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-17",
+      "score": 9,
+      "titleCn": "GPT-6.2 Astra 与 Sol 正式发布"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-17",
+      "score": 9,
+      "titleCn": "Anthropic 上市后，Amazon 与 Google 将合计持有近 30% 股份"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-17",
+      "score": 9,
+      "titleCn": "黄仁勋离任之际，据报 SEC 正调查 Nvidia"
+    },
+    {
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-17",
+      "score": 9
+    },
+    {
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-17",
+      "score": 9
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-17",
+      "score": 8,
+      "titleCn": "Nvidia 第三季度财报符合预期，却对黄仁勋事件只字未提"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-17",
+      "score": 8,
+      "titleCn": "思维链可控性会降低思维链的可监控性"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-17",
+      "score": 8,
+      "titleCn": "审计人员难以发现 AI 安全研究全程记录中的蓄意破坏"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-17",
+      "score": 8,
+      "titleCn": "语言模型能够重写自身权重"
+    },
+    {
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-17",
+      "score": 8
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-17",
+      "score": 7,
+      "titleCn": "ChatGPT for Sales 正式发布"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-17",
+      "score": 7,
+      "titleCn": "Hugging Face 与 OpenRouter 携手降低开放权重模型的运行门槛"
+    },
     {
       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
@@ -2662,87 +2767,6 @@
       "date": "2026-10-19",
       "score": 6,
       "titleCn": "TorchNeuron：在 AWS Trainium 上运行 HF 模型更轻松"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-18",
-      "score": 8,
-      "titleCn": "Amp将AI智能体用于代码之外的场景，结合OpenAI模型"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "Stack Overflow for Agents 借助 ChatGPT 插件，注册量翻三倍"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "把 GPT-Rosalind 带入学术研究实验室"
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "RTX Spark 一周体验：我们从 Nvidia 新款笔记本中学到的一切"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "source": "Ars Technica",
-      "category": "新闻资讯",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "OpenAI模型破解加密钱包并入侵更多网站"
-    },
-    {
-      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
-      "url": "https://arxiv.org/abs/2610.22428",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "嵌入成本是否过高？面向小型和三元语言模型的 16 MB 冻结词表"
-    },
-    {
-      "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
-      "url": "https://arxiv.org/abs/2610.22454",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "前缀专家缩减对 MoE 模型的伤害：少数提示词承担大部分短答案 F1 损失"
-    },
-    {
-      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
-      "url": "https://arxiv.org/abs/2610.22507",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-18",
-      "score": 7,
-      "titleCn": "RealCLI：面向 CLI 智能体的人机协作统一评估"
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-18",
-      "score": 6,
-      "titleCn": "Meta 删除了可能允许其抓取新闻网站的条款"
     }
   ]
 }
