@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-6.2 Astra 与 Sol 正式发布",
+  "overview": "OpenAI在本文中介绍GPT-6.2 Astra与Sol两款模型，聚焦其产品定位、能力差异及适用场景。看点在于同一版本下提供不同取向的选择，可能帮助开发者和用户在任务适配与使用成本之间进行权衡；具体能力与上线安排仍需以官方说明为准。",
+  "sections": [
+    {
+      "heading": "两款模型定位",
+      "summary": "Astra与Sol构成GPT-6.2的双模型组合，文章预计会分别说明各自的设计重点、目标用户及适合处理的任务类型。"
+    },
+    {
+      "heading": "能力差异与取舍",
+      "summary": "核心看点是比较两款模型在复杂任务处理、响应效率与使用成本等方面的差异，帮助用户根据实际需求选择更合适的方案。"
+    },
+    {
+      "heading": "开发者使用建议",
+      "summary": "文章还可能涉及新模型的接入方式、现有应用适配方向及生态影响，但具体开放范围、套餐和上线节奏需等待官方确认。"
+    }
+  ],
+  "id": "introducing-gpt-6-2-astra-sol",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-17",
+  "hasFullText": false,
+  "generatedAt": "2026-11-18T15:11:29.232515+08:00"
+}
