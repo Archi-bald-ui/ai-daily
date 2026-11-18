@@ -1,0 +1,26 @@
+{
+  "titleCn": "推出ChatGPT销售版",
+  "overview": "OpenAI推出面向销售团队的ChatGPT，旨在将生成式AI应用于日常销售工作。文章介绍其核心能力与典型使用场景，重点关注如何辅助客户研究、销售沟通和会议准备，减少重复性文书工作，让销售更专注于客户关系与业务推进。",
+  "sections": [
+    {
+      "heading": "销售场景定位",
+      "summary": "ChatGPT for Sales面向销售工作中的信息处理与内容生成需求，帮助团队更快整理客户背景、构思沟通话术并准备会议资料。"
+    },
+    {
+      "heading": "工作流程提效",
+      "summary": "通过在研究与写作环节提供即时支持，该工具可减少重复性文书和准备时间，让销售人员投入更多精力于客户沟通、跟进与决策。"
+    },
+    {
+      "heading": "企业落地价值",
+      "summary": "生成式AI与销售流程的结合有望提升团队效率与内容质量，同时企业仍需关注输出准确性、使用规范及具体业务适配。"
+    }
+  ],
+  "id": "introducing-chatgpt-for-sales",
+  "title": "Introducing ChatGPT for Sales",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-17",
+  "hasFullText": false,
+  "generatedAt": "2026-11-18T15:12:51.609074+08:00"
+}
