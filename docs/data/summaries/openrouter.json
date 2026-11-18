@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hugging Face 与 OpenRouter 携手，让开放权重模型更易运行",
+  "overview": "Hugging Face 与 OpenRouter 宣布合作，目标是降低开放权重模型的运行与使用门槛。文章看点在于整合模型资源与推理服务入口，让开发者、企业和用户更容易发现、调用并部署各类开放模型，进一步推动开放模型生态的可用性与普及。",
+  "sections": [
+    {
+      "heading": "合作定位",
+      "summary": "此次合作将开放权重模型生态与模型路由服务连接起来，重点解决模型难以发现、调用和落地使用的问题，为用户提供更顺畅的体验。"
+    },
+    {
+      "heading": "降低使用门槛",
+      "summary": "借助双方能力，开发者有望减少自行部署和集成的负担，更方便地调用开放模型，从而加快应用原型构建与实际采用。"
+    },
+    {
+      "heading": "推动生态普及",
+      "summary": "文章强调开放模型走向易用化的重要性。更丰富的模型选择和便捷的调用方式，有助于活跃 AI 应用生态并加速开放模型普及。"
+    }
+  ],
+  "id": "openrouter",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "url": "https://huggingface.co/blog/openrouter",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-17",
+  "hasFullText": false,
+  "generatedAt": "2026-11-18T15:13:00.701968+08:00"
+}
