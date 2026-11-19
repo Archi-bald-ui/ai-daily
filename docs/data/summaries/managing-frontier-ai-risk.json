@@ -1,0 +1,26 @@
+{
+  "titleCn": "管理前沿人工智能风险：从训练到部署",
+  "overview": "文章聚焦前沿人工智能从模型训练到实际部署的全生命周期风险管理，讨论如何识别、评估并降低潜在危害。其核心看点在于把安全治理前移至研发阶段，同时关注部署后的监测、响应与责任机制，强调在能力快速演进背景下持续验证模型是否安全、可靠并可控。",
+  "sections": [
+    {
+      "heading": "全生命周期风险视角",
+      "summary": "文章将前沿人工智能风险管理置于完整链条中，既关注训练数据、模型开发与评估阶段的风险，也讨论部署环境和实际使用带来的新问题。"
+    },
+    {
+      "heading": "评估与安全护栏",
+      "summary": "重点讨论如何建立可重复的测试与评估方法，提前发现模型在真实性、可靠性、对齐和安全方面的不足，并以适当护栏限制风险。"
+    },
+    {
+      "heading": "部署后的持续治理",
+      "summary": "上线并不等于风险结束，文章强调持续监测模型表现与使用影响，及时发现异常、处置事件，并完善问责和迭代机制。"
+    }
+  ],
+  "id": "managing-frontier-ai-risk",
+  "title": "Managing frontier AI risk: From training to deployment",
+  "url": "https://openai.com/index/managing-frontier-ai-risk",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-18",
+  "hasFullText": false,
+  "generatedAt": "2026-11-19T15:13:28.394129+08:00"
+}
