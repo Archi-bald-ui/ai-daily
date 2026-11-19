@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-18T15:10:56.050608+08:00",
+  "lastUpdated": "2026-11-19T15:12:43.147661+08:00",
   "articles": [
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-18",
+      "score": 9,
+      "titleCn": "还记得前沿 AI 暂停吗？芯片公司也没当回事"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-18",
+      "score": 9,
+      "titleCn": "Anthropic 将 IPO 定价为每股 83 美元，高于预计区间"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-18",
+      "score": 8,
+      "titleCn": "研究加速：参差不齐的前沿"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-18",
+      "score": 8,
+      "titleCn": "管理前沿 AI 风险：从训练到部署"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-18",
+      "score": 8,
+      "titleCn": "让 Gemini 为你所用"
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-18",
+      "score": 8,
+      "titleCn": "帕尔默·拉基警告：AI 驱动的网络攻击正快于防御，“是时候开始跑了”"
+    },
+    {
+      "title": "Training Language Models for Introspective Oversight",
+      "url": "https://arxiv.org/abs/2611.23365",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-18",
+      "score": 8,
+      "titleCn": "训练语言模型进行内省式监督"
+    },
+    {
+      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "url": "https://www.qbitai.com/2026/11/511071.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-18",
+      "score": 8
+    },
+    {
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-18",
+      "score": 8
+    },
+    {
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-18",
+      "score": 7,
+      "titleCn": "能力不对称下，人机互利关系并不稳定"
+    },
+    {
+      "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+      "url": "https://arxiv.org/abs/2611.23533",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-18",
+      "score": 7,
+      "titleCn": "LLM 能理解自身预测吗？评估金融市场中的潜在因果结构推断"
+    },
+    {
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-18",
+      "score": 7
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -2671,102 +2776,6 @@
       "category": "中文资讯",
       "date": "2026-10-20",
       "score": 6
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-19",
-      "score": 8,
-      "titleCn": "Nscale 与 Anthropic 正就另一笔 450 亿美元算力交易进行谈判"
-    },
-    {
-      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
-      "url": "https://arxiv.org/abs/2610.23866",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-19",
-      "score": 8,
-      "titleCn": "GardenBench：轻量化日常 LLM 能力评估"
-    },
-    {
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "url": "https://arxiv.org/abs/2610.23921",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-19",
-      "score": 8,
-      "titleCn": "以少博多：代理计算相对于备选架构适用性的第一性原理探索"
-    },
-    {
-      "title": "Translating in style: An open-weight alternative to GPT-4 for culturally aligned machine translation",
-      "url": "https://arxiv.org/abs/2610.23868",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-19",
-      "score": 8,
-      "titleCn": "风格化翻译：面向文化对齐的开源 GPT-4 替代方案"
-    },
-    {
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "url": "https://www.qbitai.com/2026/10/504242.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-19",
-      "score": 8
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-19",
-      "score": 7,
-      "titleCn": "提升低资源编程语言的代码能力"
-    },
-    {
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-19",
-      "score": 7,
-      "titleCn": "CoreWeave 的债务正拖累整个 AI 行业"
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-19",
-      "score": 7,
-      "titleCn": "黑客利用 AI 代理大军入侵 John Deere 与 SharkNinja"
-    },
-    {
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "url": "https://www.qbitai.com/2026/10/504314.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-19",
-      "score": 7
-    },
-    {
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "url": "https://www.qbitai.com/2026/10/504225.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-19",
-      "score": 7
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-19",
-      "score": 6,
-      "titleCn": "TorchNeuron：在 AWS Trainium 上运行 HF 模型更轻松"
     }
   ]
 }
