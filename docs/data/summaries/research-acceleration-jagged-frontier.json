@@ -1,0 +1,26 @@
+{
+  "titleCn": "研究加速：参差不齐的前沿",
+  "overview": "文章聚焦人工智能如何加速科研，探讨模型与自动化工具在研究流程中的应用，以及算力、数据、评价机制和人类判断所带来的不均衡进展。重点在于说明，科研提速并非一路平坦，真正突破往往伴随新的瓶颈与风险。",
+  "sections": [
+    {
+      "heading": "自动化拓展研究能力",
+      "summary": "AI模型可用于文献检索、假设生成、代码编写与实验设计，有望压缩研究周期，并帮助研究者探索更多候选方案。"
+    },
+    {
+      "heading": "进展为何不均衡",
+      "summary": "不同任务获得的收益并不相同，受数据质量、工具可靠性、算力成本和评价方式影响，科研自动化呈现出崎岖而分化的前沿。"
+    },
+    {
+      "heading": "突破仍需人类把关",
+      "summary": "模型输出可能包含错误或伪发现，高风险研究仍需专家验证。提升科研速度的同时，安全性、透明度与责任边界同样关键。"
+    }
+  ],
+  "id": "research-acceleration-jagged-frontier",
+  "title": "Research acceleration: The jagged frontier",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-18",
+  "hasFullText": false,
+  "generatedAt": "2026-11-19T15:13:15.125108+08:00"
+}
