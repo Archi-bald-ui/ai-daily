@@ -1,0 +1,26 @@
+{
+  "titleCn": "180B参数、32GB内存：用Transformers将MoE推理推向极限",
+  "overview": "文章聚焦大规模混合专家模型（MoE）的推理优化，探讨如何在仅配备32GB内存的条件下运行约180B参数模型。文章基于Hugging Face Transformers，分析模型加载、专家路由与资源管理等技术路径，并讨论精度、速度与硬件约束之间的权衡，为本地部署超大规模模型提供参考。",
+  "sections": [
+    {
+      "heading": "内存受限的推理方案",
+      "summary": "围绕32GB内存环境分析超大规模MoE模型的部署难点，重点关注权重加载、显存占用与专家模块调度等关键环节。"
+    },
+    {
+      "heading": "Transformers优化路径",
+      "summary": "介绍借助Transformers进行模型切分、分批加载和推理配置的可能方法，兼顾运行可行性、响应效率与部署复杂度。"
+    },
+    {
+      "heading": "性能与资源权衡",
+      "summary": "讨论参数规模、内存预算、量化或精度策略以及推理速度之间的关系，为不同硬件条件下的实验选择提供参考。"
+    }
+  ],
+  "id": "moe-expert-streaming",
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "url": "https://huggingface.co/blog/moe-expert-streaming",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-19",
+  "hasFullText": false,
+  "generatedAt": "2026-11-20T15:00:52.018957+08:00"
+}
