@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI 的“性能工厂”如何让 ChatGPT 保持快速",
+  "overview": "本文介绍 OpenAI 内部的 Performance Factory（性能工厂）机制，说明团队如何通过系统性评估、基准测试与工程优化，持续改进模型与产品的响应速度。文章看点在于把“性能”当作一条独立工程流水线来经营，而非模型发布后的附加工作，并分享了指标设定、瓶颈定位和迭代流程上的实践经验。",
+  "sections": [
+    {
+      "heading": "性能工程的体系化运作",
+      "summary": "Performance Factory 把性能优化从零散修补变成常态化流程，通过固定评测与指标跟踪，持续发现延迟与稳定性问题，形成可重复的改进闭环。"
+    },
+    {
+      "heading": "从基准测试到真实体验",
+      "summary": "文章强调仅看模型分数并不足够，还需要结合线上真实请求的端到端延迟、吞吐与成本等多维指标，才能判断用户实际感受到的速度。"
+    },
+    {
+      "heading": "工程与模型协同优化",
+      "summary": "速度提升往往来自多处合力：推理策略、模型规模与量化、缓存复用、硬件调度以及服务架构的协同改进，共同构成 ChatGPT 的“快”。"
+    }
+  ],
+  "id": "how-openai-performance-factory-keeps-chatgpt-fast",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-19",
+  "hasFullText": false,
+  "generatedAt": "2026-11-20T15:01:24.943469+08:00"
+}
