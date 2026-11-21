@@ -1,0 +1,26 @@
+{
+  "titleCn": "对抗性蒸馏防御",
+  "overview": "这篇 OpenAI 博客探讨如何应对对抗性蒸馏攻击，即攻击者通过诱导模型生成特定输出，试图绕过安全限制并提取模型能力。文章预计介绍攻击机制、评估方法及相应的防御思路，重点在于提升模型在恶意诱导下的鲁棒性与安全性。",
+  "sections": [
+    {
+      "heading": "攻击机制",
+      "summary": "文章分析对抗性蒸馏的基本思路，说明攻击者如何借助特定提示或诱导样本影响模型输出，进而规避限制或获取不应暴露的能力。"
+    },
+    {
+      "heading": "防御思路",
+      "summary": "内容将讨论识别和削弱对抗性蒸馏影响的方法，包括加强模型对恶意指令的判断、调整训练与响应机制，以降低被绕过和提取的风险。"
+    },
+    {
+      "heading": "安全意义",
+      "summary": "文章强调提升模型对抗性蒸馏能力的必要性，并指出更稳健的防御有助于保护模型权重、专有能力和安全边界，应对持续演化的攻击。"
+    }
+  ],
+  "id": "combatting-adversarial-distillation",
+  "title": "Combatting adversarial distillation",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-20",
+  "hasFullText": false,
+  "generatedAt": "2026-11-21T14:55:42.548323+08:00"
+}
