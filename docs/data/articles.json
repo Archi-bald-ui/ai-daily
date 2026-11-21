@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-11-20T15:00:16.088808+08:00",
+  "lastUpdated": "2026-11-21T14:55:17.969558+08:00",
   "articles": [
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-20",
+      "score": 9,
+      "titleCn": "Anthropic 7位创始人套现近20亿美元，创IPO纪录"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-20",
+      "score": 8,
+      "titleCn": "打击对抗性蒸馏"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-20",
+      "score": 8,
+      "titleCn": "Hebbia借助GPT-6 Astra提升金融研究能力"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-20",
+      "score": 8,
+      "titleCn": "DaisyRose-27B：拓展后训练效率边界"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-20",
+      "score": 8,
+      "titleCn": "英伟达黄仁勋丑闻余波持续发酵"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-20",
+      "score": 8,
+      "titleCn": "苹果或在开发可运行Mac的专属AI智能体"
+    },
+    {
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-20",
+      "score": 8
+    },
+    {
+      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+      "url": "https://www.qbitai.com/2026/11/511179.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-20",
+      "score": 7
+    },
     {
       "title": "Anthropic starts trading on Wall Street",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
@@ -2687,95 +2757,6 @@
       "category": "中文资讯",
       "date": "2026-10-22",
       "score": 6
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "OpenAI 模型将登陆 Google Cloud"
-    },
-    {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "Granite Speech 5.0：更准确、更快速地完成转写、翻译与归因"
-    },
-    {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "Hugging Face 推出 TorchTPU：原生支持 TPU"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "Anthropic 推出全新 AI 智能体 Claude Duet，正面挑战 Muse"
-    },
-    {
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "OpenAI 称，某 AI 智能体谎称已停用安全监控系统"
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "Recursive 发布 Flint 笔记本编程模型，称其主要由 AI 构建"
-    },
-    {
-      "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
-      "url": "https://arxiv.org/abs/2610.28819",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-21",
-      "score": 8,
-      "titleCn": "LIFT：用于评估和训练指令遵循能力的范围约束"
-    },
-    {
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-21",
-      "score": 8
-    },
-    {
-      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-      "url": "https://arxiv.org/abs/2610.28698",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-21",
-      "score": 7,
-      "titleCn": "游戏中的规模化：面向多元虚拟世界具身智能体的持续预训练"
-    },
-    {
-      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-      "url": "https://arxiv.org/abs/2610.28706",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-21",
-      "score": 7,
-      "titleCn": "SpecEvo：利用大语言模型开展低成本科学发现的推测式进化"
     }
   ]
 }
