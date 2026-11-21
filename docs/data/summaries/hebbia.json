@@ -1,0 +1,26 @@
+{
+  "titleCn": "Hebbia借助GPT-6 Astra提升金融研究效率",
+  "overview": "OpenAI介绍金融科技公司Hebbia将GPT-6 Astra用于金融研究的应用进展，聚焦模型在信息处理、研究分析与工作流优化方面的能力。文章的看点在于，生成式AI正进一步进入专业投研场景，潜在价值可能体现在加快资料梳理、辅助形成洞察及提升团队效率。",
+  "sections": [
+    {
+      "heading": "金融研究场景落地",
+      "summary": "Hebbia将GPT-6 Astra引入金融研究流程，尝试借助先进模型处理复杂信息并支持专业分析，标志着生成式AI在投研领域的进一步应用。"
+    },
+    {
+      "heading": "研究效率与洞察",
+      "summary": "文章重点关注模型在资料归纳、信息整合和洞察生成上的表现，其潜在优势是减少重复工作，让研究人员更快形成研究结论。"
+    },
+    {
+      "heading": "专业工作流启示",
+      "summary": "该案例展示了AI模型与金融工作流结合的可能性，为其他研究机构优化知识检索、深度分析和协作效率提供了参考方向。"
+    }
+  ],
+  "id": "hebbia",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-20",
+  "hasFullText": false,
+  "generatedAt": "2026-11-21T14:55:51.109249+08:00"
+}
