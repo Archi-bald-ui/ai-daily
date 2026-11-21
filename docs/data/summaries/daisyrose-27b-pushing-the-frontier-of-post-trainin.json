@@ -1,0 +1,26 @@
+{
+  "titleCn": "DaisyRose-27B：推动后训练效率的前沿",
+  "overview": "文章聚焦DaisyRose-27B模型的后训练阶段，讨论如何提升大参数模型在指令微调、对齐与优化过程中的效率。其看点在于将模型能力提升与训练成本、流程简化及方法复用性结合，为构建更高效的后训练实践提供思路。",
+  "sections": [
+    {
+      "heading": "后训练目标",
+      "summary": "内容围绕DaisyRose-27B的后训练展开，重点关注模型在完成预训练后，如何通过进一步训练与对齐提升可用性。"
+    },
+    {
+      "heading": "效率优化路径",
+      "summary": "文章探索后训练环节的效率瓶颈，并从算法、训练数据与工程实现协同的角度，寻找改进训练效果与成本的方向。"
+    },
+    {
+      "heading": "实践与启示",
+      "summary": "其核心价值不只是展示一个模型版本，还在于为高参数规模模型降低后训练成本、提升迭代速度提供参考。"
+    }
+  ],
+  "id": "daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-20",
+  "hasFullText": false,
+  "generatedAt": "2026-11-21T14:55:58.086542+08:00"
+}
