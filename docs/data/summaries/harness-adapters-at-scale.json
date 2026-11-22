@@ -1,0 +1,26 @@
+{
+  "titleCn": "推出 Harness 适配器：让常用模型适配你的 Harness，提升性能并降低成本",
+  "overview": "Hugging Face 介绍 harness adapters，用于将用户熟悉的模型接入特定 Harness（模型运行框架）。这一适配层有望减少模型与框架之间的兼容性问题，并针对任务或运行环境优化模型调用，在提升效果的同时控制使用成本。其可复用性和面向不同 Harness 的适配思路值得关注。",
+  "sections": [
+    {
+      "heading": "适配模型与框架",
+      "summary": "Harness 适配器充当模型与目标运行框架之间的桥梁，让常用模型能够按框架要求接入，降低迁移和集成门槛。"
+    },
+    {
+      "heading": "兼顾性能与成本",
+      "summary": "适配过程可围绕具体 Harness 调整模型行为与调用方式，目标是改善任务表现，并减少不必要的资源消耗。"
+    },
+    {
+      "heading": "支持灵活复用",
+      "summary": "用户可继续选用熟悉的模型，再按自己的 Harness 进行适配，兼顾模型生态、框架需求与成本控制。"
+    }
+  ],
+  "id": "harness-adapters-at-scale",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-21",
+  "hasFullText": false,
+  "generatedAt": "2026-11-22T14:32:27.102916+08:00"
+}
