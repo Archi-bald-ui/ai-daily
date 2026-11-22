@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-21T14:55:17.969558+08:00",
+  "lastUpdated": "2026-11-22T14:31:45.378867+08:00",
   "articles": [
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-21",
+      "score": 9,
+      "titleCn": "Anthropic数学家声称已用Claude解决著名的千禧年难题"
+    },
+    {
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-21",
+      "score": 9
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-21",
+      "score": 8,
+      "titleCn": "Anthropic有能力将安全放在首位吗？"
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-21",
+      "score": 8,
+      "titleCn": "Signal阻止Gemini和Siri AI读取你的屏幕"
+    },
+    {
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-21",
+      "score": 8
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-21",
+      "score": 7,
+      "titleCn": "AI能帮助科学家发现有前景的候选药物吗？"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-21",
+      "score": 7,
+      "titleCn": "Gemini API推出工具检索功能"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-21",
+      "score": 7,
+      "titleCn": "推出框架适配器：让模型适配所用框架，提升性能并降低成本"
+    },
+    {
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-21",
+      "score": 7
+    },
     {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -2651,111 +2729,6 @@
       "source": "量子位",
       "category": "中文资讯",
       "date": "2026-10-23",
-      "score": 6
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-22",
-      "score": 9,
-      "titleCn": "OpenAI拟在IPO前以1.25万亿美元估值筹集300亿美元新资金"
-    },
-    {
-      "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
-      "url": "https://arxiv.org/abs/2610.30277",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-22",
-      "score": 9,
-      "titleCn": "利用人机协同发现循环突破勒默问题的高次障碍"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-22",
-      "score": 8,
-      "titleCn": "使用Decisions API构建响应更迅速的应用"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-22",
-      "score": 8,
-      "titleCn": "修补地球：智能体发现关键漏洞后的全球协同响应"
-    },
-    {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-22",
-      "score": 8,
-      "titleCn": "OlmoEarth v1.3：面向全球的顶尖嵌入模型"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-22",
-      "score": 8,
-      "titleCn": "决策模型竞争升温，OpenAI让其Jev竞品广泛可用"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-22",
-      "score": 8,
-      "titleCn": "微软穆斯塔法·苏莱曼称其AI在棘手病例上胜过医生，目标是实现“医疗超级智能”"
-    },
-    {
-      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-      "url": "https://arxiv.org/abs/2610.30151",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-22",
-      "score": 7,
-      "titleCn": "“你好”的成本：AI智能体通信协议中握手开销的实证研究"
-    },
-    {
-      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-      "url": "https://arxiv.org/abs/2610.30157",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-22",
-      "score": 7,
-      "titleCn": "AI智能体使用MCP还是CLI：自主系统工具集成策略比较分析"
-    },
-    {
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-22",
-      "score": 7
-    },
-    {
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-22",
-      "score": 7
-    },
-    {
-      "title": "谁在给OpenAI供应具身数据？",
-      "url": "https://www.qbitai.com/2026/10/504800.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-22",
       "score": 6
     }
   ]
