@@ -1,0 +1,26 @@
+{
+  "titleCn": "人工智能能否帮助科学家识别有前景的药物候选物？",
+  "overview": "文章探讨人工智能如何辅助科学家从大量候选分子中筛选有潜力的药物线索，并讨论其在药物发现中的价值、适用环节与局限。核心看点在于，AI有望提升早期筛选效率、缩短研发周期，但结果仍需实验验证和科学家把关。",
+  "sections": [
+    {
+      "heading": "AI参与药物发现",
+      "summary": "文章聚焦AI在药物发现早期阶段的作用，即通过计算分析海量候选分子，帮助科学家缩小实验范围，并识别更值得进一步研究的药物线索。"
+    },
+    {
+      "heading": "提升筛选效率",
+      "summary": "主要看点是AI有望提高候选物筛选效率，减少重复实验并缩短早期研发时间，让研究人员把资源集中到更有希望的分子上。"
+    },
+    {
+      "heading": "实验验证仍不可少",
+      "summary": "与此同时，AI生成的判断不能替代湿实验和临床验证。其可靠性取决于数据质量与模型表现，因此科学家仍需设计实验、解释结果并严格把关。"
+    }
+  ],
+  "id": "introducing-medchembench",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-21",
+  "hasFullText": false,
+  "generatedAt": "2026-11-22T14:32:12.752699+08:00"
+}
