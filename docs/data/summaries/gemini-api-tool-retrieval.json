@@ -1,0 +1,26 @@
+{
+  "titleCn": "Gemini API 推出工具检索功能",
+  "overview": "Google AI 在 Gemini API 中引入工具检索功能，使模型能够从工具集合中按需查找并选择合适工具，再执行调用。该能力有望提升复杂任务的工具使用效率与系统可扩展性，为开发者构建代理式应用提供更灵活的基础设施。",
+  "sections": [
+    {
+      "heading": "工具按需发现",
+      "summary": "Gemini API 可让模型从大量可用工具中检索相关选项，减少预先配置全部工具信息的负担，并使工具集合更易于扩展。"
+    },
+    {
+      "heading": "动态选择与调用",
+      "summary": "模型可根据具体请求判断需要哪些工具，完成检索、选择和调用衔接，有助于提高复杂任务处理中的针对性与效率。"
+    },
+    {
+      "heading": "支持代理式应用",
+      "summary": "该功能为需要多步骤操作和外部能力扩展的代理式应用提供基础，使开发者能够构建更灵活、适应性更强的工具链。"
+    }
+  ],
+  "id": "gemini-api-tool-retrieval",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-11-21",
+  "hasFullText": false,
+  "generatedAt": "2026-11-22T14:32:18.956938+08:00"
+}
