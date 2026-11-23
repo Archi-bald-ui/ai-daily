@@ -1,0 +1,26 @@
+{
+  "titleCn": "欢迎 Inkling 2 Mini：为本地部署带来前沿性能",
+  "overview": "Hugging Face 介绍 Inkling 2 Mini，聚焦本地环境中的部署与使用体验。文章突出这一紧凑版本在本地运行场景下的性能潜力，以及在资源效率、响应能力和部署便利性之间的平衡，为希望搭建个人本地 AI 工作流的读者提供清晰概览。",
+  "sections": [
+    {
+      "heading": "本地部署新选择",
+      "summary": "Inkling 2 Mini 面向本地 AI 环境推出，目标是降低部署门槛，让用户更方便地在个人设备上运行相关能力。"
+    },
+    {
+      "heading": "性能与效率兼顾",
+      "summary": "文章重点展示该版本在本地场景中的性能优势，并关注计算资源消耗、运行速度与实际使用体验之间的平衡。"
+    },
+    {
+      "heading": "适合个人工作流",
+      "summary": "对于希望在本地体验和调用 AI 功能的读者，这一版本可作为轻量化起点，文章将帮助其快速了解核心价值。"
+    }
+  ],
+  "id": "inkling2mini",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-22",
+  "hasFullText": false,
+  "generatedAt": "2026-11-23T15:23:08.924348+08:00"
+}
