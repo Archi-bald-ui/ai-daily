@@ -1,0 +1,26 @@
+{
+  "titleCn": "为什么你的微调任务耗时超过FLOPs所暗示的时间",
+  "overview": "文章围绕一个常见现象展开：模型微调的实际耗时，往往比依据FLOPs（浮点运算次数）推算出的理想时间更长。重点不在重新计算理论算力，而在于分析数据准备与加载、计算与通信等待、内存和调度等现实开销，并帮助读者理解如何判断训练瓶颈、优化资源利用率。",
+  "sections": [
+    {
+      "heading": "理论算力与真实耗时",
+      "summary": "FLOPs只能描述模型计算量的一部分，无法完整反映数据移动、算子执行效率、分布式通信、同步等待及环境初始化等时间，因此理论估算常低估端到端训练耗时。"
+    },
+    {
+      "heading": "常见隐藏开销",
+      "summary": "微调流程中的数据读取与预处理、检查点保存、进程启动和资源竞争，都可能让任务在低利用率下运行；识别这些环节，有助于区分计算瓶颈与工程瓶颈。"
+    },
+    {
+      "heading": "优化与诊断思路",
+      "summary": "文章可引导读者从吞吐量、GPU利用率、内存访问和通信重叠等角度观察训练过程，再结合配置与监控定位瓶颈，而不是只按理论FLOPs判断效率。"
+    }
+  ],
+  "id": "predicting-fine-tuning-time",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-22",
+  "hasFullText": false,
+  "generatedAt": "2026-11-23T15:23:27.045470+08:00"
+}
