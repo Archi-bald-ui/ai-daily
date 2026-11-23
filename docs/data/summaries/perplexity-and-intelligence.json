@@ -1,0 +1,26 @@
+{
+  "titleCn": "困惑度与智能",
+  "overview": "文章以“困惑度”为切口讨论智能的本质与形成机制，思考模型如何在不确定性中探索、检验假设，并逐步加强对复杂问题的理解。重点不只是预测表现，而是好奇心、求知欲与持续学习如何推动更可靠的认知能力。",
+  "sections": [
+    {
+      "heading": "从困惑度理解智能",
+      "summary": "文章将困惑度视为观察模型认知状态的一种视角，讨论面对陌生或复杂信息时，产生疑问、承认不确定性与修正判断的意义。"
+    },
+    {
+      "heading": "探索推动认知",
+      "summary": "好奇心与持续探索促使智能不断提出问题、寻找证据并更新知识，而不只是机械地给出最可能的答案。"
+    },
+    {
+      "heading": "超越表面预测",
+      "summary": "更高级的智能体现在能否利用不确定性发现方向、检验推理并形成可靠理解，单纯降低困惑度并不等同于真正获得智能。"
+    }
+  ],
+  "id": "perplexity-and-intelligence",
+  "title": "Perplexity and Intelligence",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-22",
+  "hasFullText": false,
+  "generatedAt": "2026-11-23T15:22:29.974546+08:00"
+}
