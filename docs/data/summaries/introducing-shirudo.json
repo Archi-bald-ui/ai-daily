@@ -1,0 +1,26 @@
+{
+  "titleCn": "OpenAI与思科推出Shirudo",
+  "overview": "OpenAI与网络设备厂商思科联合推出Shirudo，聚焦将OpenAI的AI能力与思科的企业网络、安全及基础设施能力结合。根据标题判断，该项目或产品旨在帮助企业更安全、便捷地部署AI应用，具体功能、技术架构与开放范围仍需以官方后续说明为准。",
+  "sections": [
+    {
+      "heading": "软硬件协同",
+      "summary": "Shirudo体现OpenAI与思科的跨领域合作，有望整合AI模型与企业网络基础设施，为企业采用生成式AI提供更完整的支持。"
+    },
+    {
+      "heading": "企业安全落地",
+      "summary": "依托思科在网络与安全领域的技术积累，Shirudo可能重点解决企业部署AI时面临的连接、防护和管理问题。"
+    },
+    {
+      "heading": "更多信息待公布",
+      "summary": "现有信息仅确认双方推出Shirudo，其具体产品形态、适用场景、发布范围及技术细节尚待官方进一步披露。"
+    }
+  ],
+  "id": "introducing-shirudo",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-23",
+  "hasFullText": false,
+  "generatedAt": "2026-11-24T17:43:38.092255+08:00"
+}
