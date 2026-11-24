@@ -1,0 +1,26 @@
+{
+  "titleCn": "更贴合你的 Google 搜索，独属于你",
+  "overview": "这篇内容介绍了 Google 搜索通过人工智能打造更个性化、更懂用户需求的搜索体验。重点在于搜索结果、回答方式与交互流程会根据用户的具体意图和偏好进行调整，让信息获取更直接、更高效，并呈现更具针对性的内容。",
+  "sections": [
+    {
+      "heading": "更懂搜索意图",
+      "summary": "Google 搜索借助 AI 理解用户真正想找什么，而不只是匹配关键词，从而提供更贴合查询意图的答案与结果。"
+    },
+    {
+      "heading": "个性化呈现",
+      "summary": "根据用户偏好和具体场景筛选、组织信息，让搜索结果更有针对性，减少用户自行筛选信息的时间与成本。"
+    },
+    {
+      "heading": "自然交互体验",
+      "summary": "以更自然的对话方式回应复杂问题，并持续结合上下文调整回答，使信息探索过程更连贯、便捷。"
+    }
+  ],
+  "id": "google-search-personal-intelligence-apps",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "source": "Google AI",
+  "category": "技术博客",
+  "date": "2026-11-23",
+  "hasFullText": false,
+  "generatedAt": "2026-11-24T17:43:18.690568+08:00"
+}
