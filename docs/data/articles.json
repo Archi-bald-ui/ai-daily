@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-23T15:22:01.538616+08:00",
+  "lastUpdated": "2026-11-24T17:42:47.820953+08:00",
   "articles": [
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
+      "category": "技术博客",
+      "date": "2026-11-23",
+      "score": 8,
+      "titleCn": "更贴合你的个性化谷歌搜索"
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-23",
+      "score": 8,
+      "titleCn": "Claude AI 现在可自行审查 PR 并推送修复"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-23",
+      "score": 8,
+      "titleCn": "Anthropic 推出 Claude Ship，让 AI 智能体审查、修复并批准代码变更"
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-23",
+      "score": 8,
+      "titleCn": "亚马逊斥资 75 亿美元收购 Decart 的 AI 优化技术，为销售 Trainium 芯片铺路"
+    },
+    {
+      "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2611.28244",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-23",
+      "score": 8,
+      "titleCn": "揭秘 Autoresearch Harness：上下文与技能如何塑造自我进化智能体"
+    },
+    {
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-23",
+      "score": 8
+    },
+    {
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "url": "https://www.qbitai.com/2026/11/512330.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-23",
+      "score": 8
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-23",
+      "score": 7,
+      "titleCn": "OpenAI 与思科推出 Shirudo"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-23",
+      "score": 7,
+      "titleCn": "RoboTrack：面向真实世界机器人操作的点跟踪"
+    },
+    {
+      "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
+      "url": "https://arxiv.org/abs/2611.28197",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-23",
+      "score": 7,
+      "titleCn": "从点云到工程模型：建筑环境中智能体三维重建的基准评测"
+    },
+    {
+      "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
+      "url": "https://arxiv.org/abs/2611.28239",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-23",
+      "score": 7,
+      "titleCn": "FinEvo：面向长时程金融建模的递归式自我改进"
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-23",
+      "score": 7
+    },
     {
       "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
       "url": "https://www.qbitai.com/2026/11/511870.html",
@@ -2668,76 +2773,6 @@
       "date": "2026-10-25",
       "score": 7,
       "titleCn": "PaperFormalizer：在 Lean 中自动形式化研究论文的作者在环方法"
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-24",
-      "score": 8,
-      "titleCn": "专化 SLM 词表可将实际应用的推理成本降低 77%"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-24",
-      "score": 7,
-      "titleCn": "OpenAI 与波兰 NASK 携手推动 AI 安全与网络安全"
-    },
-    {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-10-24",
-      "score": 7,
-      "titleCn": "Google Beam 扩展至更多地区，迎来新合作伙伴和客户"
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-24",
-      "score": 7,
-      "titleCn": "Google 称可能利用你的 Gmail 和 Google Photos 数据进行广告定向"
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-24",
-      "score": 7,
-      "titleCn": "因出版商反对 AI 抓取，Meta 推迟推出新商业条款"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-24",
-      "score": 6,
-      "titleCn": "宾夕法尼亚州将要求为 AI 生成广告添加标签"
-    },
-    {
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-24",
-      "score": 6
-    },
-    {
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-24",
-      "score": 6
     }
   ]
 }
