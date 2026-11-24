@@ -1,0 +1,26 @@
+{
+  "titleCn": "RoboTrack：面向真实世界机器人操作的目标点跟踪",
+  "overview": "文章介绍 RoboTrack，一种将点跟踪引入真实世界机器人操作的视觉方法。系统在连续图像中追踪物体或关键部位的位置，获取运动轨迹与状态变化，为抓取、搬运等操作提供更稳定、及时的反馈。其看点在于把目标点跟踪能力与机器人控制结合，增强复杂场景下操作的可感知性与鲁棒性。",
+  "sections": [
+    {
+      "heading": "从图像到运动轨迹",
+      "summary": "RoboTrack以视频帧中的关键点为观测对象，持续定位物体及其局部特征，形成随时间变化的轨迹，为机器人判断目标状态和动作结果提供依据。"
+    },
+    {
+      "heading": "服务真实环境操作",
+      "summary": "文章聚焦抓取、搬运等真实机器人任务，强调视觉点跟踪对目标识别、位姿估计和操作反馈的帮助，让系统更能适应动态环境。"
+    },
+    {
+      "heading": "点跟踪与控制结合",
+      "summary": "其核心看点不是单独识别物体，而是将稳定的跟踪信息接入操作流程，以更精细的空间信息支撑后续规划和控制。"
+    }
+  ],
+  "id": "robotrack",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-23",
+  "hasFullText": false,
+  "generatedAt": "2026-11-24T17:43:47.684832+08:00"
+}
