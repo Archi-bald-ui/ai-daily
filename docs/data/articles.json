@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-11-24T17:42:47.820953+08:00",
+  "lastUpdated": "2026-11-25T16:17:10.325272+08:00",
   "articles": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-24",
+      "score": 9,
+      "titleCn": "GPT-6模型展现出内在蛋白质设计能力"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "category": "新闻资讯",
+      "date": "2026-11-24",
+      "score": 8,
+      "titleCn": "亚马逊称，黑客的AI代理在极少人工干预下发现并利用了零日漏洞"
+    },
+    {
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-24",
+      "score": 8,
+      "titleCn": "ContextLure：利用良性对话历史实施间接提示注入"
+    },
+    {
+      "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction",
+      "url": "https://arxiv.org/abs/2611.31258",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-24",
+      "score": 8,
+      "titleCn": "RECAP：通过上下文压缩训练长时程LLM智能体"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-24",
+      "score": 7,
+      "titleCn": "iFood如何在1.5万个代码库中扩展编程智能体"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-24",
+      "score": 7,
+      "titleCn": "Microduck避障：基于Isaac Lab和Newton的Sim2Real工作流"
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-24",
+      "score": 7,
+      "titleCn": "Tidal将于下个月开始封禁AI生成音乐"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-24",
+      "score": 7,
+      "titleCn": "英伟达CEO黄仁勋回归。接下来会发生什么？"
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-24",
+      "score": 7,
+      "titleCn": "MOZAIC：用于判别真伪的音视频深度伪造基准"
+    },
     {
       "title": "A more tailored Google Search that’s uniquely yours",
       "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -2692,87 +2773,6 @@
       "category": "中文资讯",
       "date": "2026-10-26",
       "score": 7
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-25",
-      "score": 8,
-      "titleCn": "NVIDIA Kumo Relational 在关系数据上优于监督式机器学习，无需训练"
-    },
-    {
-      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "url": "https://arxiv.org/abs/2610.31916",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-25",
-      "score": 8,
-      "titleCn": "重试许可：AI 智能体工作流中的授权与恢复机制研究"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "LitPivot：通过文献情境化动态激发研究创意"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 对智能体进行后训练"
-    },
-    {
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "Google AI 搜索的变革颠覆了在线出版业"
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "杰克·多西的 Block 打造出一款像笨拙新朋友般与你聊天的 AI 模型"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "Block 的新语音模型听起来逼真得诡异"
-    },
-    {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "url": "https://arxiv.org/abs/2610.31789",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "Phronix：面向智能体的能力中心学习范式"
-    },
-    {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "url": "https://arxiv.org/abs/2610.31810",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-25",
-      "score": 7,
-      "titleCn": "PaperFormalizer：在 Lean 中自动形式化研究论文的作者在环方法"
     }
   ]
 }
