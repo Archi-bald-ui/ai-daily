@@ -1,0 +1,26 @@
+{
+  "titleCn": "iFood 如何将编程智能体扩展至 1.5 万个代码仓库",
+  "overview": "这篇 OpenAI 博客从 iFood 的实践出发，介绍如何将编程智能体推广到大规模、多仓库的研发环境。文章预计围绕任务编排、代码上下文获取、权限隔离、结果验证与持续评估展开，核心看点是如何把单次辅助编码升级为可治理、可复用的工程能力。",
+  "sections": [
+    {
+      "heading": "规模化落地路径",
+      "summary": "文章将介绍编程智能体接入日常研发流程的方法，包括仓库级任务拆分、上下文获取、并行执行和结果汇总，以支撑跨项目协作。"
+    },
+    {
+      "heading": "工程质量控制",
+      "summary": "重点关注智能体生成代码如何经过测试、审查与权限校验，并通过统一规范、失败处理和反馈闭环，降低自动化带来的质量风险。"
+    },
+    {
+      "heading": "多仓库治理",
+      "summary": "内容还涉及组织层面的可观测性、权限管理和效果衡量，帮助团队在扩大智能体覆盖范围时保持安全、可靠与可追踪。"
+    }
+  ],
+  "id": "ifood",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "url": "https://openai.com/business/customer-stories/ifood",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-24",
+  "hasFullText": false,
+  "generatedAt": "2026-11-25T16:18:40.158572+08:00"
+}
