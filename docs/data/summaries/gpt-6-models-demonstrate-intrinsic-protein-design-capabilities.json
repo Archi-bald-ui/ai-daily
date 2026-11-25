@@ -1,0 +1,26 @@
+{
+  "titleCn": "GPT-6模型展现出内在的蛋白质设计能力",
+  "overview": "OpenAI介绍GPT-6模型在蛋白质设计方面展现出的内在能力。文章聚焦模型如何理解蛋白质结构与功能关系，并尝试生成具备特定性质或用途的蛋白质方案，探讨大语言模型与生物工程结合的潜力，以及相关能力对药物研发、蛋白质工程和科学研究的意义。",
+  "sections": [
+    {
+      "heading": "从理解到设计",
+      "summary": "文章强调GPT-6并非只进行文本层面的生物知识问答，而是展现出对蛋白质序列、结构和功能之间关系的理解，并进一步支持面向目标的蛋白质设计。"
+    },
+    {
+      "heading": "能力评估",
+      "summary": "内容可能涉及模型设计与蛋白质功能之间的联系，以及如何判断生成结果是否具有实际价值，从而检验其能力边界、可靠性和改进方向。"
+    },
+    {
+      "heading": "科研应用前景",
+      "summary": "文章指出，这类能力有望把自然语言需求转化为可探索的蛋白质设计起点，为药物开发、靶点研究和新型生物分子设计提供辅助，但仍需专业验证。"
+    }
+  ],
+  "id": "gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-24",
+  "hasFullText": false,
+  "generatedAt": "2026-11-25T16:17:38.185375+08:00"
+}
