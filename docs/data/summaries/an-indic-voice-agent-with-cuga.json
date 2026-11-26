@@ -1,0 +1,26 @@
+{
+  "titleCn": "用 CUGA 构建印度语言语音智能体",
+  "overview": "文章介绍如何基于 CUGA 构建面向印度语言用户的语音智能体，将语音指令与图形界面理解、鼠标键盘操作相结合，让用户通过自然语言完成跨应用任务。重点在于提升低资源语言场景下的交互体验，并为多语言智能体设计提供参考。",
+  "sections": [
+    {
+      "heading": "语音驱动智能体",
+      "summary": "项目将印度语言语音输入接入 CUGA，使系统能够理解用户意图，并把口语化指令转化为具体的图形界面操作。"
+    },
+    {
+      "heading": "多语言交互探索",
+      "summary": "文章关注印度语言在语音识别和智能体任务中的适配，探讨兼顾语言表达差异与应用通用性的实现路径。"
+    },
+    {
+      "heading": "CUGA 能力延伸",
+      "summary": "借助 CUGA 对视觉界面和电脑操作的理解，该方案展示语音智能体从问答走向实际任务执行的可能性。"
+    }
+  ],
+  "id": "an-indic-voice-agent-with-cuga",
+  "title": "An Indic Voice Agent with CUGA",
+  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-25",
+  "hasFullText": false,
+  "generatedAt": "2026-11-26T16:03:29.698726+08:00"
+}
