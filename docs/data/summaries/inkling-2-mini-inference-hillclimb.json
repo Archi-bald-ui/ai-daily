@@ -1,0 +1,26 @@
+{
+  "titleCn": "在单张 RTX PRO 6000 上进行 Inkling 2 Mini 爬山推理",
+  "overview": "文章聚焦 Inkling 2 Mini 在单张 RTX PRO 6000 上的推理实践，探讨如何通过 hill-climbing 思路逐步寻找更优配置，并分析模型表现、显存占用与推理效率之间的权衡。其看点在于为单卡部署提供可复现的优化思路，帮助读者评估资源受限场景下的可行性与调优路径。",
+  "sections": [
+    {
+      "heading": "单卡推理实践",
+      "summary": "文章展示 Inkling 2 Mini 在单张 RTX PRO 6000 上的部署与运行过程，重点关注单卡环境中的硬件适配、运行稳定性及实际推理表现。"
+    },
+    {
+      "heading": "爬山式调优",
+      "summary": "通过 hill-climbing 思路逐步比较候选配置，寻找兼顾模型效果、资源消耗与推理效率的方案，为后续优化提供清晰的方法框架。"
+    },
+    {
+      "heading": "性能与资源权衡",
+      "summary": "分析显存占用、计算负载和推理效率之间的关系，说明如何在有限硬件条件下评估模型，并确定更适合实际应用的部署策略。"
+    }
+  ],
+  "id": "inkling-2-mini-inference-hillclimb",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-25",
+  "hasFullText": false,
+  "generatedAt": "2026-11-26T16:03:39.068353+08:00"
+}
