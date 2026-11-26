@@ -1,0 +1,26 @@
+{
+  "titleCn": "基于 Nemotron 3.5 Parse 构建：开放数据、微调与更快推理",
+  "overview": "文章介绍如何基于 Nemotron 3.5 Parse 构建文档解析与信息抽取方案，重点覆盖开放数据的使用、模型微调流程以及推理加速方法。看点在于把数据、训练与部署环节串联起来，为兼顾解析效果、定制能力和响应速度提供实践路线。",
+  "sections": [
+    {
+      "heading": "开放数据",
+      "summary": "介绍开放数据在模型训练与评测中的作用，并说明如何围绕真实文档场景准备样本、调整任务格式，为后续微调打好基础。"
+    },
+    {
+      "heading": "微调实践",
+      "summary": "梳理针对特定业务文档进行微调的关键环节，包括任务适配、数据组织和效果验证，帮助开发者提升解析结果的稳定性与准确性。"
+    },
+    {
+      "heading": "推理加速",
+      "summary": "讨论通过模型优化和部署工程缩短推理时间、提升吞吐量的思路，关注端到端使用效率，并突出快速推理的实际价值。"
+    }
+  ],
+  "id": "building-on-nemotron-35-parse-open-data-fine-tunin",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-25",
+  "hasFullText": false,
+  "generatedAt": "2026-11-26T16:02:57.760193+08:00"
+}
