@@ -1,0 +1,26 @@
+{
+  "titleCn": "群体、集群与帮派：如何构建、训练和评估多智能体系统",
+  "overview": "本文围绕多智能体系统，梳理从构建、训练到评估的完整流程，探讨如何让多个智能体在协作、竞争或组织化行为中形成类似蜂群、鸟群或群体的动态。内容适合希望了解智能体编排、协作机制、训练方法与评测框架的开发者，并强调系统设计中的沟通、协同和可控性。",
+  "sections": [
+    {
+      "heading": "多智能体系统构建",
+      "summary": "介绍构建多智能体系统的基本思路，包括角色分工、任务分解、信息交互与组织结构，并讨论如何通过合理编排让智能体形成稳定的协作关系。"
+    },
+    {
+      "heading": "群体行为与训练",
+      "summary": "分析群体、集群和帮派式组织中的协同与竞争机制，涵盖智能体如何从交互中学习，以及如何强化沟通、协调行为并应对复杂任务。"
+    },
+    {
+      "heading": "评估与系统优化",
+      "summary": "说明评估多智能体系统时需要关注的指标与维度，包括任务完成效果、协作效率、行为可控性和泛化能力，并据此改进系统设计。"
+    }
+  ],
+  "id": "training-swarms",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-26",
+  "hasFullText": false,
+  "generatedAt": "2026-11-27T16:09:06.008979+08:00"
+}
