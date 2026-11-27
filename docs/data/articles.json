@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-11-26T16:02:26.152069+08:00",
+  "lastUpdated": "2026-11-27T16:08:29.331181+08:00",
   "articles": [
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-26",
+      "score": 8,
+      "titleCn": "42名州总检察长试图阻止Character.AI出售用户聊天记录"
+    },
+    {
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-26",
+      "score": 8
+    },
+    {
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-26",
+      "score": 8
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "蜂群、群集与团伙：如何构建、训练和评估多智能体系统"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "如何构建并维护智能体评估体系"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "据报道，亚马逊正洽谈取消对Muse AI购物的屏蔽"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "英伟达暂缓向东南亚出货芯片"
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "什么、谁、何时：通过简短推理进行心理健康安全的结构化危害评估"
+    },
+    {
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "source": "arXiv cs.AI",
+      "category": "论文",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "雅可比空间中的柏拉图表示假说：语言与视觉模型在旋转意义下近似一致"
+    },
+    {
+      "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+      "url": "https://arxiv.org/abs/2611.33174",
+      "source": "arXiv cs.CL",
+      "category": "论文",
+      "date": "2026-11-26",
+      "score": 7,
+      "titleCn": "MGMem：一种高效、确定性且支持溯源的长时程智能体记忆框架"
+    },
+    {
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-26",
+      "score": 7
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-26",
+      "score": 6,
+      "titleCn": "借助Astra寻找遥远行星"
+    },
     {
       "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
       "url": "https://www.qbitai.com/2026/11/512748.html",
@@ -2668,111 +2773,6 @@
       "date": "2026-10-28",
       "score": 7,
       "titleCn": "别选赢家：知识冲突需要先验，而非规则"
-    },
-    {
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "url": "https://www.qbitai.com/2026/10/505551.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-27",
-      "score": 10
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "Retell借助OpenAI模型支撑每月1亿次通话"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "OpenAI扩大与Oracle合作，将应用接入ChatGPT"
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI",
-      "category": "技术博客",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "我们的全新AI探索：绘制人脑地图"
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "研究人员受够了OpenAI对突破性成果的管控"
-    },
-    {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "谷歌下一代Genie AI模型生成更逼真的体验"
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "OpenAI宣布三项重大科学发现及与学术界合作的新方式"
-    },
-    {
-      "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2610.36013",
-      "source": "arXiv cs.CL",
-      "category": "论文",
-      "date": "2026-10-27",
-      "score": 8,
-      "titleCn": "OmniBrain-0：面向具身智能的统一智能体模型"
-    },
-    {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-27",
-      "score": 7,
-      "titleCn": "Trinity：面向多模态智能体的能力驱动型递归自我改进"
-    },
-    {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "url": "https://arxiv.org/abs/2610.36116",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-27",
-      "score": 7,
-      "titleCn": "当AI更擅长科学研究时，人为何及该如何做科学：基于人类理解与引导的框架"
-    },
-    {
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "url": "https://www.qbitai.com/2026/10/505529.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-27",
-      "score": 7
-    },
-    {
-      "title": "NeoLab第一个商业模式：转售GPU",
-      "url": "https://www.qbitai.com/2026/10/505478.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-27",
-      "score": 6
     }
   ]
 }
