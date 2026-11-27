@@ -1,0 +1,26 @@
+{
+  "titleCn": "如何构建并维护智能体评估",
+  "overview": "本文探讨如何为智能体系统设计并持续维护一套可靠的评估体系，涵盖评估目标的设定、测试任务的构建、结果分析与迭代优化等环节。重点在于让评估能够反映智能体的真实能力，并适应模型、工具和任务环境的变化。",
+  "sections": [
+    {
+      "heading": "明确评估目标",
+      "summary": "先定义需要衡量的智能体能力与使用场景，将评估目标转化为可观察、可比较的任务和评价标准。"
+    },
+    {
+      "heading": "构建评估流程",
+      "summary": "设计测试用例、执行方式与结果判定机制，通过系统化测试考察任务完成情况，并识别模型或工具调用中的问题。"
+    },
+    {
+      "heading": "持续维护体系",
+      "summary": "随着模型、数据和应用需求变化更新评估任务与标准，定期复核评估结果，避免体系失效或偏离实际需求。"
+    }
+  ],
+  "id": "agentic-evals",
+  "title": "How to build and maintain an agentic evaluation",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-26",
+  "hasFullText": false,
+  "generatedAt": "2026-11-27T16:09:13.638683+08:00"
+}
