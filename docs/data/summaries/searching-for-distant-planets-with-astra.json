@@ -1,0 +1,26 @@
+{
+  "titleCn": "使用 Astra 寻找遥远行星",
+  "overview": "文章介绍如何借助 Astra 这一人工智能工具辅助寻找遥远行星，探索其在天文观测、候选信号筛选与科研协作中的潜力。重点是将复杂数据处理与科学推理结合，帮助研究人员从海量信息中缩小搜索范围，推动行星发现流程更加高效。",
+  "sections": [
+    {
+      "heading": "Astra 的天文应用",
+      "summary": "文章概述 Astra 面向遥远行星搜寻的任务设定，说明人工智能如何参与观测数据分析、候选目标筛选及研究假设生成。"
+    },
+    {
+      "heading": "从数据到候选行星",
+      "summary": "重点介绍 Astra 处理复杂天文数据并定位潜在信号的价值，同时强调模型结论仍需由专业人员结合观测证据加以验证。"
+    },
+    {
+      "heading": "人机协同的科研意义",
+      "summary": "文章指出，这类工具的意义不只在加速搜索，也在于辅助科学家形成假设、比较线索，从而拓展行星研究的效率与思路。"
+    }
+  ],
+  "id": "searching-for-distant-planets-with-astra",
+  "title": "Searching for distant planets with Astra",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-26",
+  "hasFullText": false,
+  "generatedAt": "2026-11-27T16:10:06.030302+08:00"
+}
