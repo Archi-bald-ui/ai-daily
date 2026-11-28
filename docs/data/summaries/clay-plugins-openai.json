@@ -1,0 +1,26 @@
+{
+  "titleCn": "Clay助力销售团队借助Codex和ChatGPT赢得胜利",
+  "overview": "文章介绍 Clay 如何将 Codex 与 ChatGPT 融入销售工作流，帮助团队更高效地研究客户、整理信息、生成个性化内容并推进外联。其看点在于把通用 AI 能力嵌入实际销售场景，以协作和自动化提升团队产出，同时为销售人员提供更可执行的决策支持。",
+  "sections": [
+    {
+      "heading": "AI驱动销售流程",
+      "summary": "Clay可将Codex与ChatGPT的能力接入销售流程，帮助团队减少重复操作，把时间集中在客户理解、沟通准备与关键决策上。"
+    },
+    {
+      "heading": "研究与内容生产",
+      "summary": "借助AI，团队能够更快梳理客户背景、提炼线索并生成个性化外联内容，同时保持信息质量和表达一致性。"
+    },
+    {
+      "heading": "团队协作与增长",
+      "summary": "文章看点不只是展示AI对话，而是强调其与Clay工作平台的结合，为销售协作、流程自动化及持续增长提供可落地的路径。"
+    }
+  ],
+  "id": "clay-plugins-openai",
+  "title": "Clay helps sales teams win with Codex and ChatGPT",
+  "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "source": "OpenAI",
+  "category": "技术博客",
+  "date": "2026-11-27",
+  "hasFullText": false,
+  "generatedAt": "2026-11-28T15:34:45.228293+08:00"
+}
