@@ -1,0 +1,26 @@
+{
+  "titleCn": "科学家如何划定AI智能体的边界",
+  "overview": "文章聚焦科学家如何看待并界定AI智能体的能力与使用边界，讨论自主行动、可靠性、安全风险及人类监督等问题。其看点在于呈现不同研究立场，梳理技术能力与责任约束之间的张力，帮助读者理解AI智能体何时应“放手”、何时必须“设限”。",
+  "sections": [
+    {
+      "heading": "自主能力边界",
+      "summary": "文章围绕AI智能体的自主程度、可解释性、可靠性与安全风险展开，区分辅助工具与自主代理在责任归属上的差异。"
+    },
+    {
+      "heading": "科学界分歧",
+      "summary": "不同科学家对智能体应否在受控环境中自主行动存在分歧，关键争点包括决策透明度、失误后果及人类监督的必要性。"
+    },
+    {
+      "heading": "治理框架意义",
+      "summary": "文章的亮点不是给出单一结论，而是呈现边界划分所依赖的原则，帮助读者理解技术能力、伦理要求与应用限制之间的关系。"
+    }
+  ],
+  "id": "where-scientists-draw-the-line-on-ai-agents",
+  "title": "Where scientists draw the line on AI agents",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "source": "HuggingFace",
+  "category": "技术博客",
+  "date": "2026-11-27",
+  "hasFullText": false,
+  "generatedAt": "2026-11-28T15:34:33.697328+08:00"
+}
