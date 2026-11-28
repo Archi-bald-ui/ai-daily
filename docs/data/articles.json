@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-11-27T16:08:29.331181+08:00",
+  "lastUpdated": "2026-11-28T15:33:50.009660+08:00",
   "articles": [
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-27",
+      "score": 8,
+      "titleCn": "让 Trainium3 上赛道：用 LTX-2.5 生成视频"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "HuggingFace",
+      "category": "技术博客",
+      "date": "2026-11-27",
+      "score": 7,
+      "titleCn": "科学家在 AI 智能体问题上划定边界"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-27",
+      "score": 7,
+      "titleCn": "标普考虑因治理及“关键人物”风险下调 Nvidia 信用评级"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "category": "新闻资讯",
+      "date": "2026-11-27",
+      "score": 7,
+      "titleCn": "州总检察长质疑 Character.AI 拍卖用户私人聊天记录的方案"
+    },
+    {
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-27",
+      "score": 7
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "category": "技术博客",
+      "date": "2026-11-27",
+      "score": 6,
+      "titleCn": "Clay 助力销售团队借助 Codex 和 ChatGPT 赢得胜利"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge AI",
+      "category": "新闻资讯",
+      "date": "2026-11-27",
+      "score": 6,
+      "titleCn": "氛围编程是否让开源成为合成器的新常态？"
+    },
+    {
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "url": "https://www.qbitai.com/2026/11/513305.html",
+      "source": "量子位",
+      "category": "中文资讯",
+      "date": "2026-11-27",
+      "score": 6
+    },
     {
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
@@ -2668,111 +2738,6 @@
       "category": "中文资讯",
       "date": "2026-10-29",
       "score": 7
-    },
-    {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source": "The Verge AI",
-      "category": "新闻资讯",
-      "date": "2026-10-28",
-      "score": 9,
-      "titleCn": "Google 发布 Gemini 4 Carbon，网络安全能力显著跃升"
-    },
-    {
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-28",
-      "score": 9
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-28",
-      "score": 8,
-      "titleCn": "使用 LFM3 构建专用多模态模型"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-28",
-      "score": 8,
-      "titleCn": "微软从 OpenAI 获得 100 亿美元收入"
-    },
-    {
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-28",
-      "score": 8
-    },
-    {
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "source": "量子位",
-      "category": "中文资讯",
-      "date": "2026-10-28",
-      "score": 8
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI",
-      "category": "技术博客",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "OpenAI 与 ServiceNow 扩大企业工作流合作"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "HuggingFace",
-      "category": "技术博客",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：可通过提示词控制和适配的智能多语言转录技术"
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch AI",
-      "category": "新闻资讯",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "微软公布 Azure 实际营收：332 亿美元"
-    },
-    {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "url": "https://arxiv.org/abs/2610.36100",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "CohortFlow：具备本地化语义校正的可控临床队列筛选智能体"
-    },
-    {
-      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "url": "https://arxiv.org/abs/2610.36146",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "从结构化反馈到提示词策略：学习忠实的文生图提示词编辑器"
-    },
-    {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "source": "arXiv cs.AI",
-      "category": "论文",
-      "date": "2026-10-28",
-      "score": 7,
-      "titleCn": "别选赢家：知识冲突需要先验，而非规则"
     }
   ]
 }
